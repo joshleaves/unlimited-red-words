@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Trails in the Sky SC Evolution"
 date: 2023-04-19 03:22:31 +0200
 category: 🎮 Jeux vidéos
-tags: ["🇯🇵 Japon", "★★★★★ Best", "Year 2015"]
+tags: ["🇯🇵 Japon", "★★★★★ Best", "An 2015"]
 media_subpath: /assets/images
 image:
   path: 2023-05-09-trails-sky-sc-evo.png

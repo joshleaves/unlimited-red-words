@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Trails in the Sky the 3rd Evolution"
 date: 2023-06-05 08:59:49 +0200
 category: 🎮 Jeux vidéos
-tags: ["🇯🇵 Japon", "★★★★☆ Good", "Year 2016"]
+tags: ["🇯🇵 Japon", "★★★★☆ Good", "An 2016"]
 media_subpath: /assets/images
 image:
   path: 2023-06-05-trails-sky-3rd-evo.png

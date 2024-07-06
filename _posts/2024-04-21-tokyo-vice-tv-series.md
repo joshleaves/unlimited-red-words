@@ -3,7 +3,7 @@ layout: post
 title:  "📺 Tokyo Vice (La série TV)"
 date: 2024-04-21 22:14:03 +0200
 category: 📺 Série TV
-tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "Year 2022"]
+tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "An 2022"]
 media_subpath: /assets/images
 image:
   path: 2024-04-21-tokyo-vice-tv.webp

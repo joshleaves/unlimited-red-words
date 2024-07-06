@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Tokyo Vice (Le livre)"
 date: 2024-05-03 16:00:00 +0200
 category: 📚 Littérature
-tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "Year 2010"]
+tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "An 2010"]
 media_subpath: /assets/images
 image:
   path: 2025-05-03-large_couv-tokyo-vice-HEADER-test-1024x751-1430334924-1430334935-c4d5ca2a-407b-4038-9565-56a6ae2113d3.png

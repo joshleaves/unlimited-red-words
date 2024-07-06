@@ -3,7 +3,7 @@ layout: post
 title:  "🎬 Mobile Suit Gundam SEED Freedom"
 date: 2024-04-27 16:00:00 +0200
 category: 🎬 Cinéma
-tags: ["🇯🇵 Japon", "★★★★☆ Good", "Year 2024"]
+tags: ["🇯🇵 Japon", "★★★★☆ Good", "An 2024"]
 media_subpath: /assets/images
 image:
   path: 2024-04-27-Mobile-Suit-Gundam-SEED.jpg
