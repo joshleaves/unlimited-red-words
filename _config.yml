@@ -14,8 +14,12 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Red reads # the main title
-tagline: (And other things) # it will display as the sub-title
+title: Unlimited Red Words # the main title
+tagline: >- # it will display as the sub-title
+  Ainsi<br />
+  Sur un réseau dénuée de sens<br />
+  Ce blog était sûrement<br />
+  Fait de mots<br />
 
 description: >- # used by seo meta and the atom feed
   Je me remets à lire, autant me remettre à écrire aussi
