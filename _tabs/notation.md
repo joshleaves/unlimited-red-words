@@ -24,7 +24,7 @@ Par exemple, **Panique Celtique** de *Manau*.
 
 Vu que je ne note que la musique que je garde dans ma librairie, cette catégorie est peu remplie.
 
-### ★☆☆☆☆ Bad
+### [★☆☆☆☆ Bad](/tags/bad/)
 > "Cet album est foncièrement mauvais."
 
-Cette catégorie est vide dans ma librairie musicale.
+Cette catégorie est vide dans ma librairie musicale. Elle ne l'est malheureusement pas ici...
