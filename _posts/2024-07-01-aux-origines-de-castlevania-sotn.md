@@ -18,7 +18,7 @@ J'ai de lointains souvenirs de choses apprises à l'école primaire que je n'ai 
 
 Ce paragraphe vous a paru insipide? Décousu? Bourré d'anecodes inintéressantes et sans aucun lien avec ce que vous vous attendiez à lire?
 
-Vous comprenez à présent ce que j'ai ressenti lors de la lecture des DEUX-CENT-CINQUANTE-TROIS-PAGES de ce livre. J'avais déjà dépassé le premier tiers que je devais encore sauter des pages entières car désolé, mais je m'intéresse à la série de jeux **Castlevania**, et notamment à **Symphony of the Night**, qui représente un mix d'éléments qui a pu marquer l'industrie par la suite, je n'ai AUCUNE envie d'avoir le récit complet d'une soirée entre Mary Shelley et Lord Byron qui mènera à la création du mythe du vampire après discussion d'un poème interdit par la bienséance victorienne de l'époque.
+Vous comprenez à présent ce que j'ai ressenti lors de la lecture des DEUX-CENT-CINQUANTE-TROIS-PAGES de ce livre. J'avais déjà dépassé le premier tiers que je devais encore sauter des pages entières car désolé, mais je m'intéresse à la série de jeux **Castlevania**, et notamment à **Symphony of the Night**, qui représente un mix d'éléments qui a pu marquer l'industrie par la suite, je n'ai AUCUNE envie d'avoir le récit complet d'une soirée entre *Mary Shelley* et *Lord Byron* qui mènera à la création du mythe du vampire après discussion d'un poème interdit par la bienséance victorienne de l'époque.
 
 # Ce livre vous ment
 
@@ -31,13 +31,13 @@ Ces deux phrases lâchées en plein milieu d'une pages? L'auteur répète cette 
 
 # Aux origines du mal
 
-Je n'irais pas par quatre chemins: j'ai détesté ce livre. J'ai sauté des pages entières, et il finira vite sur une plate-forme de revente en ligne. Le seul bienfait que l'existence de ce livre a pu apporter dans ma vie est lorsque j'ai essayé de véhiculer à ma mère ma haine viscèrale envers ces pages. Sa seule réponse a été une question:
+Je n'irais pas par quatre chemins: j'ai détesté ce livre. J'ai sauté des pages entières, et il finira vite sur une plate-forme de revente en ligne. Le seul bienfait que l'existence de ce livre a pu apporter dans ma vie est lorsque j'ai essayé de véhiculer à ma mère ma haine viscérale envers ces pages. Sa seule réponse a été une question:
 
 > "Mais, tu n'as pas pu regarder dans les avis sur Internet, pour savoir si le livre était bien?"   
-> — Ma mère, qui ignore qu'entre journalistes de JV, ça se soutient dans les avis
+> — Ma mère, qui ignore qu'entre journalistes/écrivains, ça se soutient dans les avis
 
 Et bien voila: la nullité de ce livre est une des principales raisons d'exister de ce blog.
 
 * * *
-[^1]: Il est de notoriété publique aujourd'hui que **Symphony of the Night** cache en réalité une seconde partie qui n'est révélée au joueur que si il suit une quête un peu obscure.
-[^2]: Pour justifier que le personnage principal suive aveuglèment les quêtes que l'on lui donne, certains jeux révèlent que leur personnage principal est en réalité manipulé par une instance supérieure, qui vont généralement le trahir par la suite.
+[^1]: Il est de notoriété publique aujourd'hui que **Symphony of the Night** cache une seconde partie qui n'est révélée au joueur que si il suit une quête un peu obscure nécessitant de porter des "Holy glasses" pour voir le véritable antagoniste et éviter la mauvaise fin.
+[^2]: Pour justifier que le personnage principal suive aveuglèment les quêtes que l'on lui donne, certains jeux révèlent que leur personnage principal est en réalité manipulé par une instance supérieure, qui va généralement le trahir par la suite.
