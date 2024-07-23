@@ -3,11 +3,11 @@ layout: post
 title:  "📺 Walker"
 date: 2024-07-06 22:14:03 +0200
 category: 📺 Série TV
-tags: ["🇯🇵 USA", "★★★☆☆ Okay", "An 2021"]
+tags: ["🇺🇸 USA", "★★★☆☆ Okay", "An 2021"]
 media_subpath: /assets/images
 image:
   path: 2024-07-06-walker-tv.jpg
-country: JP
+country: US
 rating: 3
 release_date: 2021-01-21
 ---
