@@ -32,11 +32,11 @@ Si le jeu est présenté comme "un immense donjon", ce qui n'est pas faux, il pr
 
 Les personnages qui reviennent étaient déjà fortemment développés, et les retrouver pour en découvrir plus sur eux, et leurs interactions, est toujours un plaisir. Même les anciens ennemis devenus alliés gagnent en profondeur.
 
-Des trois jeux, c'est celui que j'ai pris le plus de plaisir à refaire en mode cauchemar, plus encore vu le niveau de certains de mes personnages dont l'un pouvait agir indéfiniment sans laisser le temps de réagir au boss caché.
+Des trois jeux, c'est celui que j'ai pris le plus de plaisir à refaire en difficulté "Nightmare", plus encore vu le niveau de certains de mes personnages dont l'un pouvait agir indéfiniment sans laisser le temps de réagir au boss caché.
 
 # La suite
 
-Une fois la trilogie Liberl terminée, ma plus grande tristesse est de savoir que je vais quitter ces personnages et qu'ils passeront au second plan dans la suite de la saga. Heureusement, j'ai été assez spoilé pour savoir que je retrouverais Estelle et Joshua dans **Trails From Zero**.
+Une fois la trilogie Liberl terminée, ma plus grande tristesse est de savoir que je vais quitter ces personnages et qu'ils passeront au second plan dans la suite de la saga. Heureusement, j'ai été assez spoilé pour savoir que je retrouverais Estelle et Joshua dans [**Trails From Zero**](/posts/trails-zero).
 
 
 * * *

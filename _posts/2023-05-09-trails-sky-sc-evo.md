@@ -22,7 +22,7 @@ Les deux chapitres ne sont clairement pas égaux, ni en taille ni en ambition: I
 
 # Le corps
 
-Le premier jeu restait très ancré dans une fantaisie "réaliste", et le plus gros élément fantastique auquel le joueur était confronté était le boss final: un robot issu des temps anciens, retrouvé dans les ruines que cachait le chateau du royaume de Liberl. Ici, il n'y a plus de limites à l'ambition du scénario: quatorze personnages jouables[^2], de nouveaux ennemis, un dragon qui parle, et la composante majeure du propos de la série des **Trails**: des technologies anciennes et oubliées, que les nouveaux ennemis  veulent utiliser pour mener leurs sombres desseins.
+Le premier jeu restait très ancré dans une fantaisie "réaliste", et le plus gros élément fantastique auquel le joueur était confronté était le boss final: un robot issu des temps anciens, retrouvé dans les ruines que cachait le chateau du royaume de Liberl. Ici, il n'y a plus de limites à l'ambition du scénario: quatorze personnages jouables[^2], de nouveaux antagonistes, un dragon qui parle, et la composante majeure du propos de la série des **Trails**: des technologies anciennes, oubliées et convoitées par le groupe *Ouroboros* pour de sombres desseins.
 
 # Le coeur
 

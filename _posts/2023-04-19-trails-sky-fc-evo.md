@@ -46,7 +46,7 @@ La boucle de gameplay est très reposante. Le jeu se découpe en chapitres, un p
 
 Le système de combat, quand à lui, est très permissif et fun à maîtriser. Certaines particularités, comme le délai lors de l'utilisation de magies, sont surprenantes, mais on s'y habitue vite en général, et même les combats de mobs (que l'on voit sur la carte, et que l'on peut éviter) deviennent plaisants à jouer.
 
-Preuve ultime du plaisir qui émane du jeu, j'ai dû le finir deux fois pour avoir le trophée platine: une fois en normal, puis un **New Game+** en difficulté "cauchemar". En dehors de **Chrono Trigger**, qui est mon RPG de coeur, c'est l'une des rares fois que je refais un RPG. Plus encore, là où **Chrono Trigger** ne dure qu'une dizaine d'heures, **Trails FC** nécessite près d'une cinquantaine d'heures pour voir sa fin.
+Preuve ultime du plaisir qui émane du jeu, j'ai dû le finir deux fois pour avoir le trophée platine: une fois en normal, puis un **New Game+** en difficulté "Nightmare". En dehors de **Chrono Trigger**, qui est mon RPG de coeur, c'est l'une des rares fois que je refais un RPG. Plus encore, là où **Chrono Trigger** ne dure qu'une dizaine d'heures, **Trails FC** nécessite près d'une cinquantaine d'heures pour voir sa fin.
 
 # La suite
 
