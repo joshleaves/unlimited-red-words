@@ -39,7 +39,6 @@ Au final, HBO a annoncé que la série était annulée après deux saisons. Bien
 Si vous désirez voir un Tokyo que l'on a peu l'occasion de voir, la série Tokyo Vice est une très bonne alternative au livre.
 
 * * *
-
 [^1]: [<i class="fab fa-instagram"></i> tokyovice](https://www.instagram.com/tokyovice/)
 [^2]: [<i class="fab fa-apple"></i> The Evaporated: Gone with the Gods](https://podcasts.apple.com/us/podcast/evaporated-gone-with-the-gods/id1721239147)
 [^3]: Ken Watanabe et Rinko Kikuchi font presque figure d'OVNIs, mais leur popularité dans des films Hollywoodiens a dû jouer dans leur casting.

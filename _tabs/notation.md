@@ -19,7 +19,7 @@ Par exemple, **Hybrid Theory** de *Linkin Park*.
 
 Par exemple, **Panique Celtique** de *Manau*.
 
-### ★★☆☆☆ Meh
+### [★★☆☆☆ Meh](/tags/meh/)
 > "Cet album n'est pas très bon."
 
 Vu que je ne note que la musique que je garde dans ma librairie, cette catégorie est peu remplie.
