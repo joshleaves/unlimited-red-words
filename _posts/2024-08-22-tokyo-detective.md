@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Tokyo Detective"
 date: 2024-08-02 16:00:00 +0200
 category: 📚 Littérature
-tags: ["🇯🇵 Japon", "★★☆☆☆ Meh", "An 223"]
+tags: ["🇯🇵 Japon", "★★☆☆☆ Meh", "An 2023"]
 media_subpath: /assets/images
 image:
   path: 2024-08-02-tokyo-detective.png
