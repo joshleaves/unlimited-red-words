@@ -8,7 +8,7 @@ media_subpath: /assets/images
 image:
   path: 2024-08-02-trails-azure.jpg
 country: JP
-rating: 4
+rating: 5
 release_date: 2023-03-14
 ---
 
