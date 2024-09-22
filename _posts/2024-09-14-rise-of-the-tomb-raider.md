@@ -40,7 +40,6 @@ Je pourrais parler plus longtemps, mais au final, est-ce que cette image ne dit 
 
 Cette Lara n'est toujours pas "ma Lara", mais je n'ai pas la mauvaise foi de prétendre que je n'ai pas aimé ce jeu.
 
-
 * * * 
 [^1]: Pour les curieux, [voici le tweet](https://x.com/mightykeef/status/1828519121828372792).
 [^2]: Un MacBook Pro M2 Pro avec 32GB de RAM.
