@@ -33,9 +33,6 @@ jobs:
         with:
           ruby-version: 3.3
           bundler-cache: true
-      # - name: Setup Pages
-      #   id: pages
-      #   uses: actions/configure-pages@v4
       - name: Build blog
         run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
         env:
@@ -53,19 +50,3 @@ jobs:
           projectName: 'unlimited-red-words' # e.g. 'my-project'
           directory: '_site' # e.g. 'dist'
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-
-  #     - name: Upload site artifact
-  #       uses: actions/upload-pages-artifact@v3
-  #       with:
-  #         path: "_site${{ steps.pages.outputs.base_path }}"
-
-  # deploy:
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.page_url }}
-  #   runs-on: ubuntu-latest
-  #   needs: build
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v4
