@@ -13,3 +13,12 @@
 .is-collapsed {
   max-height: none !important;
 }
+
+#topbar-wrapper {
+  position: sticky;
+  top: 0;
+  background: linear-gradient(
+    180deg,
+    var(--main-bg) 75%,
+    var(--topbar-bg) 100%);
+}
