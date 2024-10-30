@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 The Legend of Heroes: Trails of Cold Steel"
 date: 2024-08-21 17:42:00 +0200
 category: 🎮 Jeux vidéos
-tags: ["🇯🇵 Japon", "★★★★☆ Good"]
+tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
   path: 2024-08-21-trails-of-cold-steel.jpg
@@ -14,7 +14,7 @@ release_date: 2013-09-26
 
 Avant même d'y jouer, je voulais détester ce jeu, vraiment.
 
-# L'héritage
+## L'héritage
 
 Lorsque la série des **Trails Of** passe de la PSP à la PS3, des changements s'opèrent, et pas que pour la région. Nous sommes cette fois en Erebonia, un empire guerrier et militaire qui a donné du fil à retordre à nos héros lors des deux précédentes saga.
 
@@ -22,13 +22,13 @@ L'ancien moteur de jeu, où un monde 3D permettait à des sprites en 2D de se d�
 
 Les personnages sont désormais des adolescents, au nombre de neuf, et vont tous graviter autour du héros comme dans un harem manga. Et puis oubliez les anciennes régions: à part quelques personnages originaires d'Erebonia, aucun "ancien" ne reviendra pointer le bout de son nez de toute l'aventure[^1].
 
-# Le corps
+## Le corps
 
 Le rythme de jeu opère cette fois comme un mix entre celui de [Sky FC](/posts/trails-sky-fc-evo/) pour l'aspect "un nouveau chapitre, une ville diffèrente", et de la [duologie](/posts/trails-zero/) [Crossbell](/posts/trails-azure) pour le calendrier et la concentration sur une base centrale (ici, une académie militaire) où nos héros passent leur temps entre les chapitres. Là encore, l'aventure n'est plus exactement une ligne droite temporelle mais "une sélection de jours importants dans l'année scolaire" et chacun des sept chapitres du jeu permettra à Rean, le personnage principal, de se rapprocher de ses camarades, avant d'embarquer avec certains d'entre eux dans différentes régions du pays pour des exercices pratiques.
 
 Lors de ces séquences, le scénario forcera cette classe de neuf élèves à se séparer en deux équipes, chacune voyageant dans une région différente, ce qui permettra à Rean (et au joueur) de se rapprocher différemment de ses camarades. Bien que j'adore cette explication scénaristique, qui plus est car les personnages évoquent toujours les évènements de ces "aventures injouables", j'ai l'impression que la série perd son focus initial sur un cast entier (même si l'ont peut reconnaître que Estelle et Lloyd sont les personnages principaux des sagas Sky et Crossbell) pour ne plus s'intéresser qu'à UN personnage, qui d'ailleurs fera remarquer qu'il est étrange qu'il soit le seul à alterner de groupe lors des excursions de terrain...
 
-# Le coeur
+## Le coeur
 
 neuf personnages se dévoilent vite: un héros au grand coeur, qui rencontre une fille qui va rougir en sa présence et lui gueuler dessus en permanence et être jalouse mais pas trop, une fille de militaire digne, une ex-mercenaire, un roturier (...fils du maire de la capitale), qui sera vite en froid avec le noble de super-super-bonne-famille, un campagnard, un pacifiste,... Et Rean pourra se rapprocher de chacun d'eux, jusqu'à choisir qui il invitera au bal du lycée. Et bien sur, tous ont des secrets fous: "En fait je suis la fille de la principale compagnie d'armement, en fait je suis le fils du militaire le plus décore du pays,... C'est vraiment trop habituel pour moi, et ça me paraissait déjà ennuyeux, et puis... la magie des **Trails Of*** a fait effet...
 
@@ -44,7 +44,7 @@ Ce chapitre voit enfin Laura prendre les choses en mains et dire à Fie ses grie
 
 Et à partir de là, les personnages m'ont tous subjugué, et les archétypes que je trouvais "faciles" ou "fainéants" jusque-là ont disparu de mes pensées pour que je me concentre uniquement sur le plaisir de voir ces personnages interagir entre eux.
 
-# La suite
+## La suite
 
 Bien évidemment, j'ai tellement aimé que cette fois aussi, j'ai fait le jeu une seconde fois en difficulté "Nightmare"...
 

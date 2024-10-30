@@ -1,0 +1,20 @@
+<div class="card categories">
+  <!-- top-category -->
+  <div id="h_0" class="card-header d-flex justify-content-between hide-border-bottom">
+    <span class="ms-2">
+      {% assign rating_obj = site.ratings | find: "rating", include.rating %}
+      <a href="{{ rating_obj.url }}" class="mx-2">{{ rating_obj.title }}</a>
+
+      <!-- content count -->
+    
+      <span class="text-muted small font-weight-light">
+        {{ site.posts | where:"rating", include.rating | size }} posts
+      </span>
+    </span>
+
+    <!-- arrow -->
+      <span data-bs-toggle="collapse" class="category-trigger hide-border-bottom disabled">
+        <i class="fas fa-fw fa-angle-right"></i>
+      </span>
+  </div>
+</div>

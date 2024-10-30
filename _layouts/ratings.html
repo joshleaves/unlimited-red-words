@@ -1,0 +1,41 @@
+---
+layout: page
+# All the Ratings of posts
+---
+
+<p>
+  J'utilise un système de notation hérité de celui que j'utilise pour trier ma musique:
+</p>
+
+{% include rating-list.html rating=5 %}
+
+<blockquote>
+  <p>“Cet album est un chef-d’oeuvre, je peux l’écouter en boucle des heures”</p>
+</blockquote>
+<p>Par exemple, <strong>Loveless</strong> de <em>My Bloody Valentine</em>.</p>
+
+{% include rating-list.html rating=4 %}
+
+<blockquote>
+  <p>“Très bon album que j'aime beaucoup, mais il n'est pas la perfection.”</p>
+</blockquote>
+<p>Par exemple, <strong>Hybrid Theory</strong> de <em>Linkin Park</em>.</p>
+
+{% include rating-list.html rating=3 %}
+<blockquote>
+  <p>“Un bon album, bien produit, ne changera pas l'histoire, mais j'aime l'écouter.”</p>
+</blockquote>
+<p>Par exemple, <strong>Panique Celtique</strong> de <em>Manau</em>.</p>
+
+
+{% include rating-list.html rating=2 %}
+<blockquote>
+  <p>“Cet album n'est pas très bon.”</p>
+</blockquote>
+<p>Vu que je ne note que la musique que je garde dans ma librairie, cette catégorie est peu remplie.</p>
+
+{% include rating-list.html rating=1 %}
+<blockquote>
+  <p>“Cet album est foncièrement mauvais.”</p>
+</blockquote>
+<p>Cette catégorie est vide dans ma librairie musicale. Elle ne l'est malheureusement pas ici...</p>

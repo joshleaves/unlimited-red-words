@@ -1,0 +1,11 @@
+<span class="post-country" country-value="{{ include.country | downcase }}">
+  {% case include.country %}
+  {% when 'FR' %}
+      🇫🇷 France
+    {% when 'JP' %}
+      🇯🇵 Japon
+    {% when 'US' %}
+      🇺🇸 United States
+    {% else %}
+  {% endcase %}
+</span>

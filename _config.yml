@@ -171,6 +171,9 @@ collections:
   tabs:
     output: true
     sort_by: order
+  ratings:
+    output: true
+    sort_by: order
 
 defaults:
   - scope:

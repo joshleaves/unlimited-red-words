@@ -10,6 +10,10 @@ layout: page
 {% assign posts_by_rd = site.posts | sort: "release_date" | reverse %}
 
 <div id="archives" class="pl-xl-3">
+  <p>
+    Il peut être utile de remettre les oeuvres dans leur contexte historique, aussi ai-je construit cette vue.
+  </p>
+
   {% for post in posts_by_rd %}
     {% assign cur_year = post.release_date | date: '%Y' %}
 

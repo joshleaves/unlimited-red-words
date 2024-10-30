@@ -3,7 +3,7 @@ layout: post
 title:  "🎬 Détective Conan: L'étoile à 1 Million de Dollars"
 date: 2024-06-28 18:00:00 +0200
 category: 🎬 Cinéma
-tags: ["🇯🇵 Japon", "★★★★☆ Good", "An 2024"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024-06-28-detective-conan-m27.jpg
@@ -18,7 +18,7 @@ Leur qualité est très variable: certains sont juste prétexte à une enquête 
 
 Nous en sommes donc au 27ème film: Heiji et Kaito Kid seront au coeur de l'intrigue, et celle-ci se situera à Hakodate, une ville d'Hokkaido.
 
-# Le détective et le voleur
+## Le détective et le voleur
 
 Issu d'une oeuvre de jeunesse de Aoyama Gosho, le personnage de Kaito Kid a vite fait irruption dans l'univers de Conan. Initialement en tant que simple caméo, il est vite devenu un personnage à part entière de l'univers du manga, étant mis en déroute plusieurs fois par le détective (et toujours dans le cadre d'un meurtre commis par une tierce personne), et a même été un élément décisif dans certains arcs narratifs importants.
 
@@ -28,7 +28,7 @@ Si la réponse au premier mystère peut être deviné en même temps que Conan (
 
 Au final, le film reste agréable bien que prévisible, le climax sera encore centré sur une Ran en danger sauvée in extremis par notre petit détective dans un déluge de feux d'artifices, et la seule surprise viendra de la présence du seul personnage qui n'était pas annoncé par la promo du film.
 
-# C'est ça ce qu'on appelle le multiverse?
+## C'est ça ce qu'on appelle le multiverse?
 
 Comme chaque film, celui-ci vient encore briser le record de recettes du précédent: la présence de Kaito Kid, un favori des fans, a clairement joué dans cette équation. Plus surprenant en revanche, celui-ci, habituellement seulement accompagné du "Javert" de sa série, est cette fois accompagné de la fille de ce dernier, laquelle est représentée exactement comme Ran, tant l'auteur a recyclé son design...
 

@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Shadow of the Tomb Raider"
 date: 2024-09-21 19:30:00 +0200
 category: 🎮 Jeux vidéos
-tags: ["🇺🇸 USA", "★★☆☆☆ Meh", "An 2015"]
+tags: ["🎮 Tomb Raider: Survivor"]
 media_subpath: /assets/images
 image:
   path: 2024-09-21-shadow-of-the-tomb-raider.jpg
@@ -16,7 +16,7 @@ Mine de rien, j'avais beaucoup apprécié [**Rise**](/posts/rise-of-the-tomb-rai
 
 Il n'en était rien, et à la manière de bien des trilogies[^1], le premier épisode était une base solide proposant de nouvelles choses, le seconde épisode évoluait de ces bases pour proposer une formule polie et aboutie, et le troisième tentait de pousser tous les potards à fond, rendant le tout difficile à supporter. L'édition Française, que j'appréciais jouer jusque-là, a d'ailleurs changé de doubleuse, donnant à Lara une voix bien trop grave à mon gout, et si insupportable, que j'ai dû repasser le jeu en VO...
 
-# Vraiment pas ma Lara
+## Vraiment pas ma Lara
 
 Au bout d'une heure de jeu, Lara a déjà devancé les méchants du jour au premier tombeau, et a récupéré l'un des deux artefacts McGuffins  du jeu sous leur nez, pour se le faire prendre une minute plus tard.
 
@@ -24,7 +24,7 @@ Ce genre de séquences est un classique du genre depuis Indiana Jones[^2], et m�
 
 Le reste du jeu sera dans la même veine: Lara continuera dans son espèce d'auto-flagellation de culpabilité (un sujet qui traîne le premier jeu et n'a vraiment plus sa place ici). Puis une courte séquence d'énigmes prendra place avec une Lara-enfant qui fait le deuil de ses parents (un sujet...du jeu précédent).
 
-# Mais qui est Lara?
+## Mais qui est Lara?
 
 En me relisant et en réfléchissant à Lara, j'admets qu'en effet la Lara originale, malgré sa personnalité, manquait peut-être de "contexte" ou de "contenu", ou bien était-ce un produit des jeux de l'époque, qui ne volaient pas le temps du joueur pour l'investir dans des *cutscenes* trop longues et pas toujours utiles? Les films avec Angelina Jolie avaient réussi à garder la Lara de la série originale en terme de personnalités, mais avaient tous dû ajouter des personnages: le premier faisait du père de Lara une figure de fond (une idée reprise dans tous les reboots), et lui donnait un sidekick informaticien (une idée reprise dans le premier reboot), le second lui donnait un ex-love interest (une idée déjà utilisée dans le comic-book et trop vite évacuée à mon gout). Peut-être le premier reboot était-il la formule "définitive" que j'attendais, en dépit de la médiocrité objective de ses deux derniers épisodes.
 
@@ -36,7 +36,7 @@ Cet épisode reprend l'idée, et j'ai souri de voir que les costumes "Angel of D
 
 Pitié! Je n'ai pas besoin que Lara décime le village au M16 (et il y a assez de mercenaires et de sauvages agressifs pour ça), mais je ne joue pas à Tomb Raider pour avoir des quêtes aussi contraignantes que dans un Final Fantasy...
 
-# Plus beau, plus grand, plus fort
+## Plus beau, plus grand, plus fort
 
 Au bout de ma première heure de jeu, j'ai aussi réalisé que le jeu avait tenté de noyer Lara à trois reprises, mais qu'aucun sol ne s'était dérobé sous ses pieds. Enfin! Le fétiche sur les multiples chutes de Lara a disparu[^3], remplacé par un fétiche sur...la noyade. L'eau était presque absente du premier épisode, et gardait un aspect "plat" dans Rise, mais là, elle prend une vraie profondeur, paraissant presque TROP présente par moments.
 
@@ -44,7 +44,7 @@ Pire encore, elle n'apparaît parfois que comme un "différent type de couloir",
 
 Le combat change aussi. Pendant une grosse partie du jeu, j'ai pris plaisir à rester caché, reprenant mes meilleurs souvenirs de joueur de Metal Gear Solid, en me demandant si Lara pouvait être une "ombre" tout le long du jeu. Certaines scènes sont plus compliquées si l'on désire rester totalement caché, mais même découverte, Lara dispose toujours de moyen de retourner se cacher si le joueur parvient à se dérober de la vue des adversaires suffisamment longtemps. Cette addition est bienvenue, et j'ai pris beaucoup de plaisir (et de frustration!) à recommencer certains checkpoints pour être sûr d'éliminer tous les ennemis sans qu'aucun ne puisse apercevoir Lara. Malheureusement, le jeu m'a vite relancé face à des vagues d'ennemis que j'ai pris beaucoup de plaisir à éliminer au fusil à pompe, mais qui m'ont vite fatigué par leur quantité.
 
-# Toujours aussi...plaisant?
+## Toujours aussi...plaisant?
 
 ![Tout complet!](2024-09-21-completed.png){: w="300" h="100" }
 

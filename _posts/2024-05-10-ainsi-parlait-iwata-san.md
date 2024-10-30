@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Ainsi parlait Iwata-San"
 date: 2024-05-10 16:00:00 +0200
 category: 📚 Littérature
-tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "An 2021"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024-05-10-ainsi-parlait-iwata-san.webp

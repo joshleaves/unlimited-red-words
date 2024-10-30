@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 The Legend of Heroes: Trails to Azure"
 date: 2024-08-02 21:00:00 +0200
 category: 🎮 Jeux vidéos
-tags: ["🇯🇵 Japon", "★★★★★ Best"]
+tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
   path: 2024-08-02-trails-azure.jpg
@@ -14,19 +14,19 @@ release_date: 2023-03-14
 
 Tout comme un [livre nul](/posts/aux-origines-de-castlevania-sotn/) m'a donné envie d'écrire pour m'épancher sur le dégoût qu'il m'a inspiré, à l'opposé, un jeu m'a donné envie d'écrire pour partager tout le plaisir qu'il m'a donné... Plus encore, la quantité de sentiments qu'il m'a inspirés était si dense qu'écrire était le seul moyen à ma disposition pour mettre de l'ordre dans mes pensées.
 
-# L'héritage
+## L'héritage
 
 Sans grande surprise, ce jeu reprend [Zero](/posts/trails-zero/) de la même manière que [Sky Second Chapter](/posts/trails-sky-sc-evo/) reprenait [Sky First Chapter](/posts/trails-sky-fc-evo/), étant à la fois une suite et une amélioration. Là où SC se déroulait littérallement 20 minutes après FC, nous avons cette fois une ellipse de plusieurs mois et la première heure de jeu nous mettra en présence d'une équipe différente de celle que nous avions quittée à la fin du précédent jeu, chacun des camarades de Lloyd effectuant un stage dans un coin différent. Tous reviendrons vite, mais cela nous donne l'occasion de découvrir les deux nouvelles recrues du SSS, qui étaient des personnages secondaires que nous avions déjà croisés dans le précédent jeu: *Noel*, une membre de la force d'auto-défense locale, qui vient en stage, et *Wazy*, ex-gérant de bar, ex-chef de gang, vendeur d'informations de l'ombre, et spoiler sur pattes.
 
 Lorsque la SSS investit ses quartiers dans **Zero**, leur immeuble compte un rez-de-chaussée qui sert de lieu de vie/travail (salon d'accueil, cuisine, terminal informatique, et bureau du dircteur), ainsi que deux étages de quatre pièces chacun. Le premier étage est réservé aux hommes: deux pièces serviront de chambres à Lloyd et Randy, la troisième est un débarras non-accessible, et la quatrième est la chambre du directeur. Le second étage est réservé aux femmes: deux pièces servent de chambres à Elie et Tio, et les deux dernières pièces sont encore des débarras non-accessibles. Dans le premier chapitre de Zero, ces trois pièces vides interrogent le joueur baladeur, qui conclura vite qu'elles ne sont là que pour donner une illusion de "vivant" au jeu. Dans le troisième chapitre de **Zero**, la jeune *KeA* est adoptée par la SSS et elle prend donc résidence dans la quatrième chambre du second étage, mais je n'ai plus ressenti le besoin de me questionner sur les troisièmes chambres de chaque étage. A la fin du prologue de **Azure**, les deux nouveaux membres du SSS prennent leurs quartiers dans les troisièmes chambres... A ce moment-là, j'ai compris que tous les éléments qui pouvaient sembler n'être que des "hasards" étaient tous mûrement réfléchis par Falcom.
 
-# Le corps
+## Le corps
 
 Etudier le rapport entre **FC** et **SC** est très révélateur du rapport entre **Zero** et **Azure**: si les chapitres **FC** et **Zero** étaient plutôt des évènements épars liés par thème aux machinations des antagonistes, donnant presque l'impression que nos héros tombaient par accident sur celles-ci, à l'opposée, dans **SC** et **Azure**, les situations et évènements s'enchaînent sans pauses: chaque situation découle de la précédente, et les moments forts pleuvent dans un rythme qui pourra parfois sembler indigeste, et empêche ce jeu d'atteindre la perfection.
 
 La boucle de gameplay reste assez plaisante pour que je me sois lancé dans une seconde partie en difficulté "Nightmare", mais cette seconde aventure, aussi plaisante fût-elle, n'a pas effacé les défauts de rythmes du titre: à chaque chapitre, l'aventure tape encore plus fort, les enjeux sont encore plus importants,... Le jeu ne se (re)pose jamais. Même lors du chapitre d'entract où nos héros profitent d'un repos mérité à la station balnéaire, ils sont interrompus par le retour des antagonistes majeurs de **SC**, ainsi qu'un combat de boss. Autre exemple: l'équipe du SSS obtient au premier chapitre une voiture de fonction, qui améliore (pour le joueur) les déplacements enre les différents lieux de Crossbell. Celle-ci peut être customisée moyennant finances, et...devient inaccessible passée la moitié de l'aventure, vite remplacée par un autre moyen de locomotion.
 
-# Le coeur
+## Le coeur
 
 Tout comme le cast de **SC** était conséquent, celui de **Azure** ne fait pas dans la demi-mesure non plus. En plus des huit personnages jouables, les groupes antagonistes se multiplient et s'allient différemment à chaque chapitre, et les visages connus de la trilogie Liberl font leur retour, aussi bien amicaux qu'ennemis.
 
@@ -34,13 +34,13 @@ Les amis surtout, sont plus nombreux, mais prennent de la distance. *Kloe*, *Jul
 
 Les ennemis ne sont pas en reste. Au moins cinq groupes s'opposent à nos héros, tous dans des degrés d'antagonismes différents, avec des associations et des trahisons très surprenantes, mais que le jeu permettra à un joueur attentif de prédire par lui-même[^3]. Même en difficulté "Normale", au moins trois combats sur la fin du jeu ne peuvent pas être gagnés sans un niveau très élevé, renforçant l'impression de se confronter constamment à un mur insurmontable, jusqu'à ce que la détermination de nos héros leur permette de surmonter la barrière[^4].
 
-# L'évolution
+## L'évolution
 
 Etant déjà au courant de ce que deviendra le gameplay du prochain jeu, cet opus m'apparaît comme la culmination de la formule **Trails**. Le système de combat gagne de nouveaux systèmes qui donnent à celui-ci une profondeur de customisation qui ne sera plus jamais égalée. L'animation n'est pas en reste et la formule "décors-en-3D-persos-en-2D" se trouve à son apogée[^5]: les personnages sautent autour de la map, se battent contre des robots géants,... nous sommes loin des petits saynètes du premier jeu et les animateurs de chez *Falcom* maîtrisent leur art.
 
 Malheureusement, la mécanique de rapprochement entre les personnages, que j'avais pu apprécier dans l'opus précédent, prend cette fois une dimension qui me déplait: en permettant au joueur de rapprocher *Lloyd* du personnage de son choix (sept!), au final, il ne se rapproche canoniquement de personne et l'on sait donc qu'aucune relation sérieuse ne sera conservée dans les futurs jeux...
 
-# La suite
+## La suite
 
 J'ai déjà essayé par le passé de lancer **Cold Steel I** et **Cold Steel II**, les prochains jeux de la série, afin de les tester sur ma PS3 et...j'avoue être inquiet. Le passage à la 3D, le changement de beaucoup de mécaniques du système de combat, le changement de cast et la taille de celui-ci, l'accent mis sur les relations qu'il appartient au joueur de modeler est une mécanique de jeu/storytelling que je déteste,...
 

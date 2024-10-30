@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Human Machine"
 date: 2024-06-27 16:00:00 +0200
 category: 📚 Littérature
-tags: ["🇫🇷 France", "★★★☆☆ Okay"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024-06-27-human-machine.jpg
@@ -16,13 +16,13 @@ J'ai eu la chance de travailler pour [Jean de la Rochebrochard](https://2lr.subs
 
 Jusqu'au jour où il a sorti un bouquin pour transmettre sa technique au commun des mortels.
 
-# L'homme est une machine comme une autre
+## L'homme est une machine comme une autre
 
 La réponse se veut simple: Jean a commencé par reconnaître son incapacité à équilibrer tout cela. Plutôt que de s'embourber dans une fuite en avant que nous connaissons (à peu près) tous, il a analysé sa manière d'aborder les évènements qui composaient sa vie, afin de définir ses manquements et leurs origines, puis mettre en place des règles pour s'astreindre à un fonctionnement optimal.
 
 Suite à cela, le reste du livre décrira surtout des méthodes et exemples de comportements que chacun peut mettre en place pour faciliter la communication au travail, optimiser certains comportements relationnels où les excès de politesse nous empêchent de dire "non", mais surtout, travailler sur "la peur de décevoir l'interlocuteur" qui nous pousse souvent à tout accepter n'importe comment, et nous entraîne dans des gestions chaotiques de notre temps.
 
-# Les machines sont toutes Turing-complete[^2]
+## Les machines sont toutes Turing-complete[^2]
 
 Ayant passé un temps non négligeable en thérapies ces dernières années, j'y ai vite retrouvé des méthodes similaires à celles que mes thérapeuthes ont pu m'enseigner pour faire face au stress ou aux situations imprévues.
 

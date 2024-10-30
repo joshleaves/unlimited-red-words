@@ -1,0 +1,15 @@
+---
+---
+
+
+{%- if jekyll.environment == 'production' -%}
+@import 'main.bundle';
+{%- else -%}
+@import 'main';
+{%- endif -%}
+
+/* append your custom style below */
+
+.is-collapsed {
+  max-height: none !important;
+}

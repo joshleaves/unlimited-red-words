@@ -3,7 +3,7 @@ layout: post
 title:  "📺 Tokyo Vice (La série TV)"
 date: 2024-04-21 22:14:03 +0200
 category: 📺 Série TV
-tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "An 2022"]
+tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images
 image:
   path: 2024-04-21-tokyo-vice-tv.webp
@@ -18,7 +18,7 @@ Je followe Jake Adelstein sur Instagram[^1] depuis déjà quelques années, mais
 
 Après avoir écouté le podcast **The Evaporated**[^2], et au vu de la quantité de pubs pour la saison 2 de Tokyo Vice sur Canal+, je me suis enfin décidé à me lancer dans Tokyo Vice en suivant en parallèle la série télé, et [le livre](/posts/tokyo-vice-book).
 
-# "Dans le coeur de Tokyo, j'ai des sursauts"
+## "Dans le coeur de Tokyo, j'ai des sursauts"
 
 Ce qui saute au premier coup d'oeil, c'est la qualité. On voit de suite que HBO est aux manettes: la série ne lésine pas sur les décors, et le casting est rempli d'acteurs au jeu de qualité, sans qu'ils ne soient des sur-stars[^3]. Après cinq ans loin de mon pays de coeur, revoir ses ruelles et ses bars fumeux m'a de suite mis au coeur de l'ambiance d'un Tokyo qui existait alors que je n'avais même pas commencé à étudier le japonais[^4].
 
@@ -26,13 +26,13 @@ Contrairement au livre, les intrigues se centrent désormais sur un triumvirat d
 
 Certains subplots de la saison 2 sont un peu anecdotiques et l'on sent que la série aurait pu couper et tenir sur une seule saison, mais au final, tous ces subplots apportent des visions supplémentaires du Japon lorsque le pays préparait son passage dans le nouveau millénaire.
 
-# "Furansugo jouzu, Jake-san"
+## "Furansugo jouzu, Jake-san"
 
 Le jeu d'Ansel Elgort est très bon: on sent l'évolution du personnage qui débute comme nous, un poisson hors de l'eau, qui découvre des codes inconnus, mais va vite les assimiler jusqu'à devenir un acteur à part entière de cet univers de la nuit. Pour avoir écouté quelques moments en VO, son utilisation Japonais est très correcte et ne se limite pas à répéter phonétiquement des phrases. A défaut d'avoir étudié le Japonais dix ans, l'acteur a clairement pris quelques leçons de Japonais lui permettant de savoir où placer ses émotions.
 
 En France, nous avons eu la chance que Canal+ prenne les droits de la série. La chaîne a pris le parti de ne pas doubler les dialogues en Japonais et les garder sous-titrés. L'adaptation Française ne m'a donc pas paru prendre trop de libertés sur l'anglais, ni tenter d'édulcolorer certains termes Japonais utilisés en anglais. 
 
-# Voir Tokyo et mourir
+## Voir Tokyo et mourir
 
 Au final, HBO a annoncé que la série était annulée après deux saisons. Bien que beaucoup de voix ont décrié ce choix, il m'apparaît pour ma part...logique. Si la première saison termine dans un cliffhanger digne d'un chapitre de One Piece, la saison 2 arrive à correctement clôre tous les mystères lancés depuis le tout premier épisode.
 

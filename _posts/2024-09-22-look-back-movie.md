@@ -3,7 +3,7 @@ layout: post
 title:  "🎬 Look Back (Le Film)"
 date: 2024-09-22 19:25:00 +0200
 category: 🎬 Cinéma
-tags: ["🇯🇵 Japon", "★★★☆☆ Okay", "An 2024"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024-09-22-look-back.png
@@ -14,7 +14,7 @@ release_date: 2024-06-28
 
 Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de l'incendie criminel des locaux de Kyoto Animation deux ans auparavant[^2], et les lecteurs fûrent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.
 
-# Le manga
+## Le manga
 
 Si *Tatsuki Fujimoto* s'est fait connaître pour **Chainsaw Man**, dont le succès (mérité) a enflammé la planète, ici, il n'est plus question de pouvoirs, de démons,... L'auteur se défait de ces vêtements d'apparat et revient à la réalité. Le manga s'ouvre sur une salle de classe banale, où une enfant, Ayumu **Fuji**no, dessine des gags en quatre cases[^3] pour le journal de l'école. Son professeur lui demande l'autorisation pour donner la moitié de la place de sa page à une élève recluse[^4]: Kyo**moto**. Avec arrogance, Fujino accepte: qu'est-ce qu'une recluse pourrait dessiner d'aussi bien qu'elle, si elle n'a même pas la force de venir à l'école? Les prouesses en dessin de l'élève recluse mèneront les deux élèves à former un duo de dessinatrice et publier leurs premiers mangas, jusqu'à ce que l'éditeur leur propose une série régulière. Tandis que Fujino acceptera, Kyomoto préférera aller en école d'art[^5], afin de parfaire sa contribution au duo, mettant temporairement fin à leur collaboration.
 
@@ -22,7 +22,7 @@ Quelques temps après, le drame éclatera: Kyomoto fait partie des victimes d'un
 
 Dans un autre univers, une Kyomoto encore enfant et sur le point de rencontrer Fujino voit apparaître sous sa porte un bout de papier qui l'enjoint à ne pas sortir. Surprise, et sans le contexte du gag original, elle suit l'ordre intimé par le papier, et rate sa rencontre avec Fujino, avortant l'existence de leur duo, et mettant les deux filles sur des chemins différents.
 
-# Le manga, toujours
+## Le manga, toujours
 
 Je pourrais écrire la suite de l'histoire, mais c'est généralement à partir de ces pages que je me mets à pleurer. Aussi, j'encourage tout le monde à lire **Look Back** pour découvrir par eux-mêmes les multiples beautés de cette oeuvre.
 
@@ -32,7 +32,7 @@ Dès sa sortie, le manga est encensé par tous: les lecteurs, les pairs de Fujim
 
 Quelques mois après, ce court one-shot devient a droit à une sortie physique, et une adaptation cinématographique est annoncée dans la foulée.
 
-# Moyen after all
+## Moyen after all
 
 Le film est...moyen.
 

@@ -77,13 +77,17 @@ refactor: true
 
             <div class="post-meta flex-grow-1 d-flex align-items-end">
               <div class="me-auto">
-                <!-- note -->
-                {% include rating.html rating=post.rating %}
+                <!-- rating -->
+                {% include post-rating.html rating=post.rating %}
+                <!-- country -->
+                <i class="far fa-empty fa-fw me-1"></i>
+                {% include post-country.html country=post.country %}
 
                 <!-- posted date -->
                 <i class="far fa-calendar fa-fw me-1"></i>
                 {% include datetime.html date=post.date lang=lang %}
 
+                
                 <!-- categories -->
                 <!-- {% if post.categories.size > 0 %}
                   <i class="far fa-folder-open fa-fw me-1"></i>

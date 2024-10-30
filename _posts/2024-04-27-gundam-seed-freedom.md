@@ -3,7 +3,7 @@ layout: post
 title:  "🎬 Mobile Suit Gundam SEED Freedom"
 date: 2024-04-27 16:00:00 +0200
 category: 🎬 Cinéma
-tags: ["🇯🇵 Japon", "★★★★☆ Good", "An 2024"]
+tags: ["Mobile Suit Gundam"]
 media_subpath: /assets/images
 image:
   path: 2024-04-27-gundam-seed-freedom.jpg
@@ -16,7 +16,7 @@ release_date: 2024-01-26
 
 Vingt ans après la fin de **Gundam SEED Destiny**[^1], l'univers de **Gundam SEED** connaît enfin une suite. Un projet avait déjà été annoncé à l'époque, mais avait fini en *development hell*, si bien que lorsque le revival du projet a été annoncé il y a de cela quelques années, la tendance est resté au scepticisme. Au final, le film est arrivé, et CGR a même permis sa diffusion en France.
 
-# Cosmique ère
+## Cosmique ère
 
 Lorsque **Gundam SEED**[^2] arrive en 2002, la série se veut comme un remake de la toute première série **Gundam: on y retrouve la même opposition entre Terre et Colonies spatiales, les mêmes quantités de crimes de guerre et de xénophobie de chaque côté, et toujours au centre, un adolescent propulsé dans un robot et beaucoup de personnages qui n'ont jamais voulu de cette guerre. Pourtant, la série reflète aussi les peurs de son époque: les Newtypes de la série originale, des humains adaptés à la vie hors gravité, sont remplacés par les Coordinateurs, des humains presque parfaits mis au monde par des manipulations génétiques.
 
@@ -24,19 +24,19 @@ Même si elle suit le schéma classique "espace->descente sur terre->nouveau rob
 
 Deux ans plus tard, la série sera gratifiée d'une suite, **Gundam SEED Destiny**. Comme pour la suite de la première série **Gundam**, le personnage principal sera un nouvel arrivant, et les anciens personnages en resteront au rôle de mentors. Malheureusement, le développement chaotique de la série mettra ces plans en échec, et la série restera dans les mémoires comme un échec.
 
-# Gundam en Film
+## Gundam en Film
 
 N'ayant que peu de patience pour suivre les 49 épisodes qui composent généralement les séries Gundam, j'ai toujours apprécié revoir les remontages[^4] cinématographiques[^5] de Gundam SEED[^6] (Ani-Kraze à jamais dans mon coeur), qui arrivaient en trois films à résumer l'intrigue de la série de manière essentielle. Toutefois, chaque film fonctionnant en tandem avec les autres, je m'inquiétais de découvrir un opus Gundam où l'intrigue se limiterait à deux heures, et les récents films **Gundam Narrative** et **Hathaway's Flash** m'avaient tous deux laissés un gout amer dans la bouche...
 
 Au final, il n'en est rien. Le film fait certains choix, comme ne pas s'attarder à re-présenter un à un tous les personnages, afin de gagner du temps, et l'enchainement des évènements se fait de manière cohérente. Si le scénario contient malheureusement des idées très questionnables, comme une énième arrivée d'ennemis qui existent depuis toujours, mais que l'on avait pas vu avant aujourd'hui, ou le retour du retour des milices de la branche raciste de l'armée terreste (qui en est donc à la troisième annhihilation de son chef suprême).
 
-# Gundam Sex
+## Gundam Sex
 
 Le personnage principal de l'univers SEED, Kira, a souvent été surnommé Kira "Jesus" Yamato par les fans, du fait non seulement de sa toute-puissance au combat, de l'air détaché qu'il garde en toutes circonstances, mais aussi de la relation très chaste que l'on a pu (peu) le voir entretenir avec sa fiancée, Lacus. Dans ce film, enfin, cette image s'étiole et le personnage retrouve enfin la substance qu'il avait perdue depuis longtemps!
 
 Les trailers qui teasaient Lacus dans les bras d'un autre homme renforçaient chez certains l'idée que Kira, le héros peu viril, allait enfin perdre cette femme qu'il ne méritait pas à leurs yeux. Il n'en est rien. La relation entre les deux personnages est approfondie, et le message initial de SEED revient: il faut communiquer. Les autres personnages ne sont pas en reste, et l'amour redevient à nouveau un moteur principal pour tous les combattants, et leur sexualité à tous est confirmée tour à tour, dans une démarche surprenante, pour une franchise qui jusque-là était si prude pour décrire les sentiments, et plus encore la sexualité[^7], de ses personnages.
 
-# Gundam à la licorne
+## Gundam à la licorne
 
 Même s'il est peu recommandé pour des néophytes de l'univers, **Gundam SEED Freedom** saura satisfaire tous les fans de l'univers.
 
