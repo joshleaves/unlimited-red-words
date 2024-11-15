@@ -1,7 +1,6 @@
 ---
 ---
 
-
 {%- if jekyll.environment == 'production' -%}
 @import 'main.bundle';
 {%- else -%}
