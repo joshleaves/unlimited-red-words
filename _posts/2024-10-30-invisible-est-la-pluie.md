@@ -24,7 +24,7 @@ Cette fois-ci, l'enquête est presque plus sordide. De l'inceste, du meurtre, de
 
 Nul part, c'est aussi là où va la relation entre la lieutenante et son second. Il est si effacé par l'intrigue que j'en ai déjà oublié son nom, tout comme Reiko a sûrement oublié qu'elle a passé le temps entre deux livres (donc...entre un et trois ans?) à ne pas avancer sa relation avec lui. Si je voulais des relations qui n'avancent pas, je lirais *Rent-a-Girlfriend*[^1]!
 
-Et comme instauré depuis [le premier livre](/posts/rouge-est-la-nuit/), chaque section s'ouvre par un court chapitre du point de vue du meurtrier. Ils sont cette fois au nombre de SIX, ce qui est déjà énorme, mais ils s'avèrent en plustrès ennuyeux tant leur espacement se fait de manière de plus en plus insistante...
+Et comme instauré depuis [le premier livre](/posts/rouge-est-la-nuit/), chaque section s'ouvre par un court chapitre du point de vue du meurtrier. Ils sont cette fois au nombre de SIX, ce qui est déjà énorme, mais ils s'avèrent en plus très ennuyeux tant leur espacement se fait de manière de plus en plus insistante...
 
 ## Invisible
 
