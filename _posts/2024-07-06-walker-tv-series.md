@@ -22,7 +22,7 @@ L'intrigue repose autour de Cordell Walker, un ranger endeuillé après le meurt
 
 Composante majeure de la série: le décor. Des Stetsons, des chevaux, des ranchs, des pickups,... Pas de doute. On est au Texas. Parfois, on se sent comme dans un album de Lucky Luke et on a envie de dégainer son six-coups pour rejoindre nos héros. Je ne sais pas si c'est le lieu ou la série qui veut ça, mais tout respire l'hospitalité, l'amitié, l'amour de l'autre,... Tout le monde est accepté à la table familiale des Walker. Même si les personnages issus de minorités se font assez rares au milieu de cette famille très blanche, Cordell a un frère homosexuel, son ex-partenaire-devenu-supérieur est métis, sa partenaire est hispanique,... et sans une remarque de sa part sur la discrimination qu'elle a subi dans sa carrière du fait de son genre et ses origines, plus rien ne transparaîtra jamais de la discrimination qui existe dans le Texas du monde réel. 
 
-Étrangement, la seule ombre de ce tableau parfait, la haine de la famille Walker, ce ne sera jamais l'étranger, mais celui qu'ils connaissent: la rivalité avec la famille voisine, les Davidson, mettra en lumière la part de ténèbre de tous ces personnages.
+Étrangement, la seule ombre de ce tableau parfait, la haine de la famille Walker, ce ne sera jamais l'étranger, mais celui qu'ils connaissent: la rivalité avec la famille voisine, les Davidson, mettra en lumière la part de ténèbres de tous ces personnages.
 
 ## Ranger(s)
 

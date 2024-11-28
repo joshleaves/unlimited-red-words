@@ -26,7 +26,7 @@ Parfois, la quantité de personnages peut mener à se perdre, notamment entre la
 
 En France, et plus particulièrement en Provence, nous avons la chance d'avoir des nuits fraîches, et même en journée, le Mistral et la présence de la mer à proximité laissent dans l'air une fraicheur constante.
 
-Au Japon, au contraire, l'air est souvent étouffant en été. Ce livre se déroule en Aout et la chaleur y est assez évoquée pour que la seule lecture de ce livre me fasse voyager: lire le récit de ces jours d'été qui passent a réveillé en moi le souvenir de plusieurs soirées passées avec des amis à boire des bières extra-fraiches en sillonant les rues de Tokyo...
+Au Japon, au contraire, l'air est souvent étouffant en été. Ce livre se déroule en Aout et la chaleur y est assez évoquée pour que la seule lecture de ce livre me fasse voyager: lire le récit de ces jours d'été qui passent a réveillé en moi le souvenir de plusieurs soirées passées avec des amis à boire des bières extra-fraiches en sillonnant les rues de Tokyo...
 
 ## Saga
 

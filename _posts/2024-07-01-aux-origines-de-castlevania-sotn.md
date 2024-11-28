@@ -16,7 +16,7 @@ release_date: 2020-09-24
 
 J'ai de lointains souvenirs de choses apprises à l'école primaire que je n'ai jamais désapprises proprement. Par exemple, que l'an zéro représentait l'invention de l'écriture. Une recherche rapide sur Google m'indique pourtant que l'écriture prédate la naissance du Christ d'environ 60 siècles, soit environ trois fois le nombre d'années écoulées depuis la mort de celui-ci. Je n'irais pas jusqu'à la seconde page des résultats Google, contrairement à un livre, qui lui aussi utilisé l'écriture pour véhiculer ses idées, il ne faut jamais avancer trop de pages dans Google sous peine de s'éloigner des informations que l'on recherche. J'apprends vite que l'écriture vient de l'ancienne région de Sumer, celle-là même dont viennent les Sumériens qui sont prêts à croiser le fer contre la tribu de Dana. Peut-être que seul le peuple qui avait inventé l'écriture pouvait voyager jusqu'en Bretagne et devenir immortalisé à son tour par l'écriture près de 8000 ans plus tard.
 
-Ce paragraphe vous a paru insipide? Décousu? Bourré d'anecodes inintéressantes et sans aucun lien avec ce que vous vous attendiez à lire?
+Ce paragraphe vous a paru insipide? Décousu? Bourré d'anecdotes inintéressantes et sans aucun lien avec ce que vous vous attendiez à lire?
 
 Vous comprenez à présent ce que j'ai ressenti lors de la lecture des DEUX-CENT-CINQUANTE-TROIS-PAGES de ce livre. J'avais déjà dépassé le premier tiers que je devais encore sauter des pages entières car désolé, mais je m'intéresse à la série de jeux **Castlevania**, et notamment à **Symphony of the Night**, qui représente un mix d'éléments qui a pu marquer l'industrie par la suite, je n'ai AUCUNE envie d'avoir le récit complet d'une soirée entre *Mary Shelley* et *Lord Byron* qui mènera à la création du mythe du vampire après discussion d'un poème interdit par la bienséance victorienne de l'époque.
 
@@ -40,4 +40,4 @@ Et bien voila: la nullité de ce livre est une des principales raisons d'exister
 
 * * *
 [^1]: Il est de notoriété publique aujourd'hui que **Symphony of the Night** cache une seconde partie qui n'est révélée au joueur que si il suit une quête un peu obscure nécessitant de porter des "Holy glasses" pour voir le véritable antagoniste et éviter la mauvaise fin.
-[^2]: Pour justifier que le personnage principal suive aveuglèment les quêtes que l'on lui donne, certains jeux révèlent que leur personnage principal est en réalité manipulé par une instance supérieure, qui va généralement le trahir par la suite.
+[^2]: Pour justifier que le personnage principal suive aveuglément les quêtes que l'on lui donne, certains jeux révèlent que leur personnage principal est en réalité manipulé par une instance supérieure, qui va généralement le trahir par la suite.

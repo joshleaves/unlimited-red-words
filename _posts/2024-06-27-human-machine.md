@@ -24,7 +24,7 @@ Suite à cela, le reste du livre décrira surtout des méthodes et exemples de c
 
 ## Les machines sont toutes Turing-complete[^2]
 
-Ayant passé un temps non négligeable en thérapies ces dernières années, j'y ai vite retrouvé des méthodes similaires à celles que mes thérapeuthes ont pu m'enseigner pour faire face au stress ou aux situations imprévues.
+Ayant passé un temps non négligeable en thérapies ces dernières années, j'y ai vite retrouvé des méthodes similaires à celles que mes thérapeutes ont pu m'enseigner pour faire face au stress ou aux situations imprévues.
 
 De même, si vous avez déjà fait le tour de plusieurs classiques de la littérature de développement personnel[^3], vous retrouverez probablement vous aussi des concepts que vous avez déjà pu voir ailleurs présentés sous des angles différents et plus à même de vous convenir, j'y ai par exemple reconnu des concepts déjà vus dans **Atomic Habits**[^4].
 

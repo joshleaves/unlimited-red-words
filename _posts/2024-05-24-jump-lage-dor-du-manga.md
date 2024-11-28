@@ -18,7 +18,7 @@ release_date: 2019-07-04
 > 
 > Devenu rédacteur en chef du Shônen Jump durant la fin des années 80, période considérée par beaucoup comme " l'âge d'or du manga " au Japon, il nous livre ici un témoignage inestimable sur les coulisses du manga, ainsi que les secrets de création d'œuvres aussi cultes qu'inoubliables.
 
-En 2019, la maison d'éditon Kurokawa[^1] publiait ce livre sur les dessous du Jump, mais prenant en plus le soin d'inviter son auteur à la Japan Expo pour une séance de dédicaces. Grand amateur du travail de la maison d'édition[^2], j'ai profité de l'évènement pour m'y rendre, obtenir l'ouvrage, et le faire dédicacer. Moins de ans après (à quelques jours), je pouvais enfin le lire.
+En 2019, la maison d'édition Kurokawa[^1] publiait ce livre sur les dessous du Jump, mais prenant en plus le soin d'inviter son auteur à la Japan Expo pour une séance de dédicaces. Grand amateur du travail de la maison d'édition[^2], j'ai profité de l'évènement pour m'y rendre, obtenir l'ouvrage, et le faire dédicacer. Moins de ans après (à quelques jours), je pouvais enfin le lire.
 
 ## Le système du Jump est le meilleur car c'est le nôtre
 
@@ -26,7 +26,7 @@ C'est souvent par ces mots que qu'est décrit le système d'édition du Jump. Si
 
 Dans le monde de la BD franco-belge, généralement, la maison d'édition passera une commande pour la publication d'un volume entier (ou plusieurs d'avance pour une série), soit une cinquantaine de pages, en couleur, et contenant (en général) une seule histoire, puis, selon les ventes, validera ou non une suite.
 
-Dans le monde du manga, un artiste (aidé de ses assistants) dessine un chapitre de manière hebdomadaire ou mensuelle, qui est pré-publié dans un magazine (le Jump a un rythme hebdomadaire), et ces chapitres seront compilés plus tard (selon le succès) dans un volume relié. Mais la commande n'est pas passée "au voulme": chaque semaine, toutes les histoires publiées dans le Jump (oui, même **One Piece** qui est "premier" depuis bientôt 20 ans) remettent en jeu leur titre. Chaque semaine, les lecteurs (et uniquement eux) du magazine répondent par sondage pour indiquer leurs séries préférée. Celles qui peinent à susciter l'engouement sont vite annulées, tandis qu'on déroule le tapis rouge pour les stars: couverture du magazine, pages en couleurs, plus de pages,... C'est dans ce contexte que chaque chapitre doit accrocher le lecteur, sans temps mort.
+Dans le monde du manga, un artiste (aidé de ses assistants) dessine un chapitre de manière hebdomadaire ou mensuelle, qui est pré-publié dans un magazine (le Jump a un rythme hebdomadaire), et ces chapitres seront compilés plus tard (selon le succès) dans un volume relié. Mais la commande n'est pas passée "au volume": chaque semaine, toutes les histoires publiées dans le Jump (oui, même **One Piece** qui est "premier" depuis bientôt 20 ans) remettent en jeu leur titre. Chaque semaine, les lecteurs (et uniquement eux) du magazine répondent par sondage pour indiquer leurs séries préférée. Celles qui peinent à susciter l'engouement sont vite annulées, tandis qu'on déroule le tapis rouge pour les stars: couverture du magazine, pages en couleurs, plus de pages,... C'est dans ce contexte que chaque chapitre doit accrocher le lecteur, sans temps mort.
 
 ## Des titres obscurs, au succès internationaux
 

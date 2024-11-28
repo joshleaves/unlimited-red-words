@@ -30,7 +30,7 @@ Si le jeu est présenté comme "un immense donjon", ce qui n'est pas faux, il pr
 
 ## Le coeur
 
-Les personnages qui reviennent étaient déjà fortemment développés, et les retrouver pour en découvrir plus sur eux, et leurs interactions, est toujours un plaisir. Même les anciens ennemis devenus alliés gagnent en profondeur.
+Les personnages qui reviennent étaient déjà fortement développés, et les retrouver pour en découvrir plus sur eux, et leurs interactions, est toujours un plaisir. Même les anciens ennemis devenus alliés gagnent en profondeur.
 
 Des trois jeux, c'est celui que j'ai pris le plus de plaisir à refaire en difficulté "Nightmare", plus encore vu le niveau de certains de mes personnages dont l'un pouvait agir indéfiniment sans laisser le temps de réagir au boss caché.
 

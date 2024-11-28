@@ -30,4 +30,4 @@ L'histoire se termine très vite, presque trop. Les évènements finaux prennent
 
 * * *
 [^1]: Dont je possède un autographe, et avec qui j'ai pris une photo lors de l'évènement.
-[^2]: Un an après la diffusion de la série, celle-ci est adaptée en trois films qui redécoupent l'intrigue et ajoutent des éléments, ce qui en fait une sorte de "Director's Cut" se voulant la plus proche de la vision finale de Tomino.
+[^2]: Un an après la diffusion de la série, celle-ci est adaptée en trois films qui re-découpent l'intrigue et ajoutent des éléments, ce qui en fait une sorte de "Director's Cut" se voulant la plus proche de la vision finale de Tomino.

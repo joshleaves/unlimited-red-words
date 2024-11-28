@@ -12,7 +12,7 @@ rating: 3
 release_date: 2024-06-28
 ---
 
-Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de l'incendie criminel des locaux de Kyoto Animation deux ans auparavant[^2], et les lecteurs fûrent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.
+Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de l'incendie criminel des locaux de Kyoto Animation deux ans auparavant[^2], et les lecteurs furent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.
 
 ## Le manga
 
@@ -28,7 +28,7 @@ Je pourrais écrire la suite de l'histoire, mais c'est généralement à partir 
 
 ![Le talent d'expression de Fujimoto est indéniable](2024-09-22-fujino_rain.png){: .right w="175" h="141" }
 
-Dès sa sortie, le manga est encensé par tous: les lecteurs, les pairs de Fujimoto,... En 143 pages, Fujimoto a mis sa personne à nu. Si l'auteur donne à son duo d'héroine le nom de plume "Kyo Fujino", il est évident que "Fujimoto"[^6] leur aurait mieux convenu. Comme leur créateur, les deux dessinatrices sont des génies, l'une dans le dessin, l'autre en rythme et storytelling. Ce même génie ressort des pages et du découpage des cases. Le rythme est totalement maîtrisé et chaque morceau de case s'exprime avec vie au lecteur.
+Dès sa sortie, le manga est encensé par tous: les lecteurs, les pairs de Fujimoto,... En 143 pages, Fujimoto a mis sa personne à nu. Si l'auteur donne à son duo d'héroïne le nom de plume "Kyo Fujino", il est évident que "Fujimoto"[^6] leur aurait mieux convenu. Comme leur créateur, les deux dessinatrices sont des génies, l'une dans le dessin, l'autre en rythme et storytelling. Ce même génie ressort des pages et du découpage des cases. Le rythme est totalement maîtrisé et chaque morceau de case s'exprime avec vie au lecteur.
 
 Quelques mois après, ce court one-shot devient a droit à une sortie physique, et une adaptation cinématographique est annoncée dans la foulée.
 

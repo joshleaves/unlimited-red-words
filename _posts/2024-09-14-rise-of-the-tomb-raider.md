@@ -18,7 +18,7 @@ Je n'ai jamais joué à *Rise* car le jeu est sorti sur des consoles que je ne p
 
 ## Une heure et j'arrête
 
-A un moment en 2010, j'ai joué à **Batman: Arkham Asylum** sur mon "PC gaming". Pour une raison que j'ai oubliée, le jeu ne pouvait pas effectuer de sauvegarde. Qu'à cela ne tienne, je jouerais une petite heure pour tester le jeu, puis je m'occuperais de trouver une solution au problème. Si cette histoire ne vous est pas familière, je vous informe que je n'ai pas réussi à lâcher le jeu et l'ai fini d'une traite, le lendemin matin.
+A un moment en 2010, j'ai joué à **Batman: Arkham Asylum** sur mon "PC gaming". Pour une raison que j'ai oubliée, le jeu ne pouvait pas effectuer de sauvegarde. Qu'à cela ne tienne, je jouerais une petite heure pour tester le jeu, puis je m'occuperais de trouver une solution au problème. Si cette histoire ne vous est pas familière, je vous informe que je n'ai pas réussi à lâcher le jeu et l'ai fini d'une traite, le lendemain matin.
 
 La même chose a bien failli m'arriver avec **Rise**, et je soupçonne que seul l'âge m'a fait lâcher le jeu avant de totalement corrompre mon rythme circadien...
 

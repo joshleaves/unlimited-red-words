@@ -27,7 +27,7 @@ Le [précédent livre](/posts/rouge-est-la-nuit/) baignait dans une horreur soci
 
 Par moments, j'ai l'impression que le livre en oublie presque son enquête, pour se focaliser un peu plus sur le cast, les relations de Reiko avec le reste de son équipe. Le sujet ne me déplait pas, bien au contraire, mais la lenteur avec laquelle celui-ci se traîne le rend indigeste. Si je comprends que des adolescents de mangas mettent cinq tomes à se parler, voir deux adultes passer des mois sans que rien n'avance se révèle frustrant, et l'attitude belligérante de Reiko face à certains personnages dépeints comme "antagonistes", alors qu'ils n'ont que du respect pour elle l'infantilise encore plus.
 
-Le livre reste agréable à lire, et j'ai apprécié que la concordance d'indices donnés au lecteur me permette de deviner certaines circonstances du mystères avant que celui-ci ne soit révélé par les protagonistes. En revanche, certains défauts le placent en-deça du premier volume pour moi.
+Le livre reste agréable à lire, et j'ai apprécié que la concordance d'indices donnés au lecteur me permette de deviner certaines circonstances du mystères avant que celui-ci ne soit révélé par les protagonistes. En revanche, certains défauts le placent en-deçà du premier volume pour moi.
 
 
 * * *

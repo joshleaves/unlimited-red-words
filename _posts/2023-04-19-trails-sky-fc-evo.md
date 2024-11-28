@@ -42,7 +42,7 @@ Cette histoire seule se déroulera bien vite. Le gros du jeu se trouve dans son 
 
 ## Le corps
 
-La boucle de gameplay est très reposante. Le jeu se découpe en chapitres, un par ville, où l'on trouve de nouveaux compagnons de voyages temporaires avec qui on résoud les quêtes et le problème local. Le final en apothéose se fera dans la capitale royale où tous les personnages se retrouveront pour affronter le boss final...et le vrai boss (nous sommes dans un RPG, certains clichés restent).
+La boucle de gameplay est très reposante. Le jeu se découpe en chapitres, un par ville, où l'on trouve de nouveaux compagnons de voyages temporaires avec qui on résout les quêtes et le problème local. Le final en apothéose se fera dans la capitale royale où tous les personnages se retrouveront pour affronter le boss final...et le vrai boss (nous sommes dans un RPG, certains clichés restent).
 
 Le système de combat, quand à lui, est très permissif et fun à maîtriser. Certaines particularités, comme le délai lors de l'utilisation de magies, sont surprenantes, mais on s'y habitue vite en général, et même les combats de mobs (que l'on voit sur la carte, et que l'on peut éviter) deviennent plaisants à jouer.
 

@@ -29,15 +29,15 @@ Pourtant, lorsque j'ai démarré **Ground Zeroes**, le prologue de **Metal Gear 
 >"Kept you waiting, huh?"   
 > — Solid Snake, un peu tout le temps
 
-A partir de là, la démo-prologue de **Ground Zeroes** est devenu un terrain de jeu que je n'ai encore lâché qu'au terme d'un platine arraché sans trop de difficultés, mais avec plaisir et inventivité à toutes les manières d'appréhender les gardes de cette unique base qui renferme deux prisonniers d'exception. Les diverses missions "alternatives" du jeu, se déroulant toutes sur le même terrain, ont renouvellé le plaisir de s'approprier le lieu, et de découvrir les nouvelles manières pour Snake de se mouvoir dans l'espace.
+A partir de là, la démo-prologue de **Ground Zeroes** est devenu un terrain de jeu que je n'ai encore lâché qu'au terme d'un platine arraché sans trop de difficultés, mais avec plaisir et inventivité à toutes les manières d'appréhender les gardes de cette unique base qui renferme deux prisonniers d'exception. Les diverses missions "alternatives" du jeu, se déroulant toutes sur le même terrain, ont renouvelé le plaisir de s'approprier le lieu, et de découvrir les nouvelles manières pour Snake de se mouvoir dans l'espace.
 
-Enfin, **The Phantom Pain** a su me conquérir. Ayant plus qu'aimé **Death Stranding** et son gameplay basé sur la marche, ou bien la narration très "dans ta gueule", voire nanardesque, de *Kojima*,... J'y ai retrouvé la génèse de tous ces principes, et ce monde est devenu un terrain de jeu que j'ai adoré faire et, refaire, jusqu'au platine tant convoité.
+Enfin, **The Phantom Pain** a su me conquérir. Ayant plus qu'aimé **Death Stranding** et son gameplay basé sur la marche, ou bien la narration très "dans ta gueule", voire nanardesque, de *Kojima*,... J'y ai retrouvé la genèse de tous ces principes, et ce monde est devenu un terrain de jeu que j'ai adoré faire et, refaire, jusqu'au platine tant convoité.
 
 ## Gear (up)
 
 La difficulté d'écrire un livre sur les jeux vidéos m'est vite apparue en lisant celui-ci. A aucun moment la lecture ne m'a ennuyée, alors que l'on parlait de jeux dont j'avais été le témoin indirect, de par mes années à lire les spoilers divers, autant que direct, de par mon accomplissement de tous les opus de la saga, mais j'ai vite réalisé que j'étais face à un livre qui devait autant m'intéresser à moi, gavé de Metal Gear jusqu'à outrance, qu'un néophyte, qui aurait à peine entendu parler d'*Hideo Kojima* à présent que la franchise Metal Gear ne lui appartient plus.
 
-Ce livre a aussi la "chance" très étrange d'être sorti à une période où la franchise Metal Gear Solid était simultanèment à son firmament, et en passe de disparaître, ce qui lui évite le risque de devenir un objet incomplet voire obsolète si la saga venait un jour à compter un sixième épisode[^3]. De fait le livre se contente de donner des hypothèses sur l'avenir de *Hideo Kojima* au sein de l'industrie du jeu vidéo, qui s'avéreront...très proches de la réalité[^4].
+Ce livre a aussi la "chance" très étrange d'être sorti à une période où la franchise Metal Gear Solid était simultanément à son firmament, et en passe de disparaître, ce qui lui évite le risque de devenir un objet incomplet voire obsolète si la saga venait un jour à compter un sixième épisode[^3]. De fait le livre se contente de donner des hypothèses sur l'avenir de *Hideo Kojima* au sein de l'industrie du jeu vidéo, qui s'avéreront...très proches de la réalité[^4].
 
 ## Solid(e?)
 

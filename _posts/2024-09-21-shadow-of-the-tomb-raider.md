@@ -12,7 +12,7 @@ rating: 2
 release_date: 2018-09-14
 ---
 
-Mine de rien, j'avais beaucoup apprécié [**Rise**](/posts/rise-of-the-tomb-raider/), et tout ce que je voyais sur ce troisième opus me semblait très bon: un temps de gestation de trois ans depuis le précédent, pas de saloperies multijoueur, de nouveaux tombeaux bien plus vastes, une meilleure gestion du combat furtif,...
+Mine de rien, j'avais beaucoup apprécié [**Rise**](/posts/rise-of-the-tomb-raider/), et tout ce que je voyais sur ce troisième opus me semblait très bon: un temps de gestation de trois ans depuis le précédent, pas de saloperies multi-joueur, de nouveaux tombeaux bien plus vastes, une meilleure gestion du combat furtif,...
 
 Il n'en était rien, et à la manière de bien des trilogies[^1], le premier épisode était une base solide proposant de nouvelles choses, le seconde épisode évoluait de ces bases pour proposer une formule polie et aboutie, et le troisième tentait de pousser tous les potards à fond, rendant le tout difficile à supporter. L'édition Française, que j'appréciais jouer jusque-là, a d'ailleurs changé de doubleuse, donnant à Lara une voix bien trop grave à mon gout, et si insupportable, que j'ai dû repasser le jeu en VO...
 
@@ -55,6 +55,6 @@ J'ai eu beaucoup plus de difficultés avec ce jeu, surtout dans la lenteur de ce
 * * *
 [^1]: La trilogie originale de Tomb Raider est l'objet de cette remarque, mais on peut trouver pareil dans la trilogie des films **Spider-Man** de Sam Raimi, et les trilogies de bien d'autres séries comme **Uncharted**, **Dead Space**, **Kingdom Hearts**,...
 [^2]: Et en effet, c'est la séquence d'introduction de "Indiana Jones et la Dernière Croisade", le meilleur de la trilogie selon moi.
-[^3]: Fait marrant: la séquence avec Lara-enfant garde son fétiche de la chûte!
+[^3]: Fait marrant: la séquence avec Lara-enfant garde son fétiche de la chute!
 [^4]: La caméra est dans le dos de Lara, téléporte soudain face à son visage, et se téléporte à nouveau dans son dos.
 [^5]: Mention spéciale à la mécanique de grimpette aux plafonds incurvés qui laisse Lara "sauter" d'un plafond à l'autre...
