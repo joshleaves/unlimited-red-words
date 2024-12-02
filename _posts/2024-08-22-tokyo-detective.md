@@ -18,7 +18,7 @@ J'avais beaucoup apprécié le [premier livre](/posts/tokyo-vice-book) de Jake A
 
 Malheureusement, cette enquête n'est jamais parvenue à moi.
 
-## Sans cadre, pas de tradition
+# Sans cadre, pas de tradition
 
 Lorsque j'ai commencé mes propres études de Japonais en 2002, une personne de ma famille m'a offert *Stupeurs et Tremblements* d'Amélie Nothomb. Cette vision du Japon par une occidentale était très novatrice à une époque qui était aux balbutiements d'Internet et où la culture Japonaise paraissait si lointaine[^1], et puis le face-à-face entre les deux personnages était rondement mené, comme une joute verbale incessante. Suite à ça, j'ai eu droit chaque année, de la part du même membre de la famille[^2], au "Amélie Nothomb de l'année". Le hasard commercial faisant que celui-ci sortait invariablement en Aout, il était le cadeau "idéal" pour mon anniversaire en Septembre, si bien que j'ai vite découvert les "ficelles" de l'autrice et m'en suis lassé...
 
@@ -32,7 +32,7 @@ Le premier livre arrivait à se démarquer par son contexte fort ("Un Américain
 
 Dans cette suite, l'impression est que l'auteur n'a plus rien à raconter, ce qui serait presque vrai, tant les meilleurs sujets ont déjà servi à bâtir d'autres livres...
 
-## Sans série télé, pas de modernité
+# Sans série télé, pas de modernité
 
 Lorsque HBO a annoncé que [la série Tokyo Vice](/posts/tokyo-vice-tv-series) n'aurait pas de troisième saison, les messages de fans, clamant leur tristesse et leur désir d'une suite des aventures télévisuelles du reporter, ont afflué sur Instagram[^5] et autres réseaux sociaux. Ce choix m'apparaissait tout à fait normal, vu que le principal arc couvert par la série télé (le scoop) se concluait avec brio, et je me suis surpris à me poser la question: "Si troisième saison il y avait, de quoi pourrait-elle bien parler?". D'une certaine manière, ce livre y apporte une réponse et...elle n'est pas très intéressante. Un boulot de "détective privé" à peine survolé[^6], de la *due diligence*[^7] qui n'amène à pas grand-chose si ce n'est une pub discrète pour le futur livre d'un ex-collaborateur,...
 

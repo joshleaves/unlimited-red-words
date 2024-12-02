@@ -16,15 +16,15 @@ release_date: 2014-11-04
 
 Sorti en 2013, **The Garden Of Words** est le quatrième film de *Makoto Shinkai*, le dernier avant que le cultissime **Your Name** ne le propulse au rang de "nouveau Miyazaki"[^1], mais aussi son film le plus beau visuellement, et celui que je prends le plus de plaisir à revoir.
 
-## Le livre des mots
+# Le livre des mots
 
 Bien que le livre soit écrit par Makoto Shinkai, il n'est pas l'origine du film, mais une adaptation qui lui a été commandée à postériori. Le tronc de l'intrigue reste le même, mais certains évènements et personnages sont approfondis. Parfois, cela se fait de manière maladroite, comme le frère de Takao, dont la jalousie envers sa petite amie est une émotion bien étrange, que cela soit en terme narratif, ou de caractère.
 
-## Pluie ＊ Ampoule au pied ＊ Dieu tonnant
+# Pluie ＊ Ampoule au pied ＊ Dieu tonnant
 
 Chaque chapitre est narré en troisième personne du point de vue d'un nouveau personnage, indiqué dans le chapitrage. Un haïku est aussi associé à chaque chapitre, et ceux-ci se concluront par une note explicative (que j'ai pu retrouver dans la version US, donc venant de l'auteur et pas du traducteur) donnant du contexte autour de l'écriture de celui-ci.
 
-## Quand moi aussi, j'aurai appris à marcher...
+# Quand moi aussi, j'aurai appris à marcher...
 
 Mais surtout, cette nouvelle narration interne permet de mettre de vrais mots sur les émotions que ressentent nos deux protagonistes principaux et l'on trouve enfin la réponse à leurs désirs, sentiments, et même à leur avenir... au dépit du mystère que le film entretenait à la manière d'un **In The Mood Fod Love** de *Wong Kar-Wai*. L'ambiance douce et mystérieuse du film laisse alors place à une nouvelle manière de voir l'histoire.
 

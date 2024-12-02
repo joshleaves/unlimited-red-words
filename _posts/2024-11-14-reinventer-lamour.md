@@ -18,13 +18,13 @@ Les bases du féminisme sont des concepts si "évidents" pour moi[^1] que le bes
 
 Ce qui est donc le cas avec la personne qui m'a offert ce livre, et a été une étrange surprise.
 
-## Mens femina..
+# Mens femina..
 
 Même si je suis assez *chronically online* pour avoir déjà eu une vision assez courante des arguments de ce livre, la lecture en a été très intéressante. L'autrice s'exprime de manière claire et, à contrario des "militants 2.0" de Twitter, n'est pas là pour régler ses comptes avec qui que ce soit, ou même appeler à la vindicte envers le lecteur mâle qui se serait aventuré ici. Peut-être mon adhésion à ces idées a-t-elle joué dans mon acception des propos, biaisant ma lecture, ou bien j'ai la maturité nécessaire pour lire ces choses?
 
 Je pense que la manière dont l'autrice amène son propos, en décrivant factuellement le fonctionnement du système et des défauts qui lui sont associés, puis en l'illustrant avec des faits de sociétés tout aussi factuels, rend la chose plus prégnante, et lui évite de tomber dans le piège du "Les mecs sont tous..." qui sera très vite rebutante pour les lecteurs masculins qui ont encore du mal avec ce genre d'affirmation.
 
-## ...in corpore femino
+# ...in corpore femino
 
 Bien sûr, l'exercice a ses limites, et quelques passages conservent encore des généralisations sur la manière d'éduquer les hommes (et donc les comportements qu'ils développent) qui ont failli me sortir du propos, tant je me sens moi-même à des milliers de kilomètres de cette expérience.
 

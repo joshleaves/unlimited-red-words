@@ -16,19 +16,19 @@ release_date: 2006-02-25
 
 J'ai découvert le personnage la détective Reiko Himekawa avec la série télé Japonaise **Strawberry Night**, datant de 2012. Le pilote était de bonne facture, l'enquête coulait naturellement, et le jeu posé de l'actrice *Yuko Takeuchi* m'avait vite convaincu. Malheureusement, le manque de Japon m'avait vite retenu de continuer dans mon addiction aux séries télévisées japonaises, et donc de continuer celle-ci[^1]...
 
-## Strawberry
+# Strawberry
 
 Ma mère étant plus portée sur la lecture que moi, mais tout aussi appréciative de polars, je lui ai donc offert ce livre, et elle l'a adoré. Après l'avoir lu à mon tour, je l'ai tout autant apprécié. La narration alterne le point de vue des personnages liés à cette affaire, avec chacune des quatre parties du livre commençant par un récit à la première personne issu des yeux du tueur. Les meurtres et les crimes sont décrits avec un détail qui paraît parfois extrême, ce qui peut donner à tourner de l'oeil, ou ignorer certains paragraphes. Les différents chapitres commencent avec un court récit à la première personne du criminel, ce qui permet de se mettre dans sa peau avant que l'intrigue ne le révèle, tout en donnant des indices au lecteur.
 
 Parfois, la quantité de personnages peut mener à se perdre, notamment entre la quantité de membres des forces de police, mais aussi de victimes (j'ai eu l'impression que l'une d'elles a disparu de l'enquête pendant un moment). Cela tend à renforcer l'impression que la bureaucratie policière est une espèce d'hydre où la multiplication de rôles et rapports hiérarchiques, ce qui correspond aux impressions des premiers impliqués, qui rappellent souvent les problématiques liées à celle-ci. Pour plus de clarté, l'éditeur a pris le soin de préfacer le livre d'une page recensant les protagonistes les plus importants et leurs affectations.
 
-## Night
+# Night
 
 En France, et plus particulièrement en Provence, nous avons la chance d'avoir des nuits fraîches, et même en journée, le Mistral et la présence de la mer à proximité laissent dans l'air une fraicheur constante.
 
 Au Japon, au contraire, l'air est souvent étouffant en été. Ce livre se déroule en Aout et la chaleur y est assez évoquée pour que la seule lecture de ce livre me fasse voyager: lire le récit de ces jours d'été qui passent a réveillé en moi le souvenir de plusieurs soirées passées avec des amis à boire des bières extra-fraiches en sillonnant les rues de Tokyo...
 
-## Saga
+# Saga
 
 En 2019, la série télé Japonaise fût rebootée sous le nom **Strawberry Night Saga**, cette fois-ci avec *Fumi Nikaido*[^2] dans le rôle principal, mais cette version est passée relativement inaperçue, comparée à la première, qui avait eu droit à deux enquêtes sorties en films.
 

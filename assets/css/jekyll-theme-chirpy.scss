@@ -21,3 +21,20 @@
     var(--main-bg) 75%,
     var(--topbar-bg) 100%);
 }
+
+#toc-wrapper::before {
+  display: none;
+}
+#toc-wrapper {
+  position: sticky;
+  top: 50px;
+
+  /* make the marker of active section visible*/
+  ul {
+    .is-active-link {
+      &::before {
+        left: 0px;
+      }
+    }
+  }
+}

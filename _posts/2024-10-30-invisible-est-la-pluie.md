@@ -18,7 +18,7 @@ release_date: 2009-11-25
 
 Nous quittions la lieutenante Reiko Himekawa à l'hiver [lors de sa précédente aventure](/posts/cruel-est-le-ciel/), et c'est à cette même saison que nous la retrouvons ici. Une année a passé, ou deux. Je suis persuadé d'avoir lu "trois", mais cette perspective m'emplit d'une horreur sans nom.
 
-## Pluie
+# Pluie
 
 Cette fois-ci, l'enquête est presque plus sordide. De l'inceste, du meurtre, des yakuzas,... Cet opus baigne décidément à fond dans LE CUL, LE CUL, LE CUL! Et l'enquête en elle-même n'a pas vraiment de charme, les personnages semblant tous se perdre pour au final n'aller...nul part.
 
@@ -26,7 +26,7 @@ Nul part, c'est aussi là où va la relation entre la lieutenante et son second.
 
 Et comme instauré depuis [le premier livre](/posts/rouge-est-la-nuit/), chaque section s'ouvre par un court chapitre du point de vue du meurtrier. Ils sont cette fois au nombre de SIX, ce qui est déjà énorme, mais ils s'avèrent en plus très ennuyeux tant leur espacement se fait de manière de plus en plus insistante...
 
-## Invisible
+# Invisible
 
 Pas d'inquiétudes toutefois, ces chapitres à l'intérêt moindre ne gâcheront pas le confort de lecture de l'enquête puisqu'il n'y en a presque pas. La résolution n'arrive que car le meurtrier perd son sang-froid et se dévoile, tandis que la narration s'occupera de combler les trous.
 
@@ -34,7 +34,7 @@ Il n'y a vraiment plus "rien" dans ce livre. L'équipe de Reiko, qui donnait une
 
 Pire encore, en plus de Reiko et du meurtrier, un troisième point de vue vient s'ajouter à la narration, dans un intérêt très inintéressant, tant ces séquences empiètent, voire se mélangent, à celles de Reiko.
 
-## Fin de l'enquête
+# Fin de l'enquête
 
 A la fin du livre, l'équipe de Reiko est dissoute. Peut-être est-ce pour ça que l'éditeur ne publie plus rien depuis 2021? Pour ma part, comme la police métropolitaine, je mets la lieutenante Reiko Himekawa au placard!
 

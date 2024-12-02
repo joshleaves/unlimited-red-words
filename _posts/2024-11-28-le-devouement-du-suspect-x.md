@@ -14,13 +14,13 @@ release_date: 2005-08-30
 
 À chaque fois que je lis un livre policier particulièrement bien ficelé, je suis toujours épaté par l'intelligence, non pas du détective, mais de l'écrivain, qui a su proposer conjointement un problème, et sa solution, à travers le criminel et le détective.
 
-## La preuve et la solution
+# La preuve et la solution
 
 Et plus encore, j'apprécie le talent avec lequel un écrivain peut mettre en scène un nouveau type de meurtre. La Reine du genre, Agatha Christie, a su créer un meurtres sans coupable[^1], un meurtre où tout le monde est coupable[^2], et même un meurtre où le narrateur est le coupable[^3]. A partir de là, il ne reste plus beaucoup de place pour innover, et la plupart des séries à mystères, comme Détective Conan[^4] ou HPI[^5], suivent les traces de Sherlock Holmes et mettent en avant l'intelligence supérieure de leurs protagonistes pour redoubler d'inventivité dans la mise en place des crimes: les méthodes sont nouvelles[^6], mais le lecteur sait qu'il est toujours dans ce même setup où il sait qu'un meurtre a eu lieu (ou pas, ou plusieurs, ou pas celui que l'on ne croyait), et qu'il y a un (ou plusieurs) coupables.
 
 Ici, rien de tout cela. Et même si le lecteur assidu sera persuadé de toucher du doigt la solution de l'énigme durant les 300 pages du livre, elle ne fera que vous éluder jusqu'au dernier chapitre.
 
-## Problème P ≟ NP
+# Problème P ≟ NP
 
 Tous les mots comptent, et à chaque phrase, chaque indice, j'ai senti que j'y étais, sans jamais vraiment y être, car au final, bien sûr, le noeud de ce mystère repose sur une "tromperie" de l'auteur, qui aura pris le soin de ne pas évoquer à l'attention du lecteur un détail qui repose encore en évidence sous les yeux du détective qui résoudra l'enquête.
 

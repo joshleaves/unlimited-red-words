@@ -16,7 +16,7 @@ Bien trop longtemps oublié dans mes diverses bibliothèques depuis que ma soeur
 
 A l'époque, je n'avais encore fait que les deux premiers opus de la saga, je n'avais une PlayStation 3 que depuis un an[^1], et même si j'avais bien acheté une compilation des quatre premiers jeux quelques mois auparavant, mon ambition (refaire la saga à partir du premier jeu, dans son niveau de difficulté le plus élevé, car "je l'ai fait dix fois, je le connais par coeur!") avait vite été confrontée à la réalité, et si ce n'est quelques heures de MGS 3 en 2015 lorsqu'un ami avait laissé une télé immense chez moi, j'avais vite laissé tomber. 
 
-## (Closer to the) Metal
+# (Closer to the) Metal
 
 En 2023, lors d'une "frénésie vidéoludique", je me suis enfin lancé dans le marathon. Alors que le second opus avait été platiné[^2] quelques années auparavant, dans la douleur, reprendre le troisième de zéro pour le platiner d'une traite fût un plaisir. Toutefois, si beaucoup de joueurs ont apprécié répéter l'aventure dans cette jungle hostile, nouveau terrain de jeu des aventures de Snake, ce ne fût pas mon cas.
 
@@ -33,13 +33,13 @@ A partir de là, la démo-prologue de **Ground Zeroes** est devenu un terrain de
 
 Enfin, **The Phantom Pain** a su me conquérir. Ayant plus qu'aimé **Death Stranding** et son gameplay basé sur la marche, ou bien la narration très "dans ta gueule", voire nanardesque, de *Kojima*,... J'y ai retrouvé la genèse de tous ces principes, et ce monde est devenu un terrain de jeu que j'ai adoré faire et, refaire, jusqu'au platine tant convoité.
 
-## Gear (up)
+# Gear (up)
 
 La difficulté d'écrire un livre sur les jeux vidéos m'est vite apparue en lisant celui-ci. A aucun moment la lecture ne m'a ennuyée, alors que l'on parlait de jeux dont j'avais été le témoin indirect, de par mes années à lire les spoilers divers, autant que direct, de par mon accomplissement de tous les opus de la saga, mais j'ai vite réalisé que j'étais face à un livre qui devait autant m'intéresser à moi, gavé de Metal Gear jusqu'à outrance, qu'un néophyte, qui aurait à peine entendu parler d'*Hideo Kojima* à présent que la franchise Metal Gear ne lui appartient plus.
 
 Ce livre a aussi la "chance" très étrange d'être sorti à une période où la franchise Metal Gear Solid était simultanément à son firmament, et en passe de disparaître, ce qui lui évite le risque de devenir un objet incomplet voire obsolète si la saga venait un jour à compter un sixième épisode[^3]. De fait le livre se contente de donner des hypothèses sur l'avenir de *Hideo Kojima* au sein de l'industrie du jeu vidéo, qui s'avéreront...très proches de la réalité[^4].
 
-## Solid(e?)
+# Solid(e?)
 
 En soi, le livre se tient. Il se concentre sur le parcours d'*Hideo Kojima*, sur la naissance de la franchise et ses évolutions, et dresse, pour chaque épisode, un rappel des attentes du public, et de ce qu'a fourni le créateur pour surprendre les joueurs. Il présente des anecdotes connues sur les saga, et sait quand s'en détacher, évitant d'en faire un "je-sais-tout" mal canalisé qui ne saurait trop où il va.
 
@@ -48,7 +48,7 @@ Ma plus grosse interrogation revient à la description de l'univers de la saga: 
 >"Je n'éparpillerai pas ton chagrin dans une mer indifférente."   
 > — Venom Snake, dans [<i class="fab fa-youtube"></i>  la scène la plus émouvante de la saga](https://www.youtube.com/watch?v=VofQjhpkJpY)
 
-## Revengeance
+# Revengeance
 
 En dehors d'un [ouvrage technique très complet sur Wolfenstein 3D](https://fabiensanglard.net/gebbwolf3d/), et d'un [recueil de témoignages de développeurs Japonais d'époque](https://www.thirdeditions.com/retrogaming/388-les-memoires-du-jeu-video-japonais-racontees-par-50-developpeurs-9782377841707.html), il ne me reste plus que deux livres traitant de jeux vidéos que je n'ai pas encore lus. Le premier traite de [Final Fantasy VIII](https://www.thirdeditions.com/rpg/56-livre-final-fantasy-viii-9791094723326.html) et est sorti avant que son remaster ne voie le jour, tandis que le second date de 2019 et traite de la saga [Monkey Island](https://www.thirdeditions.com/sagas/251-les-mysteres-de-monkey-island-a-l-abordage-des-pirates-9782377840908.html).
 

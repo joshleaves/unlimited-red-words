@@ -16,7 +16,7 @@ release_date: 1947-07-16
 
 Après avoir [découvert "Histoires d'O"](/posts/reinventer-lamour/) à travers la vision de Mona Chollet, petit retour au pays du soleil levant pour découvrir un auteur nobelisé. Malgré ce que j'ai cru durant ma lecture, ce roman spécifique n'a pas été nobélisé. Fort heureusement!
 
-## Mens Sana...
+# Mens Sana...
 
 Dire que j'ai eu du mal avec ce livre serait un euphémisme.
 
@@ -31,7 +31,7 @@ Aux deux-tiers du livre, alors que le protagoniste revient au "pays de neige" po
 
 Enfin, à trente pages de la fin, la narration nous rappelle que le protagoniste a une famille qu'il abandonne pour profiter de l'automne dans des sources chaudes en galante compagnie. En soi, si l'on peut trouver une certaine romance dans l'idée d'une personne qui fuit le carcan d'une vie familiale pour trouver l'amour ailleurs[^1], mais cette idée s'effrite lorsque le lecteur attentif se rappelle que vingt pages plus tôt, le protagoniste était troublé à l'idée que Komako puisse "[mettre] au monde les enfants d'un autre père que lui". N'essayez pas de vous rappeler du nom de ses enfants, ceux-ci n'en ont pas: pour le protagoniste (et l'écrivain?), ils ne sont au final que des accessoires permettant d'affirmer sa conquête de la gent féminine...
 
-## ...in Japonais Sano
+# ...in Japonais Sano
 
 Une fois tout ce vernis masculiniste écaillé, il reste la description d'une région reculée du Japon, et ses habitudes à l'approche de l'hiver. Un chapitre entier est dédié au Chijimi[^2], une technique de tissage du chanvre.
 
