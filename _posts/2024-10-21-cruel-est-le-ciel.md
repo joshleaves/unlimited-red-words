@@ -3,13 +3,19 @@ layout: post
 title:  "📚 Cruel est le ciel"
 date: 2024-10-21 16:30:00 +0200
 category: 📚 Littérature
-tags: ["📚 Reiko Himekawa"]
+tags: ["📚 Reiko Himekawa", "📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
   path: 2024-10-21-Cruel-est-le-ciel_Tetsuya-Honda.jpg
 country: JP
 rating: 3
 release_date: 2007-03-20
+meta:
+  pages: 352
+  author: "Tetsuya Honda / 誉田哲也"
+  editor: "Atelier Akatombo"
+  url: "https://atelier-akatombo.com/cruel-est-le-ciel"
+  isbn: "978-2-37927-051-2"
 ---
 
 >A Tokyo, l'hiver est très lumineux, pourtant Reiko Himekawa a le moral quelque peu en berne. La jeune lieutenante du DPMT (Département de la Police Métropolitaine de Tokyo) se remet à peine de la série d'homicides de l'été dernier, une terrifiante affaire dans laquelle l'un de ses hommes a perdu la vie.

@@ -3,13 +3,19 @@ layout: post
 title:  "📚 Invisible est la pluie"
 date: 2024-10-30 16:30:00 +0200
 category: 📚 Littérature
-tags: ["📚 Reiko Himekawa"]
+tags: ["📚 Reiko Himekawa", "📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
   path: 2024-10-30-Invisible-est-la-pluie_Tetsuya-Honda.jpg
 country: JP
 rating: 2
 release_date: 2009-11-25
+meta:
+  pages: 390
+  author: "Tetsuya Honda / 誉田哲也"
+  editor: "Atelier Akatombo"
+  url: "https://atelier-akatombo.com/invisible-est-la-pluie-3"
+  isbn: "978-2-37927-105-2"
 ---
 
 > L’hiver n’est pas toujours serein à Tokyo.

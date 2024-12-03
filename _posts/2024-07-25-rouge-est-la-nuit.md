@@ -3,13 +3,19 @@ layout: post
 title:  "📚 Rouge est la nuit"
 date: 2024-07-25 18:30:00 +0200
 category: 📚 Littérature
-tags: ["📚 Reiko Himekawa"]
+tags: ["📚 Reiko Himekawa", "📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
   path: 2024-07-25-Rouge-est-la-nuit_Tetsuya-Honda.jpg
 country: JP
 rating: 3
 release_date: 2006-02-25
+meta:
+  pages: 350
+  author: "Tetsuya Honda / 誉田哲也"
+  editor: "Atelier Akatombo"
+  url: "https://atelier-akatombo.com/rouge-est-la-nuit"
+  isbn: "978-2-37927-031-4"
 ---
 
 >Dans une banlieue tranquille de Tokyo, un corps emballé dans une bâche en plastique est retrouvé au bord d’un étang. La victime a été torturée. Un meurtre aussi étrange que singulier dans une ville où les crimes violents sont rares. Riverains et promeneurs n’ont rien remarqué, et ni la scène de crime ni les résultats du laboratoire ne révèlent d’indices significatifs. L’enquête est confiée à Reiko Himekawa, 29 ans, seule officière de la division criminelle du Département de la police métropolitaine de Tokyo. Malgré son jeune âge, son sexe et son manque flagrant de connexions dans les hautes sphères, Reiko est parvenue au grade de lieutenante grâce à sa détermination et une aptitude hors du commun à explorer le cerveau criminel.
