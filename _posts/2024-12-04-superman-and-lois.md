@@ -41,15 +41,13 @@ Dans le crossover **DC One Million**[^4], sensé se dérouler un million de num�
 
 Le dernier épisode reprend cette idée, utilisant une variante dorée du symbole de Superman, et rappelant l'essence du personnage, et d'une vie bien vécue: une famille, des amis, et de l'amour.
 
-# "Le meilleur de nous"
+# "The Best in us, the Gold in us, will survive in You"
 
 Pour aller plus loin, quelques histoires sur Superman qui peuvent se lire seules:
 
 - [Superman for all seasons](https://www.urban-comics.com/superman-for-all-seasons/) raconte les débuts de Superman à travers quatre histoires et points de vue.
 - [Superman: Identité secrète](https://www.urban-comics.com/superman-identite-secrete/) raconte l'histoire d'un "être humain réel" qui acquiert les pouvoirs de Superman. Mon histoire préférée de Clark Kent.
 - [All-Star Superman](https://www.urban-comics.com/all-star-superman/) est une fable épique en douze travaux/numéros sur les exploits de Superman et son héritage.
-
-
 
 * * *
 [^1]: [<i class="fab fa-wikipedia-w"></i> Crisis on Infinite Earths](https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths_(Arrowverse))
