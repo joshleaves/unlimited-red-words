@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎬 Megalopolis"
-date: 2024-10-07 17:20:00 +0200
+date: 2024-10-07 17:20:00 +0100
 category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images

@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "📚 Mobile Suit Gundam: Awakening, Escalation, Confrontation"
-date: 2024-09-12 15:00:00 +0200
+date: 2024-09-12 15:00:00 +0100
 category: 📚 Littérature
-tags: ["Mobile Suit Gundam"]
+tags:tags: ["Mobile Suit Gundam"]
 media_subpath: /assets/images
 image:
   path: 2024-09-12-mobile-suit-gundam-book.jpg

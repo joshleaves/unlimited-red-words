@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📺 Walker"
-date: 2024-07-06 22:14:03 +0200
+date: 2024-07-06 22:14:03 +0100
 category: 📺 Série TV
 tags: []
 media_subpath: /assets/images

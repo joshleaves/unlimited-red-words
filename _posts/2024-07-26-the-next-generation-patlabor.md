@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📺 The Next Generation: Patlabor"
-date: 2024-07-26 04:00:00 +0200
+date: 2024-07-26 04:00:00 +0100
 category: 📺 Série TV
 tags: []
 media_subpath: /assets/images

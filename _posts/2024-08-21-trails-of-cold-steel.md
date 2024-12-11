@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 The Legend of Heroes: Trails of Cold Steel"
-date: 2024-08-21 17:42:00 +0200
+date: 2024-08-21 17:42:00 +0100
 category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images

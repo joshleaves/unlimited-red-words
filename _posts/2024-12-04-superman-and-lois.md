@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📺 Superman & Lois"
-date: 2024-12-04 00:33:00 +0200
+date: 2024-12-04 00:33:00 +0100
 category: 📺 Série TV
 tags: []
 media_subpath: /assets/images

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 Le Détective est au Bar"
-date: 2024-12-06 13:57:00 +0200
+date: 2024-12-06 13:57:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images

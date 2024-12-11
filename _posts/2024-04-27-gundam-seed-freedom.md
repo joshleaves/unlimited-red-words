@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎬 Mobile Suit Gundam SEED Freedom"
-date: 2024-04-27 16:00:00 +0200
+date: 2024-04-27 16:00:00 +0100
 category: 🎬 Cinéma
 tags: ["Mobile Suit Gundam"]
 media_subpath: /assets/images

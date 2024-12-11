@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 Trails in the Sky SC Evolution"
-date: 2023-04-19 03:22:31 +0200
+date: 2023-04-19 03:22:31 +0100
 category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images

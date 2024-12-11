@@ -1,15 +1,22 @@
 ---
 layout: post
 title:  "📚 Tokyo Detective"
-date: 2024-08-02 16:00:00 +0200
+date: 2024-08-02 16:00:00 +0100
 category: 📚 Littérature
-tags: ["📚 Jake Adelstein"]
+tags:
+- 📚 Jake Adelstein
 media_subpath: /assets/images
 image:
   path: 2024-08-02-tokyo-detective.png
 country: JP
 rating: 2
 release_date: 2023-03-29
+meta:
+  pages: 512
+  author: Jake Adelstein
+  editor: Marchialy
+  url: "https://www.editions-marchialy.fr/livre/tokyo-detective/"
+  isbn: "978-2-75786-081-6"
 ---
 
 > Après avoir fait tomber un des plus grands parrains de la mafia japonaise, l’ancien journaliste d’investigation Jake Adelstein s’est reconverti en détective privé, traquant les yakuzas devenus hommes d’affaires. Mais lorsqu’en 2011 la catastrophe de Fukushima s’abat sur le Japon, elle vient ébranler ses convictions les plus profondes : le mal est tombé là où il ne s’attendait pas et touche ses amis les plus proches. Le justicier est assailli de doutes : la vérité doit-elle être recherchée à tout prix ?

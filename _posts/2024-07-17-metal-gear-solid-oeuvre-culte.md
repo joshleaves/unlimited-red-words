@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 Metal Gear Solid: Une oeuvre culte de Hideo Kojima"
-date: 2024-07-17 16:00:00 +0200
+date: 2024-07-17 16:00:00 +0100
 category: 📚 Littérature
 tags: ["📚 Third Editions"]
 media_subpath: /assets/images

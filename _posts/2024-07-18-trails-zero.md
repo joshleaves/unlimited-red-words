@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 The Legend of Heroes: Trails from Zero"
-date: 2024-07-18 21:00:00 +0200
+date: 2024-07-18 21:00:00 +0100
 category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 Ainsi parlait Iwata-San"
-date: 2024-05-10 16:00:00 +0200
+date: 2024-05-10 16:00:00 +0100
 category: 📚 Littérature
 tags: []
 media_subpath: /assets/images

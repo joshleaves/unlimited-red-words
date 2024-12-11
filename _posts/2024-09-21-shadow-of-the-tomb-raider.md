@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 Shadow of the Tomb Raider"
-date: 2024-09-21 19:30:00 +0200
+date: 2024-09-21 19:30:00 +0100
 category: 🎮 Jeux vidéos
 tags: ["🎮 Tomb Raider: Survivor"]
 media_subpath: /assets/images

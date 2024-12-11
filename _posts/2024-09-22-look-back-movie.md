@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎬 Look Back (Le Film)"
-date: 2024-09-22 19:25:00 +0200
+date: 2024-09-22 19:25:00 +0100
 category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images

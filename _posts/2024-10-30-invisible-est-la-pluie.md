@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "📚 Invisible est la pluie"
-date: 2024-10-30 16:30:00 +0200
+date: 2024-10-30 16:30:00 +0100
 category: 📚 Littérature
-tags: ["📚 Reiko Himekawa", "📚 Atelier Akatombo"]
+tags: ["📚 Atelier Akatombo", "📚 Reiko Himekawa"]
 media_subpath: /assets/images
 image:
   path: 2024-10-30-Invisible-est-la-pluie_Tetsuya-Honda.jpg

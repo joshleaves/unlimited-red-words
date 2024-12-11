@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 Trails in the Sky the 3rd Evolution"
-date: 2023-06-05 08:59:49 +0200
+date: 2023-06-05 08:59:49 +0100
 category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📺 Tokyo Vice (La série TV)"
-date: 2024-04-21 22:14:03 +0200
+date: 2024-04-21 22:14:03 +0100
 category: 📺 Série TV
 tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images

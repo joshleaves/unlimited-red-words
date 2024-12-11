@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 Tokyo Vice (Le livre)"
-date: 2024-05-03 16:00:00 +0200
+date: 2024-05-03 16:00:00 +0100
 category: 📚 Littérature
 tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images
@@ -10,6 +10,12 @@ image:
 country: JP
 rating: 3
 release_date: 2010-10-05
+meta:
+  pages: 480
+  author: Jake Adelstein
+  editor: Marchialy
+  url: "https://www.editions-marchialy.fr/livre/tokyo-vice/"
+  isbn: "979-1-09558-200-7"
 ---
 
 > Quand Jake Adelstein intègre en 1993 le service Police-Justice du plus grand quotidien japonais, le Yomiuri Shinbun, il n'a que 24 ans et il est loin de maîtriser les codes de ce pays bien différent de son Missouri natal. À Tokyo, il couvre en étroite collaboration avec la police les affaires liées à la prostitution et au crime organisé. Pour cela, il n'hésite pas à s'enfoncer dans les quartiers rouges de la capitale, dans les entrailles du vice et de la décadence. Approché par les yakuzas, il devient leur interlocuteur favori tout en restant un informateur précieux pour la police. Une position dangereuse, inédite et ambivalente, aux frontières du crime, qui incite Jake Adelstein à entrer dans un jeu dont il ne maîtrise pas les règles.
