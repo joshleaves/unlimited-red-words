@@ -9,6 +9,19 @@
 
 /* append your custom style below */
 
+
+@media (min-width: 768px) {
+  #post-list .card .card-body .post-meta i:nth-child(2) {
+      margin-left: -0.75rem;
+  }
+}
+
+@media (min-width: 768px) {
+  #post-list .card .card-body .post-meta i:not(:nth-child(2)) {
+      margin-left: 0.75rem;
+  }
+}
+
 .is-collapsed {
   max-height: none !important;
 }
