@@ -9,7 +9,7 @@ image:
   path: /2023-04-19-trails-sky-fc-evo.png
 country: JP
 rating: 4
-release_date: 2015-06-11
+release_date: 2004-06-24
 ---
 
 J'ai entendu parler pour la première fois de **Trails in the Sky** un peu après sa sortie Japonaise en 2004. Sur le forum francophone et japanophile où je traînais, certains membres plus japanophones que moi avaient trouvé un torrent de la version PC du jeu sortie au Japon et imitaient les louanges qui y étaient faites. Mais mon niveau ne suffisait pas à m'attaquer à ce monstre.

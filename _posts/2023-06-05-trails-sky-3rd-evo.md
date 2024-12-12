@@ -9,7 +9,7 @@ image:
   path: 2023-06-05-trails-sky-3rd-evo.png
 country: JP
 rating: 4
-release_date: 2016-07-14
+release_date: 2007-06-28
 ---
 
 J'ai longtemps eu peur d'arriver un jour à **Trails in the Sky the 3rd**.

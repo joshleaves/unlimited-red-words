@@ -9,7 +9,7 @@ image:
   path: 2023-05-09-trails-sky-sc-evo.png
 country: JP
 rating: 5
-release_date: 2015-12-10
+release_date: 2006-03-09
 ---
 
 S'il est souvent rappelé que l'on peut commencer la série des **Final Fantasy** dans n'importe quel ordre[^1], il n'en va pas de même pour la série des **Trails**, et ce second chapitre de la "Trilogie Liberl" commence à l'instant où le premier se termine.

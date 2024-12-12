@@ -9,7 +9,7 @@ image:
   path: 2024-07-18-trails-zero.jpg
 country: JP
 rating: 4
-release_date: 2022-09-27
+release_date: 2010-09-30
 ---
 
 Dire que j'ai aimé la duologie **Trails from Zero** / **Trails to Azure** serait un euphémisme. Après avoir fini d'enchaîner les deux jeux à la suite une première fois, j'ai mis de côté cet article une multitude de fois car je ne savais pas par quel bout commencer. En fait, cet article a tellement été mis de côté que depuis, j'ai eu le temps de recommencer TROIS FOIS le premier jeu[^1], et me suis donc résigné à ne pas faire un article commun aux deux jeux, mais faire un article par jeu...
