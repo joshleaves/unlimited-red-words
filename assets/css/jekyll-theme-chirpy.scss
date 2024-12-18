@@ -10,6 +10,10 @@
 /* append your custom style below */
 
 
+.fa-brands, .fab {
+  font-size: 14.5px;
+}
+
 @media (min-width: 768px) {
   #post-list .card .card-body .post-meta i:nth-child(2) {
       margin-left: -0.75rem;

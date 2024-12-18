@@ -46,7 +46,7 @@ En soi, le livre se tient. Il se concentre sur le parcours d'*Hideo Kojima*, sur
 Ma plus grosse interrogation revient à la description de l'univers de la saga: plus de cent pages décrivent de manière chronologie l'histoire complète de la saga, soit un tiers du livre. Si ce résumé m'a rappelé de bons (et tristes) souvenirs, et a aussi remis des pendules à l'heure, je ne suis pas totalement sûr de la pertinence de ce récapitulatif intégral, si ce n'est le bonheur d'avoir pu repenser encore une fois à un de mes moments vidéoludiques préférés.
 
 >"Je n'éparpillerai pas ton chagrin dans une mer indifférente."   
-> — Venom Snake, dans [<i class="fab fa-youtube"></i>  la scène la plus émouvante de la saga](https://www.youtube.com/watch?v=VofQjhpkJpY)
+> — Venom Snake, dans [<i class="fab fa-youtube"></i> la scène la plus émouvante de la saga](https://www.youtube.com/watch?v=VofQjhpkJpY)
 
 # Revengeance
 
