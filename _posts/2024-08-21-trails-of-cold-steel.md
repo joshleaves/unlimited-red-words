@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 4
 release_date: 2013-09-26
+meta:
+  platform: Sony Playstation 3
 ---
 
 Avant même d'y jouer, je voulais détester ce jeu, vraiment.

@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 5
 release_date: 2011-09-29
+meta:
+  platform: Sony Playstation Vita
 ---
 
 Tout comme un [livre nul](/posts/aux-origines-de-castlevania-sotn/) m'a donné envie d'écrire pour m'épancher sur le dégoût qu'il m'a inspiré, à l'opposé, un jeu m'a donné envie d'écrire pour partager tout le plaisir qu'il m'a donné... Plus encore, la quantité de sentiments qu'il m'a inspirés était si dense qu'écrire était le seul moyen à ma disposition pour mettre de l'ordre dans mes pensées.

@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 4
 release_date: 2007-06-28
+meta:
+  platform: Sony Playstation Vita
 ---
 
 J'ai longtemps eu peur d'arriver un jour à **Trails in the Sky the 3rd**.
