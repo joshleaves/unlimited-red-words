@@ -3,7 +3,7 @@ layout: post
 title:  "📚 Aux Origines de Castlevania Symphony of the Night"
 date: 2024-07-01 16:00:00 +0100
 category: 📚 Littérature
-tags: []
+tags: ["🎮 Castlevania"]
 media_subpath: /assets/images
 image:
   path: 2024-07-01-aux-origines-de-castlevania-sotn.jpg
