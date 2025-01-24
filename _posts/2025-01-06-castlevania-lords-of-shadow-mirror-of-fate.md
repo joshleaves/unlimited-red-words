@@ -7,7 +7,7 @@ tags: ["🎮 Castlevania"]
 media_subpath: /assets/images
 image:
   path: 2025-01-06-castlevania-lords-of-shadow-mirror-of-fate.jpg
-country: FR
+country: US
 rating: 2
 release_date: 2013-03-05
 meta:

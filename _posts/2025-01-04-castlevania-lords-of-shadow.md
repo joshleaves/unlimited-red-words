@@ -7,7 +7,7 @@ tags: ["🎮 Castlevania"]
 media_subpath: /assets/images
 image:
   path: 2025-01-04-castlevania-lords-of-shadow.jpg
-country: FR
+country: US
 rating: 3
 release_date: 2010-10-05
 meta:
