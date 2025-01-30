@@ -10,6 +10,8 @@ image:
 country: US
 rating: 4
 release_date: 2024-09-27
+meta:
+  imdb: "https://www.imdb.com/title/tt10128846/"
 ---
 
 >Au cours des siècles il y eut ainsi des hommes qui s'élancèrent sur des voies nouvelles, guidés uniquement par leur vision intérieure.   

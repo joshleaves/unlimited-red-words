@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 4
 release_date: 2024-01-26
+meta:
+  imdb: "https://www.imdb.com/title/tt14759062/"
 ---
 
 > Ère cosmique, année 75 : les conflits font toujours rage. Mouvements indépendantistes, offensives du Blue Cosmos: afin d'enrayer cette spirale naît l'organisation de surveillance de la paix dans le monde COMPASS, sous l'égide de Lacus et au nom de laquelle Kira et ses camarades sont amenés à intervenir dans les conflits de par le monde. C'est alors que le jeune royaume de Fondation leur propose de mener une opération conjointe contre le quartier général du Blue Cosmos.

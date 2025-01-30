@@ -10,6 +10,8 @@ image:
 country: US
 rating: 3
 release_date: 2017-03-10
+meta:
+  imdb: "https://www.imdb.com/title/tt3731562/"
 ---
 
 J'ai à peu près la même connaissance de Kong que de [Godzilla](/posts/godzilla-2014/): je connais l'original, j'ai vu la version de 2005 de *Peter Jackson*, mais je n'ai jamais ressenti ni compris le besoin de le confronter à d'autres créatures, alors que l'original me semblait avoir une portée un peu plus humaniste dans le propos.

@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 3
 release_date: 2024-06-28
+meta:
+  imdb: "https://www.imdb.com/title/tt31711040/"
 ---
 
 Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de l'incendie criminel des locaux de Kyoto Animation deux ans auparavant[^2], et les lecteurs furent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.

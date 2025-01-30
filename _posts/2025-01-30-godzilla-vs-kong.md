@@ -10,6 +10,8 @@ image:
 country: US
 rating: 3
 release_date: 2021-03-24
+meta:
+  imdb: "https://www.imdb.com/title/tt5034838/"
 ---
 
 Le plus grand problème de la franchise du [Monsterverse](/tags/monsterverse/) semble être son incapacité à proposer des personnages qui s'établissent aussi bien que les monstres, ou les super-héros du MCU. Et ce film en est la preuve...

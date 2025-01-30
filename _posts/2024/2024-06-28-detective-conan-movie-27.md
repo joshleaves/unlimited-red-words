@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 4
 release_date: 2024-04-12
+meta:
+  imdb: "https://www.imdb.com/title/tt31474158/"
 ---
 
 Lorsque j'ai commencé à écrire cet article, je me suis demandé: "Mais au fait, c'est quel film déjà?". La franchise **Détective Conan** a pris vie en 1994 sous la plume d'*Aoyama Gosho* et je me rappelle encore avoir lu un article dans AnimeLand[^1] qui décrivait la parution du premier volume sans imaginer que l'on assistait à la naissance d'un mastodonte. Depuis 1996, une adaptation animée est diffusée, et chaque année depuis 1997[^2], un nouveau film sort sur les grands écrans Japonais.

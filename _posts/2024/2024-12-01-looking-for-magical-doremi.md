@@ -10,6 +10,8 @@ image:
 country: JP
 rating: 4
 release_date: 2020-11-13
+meta:
+  imdb: "https://www.imdb.com/title/tt11867418/"
 ---
 
 Je n'ai jamais tari mon appréciation pour le genre du shôjo[^1] manga, et suivre des animés catégorisés "pour fille" n'a été que plus de pierres dans l'établissement de mon appréciation pour le genre du manga dans son ensemble. Parmi ceux-ci, **Magical DoReMi**[^2], diffusé en France au début des années 2000, m'a beaucoup marqué. A la manière d'un **Sailor Moon** en son temps (bien que moins adulte dans ses thèmes), la série a connu trois suites animées, puis a vite disparu de l'inconscient collectif après 2004. En 2019, un projet a été annoncé pour fêter les 20 ans de la franchise, mais celui-ci ne traiterait pas des personnages de la série originale mais de...personnages qui ont connu la série?

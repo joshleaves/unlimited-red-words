@@ -10,6 +10,8 @@ image:
 country: US
 rating: 2
 release_date: 2019-05-31
+meta:
+  imdb: "https://www.imdb.com/title/tt3741700/"
 ---
 
 Ici...j'ai décroché.
