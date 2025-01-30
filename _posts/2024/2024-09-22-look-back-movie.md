@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-09-22-look-back.png
+  path: 2024-09-22-look-back.jpeg
 country: JP
 rating: 3
 release_date: 2024-06-28

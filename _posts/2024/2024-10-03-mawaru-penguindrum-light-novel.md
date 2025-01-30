@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-10-03-mawaru-penguindrum-light-novel.png
+  path: 2024-10-03-mawaru-penguindrum-light-novel.jpeg
 country: JP
 rating: 4
 release_date: 2011-07-04
