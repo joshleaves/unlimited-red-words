@@ -64,40 +64,47 @@ tail_includes:
       {% endif %}
 
       <div class="d-flex justify-content-between">
+        {% if page.meta.watch %}
+        <div class="watch">
+          <a href="{{ page.meta.watch }}" target="_blank">
+            <i class="fas fa-play"></i>
+            Regarder <strong>{{ page.title }}</strong> en ligne
+          </a>
+        </div>
+        {% else%}
         <!-- author(s) -->
-        <span>
-          {% if page.author %}
-            {% assign authors = page.author %}
-          {% elsif page.authors %}
-            {% assign authors = page.authors %}
-          {% endif %}
-
-          {{ site.data.locales[lang].post.written_by }}
-
-          <em>
-            {% if authors %}
-              {% for author in authors %}
-                {% if site.data.authors[author].url -%}
-                  <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
-                {%- else -%}
-                  {{ site.data.authors[author].name }}
-                {%- endif %}
-                {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
-              {% endfor %}
-            {% else %}
-              <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+          <span>
+            {% if page.author %}
+              {% assign authors = page.author %}
+            {% elsif page.authors %}
+              {% assign authors = page.authors %}
             {% endif %}
-          </em>
-        </span>
+
+            {{ site.data.locales[lang].post.written_by }}
+
+            <em>
+              {% if authors %}
+                {% for author in authors %}
+                  {% if site.data.authors[author].url -%}
+                    <a href="{{ site.data.authors[author].url }}">{{ site.data.authors[author].name }}</a>
+                  {%- else -%}
+                    {{ site.data.authors[author].name }}
+                  {%- endif %}
+                  {% unless forloop.last %}{{ '</em>, <em>' }}{% endunless %}
+                {% endfor %}
+              {% else %}
+                <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>
+              {% endif %}
+            </em>
+          </span>
+        {% endif %}
 
         <div>
-          <!-- pageviews -->
-          {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
+          {% if page.meta.imdb %}
             <span>
-              <em id="pageviews">
-                <i class="fas fa-spinner fa-spin small"></i>
-              </em>
-              {{ site.data.locales[lang].post.pageview_measure }}
+              <a href="{{ page.meta.imdb }}" target="_blank">
+                <i class="fab fa-imdb"></i> IMDB
+              </a>
             </span>
           {% endif %}
 
