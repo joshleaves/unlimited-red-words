@@ -1,11 +1,25 @@
 <!--
   Rating format snippet
 -->
+{% capture tooltip %}
+  {% case include.rating %}
+  {% when 5 %} 5 étoiles.<br /> Un chef-d'oeuvre.
+  {% when 4 %} 4 étoiles.<br /> Proche de la perfection.
+  {% when 3 %} 3 étoiles.<br /> Un bon moment.
+  {% when 2 %} 2 étoiles.<br /> Pas transcendant...
+  {% else %} 1 étoile.<br /> Vraiment mauvais.
+  {% endcase %}
+{% endcapture %}
 
-<span class="post-rating" rating-value="{{ include.rating }}">
+<span class="post-rating"
+  rating-value="{{ include.rating }}"
+  data-bs-html="true"
+  data-bs-toggle="tooltip"
+  data-bs-placement="bottom"
+  data-bs-original-title="{{ tooltip }}">
   {% case include.rating %}
     {% when 5 %}
-★★★★★
+  ★★★★★
     {% when 4 %}
 ★★★★☆
     {% when 3 %}
