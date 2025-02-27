@@ -31,6 +31,11 @@ tail_includes:
         Released on
         {% include datetime.html date=page.release_date tooltip=true lang=lang %}
       </span>
+      {% if page.meta.pages %}
+        <span>
+          {{ page.meta.pages }} pages
+        </span>
+      {% endif %}
       {% if page.tags.size > 0 %}
         <span>
           <i class="fa fa-tags fa-fw me-1"></i>
@@ -68,10 +73,10 @@ tail_includes:
         <div class="watch">
           <a href="{{ page.meta.watch }}" target="_blank">
             <i class="fas fa-play"></i>
-            Regarder <strong>{{ page.title }}</strong> en ligne
+            Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> en ligne
           </a>
         </div>
-        {% else%}
+        {% else %}
         <!-- author(s) -->
           <span>
             {% if page.author %}
@@ -106,7 +111,14 @@ tail_includes:
                 <i class="fab fa-imdb"></i> IMDB
               </a>
             </span>
+          {% else if page.meta.isbn %}
+            <span class="isbn" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="{{ page.meta.pages }} pages">
+              <a href="https://www.goodreads.com/search?q={{ page.meta.isbn }}" target="_blank">
+                <i class="fab fa-goodreads"></i> GoodReads
+              </a>
+            </span>
           {% endif %}
+
 
           <!-- read time -->
           {% include read-time.html content=content prompt=true lang=lang %}
