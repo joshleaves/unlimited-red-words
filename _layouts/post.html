@@ -22,14 +22,14 @@ tail_includes:
     <div class="post-meta text-muted">
       <!-- published date -->
       <span>
-        {{ site.data.locales[lang].post.posted }}
-        {% include datetime.html date=page.date tooltip=true lang=lang %}
+        Publié le
+        {% include datetime.html date=page.date tooltip=true lang='fr' %}
       </span>
       {% include post-rating.html rating=page.rating %}
       {% include post-country.html country=page.country %}
       <span>
-        Released on
-        {% include datetime.html date=page.release_date tooltip=true lang=lang %}
+        Sorti le
+        {% include datetime.html date=page.release_date tooltip=true lang='fr' %}
       </span>
       {% if page.meta.pages %}
         <span>
@@ -40,10 +40,7 @@ tail_includes:
         <span>
           <i class="fa fa-tags fa-fw me-1"></i>
           {% for tag in page.tags %}
-            <a
-              href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/"
-              class="post-tag no-text-decoration"
-            >
+            <a href="{{ site.baseurl }}/tags/{{ tag | slugify | url_encode }}/" class="post-tag no-text-decoration">
               {{- tag -}}
             </a>
           {% endfor %}
