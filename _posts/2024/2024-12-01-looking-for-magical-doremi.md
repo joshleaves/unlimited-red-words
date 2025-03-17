@@ -26,7 +26,7 @@ On se retrouve avec trois femmes, de 20 (Reika), 22 (Sora), et 27 (Mire) ans[^4]
 
 Ce tour du Japon sera une occasion de voir des spots touristiques assez classiques, mais aussi de faire face aux problèmes de ces femmes: Mire a le job de ses rêves mais doit souffrir une hiérarchie patriarcale et vieillissante, les parents de Sora la forcent à suivre des études qui ne l'intéressent pas, et Reika entretient financièrement son petit copain musicien. A travers les voyages, leur amitié se renforce, ainsi que leur confiance en elles, et chacune d'elle trouvera la motivation de poursuivre son rêve.
 
-Par chance, ces rêves s'avèreront assez compatibles pour que nos héroïnes puissent mettre à profit leurs talents respectifs pour...une fin assez convenue, et peu surprenant.
+Par chance, ces rêves s'avèreront assez compatibles pour que nos héroïnes puissent mettre à profit leurs talents respectifs pour...une fin assez convenue, et peu surprenante.
 
 # "Je trouve qu'on ne parle pas assez des hommes"
 

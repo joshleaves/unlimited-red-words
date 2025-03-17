@@ -32,7 +32,7 @@ Je pourrais écrire la suite de l'histoire, mais c'est généralement à partir 
 
 Dès sa sortie, le manga est encensé par tous: les lecteurs, les pairs de Fujimoto,... En 143 pages, Fujimoto a mis sa personne à nu. Si l'auteur donne à son duo d'héroïne le nom de plume "Kyo Fujino", il est évident que "Fujimoto"[^6] leur aurait mieux convenu. Comme leur créateur, les deux dessinatrices sont des génies, l'une dans le dessin, l'autre en rythme et storytelling. Ce même génie ressort des pages et du découpage des cases. Le rythme est totalement maîtrisé et chaque morceau de case s'exprime avec vie au lecteur.
 
-Quelques mois après, ce court one-shot devient a droit à une sortie physique, et une adaptation cinématographique est annoncée dans la foulée.
+Quelques mois après, ce court one-shot eut droit à une sortie physique, et une adaptation cinématographique fût annoncée dans la foulée.
 
 # Moyen after all
 
