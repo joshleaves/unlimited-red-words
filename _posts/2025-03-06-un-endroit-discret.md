@@ -15,7 +15,7 @@ meta:
   author: "Seichō Matsumoto / 松本清張"
   editor: "Actes Sud"
   url: "https://actes-sud.fr/un-endroit-discret"
-  isbn: "978-2-7427-9536-9"
+  isbn: "978-2-74279-536-9"
 ---
 
 Après avoir suivi [une femme qui élucide la mort de son mari](/posts/le-point-zero/), nous avons cette fois-ci le schéma inverse: un homme qui cherche à élucider la mort de sa femme. Les circonstances sont différentes et cela mènera à une évolution différente de l'intrigue...
