@@ -10,6 +10,12 @@ image:
 country: JP
 rating: 4
 release_date: 2005-08-30
+meta:
+  pages: 320
+  author: "Keigo Higashino / 東野圭吾"
+  editor: "Actes Sud"
+  url: "https://www.actes-sud.fr/le-devouement-du-suspect-x-0"
+  isbn: "978-2-330-01314-1"
 ---
 
 À chaque fois que je lis un livre policier particulièrement bien ficelé, je suis toujours épaté par l'intelligence, non pas du détective, mais de l'écrivain, qui a su proposer conjointement un problème, et sa solution, à travers le criminel et le détective.
