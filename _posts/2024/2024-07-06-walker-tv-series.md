@@ -11,12 +11,13 @@ country: US
 rating: 3
 release_date: 2021-01-21
 meta:
+  imdb: "https://www.imdb.com/title/tt11006642/"
+  wikipedia: "https://en.wikipedia.org/wiki/Walker_(TV_series)"
   start_date: 2021-01-21
   end_date: 2024-07-26
   network: "The CW"
   seasons: 4
   episodes: 69
-wikipedia: "https://en.wikipedia.org/wiki/Walker_(TV_series)"
 ---
 
 Lancée en 2021, la série **Walker** était initialement voulue comme un reboot de **Walker Texas Ranger** avec *Chuck Norris*, mais la série a vite su se démarquer de son modèle original en proposant un modèle plus classique reposant sur un cast plus divers, qui se compose cette fois de toute la famille du Texas Ranger titulaire.

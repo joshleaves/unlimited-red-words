@@ -11,12 +11,13 @@ country: US
 rating: 3
 release_date: 2021-02-23
 meta:
+  imdb: "https://www.imdb.com/title/tt11192306/"
+  wikipedia: "https://en.wikipedia.org/wiki/Superman_%26_Lois"
   start_date: 2021-02-23
   end_date: 2024-12-02
   network: "The CW"
   seasons: 4
   episodes: 53
-wikipedia: "https://en.wikipedia.org/wiki/Superman_%26_Lois"
 ---
 
 Lorsque le cross-over "Crisis on Infinite Earths"[^1] a subtilement introduit le personnage de Superman dans le Arrowverse, j'étais pour le moins circonspect: la personnalité "Clark" était très crédible, mais me semblait prendre trop le dessus sur celle de superman[^2], lui retirant le charisme nécessaire pour mettre en confiance une personne à qui il pourrait dire "Je vais vous sauver".

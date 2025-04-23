@@ -10,6 +10,14 @@ image:
 country: JP
 rating: 3
 release_date: 2022-04-07
+meta:
+  imdb: "https://www.imdb.com/title/tt2887954/"
+  wikipedia: "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)"
+  start_date: 2022-04-07
+  end_date: 2024-04-04
+  network: "HBO Max"
+  seasons: 2
+  episodes: 18
 ---
 
 > À Tokyo, le reporter américain Jake Adelstein, âgé de 24 ans, intègre le plus grand quotidien japonais. Alors qu'il collabore avec la police locale, il devient un interlocuteur des yakuzas, mais cette position ambivalente n'est pas sans danger.

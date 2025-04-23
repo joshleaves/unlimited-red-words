@@ -12,6 +12,13 @@ rating: 2
 release_date: 2003-04-08
 meta:
   imdb: "https://www.imdb.com/title/tt0409612/"
+  anidb: "https://anidb.net/anime/640"
+  wikipedia: "https://en.wikipedia.org/wiki/Scrapped_Princess"
+  start_date: 2003-04-08
+  end_date: 2003-10-07
+  network: "WOWOW"
+  seasons: 1
+  episodes: 24
 ---
 
 Depuis "L'allégorie de la Caverne", jusqu'aux journaux à sensations qui titrent régulièrement "Untel pense que l'on vit dans une simulation", en passant par Matrix, le mythe de l'homme qui arrive à voir le monde réel par-delà la caverne est tenace en fiction. Dans la fiction Japonaise, une variante y est souvent racontée: celle de protagoniste évoluant dans une civilisation peu avancée technologiquement, qui vivent en réalité dans le contexte d'une civilisation plus moderne.

@@ -12,6 +12,12 @@ rating: 4
 release_date: 2023-11-17
 meta:
   imdb: "https://www.imdb.com/title/tt17220216/"
+  wikipedia: "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
+  start_date: 2023-11-17
+  end_date: 2024-01-12
+  network: "Apple TV"
+  seasons: 1
+  episodes: 10
 ---
 
 Lorsque cette série commence, on revient sur un personnage plutôt secondaire d'un [opus déjà plutôt secondaire](/posts/kong-skull-island/), qui trouvait la mort de manière peu cérémonieuse (comme tout le monde dans ce film en fait), pour l'étoffer de quelques minutes avant sa mort...et par la suite, de plusieurs années.

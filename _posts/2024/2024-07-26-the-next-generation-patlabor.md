@@ -10,6 +10,15 @@ image:
 country: JP
 rating: 4
 release_date: 2014-03-08
+meta:
+  imdb: "https://www.imdb.com/title/tt2789534/"
+  mdl: "https://mydramalist.com/20092-the-next-generation-patlabor"
+  wikipedia: "https://en.wikipedia.org/wiki/The_Next_Generation:_Patlabor"
+  start_date: 2014-03-08
+  end_date: 2015-01-10
+  network: "BS Digital"
+  seasons: 1
+  episodes: 14
 ---
 
 En 1988, le collectif *HEADGEAR*[^1] est formé. Chacun des membres de ce groupe met en commun ses capacités afin de créer une franchise multi-médias: **Patlabor**. Composée d'un manga, de romans, et de plusieurs productions animées, cette franchise se déroulant dans un futur proche[^2] dépeignait le quotidien d'une unité de police, la SV2 (Special Vehicles-2) chargée de la criminalité liée aux Labors, une nouvelle classe de véhicules plus proche de l'engin de chantier que du robot géant auquel la science-fiction Japonaise nous avait habitués.
