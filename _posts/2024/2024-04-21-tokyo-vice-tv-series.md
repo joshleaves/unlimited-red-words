@@ -38,16 +38,16 @@ Certains subplots de la saison 2 sont un peu anecdotiques et l'on sent que la s�
 
 Le jeu d'Ansel Elgort est très bon: on sent l'évolution du personnage qui débute comme nous, un poisson hors de l'eau, qui découvre des codes inconnus, mais va vite les assimiler jusqu'à devenir un acteur à part entière de cet univers de la nuit. Pour avoir écouté quelques moments en VO, son utilisation Japonais est très correcte et ne se limite pas à répéter phonétiquement des phrases. A défaut d'avoir étudié le Japonais dix ans, l'acteur a clairement pris quelques leçons de Japonais lui permettant de savoir où placer ses émotions.
 
-En France, nous avons eu la chance que Canal+ prenne les droits de la série. La chaîne a pris le parti de ne pas doubler les dialogues en Japonais et les garder sous-titrés. L'adaptation Française ne m'a donc pas paru prendre trop de libertés sur l'anglais, ni tenter d'édulcolorer certains termes Japonais utilisés en anglais. 
+En France, nous avons eu la chance que Canal+ prenne les droits de la série. La chaîne a pris le parti de ne pas doubler les dialogues en Japonais et les garder sous-titrés. L'adaptation Française ne m'a donc pas paru prendre trop de libertés sur l'anglais, ni tenter d'édulcorer certains termes Japonais utilisés en anglais. 
 
 # Voir Tokyo et mourir
 
-Au final, HBO a annoncé que la série était annulée après deux saisons. Bien que beaucoup de voix ont décrié ce choix, il m'apparaît pour ma part...logique. Si la première saison termine dans un cliffhanger digne d'un chapitre de One Piece, la saison 2 arrive à correctement clôre tous les mystères lancés depuis le tout premier épisode.
+Au final, HBO a annoncé que la série était annulée après deux saisons. Bien que beaucoup de voix ont décrié ce choix, il m'apparaît pour ma part...logique. Si la première saison termine dans un cliffhanger digne d'un chapitre de One Piece, la saison 2 arrive à correctement clore tous les mystères lancés depuis le tout premier épisode.
 
 Si vous désirez voir un Tokyo que l'on a peu l'occasion de voir, la série Tokyo Vice est une très bonne alternative au livre.
 
 * * *
-[^1]: [<i class="fab fa-instagram"></i> tokyovice](https://www.instagram.com/tokyovice/)
+[^1]: [<i class="fab fa-instagram"></i> @tokyovice](https://www.instagram.com/tokyovice/)
 [^2]: [<i class="fab fa-apple"></i> The Evaporated: Gone with the Gods](https://podcasts.apple.com/us/podcast/evaporated-gone-with-the-gods/id1721239147)
 [^3]: Ken Watanabe et Rinko Kikuchi font presque figure d'OVNIs, mais leur popularité dans des films Hollywoodiens a dû jouer dans leur casting.
 [^4]: L'histoire originale se déroulait en 1993, elle a été avancée à 1999 pour la série. Pour ma part, je ne débuterais le Japonais qu'en...2002.

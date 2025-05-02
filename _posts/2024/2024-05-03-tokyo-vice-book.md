@@ -13,7 +13,7 @@ release_date: 2010-10-05
 meta:
   pages: 480
   author: Jake Adelstein
-  editor: Marchialy
+  editor: "Marchialy"
   url: "https://www.editions-marchialy.fr/livre/tokyo-vice/"
   isbn: "979-1-09558-200-7"
 ---
