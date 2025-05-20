@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images
 image:
-  path: 2024-08-02-tokyo-detective.png
+  path: 2024/2024-08-02-tokyo-detective.png
 country: JP
 rating: 2
 release_date: 2023-03-29

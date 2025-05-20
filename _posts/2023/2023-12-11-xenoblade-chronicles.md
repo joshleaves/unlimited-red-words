@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Xenoblade Chronicles"]
 media_subpath: /assets/images
 image:
-  path: /2023-12-11-xenoblade-chronicles.jpg
+  path: 2023/2023-12-11-xenoblade-chronicles.jpg
 country: JP
 rating: 3
 release_date: 2010-06-10

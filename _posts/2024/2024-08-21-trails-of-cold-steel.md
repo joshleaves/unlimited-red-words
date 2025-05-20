@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
-  path: 2024-08-21-trails-of-cold-steel.jpg
+  path: 2024/2024-08-21-trails-of-cold-steel.jpg
 country: JP
 rating: 4
 release_date: 2013-09-26
@@ -38,7 +38,7 @@ Dès le prologue du jeu, les tensions sont visibles entre *Machias*, le fils de 
 
 C'est du vu et revu, oui.
 
-!["Put a sock in it, Machias."](2024-08-21-THE_LEGEND_OF_HEROES_TRAILS_OF_COLD_STEEL_12.jpeg){: .right w="320" h="180" }
+!["Put a sock in it, Machias."](2024/2024-08-21-THE_LEGEND_OF_HEROES_TRAILS_OF_COLD_STEEL_12.jpeg){: .right w="320" h="180" }
 
 Au quatrième chapitre, l'aventure nous place cette fois-ci au milieu de la dispute entre *Laura*, héritière d'une famille noble de chevaliers et de leur aptitude à l'épée[^2], et *Fie*, une gamine qui a grandi (et combattu) au sein d'une troupe de mercenaires et n'a jamais connu la vie d'une adolescente normale et n'a pas grand-chose à dire. Pris seuls, ces archétypes n'ont vraiment rien de trop neuf, mais c'est leurs interactions qui prendront une tournure inattendue: dès les précédents chapitres, quelques moments étranges étaient visibles dès que Fie évoquait (sans retenue aucune) son passé dans le mercenariat, et Laura se montrait visiblement courroucée par ces propos nonchalants, et leurs travaux en commun se soldaient constamment par des échecs.
 

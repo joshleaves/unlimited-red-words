@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["🎮 Castlevania"]
 media_subpath: /assets/images
 image:
-  path: 2024-07-01-aux-origines-de-castlevania-sotn.jpg
+  path: 2024/2024-07-01-aux-origines-de-castlevania-sotn.jpg
 country: FR
 rating: 1
 release_date: 2020-09-24

@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: ["📺 Kamen Rider"]
 media_subpath: /assets/images
 image:
-  path: 2024-01-08-kamen-rider-kuuga.jpg
+  path: 2024/2024-01-08-kamen-rider-kuuga.jpg
 country: JP
 rating: 4
 release_date: 2000-01-30

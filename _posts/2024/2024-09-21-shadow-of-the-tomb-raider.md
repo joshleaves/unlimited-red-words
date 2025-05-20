@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Tomb Raider: Survivor"]
 media_subpath: /assets/images
 image:
-  path: 2024-09-21-shadow-of-the-tomb-raider.jpg
+  path: 2024/2024-09-21-shadow-of-the-tomb-raider.jpg
 country: US
 rating: 2
 release_date: 2018-09-14
@@ -48,7 +48,7 @@ Le combat change aussi. Pendant une grosse partie du jeu, j'ai pris plaisir à r
 
 # Toujours aussi...plaisant?
 
-![Tout complet!](2024-09-21-completed.png){: w="300" h="100" }
+![Tout complet!](2024/2024-09-21-completed.png){: w="300" h="100" }
 
 Encore une fois, j'ai pris le soin de fouiller chaque recoin du jeu.
 

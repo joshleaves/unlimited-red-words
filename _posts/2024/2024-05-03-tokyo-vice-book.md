@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images
 image:
-  path: 2024-05-03-tokyo-vice-book.png
+  path: 2024/2024-05-03-tokyo-vice-book.png
 country: JP
 rating: 3
 release_date: 2010-10-05

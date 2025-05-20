@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-07-26-patlabornext04.jpg
+  path: 2024/2024-07-26-patlabornext04.jpg
 country: JP
 rating: 4
 release_date: 2014-03-08

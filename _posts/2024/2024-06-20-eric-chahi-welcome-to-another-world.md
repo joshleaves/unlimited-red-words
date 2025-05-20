@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-06-20-ANWOPIX.jpg
+  path: 2024/2024-06-20-ANWOPIX.jpg
 country: FR
 rating: 3
 release_date: 2013-12-16

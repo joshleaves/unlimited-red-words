@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
-  path: 2024-12-06-le-detective-est-au-bar.jpg
+  path: 2024/2024-12-06-le-detective-est-au-bar.jpg
 country: JP
 rating: 4
 release_date: 1992-05-01

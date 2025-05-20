@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-10-07-megalopolis.jpg
+  path: 2024/2024-10-07-megalopolis.jpg
 country: US
 rating: 4
 release_date: 2024-09-27

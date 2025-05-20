@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-12-01-MagicalDoremi-Banniere.jpg
+  path: 2024/2024-12-01-MagicalDoremi-Banniere.jpg
 country: JP
 rating: 4
 release_date: 2020-11-13

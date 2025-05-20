@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-11-28-suspect-x.jpg
+  path: 2024/2024-11-28-suspect-x.jpg
 country: JP
 rating: 4
 release_date: 2005-08-30

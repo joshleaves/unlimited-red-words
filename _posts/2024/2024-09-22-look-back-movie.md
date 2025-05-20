@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-09-22-look-back.jpeg
+  path: 2024/2024-09-22-look-back.jpeg
 country: JP
 rating: 3
 release_date: 2024-06-28
@@ -28,7 +28,7 @@ Dans un autre univers, une Kyomoto encore enfant et sur le point de rencontrer F
 
 Je pourrais écrire la suite de l'histoire, mais c'est généralement à partir de ces pages que je me mets à pleurer. Aussi, j'encourage tout le monde à lire **Look Back** pour découvrir par eux-mêmes les multiples beautés de cette oeuvre.
 
-![Le talent d'expression de Fujimoto est indéniable](2024-09-22-fujino_rain.png){: .right w="175" h="141" }
+![Le talent d'expression de Fujimoto est indéniable](2024/2024-09-22-fujino_rain.png){: .right w="175" h="141" }
 
 Dès sa sortie, le manga est encensé par tous: les lecteurs, les pairs de Fujimoto,... En 143 pages, Fujimoto a mis sa personne à nu. Si l'auteur donne à son duo d'héroïne le nom de plume "Kyo Fujino", il est évident que "Fujimoto"[^6] leur aurait mieux convenu. Comme leur créateur, les deux dessinatrices sont des génies, l'une dans le dessin, l'autre en rythme et storytelling. Ce même génie ressort des pages et du découpage des cases. Le rythme est totalement maîtrisé et chaque morceau de case s'exprime avec vie au lecteur.
 

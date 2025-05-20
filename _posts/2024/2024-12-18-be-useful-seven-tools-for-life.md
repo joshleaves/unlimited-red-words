@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-12-18-be-useful-626x0w.webp
+  path: 2024/2024-12-18-be-useful-626x0w.webp
 country: US
 rating: 4
 release_date: 2023-10-10

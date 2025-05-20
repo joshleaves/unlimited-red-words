@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["Mobile Suit Gundam"]
 media_subpath: /assets/images
 image:
-  path: 2024-09-12-mobile-suit-gundam-book.jpg
+  path: 2024/2024-09-12-mobile-suit-gundam-book.jpg
 country: JP
 rating: 3
 release_date: 1979-10-01

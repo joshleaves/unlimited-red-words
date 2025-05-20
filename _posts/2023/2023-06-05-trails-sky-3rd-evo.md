@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
-  path: 2023-06-05-trails-sky-3rd-evo.png
+  path: 2023/2023-06-05-trails-sky-3rd-evo.png
 country: JP
 rating: 4
 release_date: 2007-06-28

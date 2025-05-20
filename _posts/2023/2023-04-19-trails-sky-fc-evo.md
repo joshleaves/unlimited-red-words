@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
-  path: /2023-04-19-trails-sky-fc-evo.png
+  path: 2023/2023-04-19-trails-sky-fc-evo.png
 country: JP
 rating: 4
 release_date: 2004-06-24

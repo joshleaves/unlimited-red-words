@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-06-27-human-machine.jpg
+  path: 2024/2024-06-27-human-machine.jpg
 country: FR
 rating: 3
 release_date: 2019-12-2

@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: ["📚 Jake Adelstein"]
 media_subpath: /assets/images
 image:
-  path: 2024-04-21-tokyo-vice-tv.webp
+  path: 2024/2024-04-21-tokyo-vice-tv.webp
 country: JP
 rating: 3
 release_date: 2022-04-07

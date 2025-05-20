@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-12-31-my-heart-sutra.webp
+  path: 2024/2024-12-31-my-heart-sutra.webp
 country: JP
 rating: 2
 release_date: 2020/12/15

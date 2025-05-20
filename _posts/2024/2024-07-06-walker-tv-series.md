@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-07-06-walker-tv.jpg
+  path: 2024/2024-07-06-walker-tv.jpg
 country: US
 rating: 3
 release_date: 2021-01-21

@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: ["Mobile Suit Gundam"]
 media_subpath: /assets/images
 image:
-  path: 2024-04-27-gundam-seed-freedom.jpg
+  path: 2024/2024-04-27-gundam-seed-freedom.jpg
 country: JP
 rating: 4
 release_date: 2024-01-26

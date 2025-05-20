@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-12-02-when-breath-becomes-air.jpg
+  path: 2024/2024-12-02-when-breath-becomes-air.jpg
 country: US
 rating: 4
 release_date: 2016-01-12

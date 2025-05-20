@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
-  path: 2024-12-12-Le-Singe-venimeux_Arimasa-Osawa.jpg
+  path: 2024/2024-12-12-Le-Singe-venimeux_Arimasa-Osawa.jpg
 country: JP
 rating: 2
 release_date: 1991-09-01

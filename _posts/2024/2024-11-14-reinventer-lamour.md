@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-11-14-reinventer-lamour.jpg
+  path: 2024/2024-11-14-reinventer-lamour.jpg
 country: FR
 rating: 4
 release_date: 2021-09-16

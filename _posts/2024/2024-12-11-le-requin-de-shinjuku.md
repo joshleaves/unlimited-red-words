@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
-  path: 2024-12-11-Le-Requin-de-Shinjuku_Arimasa-Osawa.jpg
+  path: 2024/2024-12-11-Le-Requin-de-Shinjuku_Arimasa-Osawa.jpg
 country: JP
 rating: 3
 release_date: 1990-09-01

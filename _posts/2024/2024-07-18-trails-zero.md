@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
-  path: 2024-07-18-trails-zero.jpg
+  path: 2024/2024-07-18-trails-zero.jpg
 country: JP
 rating: 4
 release_date: 2010-09-30
@@ -33,7 +33,7 @@ De même, l'action se cantonnant à ce cadre restreint et l'aspect exploration p
 Comme dans les précédents opus, l'environnement paraît à nouveau totalement vivant: certaines quêtes ne sont disponibles qu'à un instant précis, certains évènements ne se déroulent que d'une manière spécifique, certains commentaires n'arriveront que dans certaines circonstances,...
 
 # Le coeur
-![Les quatre héros de Final Fantaxy XV](2024-07-18-FFXV_Afrojack_Trailer_screenshot_03.png){: .right w="277" h="397" }
+![Les quatre héros de Final Fantaxy XV](2024/2024-07-18-FFXV_Afrojack_Trailer_screenshot_03.png){: .right w="277" h="397" }
 
 Dans la première séquence du jeu **Final Fantasy XV**, les quatre héros s'abritent derrière une statue pour se protéger d'une attaque de feu. En plus d'être un plan magnifique, l'intelligence de la mise en scène permet immédiatement de connaître les rôles et relations des quatre personnages. Le plus musclé est *Gladiolus*, garde royal, et on peut le voir entourer le quatuor de son corps imposant, son dos faisant rempart aux flammes. Ensuite vient *Ignis*, conseiller royal, son corps fait suite à celui du garde pour protéger les membres plus vulnérables du groupe. La dernière pierre est *Prompto*, le meilleur ami, il sait se battre et n'a pas de rôle officiel, mais est protégé par les plus puissants, et sert aussi de rempart. Enfin, *Noctis*, le héros principal, littéralement un Prince, celui qu'il faut protéger, est au plus près de la statue, surmonté par ses trois amis qui connaissent leurs rôles et sont prêts à donner leurs vies pour lui. La manière dont ces quatre personnages interagissent, personnellement ou en groupe, suit toujours une logique.
 

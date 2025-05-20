@@ -6,7 +6,7 @@ category: 🎮 Jeux vidéos
 tags: ["🎮 Tomb Raider: Survivor"]
 media_subpath: /assets/images
 image:
-  path: 2024-09-14-rise-of-the-tomb-raider.png
+  path: 2024/2024-09-14-rise-of-the-tomb-raider.png
 country: US
 rating: 4
 release_date: 2015-11-10
@@ -36,7 +36,7 @@ Les mouvements n'ont pas changé, mais m'ont fait repenser à la manière dont m
 
 # Pas de fall
 
-![Tout complet!](2024-09-14-rise-of-the-tomb-raider-100.png){: w="300" h="100" }
+![Tout complet!](2024/2024-09-14-rise-of-the-tomb-raider-100.png){: w="300" h="100" }
 
 Je pourrais parler plus longtemps, mais au final, est-ce que cette image ne dit pas tout?
 

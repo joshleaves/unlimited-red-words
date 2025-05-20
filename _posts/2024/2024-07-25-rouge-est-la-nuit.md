@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Atelier Akatombo", "📚 Reiko Himekawa"]
 media_subpath: /assets/images
 image:
-  path: 2024-07-25-Rouge-est-la-nuit_Tetsuya-Honda.jpg
+  path: 2024/2024-07-25-Rouge-est-la-nuit_Tetsuya-Honda.jpg
 country: JP
 rating: 3
 release_date: 2006-02-25

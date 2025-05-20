@@ -1,10 +1,10 @@
 ---
 ---
-
+/* prettier-ignore */
 {%- if jekyll.environment == 'production' -%}
-@import 'main.bundle';
+@use 'main.bundle';
 {%- else -%}
-@import 'main';
+@use 'main';
 {%- endif -%}
 
 /* append your custom style below */

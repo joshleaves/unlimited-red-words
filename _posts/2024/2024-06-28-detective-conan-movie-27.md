@@ -6,7 +6,7 @@ category: 🎬 Cinéma
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-06-28-detective-conan-m27.jpg
+  path: 2024/2024-06-28-detective-conan-m27.jpg
 country: JP
 rating: 4
 release_date: 2024-04-12

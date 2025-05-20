@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-05-24-jump-lage-dor-du-manga.webp
+  path: 2024/2024-05-24-jump-lage-dor-du-manga.webp
 country: JP
 rating: 3
 release_date: 2019-07-04
@@ -41,7 +41,7 @@ De l'excitation du tirage du million d'exemplaires, jusqu'à l'apogée des six m
 * * *
 
 # Akira Toriyama, l'autre maître du manga
-![Couverture du numéro 5+6 de Shonen Jump, année 1980](2024-05-24-1980-5-6.jpg){: .right w="277" h="397" }
+![Couverture du numéro 5+6 de Shonen Jump, année 1980](2024/2024-05-24-1980-5-6.jpg){: .right w="277" h="397" }
 
 
 Cet article est dédié à *Akira Toriyama*, qui nous a quittés le 1er Mars 2024.

@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Atelier Akatombo", "📚 Reiko Himekawa"]
 media_subpath: /assets/images
 image:
-  path: 2024-10-30-Invisible-est-la-pluie_Tetsuya-Honda.jpg
+  path: 2024/2024-10-30-Invisible-est-la-pluie_Tetsuya-Honda.jpg
 country: JP
 rating: 2
 release_date: 2009-11-25

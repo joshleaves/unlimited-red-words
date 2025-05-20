@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-11-25-pays_de_neige.jpeg
+  path: 2024/2024-11-25-pays_de_neige.jpeg
 country: JP
 rating: 2
 release_date: 1947-07-16

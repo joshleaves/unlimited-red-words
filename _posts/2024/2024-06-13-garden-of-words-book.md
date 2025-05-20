@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2024-06-13-garden-of-words.jpg
+  path: 2024/2024-06-13-garden-of-words.jpg
 country: JP
 rating: 3
 release_date: 2014-11-04

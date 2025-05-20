@@ -6,7 +6,7 @@ category: 📚 Littérature
 tags: ["📚 Third Editions"]
 media_subpath: /assets/images
 image:
-  path: 2024-07-17-metal-gear-solid.png
+  path: 2024/2024-07-17-metal-gear-solid.png
 country: FR
 rating: 3
 release_date: 2015-12-11
