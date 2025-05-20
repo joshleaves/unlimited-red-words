@@ -26,7 +26,7 @@ Chaque chapitre est narré en troisième personne du point de vue d'un nouveau p
 
 # Quand moi aussi, j'aurai appris à marcher...
 
-Mais surtout, cette nouvelle narration interne permet de mettre de vrais mots sur les émotions que ressentent nos deux protagonistes principaux et l'on trouve enfin la réponse à leurs désirs, sentiments, et même à leur avenir... au dépit du mystère que le film entretenait à la manière d'un **In The Mood Fod Love** de *Wong Kar-Wai*. L'ambiance douce et mystérieuse du film laisse alors place à une nouvelle manière de voir l'histoire.
+Mais surtout, cette nouvelle narration interne permet de mettre de vrais mots sur les émotions que ressentent nos deux protagonistes principaux et l'on trouve enfin la réponse à leurs désirs, sentiments, et même à leur avenir... au dépit du mystère que le film entretenait à la manière d'un **In The Mood For Love** de *Wong Kar-Wai*. L'ambiance douce et mystérieuse du film laisse alors place à une nouvelle manière de voir l'histoire.
 
 Un livre qui plaira aussi aux non-Japanophiles, ma mère l'ayant dévoré d'une traite.
 

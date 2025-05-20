@@ -18,7 +18,7 @@ meta:
   isbn: "978-1-61172-944-3"
 ---
 
-J'ai découvert le Sutra du Coeur en 2018 lorsque l'on m'a transmis une vidéo du moine zen Kanho Yakushiji[^1] récitant sur un air de guitare acoustique, accompagné de quelques autres instruments. Sans forcément en comprendre les paroles (et comment le pourrais-je, elles sont en Chinois), plusieurs mots récitées "à la Japonaise" se sont vite imprégnés dans mon esprit[^2], et j'ai vite mis cette chanson en boucle dans mes écoutes musicales, les diverses versions[^3] me permettant d'avoir le sutra en boucle dans mes oreilles sans me plonger dans une overdose de répétition.
+J'ai découvert le Sutra du Coeur en 2018 lorsque l'on m'a transmis une vidéo du moine zen *Kanho Yakushiji*[^1] récitant sur un air de guitare acoustique, accompagné de quelques autres instruments. Sans forcément en comprendre les paroles (et comment le pourrais-je, elles sont en Chinois), plusieurs mots récitées "à la Japonaise" se sont vite imprégnés dans mon esprit[^2], et j'ai vite mis cette chanson en boucle dans mes écoutes musicales, les diverses versions[^3] me permettant d'avoir le sutra en boucle dans mes oreilles sans me plonger dans une overdose de répétition.
 
 A force de recherches sur le sujet, j'ai découvert que le traducteur [d'un livre que j'avais déjà lu](/posts/mobile-suit-gundam-book/) avait aussi écrit sur sa fascination pour ce court texte en 260 caractères. Le hasard faisant bien les choses, c'est lui qui a clos mes lectures de 2024.
 
@@ -26,7 +26,7 @@ A force de recherches sur le sujet, j'ai découvert que le traducteur [d'un livr
 
 Le livre commence par une réminiscence de l'auteur: bien qu'ayant eu l'habitude des voyages en avion, une avarie lors d'un vol entre le Japon et Los Angeles l'avait plongé dans l'inquiétude et, profane à toute religion, il s'était mis à penser au Sutra du Coeur. A partir de cette seule introduction, j'ai déjà pu sentir une fraternité totale avec l'auteur.
 
-Le livre se veut à la fois une réflection personnelle de l'auteur sur son histoire avec le Sutra (lui l'a découverte lors de récitations par un poète de la Beat Generation[^4]), le rapport "général" des civilisations Japonaises et Chinoises envers ce Sutra (disons que c'est le "pater noster" local), et s'engouffre ensuite dans l'histoire du Sutra.
+Le livre se veut à la fois une réflection personnelle de l'auteur sur son histoire avec le Sutra (lui l'a découverte lors de récitations par un poète de la Beat Generation[^4]), le rapport "général" des civilisations Japonaises et Chinoises envers ce Sutra (disons que c'est le "*pater noster*" local), et s'engouffre ensuite dans l'histoire du Sutra.
 
 # Le Sutra de Son Goku
 

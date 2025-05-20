@@ -49,7 +49,7 @@ Mais on pourra apprécier lire par quelles pirouettes les éléments les plus fa
 * * *
 [^1]: [<i class="fab fa-wikipedia-w"></i> Utena, la fillette révolutionnaire](https://fr.wikipedia.org/wiki/Utena,_la_fillette_r%C3%A9volutionnaire)
 [^2]: Des couvertures de type "protège-cahier", similaire à celles des mangas, et usant les designs Japonais originaux, ont été distribuées par [l'éditeur Akata](https://www.akata.fr/series/mawaru-penguindrum) de manière limitée.
-[^3]: Le tout dernier film de la série, **Matrix Ressurections** contient d'ailleurs une scène dans laquelle un groupe de personnage discute de manière méta-textuelle de l'oeuvre, en pointant une multitude de lectures probables de l'oeuvre, sans que personne n'arrive à se mettre d'accord.
+[^3]: Le tout dernier film de la série, **Matrix Resurrections** contient d'ailleurs une scène dans laquelle un groupe de personnage discute de manière méta-textuelle de l'oeuvre, en pointant une multitude de lectures probables de l'oeuvre, sans que personne n'arrive à se mettre d'accord.
 [^4]: Je parlerais de cette saga un jour ici, probablement...
 [^5]: Il est aussi mentionné une fois de manière externe, indiquant que cet élément est à la fois réel et fantastique, dans la logique de la série. 
 [^6]: Je dois avouer que passé la saison 3, j'ai cessé de regarder la série et j'ai uniquement suivi...les résumés hebdomadaires et les théories...
