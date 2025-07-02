@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 BLADE CHIMERA"
 date: 2025-02-11 22:11:09 +0100
 category: 🎮 Jeux vidéos
-tags: []
+tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:
   path: 2025-02-11-blade-chimera.jpg
