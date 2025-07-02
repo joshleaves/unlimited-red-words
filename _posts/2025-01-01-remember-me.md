@@ -12,6 +12,7 @@ rating: 3
 release_date: 2013-06-04
 meta:
   platform: Sony Playstation 3
+  steam: https://store.steampowered.com/app/228300/Remember_Me/
 ---
 
 A la fois dernier jeu de 2024 et premier jeu de 2025, je me suis enfin mis à *Remember Me*, un jeu qui me faisait de l'envie depuis plusieurs années mais que je n'avais jamais réussi à lancer. Le principe de base semblait intéressant: dans un Paris futuriste où la technologie permet de travailler la mémoire comme des données, une "hackeuse de souvenirs" échappe de prison avant un "effacement" et s'en va renverser le système...

@@ -108,6 +108,12 @@ tail_includes:
                 <i class="fab fa-imdb"></i> IMDB
               </a>
             </span>
+          {% elsif page.meta.steam %}
+            <span>
+              <a href="{{ page.meta.steam }}" target="_blank">
+                <i class="fab fa-steam"></i> Steam
+              </a>
+            </span>
           {% elsif page.meta.isbn %}
             <span class="isbn" data-bs-toggle="tooltip" data-bs-placement="bottom" data-bs-original-title="{{ page.meta.pages }} pages">
               <a href="https://www.goodreads.com/search?q={{ page.meta.isbn }}" target="_blank">

@@ -12,6 +12,7 @@ rating: 3
 release_date: 2010-10-05
 meta:
   platform: Sony Playstation 3
+  steam: https://store.steampowered.com/app/234080/Castlevania_Lords_of_Shadow__Ultimate_Edition/
 ---
 
 Je suis très fan de la saga Castlevania, notamment de l'opus *Symphony of the Night*[^1], [déjà discuté ici](/posts/aux-origines-de-castlevania-sotn/). Malheureusement, le passage à la 3D a été très néfaste pour cette série[^2], et à l'exception des jeux sur GBA, puis DS, restés en 2D, les jeux en 3D sortis sur Playstation 2 ont eu du mal à convaincre...

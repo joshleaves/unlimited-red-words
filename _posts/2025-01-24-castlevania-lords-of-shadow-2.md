@@ -12,6 +12,7 @@ rating: 4
 release_date: 2014-02-25
 meta:
   platform: Sony Playstation 3
+  steam: https://store.steampowered.com/app/239250/Castlevania_Lords_of_Shadow_2/
 ---
 
 Lorsque ce jeu démarre, le héros du [précédent opus](/posts/castlevania-lords-of-shadow/) (mais pas du [spinoff](/posts/castlevania-lords-of-shadow-mirror-of-fate/), il faut suivre), fraîchement devenu Dracula, doit affronter une attaque de l'organisation catholique du coin. Une fois le premier tutoriel de combat passé, un tutoriel de déplacement invite le joueur à escalader de poutre en poutre pour traverser un fossé, comme tout bon jeu de corniche.

@@ -12,6 +12,7 @@ rating: 4
 release_date: 2025-01-07
 meta:
   platform: Nintendo Switch
+  steam: https://store.steampowered.com/app/207320/Ys_The_Oath_in_Felghana/
 ---
 
 Avec la série de jeux [Trails...](/tags/trails/), la série Ys est l'autre produit phare de la compagnie Falcom. Toutefois, ses épisodes ont connu une histoire généralement compliquée.

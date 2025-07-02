@@ -12,6 +12,7 @@ rating: 4
 release_date: 2007-06-28
 meta:
   platform: Sony Playstation Vita
+  steam: https://store.steampowered.com/app/436670/The_Legend_of_Heroes_Trails_in_the_Sky_the_3rd/
 ---
 
 J'ai longtemps eu peur d'arriver un jour à **Trails in the Sky the 3rd**.

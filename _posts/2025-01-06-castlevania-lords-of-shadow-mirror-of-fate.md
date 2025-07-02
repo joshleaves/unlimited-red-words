@@ -12,6 +12,7 @@ rating: 2
 release_date: 2013-03-05
 meta:
   platform: Sony Playstation 3
+  steam: https://store.steampowered.com/app/282530/Castlevania_Lords_of_Shadow__Mirror_of_Fate_HD/
 ---
 
 Lorsque [Lords of Shadow](/posts/castlevania-lords-of-shadow/) se termine, le joueur n'a toujours pas vu Castlevania, et a à peine aperçu Dracula, grâce au DLC et à la scène post-crédits. Pour étendre le lore, et introduire des éléments qui reviendront dans le (futur) second opus, un spin-off est mis en chantier. Un jeu simple, en 2D, sur 3DS (et plus tard PS3), avec un chateau, et qui sera un Metroidvania...plus ou moins.

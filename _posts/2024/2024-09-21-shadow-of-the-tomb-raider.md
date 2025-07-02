@@ -12,6 +12,7 @@ rating: 2
 release_date: 2018-09-14
 meta:
   platform: macOS
+  steam: https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 ---
 
 Mine de rien, j'avais beaucoup apprécié [**Rise**](/posts/rise-of-the-tomb-raider/), et tout ce que je voyais sur ce troisième opus me semblait très bon: un temps de gestation de trois ans depuis le précédent, pas de saloperies multi-joueur, de nouveaux tombeaux bien plus vastes, une meilleure gestion du combat furtif,...

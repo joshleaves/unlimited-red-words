@@ -12,6 +12,7 @@ rating: 5
 release_date: 2011-09-29
 meta:
   platform: Sony Playstation Vita
+  steam: https://store.steampowered.com/app/1668520/The_Legend_of_Heroes_Trails_to_Azure/
 ---
 
 Tout comme un [livre nul](/posts/aux-origines-de-castlevania-sotn/) m'a donné envie d'écrire pour m'épancher sur le dégoût qu'il m'a inspiré, à l'opposé, un jeu m'a donné envie d'écrire pour partager tout le plaisir qu'il m'a donné... Plus encore, la quantité de sentiments qu'il m'a inspirés était si dense qu'écrire était le seul moyen à ma disposition pour mettre de l'ordre dans mes pensées.
@@ -53,7 +54,7 @@ Ainsi, **Azure** a su conclure le scénario de la duologie Crossbell, tout en la
 * * *
 [^1]: *Olivier* et *Mueller* sont le focus d'une quête optionnelle hilarante où, à la manière des précédents jeux, *Oliver* a (encore) pris la poudre d'escampette pour se balader dans Crossbell sous son identité de ménestrel, tandis que *Mueller* se fait passer pour son imprésario et demande au SSS de retrouver *Oliver* pour lui.
 [^2]: Dans **Zero**, *Estelle* et *Joshua* sont jouables uniquement pour le dernier donjon du jeu.
-[^3]: Un trophée caché récompensera les joueurs qui accompliront les trois quêtes permettant à **Lloyd* de deviner l'identité du cerveau de l'affaire avant que celui-ci ne se révèle au joueur.
+[^3]: Un trophée caché récompensera les joueurs qui accompliront les trois quêtes permettant à *Lloyd* de deviner l'identité du cerveau de l'affaire avant que celui-ci ne se révèle au joueur.
 [^4]: Le thème de combat du jeu se nomme [<i class="fab fa-youtube"></i> Get Over The Barrier!](https://www.youtube.com/watch?v=mtq-uX-XzaQ).
 [^5]: Comme le laissait déjà voir [<i class="fab fa-youtube"></i> le trailer de la version PSP du jeu](https://www.youtube.com/watch?v=WGXe0SIDeZY).
 [^6]: Les quatre épisodes de **Trails of Cold Steel**, l'épisode **Trails of Reverie**, et trois épisodes de **Trails Through Daybreak**.

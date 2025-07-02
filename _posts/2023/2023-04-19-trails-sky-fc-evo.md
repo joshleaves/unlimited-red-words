@@ -12,6 +12,7 @@ rating: 4
 release_date: 2004-06-24
 meta:
   platform: Sony Playstation Vita
+  steam: https://store.steampowered.com/app/251150/The_Legend_of_Heroes_Trails_in_the_Sky/
 ---
 
 J'ai entendu parler pour la première fois de **Trails in the Sky** un peu après sa sortie Japonaise en 2004. Sur le forum francophone et japanophile où je traînais, certains membres plus japanophones que moi avaient trouvé un torrent de la version PC du jeu sortie au Japon et imitaient les louanges qui y étaient faites. Mais mon niveau ne suffisait pas à m'attaquer à ce monstre.

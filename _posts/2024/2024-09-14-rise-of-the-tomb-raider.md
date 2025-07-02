@@ -12,6 +12,7 @@ rating: 4
 release_date: 2015-11-10
 meta:
   platform: macOS
+  steam: https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 ---
 
 Il y a quelques jours de cela, mon flux Twitter a mis sous mes yeux le tweet d'une personne s'extasiant sur la beauté des environnements de **Rise of the Tomb Raider**. Ayant toujours apprécié ceux de [l'opus précédents](/posts/tomb-raider-2013/), je ne pouvais que confirmer cette pensée. Puis lorsque j'ai regardé de plus près, j'ai constaté que cette personne avait modifié son jeu pour affubler Lara d'un maillot de bain aux couleurs de l'Union Jack.

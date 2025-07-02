@@ -12,6 +12,7 @@ rating: 4
 release_date: 2013-09-26
 meta:
   platform: Sony Playstation 3
+  steam: https://store.steampowered.com/app/538680/The_Legend_of_Heroes_Trails_of_Cold_Steel/
 ---
 
 Avant même d'y jouer, je voulais détester ce jeu, vraiment.

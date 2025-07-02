@@ -12,6 +12,7 @@ rating: 3
 release_date: 2025-02-24
 meta:
   platform: Nintendo Switch
+  steam: https://store.steampowered.com/app/3253630/Gal_Guardians_Servants_of_the_Dark/
 ---
 
 Il y a une longue histoire du jeu de plateformes dont l'un des ancêtres est le premier **Mega Man**, produite et développée par le studio Japonais *Capcom*: la série originale était bien trop difficile pour que j'y prenne du plaisir, et je n'ai vraiment apprécié jouer avec le "Blue Bomber" qu'une fois la série métamorphosée en **Mega Man X**, une série bien plus ancrée action, et au design plus adulte.

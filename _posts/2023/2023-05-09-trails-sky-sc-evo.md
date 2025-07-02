@@ -12,6 +12,7 @@ rating: 5
 release_date: 2006-03-09
 meta:
   platform: Sony Playstation Vita
+  steam: https://store.steampowered.com/app/251290/The_Legend_of_Heroes_Trails_in_the_Sky_SC/
 ---
 
 S'il est souvent rappelé que l'on peut commencer la série des **Final Fantasy** dans n'importe quel ordre[^1], il n'en va pas de même pour la série des **Trails**, et ce second chapitre de la "Trilogie Liberl" commence à l'instant où le premier se termine.

@@ -12,6 +12,7 @@ rating: 3
 release_date: 2025-01-16
 meta:
   platform: Nintendo Switch
+  steam: https://store.steampowered.com/app/2671230/BLADECHIMERA/
 ---
 
 J'ai déjà parlé de mon amour pour le [genre du Metroidvania](/posts/aux-origines-de-castlevania-sotn/), malheureusement, plus de trente ans après les deux maîtres-étalons, aucun jeu n'a pu leur arriver aux genoux... En ce début d'année 2025, *Team Ladybug* en sort un. La team s'était faite connaître en 2017 pour **Shin Megami Tensei: Synchronicity Prologue**, un fan-game spin-off gratuit adoubé par *Atlus* lors de la sortie de **Shin Megami Tensei: Strange Journey Redux**. Après avoir été commissionnés pour quelques autres jeux de commandes adaptant des franchises connues (**Record of Lodoss War -Deedlit in Wonder Labyrinth-** était sympathique), la team produit enfin SON Metroidvania. Qu'en est-il?
