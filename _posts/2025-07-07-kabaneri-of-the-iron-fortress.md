@@ -41,7 +41,7 @@ Malheureusement, la série ne brillera pas non plus par son originalité, faute 
 
 Clairement, la série n'est pas un pur chef-d'oeuvre aux superlatifs sans fins. Je vois ses notes en ligne avoisiner le 7 sur 10, ce qui n'est pas honteux, et la série a su toucher un assez large public pour mériter trois films compilations, et une suite en film re-découpée en trois épisodes. Donc, si vous avez aimé **AoT**, si vous aimez les musiques de Sawano, et si vous aimez les trains, embarquez sur la forteresse de fer.
 
-***
+* * *
 [^1]: Dans le genre "culture Japonaise à fond", on est servis...
 [^2]: Sans en atteindre la profondeur, on est loin de remettre en question l'ordre établi.
 [^3]: Fêtée chaque année en ce jour (de publication), soit le sept Juillet, [<i class="fab fa-wikipedia-w"></i> Tanabata](https://fr.wikipedia.org/wiki/Tanabata) est une fête Japonaise qui célèbre la rencontre dans le ciel de deux étoiles, représentant un couple d'amoureux, qui ne sont autorisées à se rencontrer qu'une fois par an. C'est aussi la date d'anniversaire (depuis 2020) de mon arrêt de fumer!

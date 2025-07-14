@@ -53,6 +53,6 @@ La troisième saison se termine en laissant pas mal de questions en suspens, sui
 
 En 2013, la série a bénéficié d'un Kickstarter qui a permis la sortie d'un film, puis une quatrième saison fût produite en 2019. Ma soeur m'a déjà prévenu: "Ne regarde pas la saison 4. Non en fait elle n'existe pas." Je pense que je vais suivre son conseil pour le moment...
 
-***
+* * *
 [^1]: Dire qu'à l'époque, mon ordinateur de bureau avait des difficultés à lire les fichiers MP4 au format [<i class="fab fa-youtube"></i> H.264](https://fr.wikipedia.org/wiki/H.264), tandis qu'aujourd'hui, c'est le format standard de vidéos en ligne, et le moindre téléphone bas de gamme inclut une puce dédiée pour le décoder...
 [^2]: Un *ensemble cast*, ou en Français, une [<i class="fab fa-youtube"></i> distribution d'ensemble](https://fr.wikipedia.org/wiki/Distribution_d%27ensemble) est un type de storytelling où tous les personnages ont une importance équivalente.
