@@ -22,7 +22,7 @@ Après [Deep Work](/posts/deep-work/), je continue la liste de lectures que m'a 
 
 # I. Expériences dans un camp de concentration
 
-Longue de 120 pages, cette grosse première moitié  se concentre sur des souvenirs de l'auteur dans des camps de concentration.
+Longue de 120 pages, cette grosse première moitié se concentre sur des souvenirs de l'auteur dans des camps de concentration.
 
 Si j'avais déjà lu **La Mort est mon métier**[^2], qui m'avait assez marqué par sa noirceur, j'admets que le sujet est si sombre qu'au-delà d'une connaissance globale de la chose, je n'ai jamais cherché à lire plus de témoignages de survivants[^3]. Le propos n'édulcore rien: morts, cruauté, déshumanisation,... Le hasard du calendrier a voulu que je lise ces pages quelques jours après les commémorations du 80ème anniversaire de la libération du camp d'Auschwitz-Birkenau, et même si tout ce qui est relaté ici n'est pas forcément neuf pour une personne qui a consciencieusement suivi les cours de lycée relatifs à cette période, rappeler la cruauté dont est capable l'homme reste une nécessité en tous temps.
 

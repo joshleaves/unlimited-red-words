@@ -42,7 +42,7 @@ De même, vu que le joueur doit atteindre la fin du jeu avec ces trois personnag
 
 A ne pas savoir s'il veut être un grand spectacle, ou un jeu tactique réaliste, le jeu se retrouve le cul entre deux chaises, n'étant réellement bon nul part. De plus, le début et la fin du jeu ne se déroulent même pas à Vegas, rendant l'aspect "affrontement urbain" totalement caduque, et les affrontements reviennent constamment au même système de "cover shooter" déjà vu partout. Malheureusement, même les affrontements sont très brouillons, et il est malheureusement trop rare de pouvoir nettoyer une pièce à coups de _headshots_ silencieux bien placés.
 
-C'est ennuyeux, très ennuyeux. J'espérais que le jeu proposerait plus, et lorsque je voyais avec enthousiasme les divers _artworks_  du jeu, présentant les personnages descendant en rappel la façade d'un hôtel, prêts à intervenir par une baie vitrée, j'avais envie d'action et de grand spectacle. Peut-être dans la suite?
+C'est ennuyeux, très ennuyeux. J'espérais que le jeu proposerait plus, et lorsque je voyais avec enthousiasme les divers _artworks_ du jeu, présentant les personnages descendant en rappel la façade d'un hôtel, prêts à intervenir par une baie vitrée, j'avais envie d'action et de grand spectacle. Peut-être dans la suite?
 
 ***
 [^1]: Je vous laisse découvrir ses [<i class="fab fa-youtube"></i> énormes blagues](https://www.youtube.com/watch?v=mLoazdl1zhQ) par vous-mêmes.

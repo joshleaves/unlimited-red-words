@@ -20,7 +20,7 @@ meta:
 
 Jusque-là, mes lectures chez [Atelier Akatombo](/tags/atelier-akatombo/) portaient presque toutes sur le vieux principe de "Gendarme et Voleurs": les personnages principaux étaient des membres des forces de l'ordre, ou détective, ou dans une position les amenant à enquêter, tandis que les coupables étaient issus de diverses couches criminelles de la société.
 
-Point de tout cela ici: on  va suivre une femme (nouvellement promue au poste de "femme au foyer") à la recherche de son mari disparu.
+Point de tout cela ici: on va suivre une femme (nouvellement promue au poste de "femme au foyer") à la recherche de son mari disparu.
 
 # Carte postale et géographie
 

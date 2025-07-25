@@ -21,7 +21,7 @@ Il n'en était rien, et à la manière de bien des trilogies[^1], le premier ép
 
 # Vraiment pas ma Lara
 
-Au bout d'une heure de jeu, Lara a déjà devancé les méchants du jour au premier tombeau, et a récupéré l'un des deux artefacts McGuffins  du jeu sous leur nez, pour se le faire prendre une minute plus tard.
+Au bout d'une heure de jeu, Lara a déjà devancé les méchants du jour au premier tombeau, et a récupéré l'un des deux artefacts McGuffins du jeu sous leur nez, pour se le faire prendre une minute plus tard.
 
 Ce genre de séquences est un classique du genre depuis Indiana Jones[^2], et même sûrement les sérials pulp qui ont inspiré Georges Lucas, mais ici, l'histoire prend une dimension kafkaïesque: tandis que les méchants admirent leur butin, ils lui apprennent dans la foulée que "Surprise, en fait en le sortant du temple, t'as libéré les 12 plaies d'Egypte et elles vont s'abattre sur des innocents et les tuer". Lara (et le joueur) rétorque que de toutes façons, les méchants comptaient aussi sortir l'artefact du temple...ce à quoi ceux-ci répondent "Oui, mais c'est toi qui l'a fait, donc c'est ta faute" et s'en vont se laver les mains, laissant Lara face à une inondation très spectaculaire (et meurtrière) au cours de laquelle le joueur verra moultes cadavres, et une séquence digne de David Cage où la seule présence vivante sera un enfant hurlant "Mamâaaaan!" en tombant à l'eau tandis que le joueur, en dépit de ses efforts ou sa vitesse, se révélera impuissant pour le sauver...
 
