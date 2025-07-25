@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺  Veronica Mars"
+title:  "📺 Veronica Mars"
 date: 2025-04-23 19:36:00 +02:00
 category: 📺 Série TV
 tags: []

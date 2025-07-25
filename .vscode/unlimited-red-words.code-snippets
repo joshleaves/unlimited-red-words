@@ -1,0 +1,96 @@
+{
+  "New book": {
+    "scope": "markdown",
+    "prefix": "create_book",
+    "description": "New book review",
+    "body": [
+      "---",
+      "layout: post",
+      "title:  \"📚 ${1:name}\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
+      "category: 📚 Littérature",
+      "tags: []",
+      "media_subpath: /assets/images",
+      "image:",
+      "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
+      "country: ${2|FR,US,JP|}",
+      "rating: 0",
+      "release_date: 1970-01-01",
+      "meta:",
+      "  pages: 0",
+      "  author: ",
+      "  editor: ",
+      "  url:",
+      "  isbn: \"978-\"",
+      "---"
+    ]
+  },
+  "New movie": {
+    "scope": "markdown",
+    "prefix": "create_movie",
+    "description": "New movie review",
+    "body": [
+      "---",
+      "layout: post",
+      "title:  \"🎬 ${1:name}\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
+      "category: 🎬 Cinéma",
+      "tags: []",
+      "media_subpath: /assets/images",
+      "image:",
+      "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
+      "country: ${2|FR,US,JP|}",
+      "rating: 0",
+      "release_date: 1970-01-01",
+      "meta:",
+      "  imdb: \"\"",
+      "---"
+    ]
+  },
+  "New TV series": {
+    "scope": "markdown",
+    "prefix": "create_series",
+    "description": "New TV series review",
+    "body": [
+      "---",
+      "layout: post",
+      "title:  \"📺 ${1:name}\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
+      "category: 📺 Série TV",
+      "tags: []",
+      "media_subpath: /assets/images",
+      "image:",
+      "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
+      "country: ${2|FR,US,JP|}",
+      "rating: $3",
+      "release_date: 1970-01-01",
+      "meta:",
+      "  imdb: \"\"",
+      "---"
+    ]
+  },
+  "New video game": {
+    "scope": "markdown",
+    "prefix": "create_game",
+    "description": "New Video game review",
+    "body": [
+      "---",
+      "layout: post",
+      "title:  \"🎮 ${1:name}\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
+      "category: 🎮 Jeux vidéos",
+      "tags: []",
+      "media_subpath: /assets/images",
+      "image:",
+      "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
+      "country: ${2|FR,US,JP|}",
+      "rating: $3",
+      "release_date: 1970-01-01",
+      "meta:",
+      "  code: \"\"",
+      "  platform: \"\"",
+      "  steam: \"\"",
+      "---"
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺  Crash Landing On You"
+title:  "📺 Crash Landing On You"
 date: 2025-06-01 07:11:39 +02:00
 category: 📺 Série TV
 tags: []

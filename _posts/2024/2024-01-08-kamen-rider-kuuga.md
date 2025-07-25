@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺  Kamen Rider Kuuga"
+title:  "📺 Kamen Rider Kuuga"
 date: 2024-01-08 23:17:17 +02:00
 category: 📺 Série TV
 tags: ["📺 Kamen Rider"]
