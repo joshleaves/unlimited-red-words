@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Tom Clancy's Rainbow Six: Vegas"
 date: 2025-07-25 20:00:00 +02:00
 category: 🎮 Jeux vidéos
-tags: []
+tags: ["📚 Tom Clancy"]
 media_subpath: /assets/images
 image:
   path: 2025-07-25-tom-clancy-rainbow-six-vegas.jpg
