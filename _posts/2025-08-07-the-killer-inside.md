@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "📚 The Killer Inside"
-date: 2025-08-10 02:48:48 +02:00
+date: 2025-08-07 23:30:48 +02:00
 category: 📚 Littérature
 tags: ["📚 Mangas"]
 media_subpath: /assets/images
