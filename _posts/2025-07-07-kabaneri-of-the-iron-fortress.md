@@ -3,7 +3,7 @@ layout: post
 title:  "📺 Kabaneri of the Iron Fortress"
 date: 2025-07-07 03:27:06 +02:00
 category: 📺 Série TV
-tags: []
+tags: ["🎶 Hiroyuki Sawano"]
 media_subpath: /assets/images
 image:
   path: 2025-07-07-kabaneri-of-the-iron-fortress.jpg
