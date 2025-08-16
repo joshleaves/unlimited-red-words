@@ -9,7 +9,7 @@ image:
   path: 2025-08-10-deadpool-and-wolverine.jpg
 country: US
 rating: 4
-release_date: 1970-01-01
+release_date: 2024-07-26
 meta:
   imdb: "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
   wikipedia: "https://en.wikipedia.org/wiki/Deadpool_%26_Wolverine"
