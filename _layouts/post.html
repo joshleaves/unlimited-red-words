@@ -67,12 +67,19 @@ tail_includes:
 
       <div class="d-flex justify-content-between">
         {% if page.meta.watch %}
-        <div class="watch">
-          <a href="{{ page.meta.watch }}" target="_blank">
-            <i class="fas fa-play"></i>
-            Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> en ligne
-          </a>
-        </div>
+          <div class="watch">
+            <a href="{{ page.meta.watch }}" target="_blank">
+              <i class="fas fa-play"></i>
+              Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> en ligne
+            </a>
+          </div>
+        {% elsif page.meta.netflix %}
+          <div class="watch">
+            <a href="{{ page.meta.netflix }}" target="_blank">
+              <i class="fas fa-play"></i>
+              Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> sur Netflix
+            </a>
+          </div>
         {% else %}
         <!-- author(s) -->
           <span>
