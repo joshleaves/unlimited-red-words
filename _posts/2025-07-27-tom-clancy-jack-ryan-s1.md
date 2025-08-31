@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: ["📚 Tom Clancy"]
 media_subpath: /assets/images
 image:
-  path: 2025-07-27-tom-clancy-jack-ryan-s1.jpg
+  path: 2025-08-30-tom-clancy-jack-ryan.jpg
 country: US
 rating: 3
 release_date: 2018-08-31
