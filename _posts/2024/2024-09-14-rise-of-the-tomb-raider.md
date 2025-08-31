@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Rise of the Tomb Raider"
 date: 2024-09-14 21:00:00 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Tomb Raider: Survivor"]
 media_subpath: /assets/images
 image:

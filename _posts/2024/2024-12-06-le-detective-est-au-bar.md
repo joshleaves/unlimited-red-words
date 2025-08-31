@@ -43,5 +43,5 @@ A la fin, l'histoire retombe sur ses pieds, le lecteur a pu aisément suivre l'e
 * * *
 [^1]: Il aura beau s'exprimer à la première personne, il restera anonyme.
 [^2]: Détective incarné par Bob Hopkins et personnage principal de [<i class="fab fa-wikipedia-w"></i> Qui veut la peau de Roger Rabbit](https://fr.wikipedia.org/wiki/Qui_veut_la_peau_de_Roger_Rabbit)
-[^3]: Anciennement connue sous le nom de "Yakuza", cette série de jeux vidéos est connue depuis 2022 sous le nom de [Like a Dragon](https://fr.wikipedia.org/wiki/Like_a_Dragon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
+[^3]: Anciennement connue sous le nom de "Yakuza", cette série de jeux vidéo est connue depuis 2022 sous le nom de [Like a Dragon](https://fr.wikipedia.org/wiki/Like_a_Dragon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
 [^4]: Qui se déroule, lui, en 2005, mais conserve cette absence de téléphone portables et un aspect rétro.

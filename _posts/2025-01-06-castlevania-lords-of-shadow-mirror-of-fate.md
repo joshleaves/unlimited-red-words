@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Castlevania: Lords of Shadow: Mirror of Fate"
 date: 2025-01-06 05:40:56 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Castlevania", "🎮 Metroidvania"]
 media_subpath: /assets/images
 image:

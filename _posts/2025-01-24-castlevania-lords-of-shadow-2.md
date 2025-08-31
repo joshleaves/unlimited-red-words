@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Castlevania: Lords of Shadow 2"
 date: 2025-01-24 03:01:00 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Castlevania", "🎮 Metroidvania"]
 media_subpath: /assets/images
 image:

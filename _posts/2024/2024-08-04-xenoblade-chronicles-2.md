@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Xenoblade Chronicles 2"
 date: 2024-08-04 05:19:32 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Xenoblade Chronicles"]
 media_subpath: /assets/images
 image:

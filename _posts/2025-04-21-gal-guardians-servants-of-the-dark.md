@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Gal Guardians: Servants of the Dark"
 date: 2025-04-21 23:19:53 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:

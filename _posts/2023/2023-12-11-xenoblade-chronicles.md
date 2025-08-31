@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Xenoblade Chronicles"
 date: 2023-12-11 02:06:32 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Xenoblade Chronicles"]
 media_subpath: /assets/images
 image:
@@ -16,7 +16,7 @@ meta:
 
 Quand **Xenoblade Chronicles** s'ouvre, deux titans, Bionis et Mechonis, s'affrontent, les pieds dans un océan qui s'étend à perte de vue, seules existence de cet univers. Lorsque l'épée de Mechonis perce Bionis, ils s'immobilisent et le combat pend fin. Quelques milliers d'années plus tard, sur ces titans gigantesques, des êtres vivants se sont développés: des êtres biologiques sur Bionis, et des mécaniques sur Mechonis. Et les habitants de Mechonis poursuivent la bataille primaire en décimant régulièrement les êtres de chair et de sang de Bionis...
 
-On va pas se mentir, peu importe le gigantisme que les jeux vidéos ont cherché d'établir, certains prenant même place dans des univers entiers, c'est bien la première fois que l'on assiste à de telles proportions: chaque lieu visité par le joueur ne sera qu'une partie d'un titan: le pied, le genou, l'épaule, le système nerveux,...
+On va pas se mentir, peu importe le gigantisme que les jeux vidéo ont cherché d'établir, certains prenant même place dans des univers entiers, c'est bien la première fois que l'on assiste à de telles proportions: chaque lieu visité par le joueur ne sera qu'une partie d'un titan: le pied, le genou, l'épaule, le système nerveux,...
 
 # Des Xeno-keuwa?
 

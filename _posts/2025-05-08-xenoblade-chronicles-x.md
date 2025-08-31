@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Xenoblade Chronicles X"
 date: 2025-05-08 02:49:32 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Xenoblade Chronicles", "🎶 Hiroyuki Sawano"]
 media_subpath: /assets/images
 image:

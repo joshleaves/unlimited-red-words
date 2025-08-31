@@ -90,7 +90,7 @@
       "layout: post",
       "title:  \"🎮 ${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
-      "category: 🎮 Jeux vidéos",
+      "category: 🎮 Jeux vidéo",
       "tags: []",
       "media_subpath: /assets/images",
       "image:",

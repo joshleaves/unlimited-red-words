@@ -20,7 +20,7 @@ Le livre reprend de manière chronologique le parcours d'*Eric Chahi*, un dével
 
 # Vers la poussière
 
-A mon grand regret, le livre ne s'attarde pas assez sur **Another World** et passera vite dessus. En 1998, après six années de gestation, **Heart of Darkness** sortira enfin, et *Eric Chahi* se fera plus discret, ne publiant plus rien avant 2011, puis 2020. Ainsi, le livre semble se terminer en eau de boudin, un peu à la manière du maître, qui semble dépassé par un monde où les producteurs solitaires de jeux vidéos ne se trouvent plus que dans le monde du jeu vidéo indépendant.
+A mon grand regret, le livre ne s'attarde pas assez sur **Another World** et passera vite dessus. En 1998, après six années de gestation, **Heart of Darkness** sortira enfin, et *Eric Chahi* se fera plus discret, ne publiant plus rien avant 2011, puis 2020. Ainsi, le livre semble se terminer en eau de boudin, un peu à la manière du maître, qui semble dépassé par un monde où les producteurs solitaires de jeux vidéo ne se trouvent plus que dans le monde du jeu vidéo indépendant.
 
 * * *
 [^1]: Oui, fût un temps, on pouvait faire tenir des CENTAINES de jeux sur un seul CD-rom!

@@ -2,7 +2,7 @@
 layout: post
 title:  "🎮 Trails in the Sky FC Evolution"
 date: 2023-04-19 02:06:32 +0100
-category: 🎮 Jeux vidéos
+category: 🎮 Jeux vidéo
 tags: ["🎮 Trails"]
 media_subpath: /assets/images
 image:
