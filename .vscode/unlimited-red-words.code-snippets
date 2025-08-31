@@ -22,7 +22,9 @@
       "  editor: ",
       "  url:",
       "  isbn: \"978-\"",
-      "---"
+      "---",
+      "",
+      "***"
     ]
   },
   "New movie": {
@@ -39,12 +41,14 @@
       "media_subpath: /assets/images",
       "image:",
       "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
-      "country: ${2|FR,US,JP|}",
-      "rating: 0",
-      "release_date: 1970-01-01",
-      "meta:",
-      "  imdb: \"\"",
-      "---"
+      "  country: ${2|FR,US,JP|}",
+      "  rating: 0",
+      "  release_date: 1970-01-01",
+      "  meta:",
+      "    imdb: \"\"",
+      "---",
+      "",
+      "***"
     ]
   },
   "New TV series": {
@@ -72,7 +76,9 @@
       "network: \"\"",
       "seasons: ",
       "episodes: ",
-      "---"
+      "---",
+      "",
+      "***"
     ]
   },
   "New video game": {
@@ -96,7 +102,9 @@
       "  code: \"\"",
       "  platform: \"\"",
       "  steam: \"\"",
-      "---"
+      "---",
+      "",
+      "***"
     ]
   }
 }
