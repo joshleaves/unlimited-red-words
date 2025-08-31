@@ -38,7 +38,7 @@ Je peux comprendre que les shows veuillent se détacher des vieux méchants uni-
 
 # Not Tom Clancy's Metal Gear Solid
 
-Comme [récemment avec une autre série](/posts/coeurs-noirs/), je me suis dit qu'il serait amusant de mater la série avec ChatGTP pour lui demander son avis sur le réalisme de certaines séquences. Ma première question a porté sur le langage parlé en Syrie: "De l'arabe, pas du Farsi?". Et en effet, je me trompais, le Farsi est majoritairement parlé en Iran.
+Comme [récemment avec une autre série](/posts/coeurs-noirs/), je me suis dit qu'il serait amusant de mater la série avec ChatGPT pour lui demander son avis sur le réalisme de certaines séquences. Ma première question a porté sur le langage parlé en Syrie: "De l'arabe, pas du Farsi?". Et en effet, je me trompais, le Farsi est majoritairement parlé en Iran.
 
 Malheureusement, on en est resté là en terme de réalisme. Dès le premier épisode, il y a plus d'infos sur son passé dans un article de journal qui expliquera en gros sur l'écran "CRASH D'HÉLICO MILITAIRE: UN SEUL SURVIVANT" plutôt que dans son dossier personnel à la CIA, et lorsqu'il doit prendre un hélico cinq minutes plus tard (ah bah tiens), on ne lui fait pas porter de casque[^2], on l'envoie en mission à l'autre bout du monde alors qu'il n'est qu'analyste de bureau. Une mission qui lui fera rencontrer un black ops de la CIA qui sait très bien manipuler les armes, et mener les hommes[^3], mais aussi le (littéralement) chef du nouvel ordre terroriste islamique, prêt à affaiblir la Puissance Américaine. Quel hasard, dis donc!
 

@@ -46,7 +46,7 @@ Ce qui en soit, m'ennuie un peu: lorsque l'auteur mentionnait sa manière d'acce
 > — Viktor E. Frankl, Man's Search For Meaning (1946), derniers mots
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Microsoft Copilot](https://fr.wikipedia.org/wiki/Microsoft_Copilot) est le chatbot de conversation, concurrent à ChatGTP, lancé par Microsoft.
+[^1]: [<i class="fab fa-wikipedia-w"></i> Microsoft Copilot](https://fr.wikipedia.org/wiki/Microsoft_Copilot) est le chatbot de conversation, concurrent à ChatGPT, lancé par Microsoft.
 [^2]: Ecrit par [<i class="fab fa-wikipedia-w"></i> Robert Merle](https://fr.wikipedia.org/wiki/Robert_Merle), le livre [<i class="fab fa-wikipedia-w"></i> La Mort est mon Métier](https://fr.wikipedia.org/wiki/La_mort_est_mon_m%C3%A9tier) est une "une re-création étoffée et imaginative de la vie" du commandant des camps de concentration et d'extermination d'Auschwitz-Birkenau.
 [^3]: Je réalise d'ailleurs que de la même manière, je n'ai jamais lu [<i class="fab fa-wikipedia-w"></i> Le Journal d'Anne Frank](https://fr.wikipedia.org/wiki/Le_Journal_d%27Anne_Frank), mais j'ai lu [<i class="fab fa-wikipedia-w"></i> La Vie d'Anne Frank](https://en.wikipedia.org/wiki/Anne_Frank:_The_Biography) de Melissa Müller, qui traite de la même chose, mais à la troisième personne.
 [^4]: En l'occurrence, j'ai lu en diagonale.
