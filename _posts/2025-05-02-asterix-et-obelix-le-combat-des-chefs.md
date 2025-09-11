@@ -3,7 +3,7 @@ layout: post
 title:  "📺 Astérix et Obélix: Le Combat des chefs"
 date: 2025-05-03 00:14:14 +02:00
 category: 📺 Série TV
-tags: []
+tags: ["📚 Asterix"]
 media_subpath: /assets/images
 image:
   path: 2025-05-02-asterix-et-obelix-le-combat-des-chefs.jpg
