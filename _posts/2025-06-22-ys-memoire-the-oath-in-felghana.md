@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Ys Memoire: The Oath in Felghana"
 date: 2025-06-22 23:22:22 +02:00
 category: 🎮 Jeux vidéo
-tags: []
+tags: ["🎮 Ys"]
 media_subpath: /assets/images
 image:
   path: 2025-06-22-ys-memoire-the-oath-in-felghana.jpg

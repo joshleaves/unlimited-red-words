@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Ys IX: Monstrum Nox"
 date: 2025-09-23 19:54:54 +02:00
 category: 🎮 Jeux vidéo
-tags: []
+tags: ["🎮 Ys"]
 media_subpath: /assets/images
 image:
   path: 2025-09-23-ys-ix-monstrum-nox.jpg
