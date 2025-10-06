@@ -36,7 +36,7 @@ Magie offensive? **Emma**, la magicienne. Guérison? **Elliot**, le pacifiste. B
 
 # Le corps
 
-Le premier opus se divisait en six chapitres (plus un prologue et un chapitre final), chacun étant un "voyage scolaire" dans une région différente du pays d'Erebonia. Ici, plus d'école, et le film est divisé...d'une manière étrange. En plus du prologue, on a deux actes principaux, séparés par une intermission, un chapitre intitulé "Divertissement" (oui oui), et un épilogue. Le premier acte sera employé à réunir tous les anciens élèves de l'école et le second servira à mettre un terme à la guerre civile.
+Le premier opus se divisait en six chapitres (plus un prologue et un chapitre final), chacun étant un "voyage scolaire" dans une région différente du pays d'Erebonia. Ici, plus d'école, et le jeu est divisé...d'une manière étrange. En plus du prologue, on a deux actes principaux, séparés par une intermission, un chapitre intitulé "Divertissement" (oui oui), et un épilogue. Le premier acte sera employé à réunir tous les anciens élèves de l'école et le second servira à mettre un terme à la guerre civile.
 
 Pour le "divertissement", c'est plus étrange. Trois mois après le "corps" du jeu, on y incarne cette fois **Lloyd** et **Rixia**, des personnages [du diptyque Crossbell](/posts/trails-azure/), dans une mission de résistance face à l'invasion de l'Empire d'Erebonia. La finalité sera un combat de boss contre **Rean**, devenu une sorte de "chien de l'Empire" qui obéit aux ordres. Même en sachant que ce mini-chapitre[^1] sert à relier la saga aux évènements de l'arc Crossbell, c'est un choix vraiment étrange, surtout vu la FORCE narrative et émotionnelle de la fin du second acte.
 
@@ -60,7 +60,7 @@ Ainsi, dès le premier arc, **Elliot**, le musicien du groupe, au tempérament p
 
 !["...Returning to the matter at hand, you're sure you haven't tried to make ANY moves on her?"](2025-09-13-THE_LEGEND_OF_HEROES_TRAILS_OF_COLD_STEEL_II_1_Fie.png){: .right w="320" h="180" }
 
-Plus tard, c'est ma personnage favorite, **Fie**, qui sera mise en avant. L'ex-enfant-mercenaire, à l'air nonchalant mais toujours vêtue d'un sourire en coin prêt à lâcher les plus insolentes des réparties. Ses anciens camarades d'armes se retrouvent dans le camp adverse, et même si l'on doit les affronter à deux reprises, ils restent des mercenaires très courtois, et totalement "super grand frère" pour leur petite **Fie**.
+Plus tard, c'est ma personnage favorite, **Fie**, qui sera mise en avant. L'ex-enfant-mercenaire, à l'air nonchalant mais toujours vêtue d'un sourire en coin et prête à lâcher les plus insolentes des réparties. Ses anciens camarades d'armes se retrouvent dans le camp adverse, et même si l'on doit les affronter à deux reprises, ils restent des mercenaires très courtois, et totalement "super grand frère" pour leur petite **Fie**.
 
 Ainsi, chaque élève a droit à son moment sous les projecteurs, pour le plus grand bonheur des joueurs, et peu importent les appétences que l'on a pour eux, tous sauront faire briller leur personnalité et tirer des sourires au joueur...
 

@@ -27,7 +27,7 @@ Donc, dans [<i class="fab fa-wikipedia-w"></i> Family Business](https://fr.wikip
 
 # Aucun humoriste n'est une île
 
-Comme je discutais à propos de l'humour dans l'article sur [The Naked Gun](/posts/the-naked-gun-2025/), une grande partie de ce qui fait fonctionner cet humour dans **La Flamme** (et sa suite!) est que personne ne mentionne jamais l'absurdité de son comportement: ainsi, le voir faire quinze allers-retours en hurlant "J'en ai marre, je quitte l'émission" et "Ah non je reviens j'ai oublié un truc" à chaque passage est hilarant car tout le reste du cast rentre dans le dramatique qu'il donne à la situation. Si les personnages se posaient dans un canapé pour lui dire "Arrête de faire ton cinéma et dégage", il n'y aurait plus la moindre tension, ni le même humour.
+Comme je disais à propos de l'humour dans l'article sur [The Naked Gun](/posts/the-naked-gun-2025/), une grande partie de ce qui fait fonctionner cet humour dans **La Flamme** (et sa suite!) est que personne ne mentionne jamais l'absurdité de son comportement: ainsi, le voir faire quinze allers-retours en hurlant "J'en ai marre, je quitte l'émission" et "Ah non je reviens j'ai oublié un truc" à chaque passage est hilarant car tout le reste du cast rentre dans le dramatique qu'il donne à la situation. Si les personnages se posaient dans un canapé pour lui dire "Arrête de faire ton cinéma et dégage", il n'y aurait plus la moindre tension, ni le même humour.
 
 Et bien, là est tout le problème de **Sentinelle**.
 
