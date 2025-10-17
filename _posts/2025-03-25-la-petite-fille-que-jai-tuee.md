@@ -31,7 +31,7 @@ Je m'étais déjà exprimé sur les [traductions un peu hasardeuses](/posts/le-s
 
 # Volte-face et retournements
 
-Si l'enquête m'a tenue en haleine tout le long du livre, malheureusement, le dernier chapitre renverse totalement l'enquête, son déroulement, ses enjeux,... Sans le moindre indice annonciateur, fusil de Tchekhov[^1], ou raisonnement, l'auteur décide par un *deus ex machina* de donner à l'enquête une fin dont je considère qu'elle n'a rien de logique pour personne.
+Si l'enquête m'a tenu en haleine tout le long du livre, malheureusement, le dernier chapitre renverse totalement l'enquête, son déroulement, ses enjeux,... Sans le moindre indice annonciateur, fusil de Tchekhov[^1], ou raisonnement, l'auteur décide par un *deus ex machina* de donner à l'enquête une fin dont je considère qu'elle n'a rien de logique pour personne.
 
 Difficile d'en parler plus, et même d'établir proprement la notation de ce livre: je pensais le noter [**★★★★☆ Good**](/ratings/4-good.html), mais tandis que j'écris ces lignes, repenser à cette fin absurde donnée à l'enquête m'a presque fait hésiter à rétrograder le livre entier à un [**★★☆☆☆ Meh**](/ratings/2-meh.html) punitif...
 

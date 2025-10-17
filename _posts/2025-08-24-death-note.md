@@ -14,7 +14,7 @@ meta:
   imdb: "https://www.imdb.com/title/tt0758742/"
 ---
 
-J'ai revu [<i class="fab fa-wikipedia-w"></i> Battle Royale](https://en.wikipedia.org/wiki/Battle_Royale_(film)) récemment, et j'ai été frappé par [<i class="fab fa-wikipedia-w"></i> Tatsuya "Shuya" Fujiwara](https://en.wikipedia.org/wiki/Tatsuya_Fujiwara) avait marqué sa génération et joué une tonne de premiers rôles suite à ce film. Il a donc joué [<i class="fab fa-wikipedia-w"></i> Kaiji](https://en.wikipedia.org/wiki/Kaiji_(film)), _Shishio Makoto_ dans [<i class="fab fa-wikipedia-w"></i> les films Kenshin](https://en.wikipedia.org/wiki/Rurouni_Kenshin:_Kyoto_Inferno), Satoru dans [<i class="fab fa-wikipedia-w"></i> le film Erased](https://en.wikipedia.org/wiki/Erased_(2016_film)),... sans compter [des films d'auteur](https://en.wikipedia.org/wiki/Monsterz).
+J'ai revu [<i class="fab fa-wikipedia-w"></i> Battle Royale](https://en.wikipedia.org/wiki/Battle_Royale_(film)) récemment, et j'ai été frappé par la manière dont [<i class="fab fa-wikipedia-w"></i> Tatsuya "Shuya" Fujiwara](https://en.wikipedia.org/wiki/Tatsuya_Fujiwara) avait marqué sa génération et joué une tonne de premiers rôles suite à ce film. Il a donc joué [<i class="fab fa-wikipedia-w"></i> Kaiji](https://en.wikipedia.org/wiki/Kaiji_(film)), _Shishio Makoto_ dans [<i class="fab fa-wikipedia-w"></i> les films Kenshin](https://en.wikipedia.org/wiki/Rurouni_Kenshin:_Kyoto_Inferno), Satoru dans [<i class="fab fa-wikipedia-w"></i> le film Erased](https://en.wikipedia.org/wiki/Erased_(2016_film)),... sans compter [des films d'auteur](https://en.wikipedia.org/wiki/Monsterz).
 
 Mais surtout, après **Battle Royale**, il a joué dans les films adaptés de la franchise **Death Note**...
 

@@ -29,7 +29,7 @@ Passés quelques péripéties étranges, dont des séquences d'infiltration des 
 
 De la même manière, le système de combat n'a pas trop changé, et pourtant, à un moment, un déclic s'est opéré: j'ai compris ce que le jeu attendait de moi, et le système de combat m'est apparu comme étant d'une facilité déconcertante, même si certains ennemis aux attaques impossibles à bloquer, ou des hordes trop conséquentes, sont restés très ennuyeux...
 
-En fait, ce jeu m'est apparu comme une sorte de consécration de ce que MercurySteam avait envie de proposer aux joueurs. Pour toute la bizarrerie dont peut faire preuve le scénario[^1], tout retombe sur ses pattes, et arrive à surprendre le joueur, tout en rattrapant au vol le lore établi dans le spinoff et dans les DLCs des deux jeux principaux.
+En fait, ce jeu m'est apparu comme une sorte de consécration de ce que MercurySteam avait envie de proposer aux joueurs. Pour toute la bizarrerie dont peut faire preuve le scénario[^2], tout retombe sur ses pattes, et arrive à surprendre le joueur, tout en rattrapant au vol le lore établi dans le spinoff et dans les DLCs des deux jeux principaux.
 
 Fait marquant: l'un des nouveaux pouvoirs de déplacement, mais aussi d'infiltration, est la capacité pour Dracula de se tapir dans l'ombre pour se transformer en une dizaine de rats, capables de s'infiltrer par des conduits d'aération, mais aussi de subir des dégâts (attention aux fils électriques dénudés!), limitant ainsi les "points de vies" de Dracula à cette portée de rats qui diminuera tandis que l'on approchera de la mort.
 

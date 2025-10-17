@@ -29,11 +29,13 @@ Reprenant la série de zéro, nous retrouvons à nouveau un Belmont armé d'un f
 
 Ayant été autorisés à reprendre la série de zéro, MercurySteam en adaptent les éléments à leur convenance, et le parti-pris est assez radical, pour un titre qui n'inclut ni le chateau titulaire, ni Dracula. Mais en réalité, la suite de la série adressera ces détails, et tout le lore établi par cet épisode sera approfondi d'une manière qui m'a paru très satisfaisante.
 
-On pourra reprocher le temps "perdu" dans le premier tiers du jeu à se balader dans des forêts plutôt chiantes, ou à escalader des Titans comme dans *Shadow of the Colossus*, mais lorsque l'on rencontre enfin des êtres humains, des habitations, et enfin un chateau, les décors deviennent vite fous et gigantesques, avec une fulgurance totale lorsque Gabriel Belmont est miniaturisé et envoyé dans une boite à musique, qu'il faudra manipuler pour se balader dedans et manipuler pour jouer...le thème de *Vampire Killer*, qui servait jusque-là de générique à la série.
+On pourra reprocher le temps "perdu" dans le premier tiers du jeu à se balader dans des forêts plutôt chiantes, ou à escalader des Titans comme dans *Shadow of the Colossus*, mais lorsque l'on rencontre enfin des êtres humains, des habitations, et même un chateau, les décors deviennent vite fous et gigantesques, avec une fulgurance totale lorsque Gabriel Belmont est miniaturisé et envoyé dans une boite à musique, qu'il faudra manipuler pour se balader dedans et manipuler pour jouer...le thème de *Vampire Killer*, qui servait jusque-là de générique à la série.
 
 # Un Castlevania convaincant
 
-Ce moment-là, même s'il m'en a rappelé un autre de God of War III[^6], a su me vendre le jeu. Si jusque-là je me sentais encore contraint par les limites inhérentes au genre à l'époque (lesquelles étaient déjà là dans God of War, ne nous leurrons pas par de la fausse nostalgie), j'ai revu le jeu sous une autre lumière et j'ai pu y trouver un plaisir renouvelé, au point de le finir une seconde fois. Se délestant de son aspect Metroidvania pour ce premier épisode, la série bénéficiera par la suite d'un bref spinoff sur 3DS (et plus tard sur PS3), qui retrouvera cette fois cette propriété, et posera le lore manquant pour Lords of Shadow 2.
+Ce moment-là, même s'il m'en a rappelé un autre de God of War III[^6], a su me vendre le jeu. Si jusque-là je me sentais encore contraint par les limites inhérentes au genre à l'époque (lesquelles étaient déjà là dans God of War, ne nous leurrons pas par de la fausse nostalgie), j'ai revu le jeu sous une autre lumière et j'ai pu y trouver un plaisir renouvelé, au point de le finir une seconde fois.
+
+Se délestant de son aspect Metroidvania pour ce premier épisode, la série bénéficiera par la suite d'un bref spinoff sur 3DS (et sortira aussi sur PS3 plus tard), qui retrouvera cette fois cette propriété, et posera le lore manquant pour Lords of Shadow 2.
 
 * * *
 [^1]: [<i class="fab fa-wikipedia-w"></i> Castlevania: Symphony of the Night](https://fr.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) a engagé la série dans un nouveau genre: le [<i class="fab fa-wikipedia-w"></i> Metroidvania](https://fr.wikipedia.org/wiki/Metroidvania)
@@ -41,4 +43,4 @@ Ce moment-là, même s'il m'en a rappelé un autre de God of War III[^6], a su m
 [^3]: [<i class="fab fa-wikipedia-w"></i> Metroid Prime](https://fr.wikipedia.org/wiki/Metroid_Prime)
 [^4]: [<i class="fab fa-wikipedia-w"></i> DmC: Devil May Cry](https://fr.wikipedia.org/wiki/DmC:_Devil_May_Cry)
 [^5]: [<i class="fab fa-wikipedia-w"></i> God of War III](https://fr.wikipedia.org/wiki/God_of_War_III)
-[^6]: Le labyrinthe de Dédale où se trouve Pandore [<i class="fab fa-youtube"></i> God of War 3 Remastered Daedalus and The Labyrinth #13.](https://www.youtube.com/watch?v=DKGneVAR_8Y)
+[^6]: Le labyrinthe de Dédale où se trouve Pandore dans [<i class="fab fa-youtube"></i> God of War 3](https://www.youtube.com/watch?v=DKGneVAR_8Y)

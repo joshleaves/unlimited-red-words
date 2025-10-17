@@ -32,7 +32,7 @@ Et on ne va pas se mentir, la version deluxe permettant d'avoir un accès direct
 
 Passée cette première dizaine d'heures, où mon équipage _custom_ pilote un robot prototype construit en 0084 pour humilier des unités construites en série en 0079, une certaine lassitude s'est installée, sans que je ne la repère de suite.
 
-Le jeu propose deux formes d'évolution. Dans le premier, on peut rejoue, dans n'importe quel ordre, les évènements des dix-huit séries racontées, ce qui permet de débloquer pilotes et unités. Dans le second, on assemble son propre équipage: son vaisseau-amiral, ses unités, ses pilotes,...
+Le jeu propose deux formes d'évolution. Dans le premier, on peut rejouer, dans n'importe quel ordre, les évènements des dix-huit séries racontées, ce qui permet de débloquer pilotes et unités. Dans le second, on assemble son propre équipage: son vaisseau-amiral, ses unités, ses pilotes,...
 
 Le problème vient de l'assemblage de ces deux gameplays: lorsque l'on rejoue un bout d'histoire de la saga Gundam, le plateau est peuplé par les pilotes et unités qui étaient effectivement présents à ce moment-là (disons Amuro contre Char pour la toute première escarmouche en 0079), qui ont des compétences et niveau d'évolution figés qui correspondent aux forces en présence à ce moment-là, mais le joueur peut aussi déployer deux des vaisseaux de son équipage, qui comprendront chacun cinq unités de combat, lesquelles montent en compétence à chaque affrontement. Mon unité personnelle est actuellement au niveau 50, peut détruire n'importe quelle unité ennemie en un seul coup, et le pilote a des stats si élevées qu'il évitera facilement deux attaques sur trois. La fameuses "comète rouge" ne fait plus long feu!
 

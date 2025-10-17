@@ -23,7 +23,7 @@ Ainsi, un jour, ayant économisé assez entre divers anniversaires, étrennes, c
 
 !["Sur la boite, il y a un Sonic, qui fait face à un Sonic méchant"](2025-02-06-sonic-vs-sonic.jpg){: .right w="400" h="240" }
 
-Presque trente ans plus tard, et je rigole toujours de cette anecdote: déjà pour mon innocence enfantine qui faisait que j'imaginais que ma mère aurait la référence et pourrait identifier le personnage de Sonic le Hérisson, mais aussi le résultat de sa mission, qui fût un succès retentissant, mais pas celui auquel je pouvais m'attendre, vu qu'elle ne revient pas avec une boite **Sonic CD**, mais une boite intitulée **Sonic & Knuckles Collection**... Pour une raison inconnue, je ne relevai pas son erreur et installai le jeu, grand bien m'en fut.
+Presque trente ans plus tard, et je rigole toujours de cette anecdote: déjà pour mon innocence enfantine qui faisait que j'imaginais que ma mère aurait la référence et pourrait identifier le personnage de Sonic le Hérisson, mais aussi le résultat de sa mission, qui fût un succès retentissant, mais pas celui auquel je pouvais m'attendre, vu qu'elle ne revient pas avec une boite **Sonic CD**, mais une boite intitulée **Sonic & Knuckles Collection**... Pour une raison inconnue, je ne relevais pas son erreur et j'installais le jeu, grand bien m'en fut.
 
 Si **Sonic CD** sortait en 1993, et était en réalité un spinoff produit par une autre équipe, tandis qu'en février puis Novembre 1994 sortaient successivement **Sonic the Hedgehog 3** puis **Sonic & Knuckles**, deux jeux qui n'avaient été développés pour ne former qu'une seule aventure gigantesque: **Sonic the Hedgehog 3 & Knuckles**[^4]. Le jeu qu'avait acquis ma mère était l'adaptation PC de ces deux-jeux-en-un, agrémentée de quelques bonus.
 

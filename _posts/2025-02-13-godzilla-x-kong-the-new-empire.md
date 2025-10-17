@@ -24,7 +24,7 @@ L'intrigue repose à nouveau sur Kong, et la terre creuse. Si l'on est toujours 
 
 Dans [le précédent film](/posts/godzilla-vs-kong/), en plus de Jia, sa fille humaine adoptive, et de Irène, la mère adoptive (humaine) de celle-ci, Kong faisait plus ou moins ami-ami avec un scientifique de chez Monarch qui l'aidait dans son combat. Ce personnage et ses relations avec le reste du cast étaient sympathique, les trois formant une petite famille[^2]. Le personnage disparaît sans prévenir dans ce film, remplacé par un vétérinaire digne de *Ian Malcolm*[^3], qui se retrouve à avoir exactement le même rôle au milieu de ces personnages, mais en plus badass, comme en témoigne son plan d'introduction, où il change la dent de Kong depuis un hélicoptère[^4].
 
-Malheureusement, le film ne s'empêche pas certains aspects régressifs, à commencer par l'habituel sidekick rigolo qui revient cachetonner[^5], comme si le film ne pouvait pas survivre sans quelqu'un pour hurler "Ohlala mais il se passe un truc de fouuuuuu" et désamorcer n'importe quelle tentative de mettre en place de la tension.
+Malheureusement, le film ne s'empêche pas certains aspects régressifs, à commencer par l'habituel sidekick rigolo qui revient cachetonner, comme si le film ne pouvait pas survivre sans quelqu'un pour hurler "Ohlala mais il se passe un truc de fouuuuuu" et désamorcer n'importe quelle tentative de mettre en place de la tension.
 
 # Godzilla
 

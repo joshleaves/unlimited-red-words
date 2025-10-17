@@ -30,7 +30,7 @@ Si la bande dessinée se termine assez vite, lorsqu'Assurancetourix le barde fai
 
 Cette fois, les Romains sont traités comme des citadins que rien n'effraie et résistent au bruit (et aux éléments déchainés par cette symphonie d'horreur). Si bien qu'un second immeuble est construit pour accueillir encore plus de Romains, mais aussi...la quasi-totalité du village gaulois qui va s'habituer peu à peu à ce mode de vie, donnant une dimension inédite au plan initial de César: les gaulois sont cette fois défaits par les sirènes de la vie moderne[^3].
 
-La critique de cette vie oisive est très plaisante, et l'on retrouve avec plaisir des versions antiques de plusieurs activités modernes comme la salle de sport. La critique de ce mode de vie va encore plus loin lorsque l'on retrouve les esclaves qui ont bâti le domaine: après avoir négocié affranchissement et logement, ils sont désormais...des légionnaires. Un élément totalement nouveau mais qui colle totalement à l'univers.
+La critique de cette vie oisive est très plaisante, et l'on retrouve avec plaisir des versions antiques de plusieurs activités modernes comme la salle de sport. La critique de ce mode de vie va encore plus loin lorsque l'on retrouve les esclaves qui ont bâti le domaine: après avoir négocié affranchissement et logement, ils sont désormais...des légionnaires. Un élément totalement nouveau mais qui correspond à l'univers dépeint ici.
 
 J'étais dubitatif, mais le film tient ses promesses et colle à l'univers posé par la bande dessinée. On y retrouve tout l'humour nécessaire à la critique du monde moderne, transposée dans la simplicité et l'innocence du monde antique. Un film qui ne laisse présager que du bon pour sa suite.
 
