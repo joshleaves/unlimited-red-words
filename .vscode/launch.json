@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run Jekyll Server",
+      "type": "node",
+      "request": "launch",
+      "runtimeExecutable": "bundle exec jekyll serve --livereload",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "preLaunchTask": "StartJekyll",
+      "postDebugTask": "StopJekyll"
+    }
+  ]
+}
