@@ -33,10 +33,9 @@ Enfin, à trente pages de la fin, la narration nous rappelle que le protagoniste
 
 # ...in Japonais Sano
 
-Une fois tout ce vernis masculiniste écaillé, il reste la description d'une région reculée du Japon, et ses habitudes à l'approche de l'hiver. Un chapitre entier est dédié au Chijimi[^2], une technique de tissage du chanvre.
+Une fois tout ce vernis masculiniste écaillé, il reste la description d'une région reculée du Japon, et ses habitudes à l'approche de l'hiver. Un chapitre entier est dédié au <wiki page="Ojiya-chijimi">Chijimi</wiki>, une technique de tissage du chanvre.
 
 C'est joli, ça donne envie de voyager, mais il n'y a vraiment que peu d'intérêt à lire cette histoire.
 
 * * *
 [^1]: Et ce n'est pas le cas dans ce livre: le protagoniste a plus de mots d'amour envers une autre femme qui accompagne Komako, qu'envers celle-ci...
-[^2]: [<i class="fab fa-wikipedia-w"></i> Ojiya-chijimi](https://fr.wikipedia.org/wiki/Ojiya-chijimi)

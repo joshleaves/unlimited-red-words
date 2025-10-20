@@ -39,4 +39,4 @@ Heureusement, la qualité de l'action sauve ces moments ennuyeux, et entre deux 
 J'ai vite regardé le cast du prochain film. Certains restent, certains disparaissent. Mais le personnage qui m'ennuyait le plus ne revient pas.
 
 * * *
-[^1]: Lancé en 2004, [<i class="fab fa-wikipedia-w"></i> TVTropes](https://fr.wikipedia.org/wiki/TV_Tropes) est une encyclopédie collaborative en ligne catégorisant les "artifices" ou "schéma narratifs" qu'emploient les oeuvres de fictions.
+[^1]: Lancé en 2004, <wiki>TV Tropes</wiki> est une encyclopédie collaborative en ligne catégorisant les "artifices" ou "schéma narratifs" qu'emploient les oeuvres de fictions.

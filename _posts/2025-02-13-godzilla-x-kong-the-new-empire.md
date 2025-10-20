@@ -41,6 +41,6 @@ Rien de tout cela ici, et le film se termine dans un équilibre qui me convient 
 * * *
 [^1]: Déso pas déso, mais tout ce qui implique *Millie Bobby Brown* dans les deux derniers films est le pire.
 [^2]: "Un papa, une maman, un singe géant!"
-[^3]: Dans le film [<i class="fab fa-wikipedia-w"></i> Jurassic Park](https://fr.wikipedia.org/wiki/Jurassic_Park), *Ian Malcolm* est un scientifique au style et à l'apparence très rock'n-roll, comparé au sérieux de ses camarades.
+[^3]: Dans le film <wiki>Jurassic Park</wiki>, *Ian Malcolm* est un scientifique au style et à l'apparence très rock'n-roll, comparé au sérieux de ses camarades.
 [^4]: M'étant fait retirer un kyste à la mâchoire il y a de cela cinq jours, l'anesthésie totale de Kong m'a fait sourire.
-[^5]: Contrairement à ce que laisserait penser l'utilisation française de l'expression "la langue des signes", et même si la [<i class="fab fa-wikipedia-w"></i> Famille de la langue des signes française](https://fr.wikipedia.org/wiki/Famille_de_la_langue_des_signes_fran%C3%A7aise) est l'une des plus anciennes sur lesquelles se sont basés bien d'autres, il existe en réalité une multitude de langues des signes.
+[^5]: Contrairement à ce que laisserait penser l'utilisation française de l'expression "la langue des signes", et même si la <wiki>Famille de la langue des signes française</wiki> est l'une des plus anciennes sur lesquelles se sont basés bien d'autres, il existe en réalité une multitude de langues des signes.

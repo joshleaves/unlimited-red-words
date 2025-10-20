@@ -33,6 +33,6 @@ A l'opposée de tous les livres cités ci-avant, ce livre n'est pas tant une "m�
 
 * * *
 [^1]: Étant marseillais, je ponctue très régulièrement mes phrases de "putain!", n'y voyez là aucune relation avec le sens initial du mot.
-[^2]: [<i class="fab fa-wikipedia-w"></i> Turing-complet](https://fr.wikipedia.org/wiki/Turing-complet)
-[^3]: L'auteur cite notamment [<i class="fab fa-wikipedia-w"></i> Allen Carr](https://fr.wikipedia.org/wiki/Allen_Carr), connu pour sa méthode pour arrêter de fumer. Si elle a marché pour l'auteur, elle n'a eu aucun effet sur moi!
-[^4]: Écrit par [<i class="fab fa-wikipedia-w"></i> James Clear](https://en.wikipedia.org/wiki/James_Clear), ce livre de 300 pages est "reconnu" comme une référence dans la mise en place d'habitudes. Bien que je n'aie jamais réussi à l'ouvrir, et donc pas à le finir, en avoir lu un condensé visuel m'a permis de re-mettre en place des habitudes, comme la pratique du sport, la lecture, et la rédaction de ce blog.
+[^2]: <span><wiki>Turing-complet</wiki></span>
+[^3]: L'auteur cite notamment <wiki>Allen Carr</wiki>, connu pour sa méthode pour arrêter de fumer. Si elle a marché pour l'auteur, elle n'a eu aucun effet sur moi!
+[^4]: Écrit par <wiki lang="en">James Clear</wiki>, ce livre de 300 pages est "reconnu" comme une référence dans la mise en place d'habitudes. Bien que je n'aie jamais réussi à l'ouvrir, et donc pas à le finir, en avoir lu un condensé visuel m'a permis de re-mettre en place des habitudes, comme la pratique du sport, la lecture, et la rédaction de ce blog.

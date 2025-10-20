@@ -33,5 +33,5 @@ Même l'introduction d'un nouveau personnage, Pectine, une enfant qui réussit �
 Je ne connais pas assez le corpus d'Astier pour savoir s'il n'a pas pu exprimer assez sa vision et a été limité par les ayants droits, ou s'il a pu exprimer tout son génie...qui n'a pas résonné avec moi. Le film reste agréable, mais n'a pas la fulgurance que l'on aimerait lui trouver, dommage.
 
 ***
-[^1]: Donc, au pif: la série des [<i class="fab fa-wikipedia-w"></i> Uncharted](https://fr.wikipedia.org/wiki/Uncharted), les [<i class="fab fa-wikipedia-w"></i> Dead Space](https://fr.wikipedia.org/wiki/Dead_Space_(s%C3%A9rie_de_jeux_vid%C3%A9o)), la trilogie des [<i class="fab fa-wikipedia-w"></i> Spider-Man de Raimi](https://fr.wikipedia.org/wiki/Spider-Man_(s%C3%A9rie_de_films)),...
+[^1]: Donc, au pif: la série des <wiki>Uncharted</wiki>, les <wiki page="Dead Space (série de jeux vidéo)">Dead Space</wiki>, la trilogie des <wiki page="Spider-Man (série de films)">Spider-Man par Sam Raimi</wiki>...
 [^2]: Et à laquelle je soupçonne une inspiration de [Gundam](/tags/mobile-suit-gundam/).

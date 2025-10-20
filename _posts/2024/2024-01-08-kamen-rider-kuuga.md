@@ -32,7 +32,7 @@ Peu à peu, la popularité s'affaiblit, et si des films et des cross-overs sorte
 La vidéo la plus populaire sur **Kamen Rider Kuuga** est issue de son premier épisode. Point d'action folle, ou de *rider kick* qui font la célébrité de la franchise, mais une scène de dialogue où le protagoniste, *Yusuke Godai*, assis sur sa moto, dos à l'aéroport de Narita, s'adresse à la caméra:
 
 >Je sais que c'est un peu soudain, mais j'ai un profond respect pour ceux qui sourient face à l'adversité. A l'âge de huit ans, je me suis perdu dans le massif de l'Annapurna, au Népal. L'idée de mourir là-bas m'a donné envie de pleurer. Mais mon guide, un garçon d'environ mon âge, m'a souri et m'a dit : "Tout ira bien, ne t'inquiète pas." C'est cool, non?   
-> ― Kamen Rider Kuuga, [<i class="fab fa-youtube"></i> épisode 1: Revival](https://www.youtube.com/watch?v=4sf3lf9VuW4)
+> ― Kamen Rider Kuuga, <yt video="4sf3lf9VuW4">épisode 1: Revival</yt>
 
 # Un héros pour être heureux
 
@@ -46,7 +46,7 @@ Jusqu'à la fin, le héros ne se départira pas de son optimisme, même face à 
 >Je sais que tu es triste depuis la mort de ton père, mais c'est lors de ces moments difficiles que tu dois être un homme qui se battra pour protéger le sourire de ta mère et ta soeur. Donne toujours le meilleur de toi-même pour protéger le sourire des autres.   
 >   
 >Tu ne trouves pas ça formidable? Moi...je trouve ça formidable.
-> ― Kamen Rider Kuuga, [<i class="fab fa-youtube"></i> épisode 12: Teacher](https://www.youtube.com/watch?v=5oNKUdEw_Dg)
+> ― Kamen Rider Kuuga, <yt video="5oNKUdEw_Dg">épisode 12: Teacher</yt>
 
 # Un héros pour le futur
 
@@ -60,7 +60,7 @@ En 2025, **Kuuga** fêtera ses 25 ans. Malgré son âge, la série n'a pas pris 
 <ruby>「変身<rt>Henshin</rt>」</ruby>
 
 * * *
-[^1]: Né en 1938 et contemporain de Tezuka, [<i class="fab fa-wikipedia-w"></i> Shōtarō Ishinomori](https://fr.wikipedia.org/wiki/Sh%C5%8Dtar%C5%8D_Ishinomori) s'inspire des comic-books pour créer les premiers superhéros de science-fiction Japonais, notamment les cyborgs. Il est à l'origine des concepts les plus développés du genre du [<i class="fab fa-wikipedia-w"></i> tokusatsu](https://fr.wikipedia.org/wiki/Tokusatsu): Kamen Rider, les escadrons Super Sentai, et les Metal Heroes.
-[^2]: Au Japon, on compte les années selon le règne de l'Empereur. Ainsi, [<i class="fab fa-wikipedia-w"></i> l'ère Shōwa](https://fr.wikipedia.org/wiki/%C3%88re_Sh%C5%8Dwa_(1926-1989)) a duré de 1926 à 1989, et [<i class="fab fa-wikipedia-w"></i> l'ère Heisei](https://fr.wikipedia.org/wiki/%C3%88re_Heisei) couvrait le "règne" de l'Empereur [<i class="fab fa-wikipedia-w"></i> Akihito](https://fr.wikipedia.org/wiki/Akihito) jusqu'à son abdication en 2019.
-[^3]: Bien que la franchise **Kamen Rider** soit habituellement destinée aux enfants et jeunes ados, les producteurs découvrirent que la présence de *Joe Odagiri* en premier rôle attirait aussi une audience non-attendue: les femmes de la trentaine. Ce qui donnera [<i class="fab fa-wikipedia-w"></i> l'effet Odagiri](https://en.wikipedia.org/wiki/Odagiri_effect).
+[^1]: Né en 1938 et contemporain de Tezuka, <wiki>Shōtarō Ishinomori</wiki> s'inspire des comic-books pour créer les premiers superhéros de science-fiction Japonais, notamment les cyborgs. Il est à l'origine des concepts les plus développés du genre du <wiki>tokusatsu</wiki>: **Kamen Rider**, les escadrons **Super Sentai**, et les **Metal Heroes**.
+[^2]: Au Japon, on compte les années selon le règne de l'Empereur. Ainsi, <wiki page="Ère Shōwa (1926-1989)">l'ère Shōwa</wiki> a duré de 1926 à 1989, et <wiki page="Ère Heisei">l'ère Heisei</wiki> couvrait le "règne" de l'Empereur <wiki>Akihito</wiki>.
+[^3]: Bien que la franchise **Kamen Rider** soit habituellement destinée aux enfants et jeunes ados, les producteurs découvrirent que la présence de *Joe Odagiri* en premier rôle attirait aussi une audience non-attendue: les femmes de la trentaine. Ce qui donnera <wiki lang="en" page="Odagiri effect">l'effet Odagiri</wiki>.
 [^4]: Sa grande saga manga, **Cyborg 009**, qui se concentrait initialement sur le combat entre une équipe de cyborgs et leurs maléfiques créateurs (tiens tiens...) se termine sur un combat de ces mêmes cyborgs contre...les anges du panthéon biblique.

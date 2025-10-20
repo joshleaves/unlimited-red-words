@@ -38,5 +38,5 @@ Et malheureusement, même si le résultat m'avait plu, le reste du jeu n'est vra
 Mais, pour une trentaine d'heures, le jeu saura être très divertissant.
 
 * * *
-[^1]: Comme par exemple [<i class="fab fa-youtube"></i> lors de l'édition 2018 du GamesDoneQuick](https://www.youtube.com/watch?v=IHmbc5b7FDw).
+[^1]: Comme par exemple <yt video="IHmbc5b7FDw">lors de l'édition 2018 du GamesDoneQuick</yt>.
 [^2]: Par exemple: il existe une arme qui s'utilise en conjonction avec le bouclier, et a un effet différent pour CHAQUE bouclier du jeu.

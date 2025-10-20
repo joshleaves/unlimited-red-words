@@ -52,5 +52,5 @@ Mais en même temps...suivre cette équipe était tellement cool.
 
 * * *
 [^1]: Je n'arrive toujours pas à croire que le personnage de Bill Randa soit le même entre **Kong: Skull Island** et cette série, mais le trou d'une vingtaine d'années dans son histoire peut expliquer ce changement radical.
-[^2]: Par exemple, la trilogie Gagharv de [Legend of Heroes](/posts/trails-sky-fc-evo/), dont le premier épisode conclut (chronologiquement) la trilogie, ou [<i class="fab fa-wikipedia-w"></i> Dragon Quest III](https://fr.wikipedia.org/wiki/Dragon_Quest_III) qui se déroule avant Dragon Quest premier du nom...
-[^3]: Et pourtant...j'ai adoré [<i class="fab fa-wikipedia-w"></i> LOST](https://fr.wikipedia.org/wiki/Lost_:_Les_Disparus)!
+[^2]: Par exemple, la trilogie Gagharv de [Legend of Heroes](/posts/trails-sky-fc-evo/), dont le premier épisode conclut (chronologiquement) la trilogie, ou <wiki>Dragon Quest III</wiki> qui se déroule avant le premier épisode de la série...
+[^3]: Et pourtant...j'ai adoré <wiki page="Lost : Les Disparus">LOST</wiki>!

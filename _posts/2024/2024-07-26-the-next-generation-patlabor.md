@@ -47,7 +47,7 @@ Les personnages participent grandement à cette humour et sont tous voulus comme
 
 # Pour défendre la Terre en danger
 
-En réalité, quiconque regarde **Patlabor** en espérant des combats de robot sera vite déçu. L'épisode 3 ne contient que la quête de la pilote principale pour...devenir plus forte à un jeu d'arcade[^7], et le seul combat de l'épisode 4 est celui de Kasha, armée d'un AK-47 à baïonette, contre les preneurs d'otages de la supérette locale (un twist intéressant pour quiconque s'attendait à une redite).
+En réalité, quiconque regarde **Patlabor** en espérant des combats de robot sera vite déçu. L'épisode 3 ne contient que la quête de la pilote principale pour...devenir plus forte à un jeu d'arcade[^7], et le seul combat de l'épisode 4 est celui de Kasha, armée d'un AK-47 à baïonnette, contre les preneurs d'otages de la supérette locale (un twist intéressant pour quiconque s'attendait à une redite).
 
 Les épisodes 5 et 6 remettent le robot au centre de l'intrigue pour le faire affronter un monstre géant. Si dans la série originelle, ce kaiju n'était qu'un robot savamment déguisé pour relancer l'économie locale en attirant les curieux, cet épisode réalisé par Oshii prend ici une toute autre tournure...et conclusion.
 
@@ -55,7 +55,7 @@ Les épisodes 7 à 9 laissent encore le robot en arrière-plan pour s'attarder s
 
 L'épisode 10 promet de l'action de robots et du terrorisme de grande envergure, reprenant un gag de la série originale, mais à part un combat final vite expédié, là encore, le robot se révèle inutile.
 
-# Le monde sera delivré bientôt
+# Le monde sera délivré bientôt
 
 A l'instar des épisodes 2, 6, et 9, beaucoup d'épisodes donnent ce sentiment d'inachevé: même si l'intrigue principale apparaît comme résolue, et que l'on ne ressent pas le besoin d'aller plus loin, une scène vient toujours se rajouter et donner une impression de "Mais comment la série et cet univers peuvent-ils continuer à partir de là?". Ce parti-pris peu usuel pour une série télé est pourtant rassurant dans le traitement attendu pour une adaptation live de la franchise Patlabor: on n'en attend pas le sérieux d'un **Batman Begins** de *Christopher Nolan*, uniquement son respect de la technologie.
 
@@ -66,8 +66,8 @@ Dans la plus pure tradition Oshii-esque, la série se termine encore sur des int
 * * *
 [^1]: Ce collectif inclut notamment *Mamoru Oshii* (réalisateur du film **Ghost In The Shell**), mais aussi *Akemi Takada* (chara-designeuse, connue pour son travail sur **Max et Compagnie**, **Juliette Je T'aime**, et **Creamy**), *Yutaka Izubuchi* (mecha designer), *Kazunori Itō* (écrivain, connu pour la franchise **.hack**), et *Masami Yuki* (mangaka, un peu moins connu par chez nous).
 [^2]: Un futur proche se déroulant potentiellement en...1998–2002.
-[^3]: Plus précisément: le [<i class="fab fa-wikipedia-w"></i> F-14 Tomcat](https://fr.wikipedia.org/wiki/Grumman_F-14_Tomcat).
+[^3]: Plus précisément: le <wiki page="Grunmman F-14 Tomcat">F-14 Tomcat</wiki>.
 [^4]: Dans un épisode assez célèbre, l'unité entière se retrouve dans une "guerre" avec le seul restaurant de proximité car celui-ci refuse désormais de les livrer.
 [^5]: A l'exception des trois films réalisés par *Mamoru Oshii*, dont les propos plus sérieux traitent de trans-humanisme et de politique.
-[^6]: Si Kanuka Clancy, l'originale, venait du NYPD, Ekaterina Krachevna Kankaeva (ou "Kasha") vient du FSB, fume clope sur clope, et conduit une moto Ducati 1199 Panigale.
-[^7]: Vous saurez donc que Akira est une main de Xiaoyu sur **Tekken Tag Tournament 2 Unlimited**.
+[^6]: Si _Kanuka Clancy_, l'originale, venait du NYPD, _Ekaterina Krachevna Kankaeva_ (ou "Kasha") vient du FSB, fume clope sur clope, et conduit une moto <wiki>Ducati 1199 Panigale</wiki>.
+[^7]: Vous saurez donc que _Akira_ est une main de _Xiaoyu_ sur **Tekken Tag Tournament 2 Unlimited**.

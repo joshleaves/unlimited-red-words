@@ -32,13 +32,12 @@ Peut-être à la manière dont les séances de psychiatrie sont écartées dans 
 
 Pour contrebalancer cette apparence terne, la recherche fait usage de témoignages, d'expériences, et d'entretiens, et ohlala que du beau monde: Tobi de Shopify, Bill & Melinda Gates, Pete Carroll l'entraîneur des SeaHawks, Steve Young le quarterback des San Francisco 49ers, l'écrivain Ta-Nehisi Coates,...
 
-Malheureusement, cet aspect, même si je reconnais sa valeur en terme d'écriture et de storytelling, me paraît juste problématique car il n'a fait que me rappeler tous les contenus *putaclic*[^4] qui inondent mon flux Twitter et vantent la réussite de telle ou telle personne, grâce à *une technique incroyable*, uniquement dans le but d'attirer un lecteur qui se pensera capable de s'imprégner de cette connaissance, mais l'aura oubliée dès le tweet suivant. Bien évidemment, il n'en est rien ici, et cette vision de la chose n'engage que moi[^5], et ne devrait pas apparaître de la même manière à tous les lecteurs.
+Malheureusement, cet aspect, même si je reconnais sa valeur en terme d'écriture et de storytelling, me paraît juste problématique car il n'a fait que me rappeler tous les contenus *putaclic* qui inondent mon flux Twitter et vantent la réussite de telle ou telle personne, grâce à *une technique incroyable*, uniquement dans le but d'attirer un lecteur qui se pensera capable de s'imprégner de cette connaissance, mais l'aura oubliée dès le tweet suivant. Bien évidemment, il n'en est rien ici, et cette vision de la chose n'engage que moi[^4], et ne devrait pas apparaître de la même manière à tous les lecteurs.
 
 En Français, le terme *grit* a été traduit par *la niaque*, ce que je trouve très correct quand à l'idée et le propos véhiculés. Je pense que le livre est plus orienté comme une étude que comme du développement personnel, ce qui rendra son éthique plus digestive pour le lecteur, et ne l'alpaguera pas constamment à suivre ses enseignements, laissant aux lecteurs la liberté de décider pour eux-mêmes de l'enseignement qu'ils veulent retirer de ce livre.
 
 * * *
-[^1]: Cette [<i class="fab fa-wikipedia-w"></i> méthode](https://fr.wikipedia.org/wiki/Allen_Carr#%C3%89valuation_et_limites_d'efficacit%C3%A9_de_la_m%C3%A9thode) ne marcherait qu'à 50% apparemment.
+[^1]: Cette <wiki page="Allen Carr" section="Évaluation et limites d'efficacité de la méthode">méthode</wiki> ne marcherait qu'à 50% apparemment.
 [^2]: Au moment où j'écris ces lignes, le 28 Février 2025, j'en suis à 1696 jours sans fumer, soit depuis le 7 Juillet 2020, deux semaines après ma dernière séance d'hypnose.
 [^3]: Une blague de lycéens récurrente était de scander que "La répétition est la force de l'éducation nationale".
-[^4]: Le mot-valise [<i class="fab fa-wikipedia-w"></i> putaclic](https://fr.wiktionary.org/wiki/putaclic) désigne le contenu délibérément exagéré afin d'attirer l'attention du lecteur, *le cinquième va vous étonner!*.
-[^5]: Moi et mon flux Twitter, que je devrais retravailler pour qu'il me présente plus de cosplayeuses Japonaises, et moins de *putaclic*!
+[^4]: Moi et mon flux Twitter, que je devrais retravailler pour qu'il me présente plus de cosplayeuses Japonaises, et moins de *putaclic*!

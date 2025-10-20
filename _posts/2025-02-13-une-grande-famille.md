@@ -40,4 +40,4 @@ Le livre ne propose pas de réponse, mais pendant 200 pages, et un petit mystèr
 
 * * *
 [^1]: Au Japon, lors des divorces, la garde partagée est beaucoup moins appliquée qu'en France, et il est très courant que les enfants soient totalement séparés d'un des deux parents.
-[^2]: Dans le film [<i class="fab fa-wikipedia-w"></i> Parasite](https://fr.wikipedia.org/wiki/Parasite_(film,_2019)) de *Bong Joon-ho*, une famille use de stratagèmes divers pour vivre aux crochets d'une famille aisée.
+[^2]: Dans le film <wiki page="Parasite (film, 2019)">Parasite</wiki> de *Bong Joon-ho*, une famille use de stratagèmes divers pour vivre aux crochets d'une famille aisée.

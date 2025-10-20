@@ -14,7 +14,7 @@ meta:
   imdb: "https://www.imdb.com/title/tt0810827/"
 ---
 
-Il fallait bien terminer le face-à-face entre _Light_, alias _Kira_, le tueur au cahier de la mort, et _L_, le détective qui cherchait à le démasquer. Et tel un chien dans un jeu de quilles, viendra le personnage de _Misa_, jouée par [<i class="fab fa-wikipedia-w"></i> Toda Erika](https://en.wikipedia.org/wiki/Erika_Toda)[^1]
+Il fallait bien terminer le face-à-face entre _Light_, alias _Kira_, le tueur au cahier de la mort, et _L_, le détective qui cherchait à le démasquer. Et tel un chien dans un jeu de quilles, viendra le personnage de _Misa_, jouée par <wiki>Erika Toda</wiki>[^1].
 
 # La découpe de la mort 
 
@@ -31,5 +31,5 @@ On peut séparer le manga en deux parties: la première étant la confrontation 
 Ce diptyque reste un très bon divertissement, devant lequel on passera un bon moment. Et pour ceux qui sont en manque d'interactions crypto-gays entre _Light_ et _L_, il y a [une très bonne série télé japonaise](https://mydramalist.com/14075-death-note).
 
 ***
-[^1]: Elle aussi dans un de ses premiers rôles, et totalement méconnaissable. Vous la connaissez sûrement pour [<i class="fab fa-wikipedia-w"></i> Liar Game](https://en.wikipedia.org/wiki/Liar_Game_(2007_TV_series)) ou [<i class="fab fa-wikipedia-w"></i> Code Blue](https://en.wikipedia.org/wiki/Code_Blue_(TV_series)), mais surtout...la franchise [SPEC](https://mydramalist.com/list/q1XvnAj3)!
+[^1]: Elle aussi dans un de ses premiers rôles, et totalement méconnaissable. Vous la connaissez sûrement pour <wiki lang="en" page="Liar Game (2007 TV series)">Liar Game</wiki> ou <wiki lang="en" page="Code Blue (TV series)">Code Blue</wiki>, mais surtout...la franchise [SPEC](https://mydramalist.com/list/q1XvnAj3)!
 [^2]: Au propre comme au figuré, la scène du match de tennis dans l'anime est culte.

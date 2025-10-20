@@ -16,7 +16,7 @@ meta:
 
 Quand j'étais petit, je passais mes mercredis chez ma grand-mère. Une fois ses séries terminées, elle me passait une VHS des **Looney Tunes**, et je me souviens encore très bien de leur apparence[^1], mais surtout de leur contenu: du cartoon à gogo, dans la plus pure tradition historique du genre, avec des classiques dont j'ignore sûrement la portée au-delà de ces VHS, et des gags absurdes qui me font encore mourir de rire[^2], ou certaines conclusions tout bonnement tordues qui me reviennent en tête.
 
-En 2022, suite à des déboires financiers, la firme Warner Bros. avait commencé à "détruire" des films terminés afin d'essuyer ses pertes, à commencer par un film **Batgirl** très prometteur, puis en 2023, un film **Coyote vs. Acme** qui m'intéressait bien plus. Heureusement, [<i class="fa-brands fa-wikipedia-w"></i> ketchup. entertainment](https://en.wikipedia.org/wiki/Ketchup_Entertainment) a acheté les droits du film pour le sauver, et dans la foulée, cet étrange film mettant en scène Daffy Duck et Porky Pig...
+En 2022, suite à des déboires financiers, la firme Warner Bros. avait commencé à "détruire" des films terminés afin d'essuyer ses pertes, à commencer par un film **Batgirl** très prometteur, puis en 2023, un film **Coyote vs. Acme** qui m'intéressait bien plus. Heureusement, <wiki lang="en" page="Ketchup Entertainment">ketchup. entertainment</wiki> a acheté les droits du film pour le sauver, et dans la foulée, cet étrange film mettant en scène Daffy Duck et Porky Pig...
 
 # Le jour où la terre devint barjot
 
@@ -32,5 +32,5 @@ Le classicisme presque "convenu" du film est malheureusement sa plus grande faib
 
 * * *
 [^1]: Pour les curieux, il s'agissait de [<i class="fa-brands fa-dailymotion"></i> la collection 50ème anniversaire parue en 1990](https://www.dailymotion.com/video/xp97jo).
-[^2]: Le 21 de coeur de [<i class="fa-brands fa-wikipedia-w"></i> Bonanza Bunny](https://en.wikipedia.org/wiki/Bonanza_Bunny), quelle idée.
+[^2]: Le 21 de coeur de <wiki lang="en">pBonanza Bunny</wiki>, quelle idée, je pourrais en rire toute ma vie.
 [^3]: Bugs Bunny a bien un côté très malicieux, mais il est toujours face à plus méchant que lui.

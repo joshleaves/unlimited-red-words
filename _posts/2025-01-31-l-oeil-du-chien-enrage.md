@@ -37,5 +37,5 @@ Mais surtout dans ce dernier quart de l'intrigue, en plus de voir Hioka devenir 
 Une tournure infondée et très désagréable, pour un personnage dont j'avais vraiment aimé suivre les aventures.
 
 * * *
-[^1]: Au Japon, le [<i class="fab fa-wikipedia-w" /> koban](https://fr.wikipedia.org/wiki/K%C5%8Dban) est une sorte de mini-commissariat, n'employant qu'un seul agent de police, qui gère la sécurité de sa zone attitrée, à la manière de la [<i class="fab fa-wikipedia-w" /> police de proximité](https://fr.wikipedia.org/wiki/Police_de_proximit%C3%A9_en_France) en France.
-[^2]: Littéralement "dur à cuire", le genre du [<i class="fab fa-wikipedia-w" /> hard-boiled](https://fr.wikipedia.org/wiki/Hardboiled) fait référence à des détectives qui n'hésitent pas à faire usage de violence pour résoudre les enquêtes.
+[^1]: Au Japon, le <wiki>Kōban</wiki> est une sorte de mini-commissariat, n'employant qu'un seul agent de police, qui gère la sécurité de sa zone attitrée, à la manière de la <wiki page="Police de proximité en France">police de proximité</wiki> en France.
+[^2]: Littéralement "dur à cuire", le genre du <wiki page="Hardboiled">hard-boiled</wiki> fait référence à des détectives qui n'hésitent pas à faire usage de violence pour résoudre les enquêtes.

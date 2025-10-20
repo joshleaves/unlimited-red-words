@@ -32,4 +32,4 @@ Je ne suis pas fan du découpage du film, en quatre saisons: été, automne, hiv
 Une lecture naïve du film pourrait mener à déplorer que les personnages principaux apparaissent tellement en retrait de leur propre histoire, à ne vivre qu'à travers les autres. Mais peut-être que le vrai bonheur de la vie, c'est de penser à plus que soi, et que juste faire du pain et du café pour rendre les autres heureux est une forme tout aussi forte de bonheur à propager dans sa vie.
 
 * * *
-[^1]: Rie est interprétée par [<i class="fab fa-wikipedia-w"></i> Tomoyo Harada](https://fr.wikipedia.org/wiki/Tomoyo_Harada), qui a fait son début au cinéma dans [<i class="fab fa-wikipedia-w"></i> l'adaptation de 1983 du film La traversée du Temps](https://fr.wikipedia.org/wiki/The_Girl_Who_Leapt_Through_Time), dont elle interprétait [<i class="fab fa-youtube"></i> le thème musical](https://youtu.be/xG5gayIgKiw).
+[^1]: Rie est interprétée par <wiki>Tomoyo Harada</wiki>, qui a fait son début au cinéma dans <wiki page="The Girl Who Leapt Through Time">le film de 1983 adaptant le roman La traversée du Temps</wiki>, dont elle interprétait <yt video="xG5gayIgKiw">le thème musical</yt>.

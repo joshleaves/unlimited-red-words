@@ -20,13 +20,13 @@ meta:
 
 >Tokyo, début des années 90. Samejima, 36 ans, est capitaine au commissariat de Shinjuku, le quartier le plus peuplé et agité de la capitale. Malgré les apparences, c’est un placard : sa hiérarchie préfère l’avoir à l’œil plutôt qu’en roue libre dans une préfecture éloignée. (...) Lorsque deux gardiens de la paix sont tués en pleine rue par un inconnu muni d’une mystérieuse arme relevant de la prouesse technique, Samejima y voit le style d’un armurier qu’il a déjà arrêté dans le passé. Bientôt, d’autres policiers sont abattus.
 
-J'ai habité presque une année entière à Shinjuku. En fait, après Odaiba[^1], c'est sûrement l'endroit où j'ai passé le plus de temps à Tokyo: j'y ai un restaurant à ramens où je suis connu, mes bars préférés, et je porte encore sur moi la carte d'abonnement annuel du jardin impérial de Shinjuku[^2], un lieu [déjà couvert dans ce blog](/posts/garden-of-words-book/). Aussi, rien qu'au titre, j'attendais beaucoup de ce polar. Peut-être trop...
+J'ai habité presque une année entière à Shinjuku. En fait, après Odaiba[^1], c'est sûrement l'endroit où j'ai passé le plus de temps à Tokyo: j'y ai un restaurant à ramens où je suis connu, mes bars préférés, et je porte encore sur moi la carte d'abonnement annuel du <wiki page="Shinjuku gyoen">jardin impérial de Shinjuku</wiki>, un lieu [déjà couvert dans ce blog](/posts/garden-of-words-book/). Aussi, rien qu'au titre, j'attendais beaucoup de ce polar. Peut-être trop...
 
 # Retour à Shinjuku
 
 Le livre date de 1990; aussi, on y retrouvera des [différences technologiques rafraichissantes](/posts/le-detective-est-au-bar/), mais aussi [un contexte criminel très différent](/posts/tokyo-vice-book/) de celui que j'ai pu connaître, tant le Shinjuku d'aujourd'hui est (relativement) sécurisé. Pour ce qui n'a pas été effacé par le temps, l'ambiance est là: on commence par un sauna gay, on traverse des live houses où de jeunes femmes rêvent de devenir des *idol*[^3], on se pose dans des bars tenus par une Mama-san, et on fume de partout sans se préoccuper de la loi Évin.
 
-L'action bouge parfois le temps de quelques lignes dans d'autres quartiers, mais l'ont revient vite à Shinjuku et à l'ambiance si particulière de ce quartier à la circulation humaine massive[^4] et où chacun est vite aspiré et oublié par la marée humaine[^5].
+L'action bouge parfois le temps de quelques lignes dans d'autres quartiers, mais l'ont revient vite à Shinjuku et à l'ambiance si particulière de ce quartier à la circulation humaine massive[^2] et où chacun est vite aspiré et oublié par la marée humaine[^3].
 
 # Retour dans le retour du retour du retour...
 
@@ -43,8 +43,6 @@ L'enquête n'est pas dure à suivre, et les éléments se révèlent aisément. 
 A noter aussi, que l'écriture se perd parfois en séquences musicales ou sexuelles (jamais les deux à la fois) très gênantes (leur présence m'a fait hésiter à baisser la note de ce tome), dont je ne saurais deviner l'origine, de l'auteur ou de la traduction. La lecture du prochain tome traduit devrait m'indiquer ce qu'il en est, je ne suis pas prêt de quitter Shinjuku!
 
 * * *
-[^1]: L'île artificielle d'[<i class="fab fa-wikipedia-w"></i> Odaiba](https://fr.wikipedia.org/wiki/Odaiba) est ma résidence de coeur au Japon, au pont que ma connaissance aigüe de l'île me permette d'instantanément la reconnaître lorsqu'une série télé, film, manga,... s'en sert comme décor.
-[^2]: [<i class="fab fa-wikipedia-w"></i> Shinjuku gyoen](https://fr.wikipedia.org/wiki/Shinjuku_gyoen)
-[^3]: [<i class="fab fa-wikipedia-w"></i> Idole japonaise](https://fr.wikipedia.org/wiki/Idole_japonaise)
-[^4]: La [<i class="fab fa-wikipedia-w"></i> Gare de Shinjuku](https://fr.wikipedia.org/wiki/Gare_de_Shinjuku) est fréquentée par environ 3 millions de passagers chaque jour.
-[^5]: Par comparaison, le [<i class="fab fa-wikipedia-w"></i> Shibuya Crossing](https://fr.wikipedia.org/wiki/Shibuya_Crossing), bien plus médiatique, et situé à un heure de marche de là, ne voit passer "que" 2 millions de piétons par jour...
+[^1]: L'île artificielle d'<wiki>Odaiba</wiki> est ma résidence de coeur au Japon, au pont que ma connaissance aigüe de l'île me permette d'instantanément la reconnaître lorsqu'une série télé, film, manga,... s'en sert comme décor.
+[^2]: La <wiki>gare de Shinjuku</wiki> est fréquentée par environ 3 millions de passagers chaque jour.
+[^3]: Par comparaison, le <wiki>Shibuya Crossing</wiki>, bien plus médiatique, et situé à un heure de marche de là, ne voit passer "que" 2 millions de piétons par jour...

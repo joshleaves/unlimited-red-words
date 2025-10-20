@@ -40,5 +40,5 @@ Un tweet[^2] qui m'a fait rire disait que le film était "les cutscenes de Sim C
 J'en retiendrais un dernier message: le temps appartient déjà à notre avenir.
 
 * * *
-[^1]: Le premier roman d'Ayn Rand, The Fountainhead, a pour titre [<i class="fab fa-wikipedia-w"></i> La Source Vive](https://fr.wikipedia.org/wiki/La_Source_vive) en Français.
+[^1]: Le premier roman d'Ayn Rand, The Fountainhead, a pour titre <wiki>La Source Vive</wiki> en Français.
 [^2]: [<i class="fab fa-x-twitter"></i> @MikeDrucker](https://x.com/MikeDrucker/status/1840943823347736946)

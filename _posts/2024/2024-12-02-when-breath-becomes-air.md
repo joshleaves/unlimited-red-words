@@ -16,15 +16,15 @@ Il y a 20 ans, installé à Paris depuis un an, j'avais eu une aventure désinvo
 
 >"Oui, comme un adulte qui découvre à trente-cinq ans qu'il a le cancer."
 
-Au final, j'ai passé les 27 ans[^2], les 29[^3], j'ai eu 33[^4] ans, et même 35 ans, et malgré que j'aie été fumeur dix ans, mes poumons sont en super état, et mon dermatologue me confirme chaque année que je suis loin d'avoir un cancer de la peau.
+Au final, j'ai passé <wiki page="Club des 27">les 27 ans</wiki>, les <wiki lang="en" page="Saturn Return">29 ans</wiki>, j'ai eu 33[^3] ans, et même 35 ans, et malgré que j'aie été fumeur dix ans, mes poumons sont en super état, et mon dermatologue me confirme chaque année que je suis loin d'avoir un cancer de la peau.
 
-En 2013, à 36 ans, Paul Kalanithi découvre qu'il est atteint d'un cancer de stade IV. Il est sur le point de terminer des études en neurosciences: alors il sait que ses jours sont comptés, et que ce livre ne sera pas publié de son vivant.
+En 2013, à 36 ans, _Paul Kalanithi_ découvre qu'il est atteint d'un cancer de stade IV. Il est sur le point de terminer des études en neurosciences: alors il sait que ses jours sont comptés, et que ce livre ne sera pas publié de son vivant.
 
 # Le rapport à la mort
 
 En deux parties, ce livre sépare la vie de l'auteur en une vie "avant" et et une vie "après" le diagnostic. Dans chacune des deux, il se livre sans fard et se dévoile au lecteur, dans ses projets, ses espoirs, ses craintes, et comment un simple diagnostic peut ébranler tous les plans d'une vie.
 
-En deux-cent pages, et trois auteurs (l'avant-propos est par un ami qui l'avait aidé à faire publier le livre, tandis que l'épilogue est écrit par sa femme après la mort de Paul), ce livre sait parler autant de la vie que de la mort, une dualité que j'ai toujours apprécié voir en littérature. La seule existence de ce livre vient encore à le rappeler: Paul est mort, mais cette mort ne l'a pas renvoyé au néant qui précédait son existence[^5], et sa fille grandit aujourd'hui.
+En deux-cent pages, et trois auteurs (l'avant-propos est par un ami qui l'avait aidé à faire publier le livre, tandis que l'épilogue est écrit par sa femme après la mort de Paul), ce livre sait parler autant de la vie que de la mort, une dualité que j'ai toujours apprécié voir en littérature. La seule existence de ce livre vient encore à le rappeler: _Paul_ est mort, mais cette mort ne l'a pas renvoyé au néant qui précédait son existence[^4], et sa fille grandit aujourd'hui.
 
 # Memento Mori
 
@@ -40,8 +40,6 @@ Alors, je me repose sur ce dialogue, issu d'un de mes auteurs favoris:
 >― **The Sandman: Brief Lives**, de *Neil Gaiman*, traduction française par *Geneviève Coulomb*
 
 * * *
-[^1]: Le terme "TROD" est un abus de langage pour spécifiquement désigner les [<i class="fab fa-wikipedia-w"></i> Tests rapides d'orientation diagnostique de l'infection par les VIH](https://fr.wikipedia.org/wiki/Test_rapide_d%27orientation_diagnostique_de_l%27infection_par_les_VIH). Saviez-vous que le 1er Décembre est la Journée mondiale de lutte contre le VIH/sida?
-[^2]: [<i class="fab fa-wikipedia-w"></i> Club des 27](https://fr.wikipedia.org/wiki/Club_des_27)
-[^3]: [<i class="fab fa-wikipedia-w"></i> Saturn Return](https://en.wikipedia.org/wiki/Saturn_return)
-[^4]: ["33 piges, l'âge du Christ"](https://genius.com/678173)
-[^5]: Le terme **ex**istence, du latin [<i class="fab fa-wikipedia-w"></i> existo](https://fr.wiktionary.org/wiki/exsisto), indique que l'existence est une "sortie", comme une entrée dans un monde fait de choses.
+[^1]: Le terme "TROD" est un abus de langage pour spécifiquement désigner un <wiki>test rapide d'orientation diagnostique de l'infection par les VIH</wiki>. Saviez-vous que le 1er Décembre est la Journée mondiale de lutte contre le VIH/sida?
+[^3]: ["33 piges, l'âge du Christ"](https://genius.com/678173)
+[^4]: Le terme **ex**istence, du latin <wiki site="wiktionary">existo</wiki>, indique que l'existence est une "sortie", comme une entrée dans un monde fait de choses.

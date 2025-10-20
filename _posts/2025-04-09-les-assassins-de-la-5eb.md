@@ -26,7 +26,7 @@ Dès le premier chapitre, la réponse est donnée: c'est un assassinat. On conna
 
 # II - Répétition
 
-A la manière de ce qui sera [son prochain roman](/posts/expiations/), Kanae Minato traite à nouveau d'un même fait au travers du dialogue à sens unique de plusieurs protagonistes qui y sont liés. Sur moi, ce genre de narration peut autant fonctionner que se casser la gueule car chaque partie doit à la fois savoir susciter un intérêt égal, avoir ses propres particularités, et trouver une conclusion satisfaisante dans un dénouement qui les réunira. Par exemple, le jeu vidéo [<i class="fab fa-wikipedia-w"></i> Dragon Quest IV : L'Épopée des élus](https://fr.wikipedia.org/wiki/Dragon_Quest_IV_:_L%27%C3%89pop%C3%A9e_des_%C3%A9lus) y arrive parfaitement[^1], et **Expiations** s'en tirait très bien aussi.
+A la manière de ce qui sera [son prochain roman](/posts/expiations/), Kanae Minato traite à nouveau d'un même fait au travers du dialogue à sens unique de plusieurs protagonistes qui y sont liés. Sur moi, ce genre de narration peut autant fonctionner que se casser la gueule car chaque partie doit à la fois savoir susciter un intérêt égal, avoir ses propres particularités, et trouver une conclusion satisfaisante dans un dénouement qui les réunira. Par exemple, le jeu vidéo <wiki>Dragon Quest IV : L'Épopée des élus</wiki> y arrive parfaitement[^1], et **Expiations** s'en tirait très bien aussi.
 
 Ici, c'est malheureusement bien plus ambigu. Beaucoup de personnages vont revenir sur des évènements déjà vus et revus sans pouvoir y apporter la moindre lecture alternative, et j'avoue avoir volontiers sauté des phrases entières, tant rien ne m'intéressait dans certaines relectures de la situation...
 

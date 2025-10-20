@@ -30,9 +30,9 @@ Si Atelier Akatombo dépeint le Détective[^1] comme "aux antipodes du privé ha
 
 # Presque comme un dragon
 
-Pour l'ambiance, c'est presque pareil, mais en différent, certains détails étant vraiment spécifiques à la vie nocturne Japonaise. Si bien qu'au bout d'un moment, entre le crime, le déroulement de l'enquête, et la manière de l'approcher, j'ai eu la sensation d'être dans un scénario de jeu *Yakuza*[^3] (la folie du jeu en moins).
+Pour l'ambiance, c'est presque pareil, mais en différent, certains détails étant vraiment spécifiques à la vie nocturne Japonaise. Si bien qu'au bout d'un moment, entre le crime, le déroulement de l'enquête, et la manière de l'approcher, j'ai eu la sensation d'être dans un scénario de jeu [Yakuza](/tags/yakuza-like-a-dragon/), la folie du jeu en moins.
 
-La quantité de taxis que prend le Détective, et le temps qu'il passe dans des cabines téléphoniques, n'ont fait que renforcer cette impression, et des images du premier jeu de la série[^4], version PlayStation 2, me revenaient constamment en tête.
+La quantité de taxis que prend le Détective, et le temps qu'il passe dans des cabines téléphoniques, n'ont fait que renforcer cette impression, et des images du premier jeu de la série[^3], version PlayStation 2, me revenaient constamment en tête.
 
 # Une enquête bien ficelée
 
@@ -42,6 +42,5 @@ A la fin, l'histoire retombe sur ses pieds, le lecteur a pu aisément suivre l'e
 
 * * *
 [^1]: Il aura beau s'exprimer à la première personne, il restera anonyme.
-[^2]: Détective incarné par Bob Hopkins et personnage principal de [<i class="fab fa-wikipedia-w"></i> Qui veut la peau de Roger Rabbit](https://fr.wikipedia.org/wiki/Qui_veut_la_peau_de_Roger_Rabbit)
-[^3]: Anciennement connue sous le nom de "Yakuza", cette série de jeux vidéo est connue depuis 2022 sous le nom de [Like a Dragon](https://fr.wikipedia.org/wiki/Like_a_Dragon_(s%C3%A9rie_de_jeux_vid%C3%A9o))
-[^4]: Qui se déroule, lui, en 2005, mais conserve cette absence de téléphone portables et un aspect rétro.
+[^2]: Détective incarné par Bob Hopkins et personnage principal de <wiki>Qui veut la peau de Roger Rabbit</wiki>.
+[^3]: Qui se déroule, lui, en 2005, mais conserve cette absence de téléphone portables et un aspect rétro.

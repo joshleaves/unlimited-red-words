@@ -39,9 +39,9 @@ De manière plus personnelle, en tant qu'homme, j'apprécie aussi qu'un homme se
 Pour les curieux, vous pouvez y aller les yeux fermés. La VF, de très bonne facture, a eu le bon gout de reprendre tous les termes "remaniés" de la VF d'époque[^6] afin de retranscrire à la perfection la volonté de nostalgie de l'oeuvre. Et si vous n'avez jamais connu l'oeuvre originale, le film reste très accessibles, faisant même le choix (étrange dans ce genre d'oeuvre) de ne JAMAIS la montrer, ni même réutiliser d'images d'archives, et ne faisant que l'évoquer, même quand un personnage regarde un épisode.
 
 * * *
-[^1]: Le terme [<i class="fab fa-wikipedia-w"></i> Shôjo](https://fr.wikipedia.org/wiki/Sh%C5%8Djo) ne doit pas être écrit sans accent, sous peine de devenir [<i class="fab fa-wikipedia-w"></i> un tout autre terme](https://en.wiktionary.org/wiki/%E3%81%97%E3%82%87%E3%81%98%E3%82%87).
+[^1]: Le terme <wiki>Shōjo</wiki> ne doit pas être écrit sans accent, sous peine de devenir <wiki site="wiktionary" lang="en" page="しょじょ">un tout autre terme</wiki>.
 [^2]: De son nom original, **Ojamajô Doremi**, que l'on pourrait traduire "Doremi la magicienne maladroite".
-[^3]: Le manga [<i class="fab fa-wikipedia-w"></i> Tokyo Tarareba Girls](https://fr.wikipedia.org/wiki/Tokyo_Tarareba_Girls), paru en France, possède une traduction parfaite, ne serait-ce que pour le génie d'avoir traduit le jeu du mot du titre par [<i class="fab fa-x-twitter"></i> "y-à-qu'à-faut-connes"](https://x.com/julienbouvard/status/1357299210564079616).
-[^4]: Leurs ages/personnalités sont très réminiscents de ceux des trois soeurs de [<i class="fab fa-wikipedia-w"></i> Notre petite soeur](https://fr.wikipedia.org/wiki/Notre_petite_s%C5%93ur).
+[^3]: Le manga <wiki>Tokyo Tarareba Girls</wiki>, paru en France, possède une traduction parfaite, ne serait-ce que pour le génie d'avoir traduit le jeu du mot du titre par [<i class="fab fa-x-twitter"></i> "y-à-qu'à-faut-connes"](https://x.com/julienbouvard/status/1357299210564079616).
+[^4]: Leurs ages/personnalités sont très réminiscents de ceux des trois soeurs de <wiki>Notre petite sœur</wiki>..
 [^5]: Pour les curieux: [<i class="fab fa-x-twitter"></i> elle serait à Kamakura](https://x.com/ojasan1129/status/1382620881201950722).
-[^6]: [<i class="fab fa-youtube"></i> "C'était la mode à l'époque!"](https://www.youtube.com/watch?v=1PBjrA7YsmU)
+[^6]: <span><yt video="1PBjrA7YsmU">"C'était la mode à l'époque!"</yt></span>

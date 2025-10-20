@@ -20,13 +20,13 @@ meta:
   episodes: 53
 ---
 
-Lorsque le cross-over "Crisis on Infinite Earths"[^1] a subtilement introduit le personnage de Superman dans le Arrowverse, j'étais pour le moins circonspect: la personnalité "Clark" était très crédible, mais me semblait prendre trop le dessus sur celle de superman[^2], lui retirant le charisme nécessaire pour mettre en confiance une personne à qui il pourrait dire "Je vais vous sauver".
+Lorsque le cross-over <wiki lang="en" page="Crisis on Infinite Earths (Arrowverse)">Crisis on Infinite Earths</wiki> a subtilement introduit le personnage de Superman dans le Arrowverse, j'étais pour le moins circonspect: la personnalité "Clark" était très crédible, mais me semblait prendre trop le dessus sur celle de superman[^2], lui retirant le charisme nécessaire pour mettre en confiance une personne à qui il pourrait dire "Je vais vous sauver".
 
 Mais, j'ai donné sa chance à la série.
 
 # Superman for all seasons
 
-Lorsque la série commence, Superman est déjà un héros établi, pas d'*origin story* ici: il est marié à Lois Lane, le couple a des jumeaux en age d'adolescence, Lois a déjà eu son pulitzer,... Le premier épisode reprend des passages célèbres pour nous rappeler qui est le personnage[^3] et l'introduire dans le monde de la série. Pas de Justice League, ni de crossover avec Batman, et même Lux Lethor est déjà en prison et n'en sortira pas avant longtemps: paradoxalement, même si le titre comporte le nom de "Superman", c'est "Clark" qui sera le plus mis en avant.
+Lorsque la série commence, Superman est déjà un héros établi, pas d'*origin story* ici: il est marié à Lois Lane, le couple a des jumeaux en age d'adolescence, Lois a déjà eu son pulitzer,... Le premier épisode reprend des passages célèbres pour nous rappeler qui est le personnage[^3] et l'introduire dans le monde de la série. Pas de Justice League, ni de crossover avec Batman, et même _Lux Lethor_ est déjà en prison et n'en sortira pas avant longtemps: paradoxalement, même si le titre comporte le nom de "Superman", c'est "Clark" qui sera le plus mis en avant.
 
 # Superman: Identité Secrète
 
@@ -38,7 +38,7 @@ Petit plaisir: alors que celui-ci était absent et ignoré pendant trois saison,
 
 # All-Star Superman
 
-Dans le crossover **DC One Million**[^4], sensé se dérouler un million de numéros dans le futur, au 853ème siècle, Superman a attendu des années dans le soleil, est devenu doré, et ressuscite Lois Lane, leur donnant à tous deux une existence et un amour éternel.
+Dans le crossover <wiki lang="en">DC One Million</wiki>, sensé se dérouler un million de numéros dans le futur, au 853ème siècle, Superman a attendu des années dans le soleil, est devenu doré, et ressuscite Lois Lane, leur donnant à tous deux une existence et un amour éternel.
 
 Le dernier épisode reprend cette idée, utilisant une variante dorée du symbole de Superman, et rappelant l'essence du personnage, et d'une vie bien vécue: une famille, des amis, et de l'amour.
 
@@ -51,7 +51,5 @@ Pour aller plus loin, quelques histoires sur Superman qui peuvent se lire seules
 - [All-Star Superman](https://www.urban-comics.com/all-star-superman/) est une fable épique en douze travaux/numéros sur les exploits de Superman et son héritage.
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Crisis on Infinite Earths](https://en.wikipedia.org/wiki/Crisis_on_Infinite_Earths_(Arrowverse))
-[^2]: Le monologue de Bill dans [<i class="fab fa-wikipedia-w"></i> Kill Bill : Volume 2](https://fr.wikipedia.org/wiki/Kill_Bill_:_Volume_2) décrit bien la dichotomie entre les deux facettes du personnage, même si je n'y adhère pas.
-[^3]: La citation "Merci, ma mère a fait (ce costume) pour moi" est issue de [<i class="fab fa-wikipedia-w"></i> Superman for All Seasons](https://en.wikipedia.org/wiki/Superman_for_All_Seasons).
-[^4]: [<i class="fab fa-wikipedia-w"></i> DC One Million](https://en.wikipedia.org/wiki/DC_One_Million)
+[^2]: Le monologue de Bill dans <wiki site="wikiquote" page="Kill Bill" section="Kill Bill : volume 2">Kill Bill : Volume 2</wiki> décrit bien la dichotomie entre les deux facettes du personnage, même si je n'y adhère pas.
+[^3]: La citation "Merci, ma mère a fait ce costume pour moi" est issue de <wiki lang="en">Superman for All Seasons</wiki>.

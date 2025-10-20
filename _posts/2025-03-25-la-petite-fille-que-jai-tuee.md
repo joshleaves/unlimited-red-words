@@ -27,7 +27,7 @@ A chaque phrase que prononce le détective Sawazaki, je n'ai qu'une envie: poser
 
 On retrouve Sawazaki impliqué pour d'étranges raisons dans une affaire d'enlèvement d'enfants, de loubards belliqueux, et de remise de rançon qui finit mal. Un peu en-deçà du précédent: on sent que l'auteur essaie à présent de développer un univers entier, et l'on se retrouve à devoir délaisser l'enquête le temps d'un demi-chapitre pour suivre une idée qui sera peut-être exploitée dans un futur livre, mais qui ici, ne sert vraiment à rien narrativement parlant.
 
-Je m'étais déjà exprimé sur les [traductions un peu hasardeuses](/posts/le-singe-venimeux/#la-faute-en-est-au-traducteur) de l'éditeur, mais ici, je me sens déjà plus à l'aise. J'apprécie notamment le soins d'adapter les billets que le détective refile à ses divers indics: celui à l'effigie de [<i class="fab fa-wikipedia-w"></i> Natsume Sōseki](https://fr.wikipedia.org/wiki/Natsume_S%C5%8Dseki) est cité du nom de son porteur et de son montant, tandis que celui à l'effigie de [<i class="fab fa-wikipedia-w"></i> Nitobe Inazō](https://fr.wikipedia.org/wiki/Nitobe_Inaz%C5%8D), un personnage plus obscur, n'est cité que par son montant.
+Je m'étais déjà exprimé sur les [traductions un peu hasardeuses](/posts/le-singe-venimeux/#la-faute-en-est-au-traducteur) de l'éditeur, mais ici, je me sens déjà plus à l'aise. J'apprécie notamment le soins d'adapter les billets que le détective refile à ses divers indics: celui à l'effigie de <wiki>Natsume Sōseki</wiki> est cité du nom de son porteur et de son montant, tandis que celui à l'effigie de <wiki>Nitobe Inazō</wiki>, un personnage plus obscur, n'est cité que par son montant.
 
 # Volte-face et retournements
 
@@ -38,4 +38,4 @@ Difficile d'en parler plus, et même d'établir proprement la notation de ce liv
 J'imagine que pour une qualité constante, je n'ai plus qu'à sortir du Japon et lire du *Raymond Chandler*...
 
 * * *
-[^1]: Le [<i class="fab fa-wikipedia-w"></i> Fusil de Tchekhov](https://fr.wikipedia.org/wiki/Fusil_de_Tchekhov) est un principe narratif selon lequel tout détail introduit dans une histoire doit être utilisé avant la fin de celle-ci.
+[^1]: Le <wiki>Fusil de Tchekhov</wiki> est un principe narratif selon lequel tout détail introduit dans une histoire doit être utilisé avant la fin de celle-ci.

@@ -51,5 +51,5 @@ Au début du jeu, le joueur découvre la Colonie 9, une ville située sur le pie
 **Xenoblade Chronicles** n'est pas mauvais, et je crains malheureusement d'être coincé dans ce paradoxe d'un jeu dont je sais reconnaître les qualités objectives, mais dont la proposition ne me convient pas totalement, m'empêchant ainsi d'apprécier autant que je le pourrais (voudrais?) un chef-d'oeuvre du jeu vidéo...
 
 * * *
-[^1]: Aujourd'hui connue sous le nom de Square-Enix, [<i class="fab fa-wikipedia-w"></i> Square](https://fr.wikipedia.org/wiki/Square_(entreprise)) était l'un des fleurons Japonais du développement de jeux de rôles, avec notamment la série des Final Fantasy.
+[^1]: Aujourd'hui connue sous le nom de Square-Enix, <wiki page="Square (entreprise)">Square</wiki> était l'un des fleurons Japonais du développement de jeux de rôles, avec notamment la série des Final Fantasy.
 [^2]: Depuis **Chrono Trigger**, je ne compose mes équipes de RPGs qu'avec les personnages que j'apprécie, et non pas avec les plus puissants.

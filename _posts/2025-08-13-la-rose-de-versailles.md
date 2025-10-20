@@ -32,13 +32,13 @@ Même si l'oeuvre ne contient pas de _yuri_[^2], et reste résolument hétéro-n
 
 Afin d'accélérer l'intrigue[^3], le film se présente sous la forme d'une comédie musicale. Petit problème: toute la musique est composée par [Hiroyuki Sawano](/tags/hiroyuki-sawano/).
 
-Déjà que j'ai du mal à supporter qu'il photocopie des compositions très fun, mais qui manquent de plus en plus d'identité, là, c'est carrément l'erreur de casting: qu'est-ce que cette musique électro-pop-rock fout à Versailles? Renvoyez-moi ça sur RTL2[^4]! Le pire est que ces musiques sont VRAIMENT bonnes, certaines ont même des instruments et motifs que Sawano utilise peu, voire jamais, leur donnant une identité plus "A la cour de Paris"[^5], mais restant toujours dans ce même style peu adapté... Ma seule consolation sera que [<i class="fab fa-wikipedia-w"></i> Ayaka](https://en.wikipedia.org/wiki/Ayaka), qui chantait le thème principal de [<i class="fab fa-wikipedia-w"></i> Crisis Core: Final Fantasy VII](https://en.wikipedia.org/wiki/Crisis_Core:_Final_Fantasy_VII) passait par là pour chanter [<i class="fab fa-youtube"></i> le thème du film](https://www.youtube.com/watch?v=H2O4lRmLrZ8)...
+Déjà que j'ai du mal à supporter qu'il photocopie des compositions très fun, mais qui manquent de plus en plus d'identité, là, c'est carrément l'erreur de casting: qu'est-ce que cette musique électro-pop-rock fout à Versailles? Renvoyez-moi ça sur RTL2[^4]! Le pire est que ces musiques sont VRAIMENT bonnes, certaines ont même des instruments et motifs que Sawano utilise peu, voire jamais, leur donnant une identité plus "A la cour de Paris"[^5], mais restant toujours dans ce même style peu adapté... Ma seule consolation sera que <wiki lang="en">Ayaka</wiki>, qui chantait le thème principal de <wiki>Crisis Core: Final Fantasy VII</wiki> passait par là pour chanter <yt video="H2O4lRmLrZ8">le thème du film</yt>...
 
 Je ne me souviens plus assez du manga original pour savoir si l'adaptation est très fidèle. Je sais qu'une scène d'agression sexuelle (qui a fait couler beaucoup d'encre) a été retirée. Sensibilité de l'autrice? Du studio d'animation? Inutilité du propos? Qui sait, ce n'était pas le moment le plus important de l'histoire d'Oscar. A une époque où beaucoup de séries sont la cible de remakes dont je ne saisis pas toujours l'intérêt, je suis plutôt content que la légende de Lady Oscar puisse à nouveau toucher une nouvelle génération.
 
 ***
-[^1]: L'autrice du manga, [<i class="fab fa-wikipedia-w"></i> Riyoko Ikeda](https://fr.wikipedia.org/wiki/Riyoko_Ikeda), s'est notamment inspirée de [<i class="fab fa-wikipedia-w"></i> la biographie de Marie-Antoinette par Stefan Zweig](https://fr.wikipedia.org/wiki/Marie-Antoinette_(biographie_de_Stefan_Zweig)).
+[^1]: L'autrice du manga, <wiki>Riyoko Ikeda</wiki>, s'est notamment inspirée de <wiki page="Marie-Antoinette (biographie de Stefan Zweig)">la biographie de Marie-Antoinette par Stefan Zweig</wiki>.
 [^2]: Manga lesbien.
 [^3]: Le dessin animé original [comportait 40 épisodes](https://anidb.net/anime/181).
-[^4]: [<i class="fab fa-youtube"></i>"Le son pop-rock!"](https://www.youtube.com/watch?v=_jeyypdHQ_0)
-[^5]: La chanson du bal masqué [<i class="fab fa-youtube"></i> Enchanting Masquerade](https://www.youtube.com/watch?v=NUza_0TqeD8) est vraiment très bonne.
+[^4]: <span><yt video="_jeyypdHQ_0">"Le son pop-rock!"</yt></span>
+[^5]: La chanson du bal masqué <yt video="NUza_0TqeD8">Enchanting Masquerade</yt>est vraiment très bonne.

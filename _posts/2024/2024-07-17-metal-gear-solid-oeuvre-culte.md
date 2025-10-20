@@ -46,7 +46,7 @@ En soi, le livre se tient. Il se concentre sur le parcours d'*Hideo Kojima*, sur
 Ma plus grosse interrogation revient à la description de l'univers de la saga: plus de cent pages décrivent de manière chronologie l'histoire complète de la saga, soit un tiers du livre. Si ce résumé m'a rappelé de bons (et tristes) souvenirs, et a aussi remis des pendules à l'heure, je ne suis pas totalement sûr de la pertinence de ce récapitulatif intégral, si ce n'est le bonheur d'avoir pu repenser encore une fois à un de mes moments vidéoludiques préférés.
 
 >"Je n'éparpillerai pas ton chagrin dans une mer indifférente."   
-> — Venom Snake, dans [<i class="fab fa-youtube"></i> la scène la plus émouvante de la saga](https://www.youtube.com/watch?v=VofQjhpkJpY)
+> — Venom Snake, dans <yt video="VofQjhpkJpY">>la scène la plus émouvante de la saga</yt>.
 
 # Revengeance
 
@@ -61,11 +61,11 @@ Sans pour autant jeter la pierre aux livres qui font ce choix, je serais doréna
 Comme l'est la saga Metal Gear Solid.
 
 >"Last year, I thought I lost everything. But I didn't lose anything. Thanks to all of you."   
-> — Hideo Kojima, [<i class="fab fa-youtube"></i> lors de son apparition aux Game Awards 2016](https://www.youtube.com/watch?v=ItxghCQEFBI)
+> — Hideo Kojima, <yt video="ItxghCQEFBI">lors de son apparition aux Game Awards 2016</yt>.
 
 * * *
 [^1]: Console qui me fût offerte par le copain de ma soeur. Dix ans plus tard, la PS3 est toujours branchée à ma télé, et le copain est toujours avec ma soeur, comme quoi.
-[^2]: Sur PlayStation, certaines actions d'un jeu peuvent octroyer au joueur des "trophées" de diffèrentes valeur (bronze, argent, et or). Obtenir tous les trophées d'un jeu octroie un trophée final, le "Platine", qui indique plus ou moins que tout (selon la vision désirée par les concepteurs du jeu) a été accomplie.
+[^2]: Sur PlayStation, certaines actions d'un jeu peuvent octroyer au joueur des "trophées" de différentes valeur (bronze, argent, et or). Obtenir tous les trophées d'un jeu octroie un trophée final, le "Platine", qui indique plus ou moins que tout (selon la vision désirée par les concepteurs du jeu) a été accomplie.
 [^3]: Un **Metal Gear Survive** est sorti en 2018, mais il ne s'agit que d'une médiocre tentative de l'éditeur qui détient les droits de traire la vache à lait.
-[^4]: Le livre pose ouvertement la question: "Qui pourrait embaucher le papa de Metal Gear et lui faire un chèque en blanc pour qu'il lance une nouvelle license?", la réponse tombera [<i class="fab fa-youtube"></i> le 14 Juin 2016 lors d'une présentation lors de l'E3: Sony](https://www.youtube.com/watch?v=1YSx7UoL6sk).
+[^4]: Le livre pose ouvertement la question: "Qui pourrait embaucher le papa de Metal Gear et lui faire un chèque en blanc pour qu'il lance une nouvelle license?", la réponse tombera <yt video="1YSx7UoL6sk">le 14 Juin 2016 lors d'une présentation lors de l'E3: Sony</yt>.
 [^5]: Pouvez-vous imaginer que j'ai lu un livre sur *Pink Floyd* qui ne traitait à aucun moment de l'album **The Wall** dans ses pages? C'est possible, oui, [car ce livre est sorti en 1978](https://www.seedfloyd.fr/livre/le-livre-du-pink-floyd), soit un an avant la sortie de l'album culte...

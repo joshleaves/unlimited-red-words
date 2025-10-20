@@ -22,7 +22,7 @@ J'avais déjà parlé de [Keigo Higashino](/posts/le-devouement-du-suspect-x/) e
 
 # Retour vers le passé
 
-Le thème du dialogue entre présent est passé est courant dans la fiction. On a par exemple eu le film [<i class="fab fa-wikipedia-w"></i> Fréquence Interdite](https://fr.wikipedia.org/wiki/Fr%C3%A9quence_interdite), où une radio permet à un fils d'aider son père à résoudre une enquête trente ans plus tôt, puis la série Coréenne [<i class="fab fa-wikipedia-w"></i> Signal](https://fr.wikipedia.org/wiki/Signal_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e))[^1] où deux détectives s'entraident à travers un talkie-walkie pour attraper un serial killer.
+Le thème du dialogue entre présent est passé est courant dans la fiction. On a par exemple eu le film <wiki>Fréquence Interdite</wiki>, où une radio permet à un fils d'aider son père à résoudre une enquête trente ans plus tôt, puis la série Coréenne <wiki page="Signal (série télévisée)">Signal</wiki>[^1] où deux détectives s'entraident à travers un talkie-walkie pour attraper un serial killer.
 
 Le propos est très différent cette fois-ci: on découvrent trois cambrioleurs qui se planquent dans un magasin abandonné, et y reçoivent une lettre écrite 32 ans plus tôt... Leur correspondance permettra-t-elle de changer les destins? Et quid du leur?
 
@@ -36,7 +36,7 @@ De fait, le propos fantastique sera en réalité assez vite écarté afin de se 
 
 L'intrigue ne tourne pas autour du fantastique (on découvre très vite le "comment?" de son fonctionnement, et on se fout totalement du "pourquoi?"), mais vraiment autour de la capacité de l'être humain à pouvoir aider son prochain et au pouvoir des "conseils": certains sont suivis, d'autres non, mais à la manière d'une bonne séance avec un bon psy, ils sont capable de tout chambouler et peuvent permettre de remettre les idées en ordre.
 
-Malgré certains destins plutôt sombres, le livre reste vraiment *feel good*, un ton qui a mené à son succès au Japon, une couverture officielle dessinée par le studio [<i class="fab fa-wikipedia-w"></i> CoMix Wave](https://fr.wikipedia.org/wiki/CoMix_Wave_Films), une adaptation en film live, et même un remake Chinois (avec Jackie Chan en guest!). Pour le livre, il est très agréable à lire.
+Malgré certains destins plutôt sombres, le livre reste vraiment *feel good*, un ton qui a mené à son succès au Japon, une couverture officielle dessinée par le studio <wiki page="CoMix Wave Films">CoMix Wave</wiki>, une adaptation en film live, et même un remake Chinois (avec Jackie Chan en guest!). Pour le livre, il est très agréable à lire.
 
 
 * * *

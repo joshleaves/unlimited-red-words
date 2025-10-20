@@ -32,4 +32,4 @@ On notera aussi une forte obsession pour **Histoire d'O**[^2], qui reviendra tou
 
 * * *
 [^1]: Après tout, j'ai été élevé par des femmes.
-[^2]: [<i class="fab fa-wikipedia-w"></i> Histoire d'O](https://fr.wikipedia.org/wiki/Histoire_d%27O) est un roman sulfureux (pour son époque) décrivant la libération sexuelle d'une femme.
+[^2]: <span><wiki>Histoire d'O</wiki></span> est un roman sulfureux (pour son époque) décrivant la libération sexuelle d'une femme.

@@ -16,7 +16,7 @@ meta:
   steam: "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
 ---
 
-Je ne vais pas le cacher, je n'ai jamais été vraiment fan du format "Souls-like", cette espèce de genre vidéoludique qui n'en est pas un mais représente les jeux au gameplay complexe, basé sur la difficulté, et le "die-and-retry"[^1]. J'ai bien tenté [<i class="fab fa-wikipedia-w"></i> Dark Souls](https://fr.wikipedia.org/wiki/Dark_Souls), une première fois sur PC qui a duré deux heures, puis une seconde sur Switch qui a duré cinq minutes, avant que je ne teste le jeu sur ma Playstation 3, pour une aventure d'une vingtaine d'heures environ.
+Je ne vais pas le cacher, je n'ai jamais été vraiment fan du format "Souls-like", cette espèce de genre vidéoludique qui n'en est pas un mais représente les jeux au gameplay complexe, basé sur la difficulté, et le "die-and-retry"[^1]. J'ai bien tenté <wiki>Dark Souls</wiki>, une première fois sur PC qui a duré deux heures, puis une seconde sur Switch qui a duré cinq minutes, avant que je ne teste le jeu sur ma Playstation 3, pour une aventure d'une vingtaine d'heures environ.
 
 # Ce genre me Saoule-like
 
@@ -32,11 +32,11 @@ Donc: les Souls-like ne sont pas un mauvais genre, mais je n'ai pas la patience 
 
 En digne successeur spirituel de la série, et étant produit par le même studio, Sekiro a presque tous les mêmes "défauts". Presque, car il propose des choses différentes, la première étant d'avoir un scénario qui implique bien plus le joueur, et un personnage principal clairement défini (m'évitant d'avoir à réfléchir à une "classe", un "build", ou que-sais-je d'autre,...), mais aussi des mécaniques de parade[^5] face aux attaques ennemies.
 
-Couplé à ma **brillante** (et récente) réussite sur [<i class="fab fa-wikipedia-w"></i> Metal Gear Rising: Revengeance](https://fr.wikipedia.org/wiki/Metal_Gear_Rising:_Revengeance) et ses multiples boss[^6], j'ai eu envie de tenter l'aventure. Et je suis vite retombé face aux mêmes gros écueils...
+Couplé à ma **brillante** (et récente) réussite sur <wiki>Metal Gear Rising: Revengeance</wiki> et ses multiples boss[^6], j'ai eu envie de tenter l'aventure. Et je suis vite retombé face aux mêmes gros écueils...
 
 # A La Mode
 
-Mon premier véritable obstacle est apparu après quelques heures de jeu, j'en ai eu assez, et j'ai décidé que j'allais _modder_ le jeu afin de moins souffrir de morts à répétition. J'ai donc commencé par appliquer un _skin_ de 2B de [<i class="fab fa-wikipedia-w"></i> NieR: Automata](https://fr.wikipedia.org/wiki/Nier:_Automata): quitte à mourir en boucle, autant le faire en me rinçant l'oeil sur un personnage que j'apprécie. J'ai persévéré, et après une centaine d'essais, j'ai vaincu le boss qui me barrait l'accès à la suite du jeu.
+Mon premier véritable obstacle est apparu après quelques heures de jeu, j'en ai eu assez, et j'ai décidé que j'allais _modder_ le jeu afin de moins souffrir de morts à répétition. J'ai donc commencé par appliquer un _skin_ de 2B de <wiki page="Nier: Automata">NieR: automata</wiki>: quitte à mourir en boucle, autant le faire en me rinçant l'oeil sur un personnage que j'apprécie. J'ai persévéré, et après une centaine d'essais, j'ai vaincu le boss qui me barrait l'accès à la suite du jeu.
 
 Quelques heures d'exploration plus tard, c'est une boss dans un sous-sol qui a mis un terme à ma progression. Une nouvelle centaine d'essais plus loin, j'ai battu ce boss pour découvrir...qu'elle avait une seconde forme. Retour au _modding_ donc, pour encore me faciliter la vie en rendant mon personnage plus résistant, ce qui m'a mené à découvrir encore plus de zones, et même d'autres boss très satisfaisants.
 
@@ -53,7 +53,7 @@ A ce moment-là, j'étais coincé entre deux zones: une forêt avec un singe gé
 ***
 [^1]: Littéralement: "Meurs et recommence".
 [^2]: Parfois par la bonne vieille méthode du "Je me planque, je tape, je retourne me planquer" en boucle...
-[^3]: Mon genre préféré, le [<i class="fab fa-wikipedia-w"></i> RPG](https://fr.wikipedia.org/wiki/Jeu_vid%C3%A9o_de_r%C3%B4le), repose bien sur des stats, mais celles-ci paraissent avoir plus d'impact sur le gameplay.
+[^3]: Mon genre préféré, le <wiki page="Jeu vidéo de rôle">RPG</wiki>, repose bien sur des stats, mais celles-ci paraissent avoir plus d'impact sur le gameplay.
 [^4]: Je suis physiquement incapable de me perdre dans le monde réel, je refuse de me perdre dans un jeu vidéo.
 [^5]: Ne me demandez pas pourquoi, mais en jeux vidéo, je préfère les mécaniques de "contre" (ou parade) à celles d'esquive, rendant le feeling bien plus intense lorsqu'attaque et contre connectent.
 [^6]: Pour obtenir le trophée Platine, le jeu nécessite de défaire ses six boss, dans la difficulté la plus élevée, sans jamais subir les dégâts d'une attaque ennemie.

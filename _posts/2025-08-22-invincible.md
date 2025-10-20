@@ -21,7 +21,7 @@ meta:
   isbn: "978-2-41304-869-5"
 ---
 
-J'avais déjà entendu parler du super-héros écrit par [<i class="fab fa-wikipedia-w"></i> Robert Kirkman](https://fr.wikipedia.org/wiki/Robert_Kirkman) suite à son apparition dans un team-up avec Spider-Man[^1], puis la série animée par Amazon qui...ne m'a pas vraiment attiré. Je connaissais certains points principaux de l'histoire, dont le twist initial, mais je n'avais jamais pris le temps de m'y plonger dedans. Les plages de Cassis étant trop bondées pour y plonger, j'ai donc profité de la climatisation d'une librairie pour commencer à lire...
+J'avais déjà entendu parler du super-héros écrit par <wiki>Robert Kirkman</wiki> suite à son apparition dans un team-up avec Spider-Man[^1], puis la série animée par Amazon qui...ne m'a pas vraiment attiré. Je connaissais certains points principaux de l'histoire, dont le twist initial, mais je n'avais jamais pris le temps de m'y plonger dedans. Les plages de Cassis étant trop bondées pour y plonger, j'ai donc profité de la climatisation d'une librairie pour commencer à lire...
 
 # Un auteur et ses marottes
 
@@ -35,16 +35,16 @@ Je n'ai pas pris le temps de lire TOUS les comics liés à l'univers partagé d'
 
 À plusieurs reprises, le propos n'hésitera pas à se décentrer de Mark pour mettre en avant les sentiments des personnages (généralement féminins) qui partagent la vie de nos héros, et surtout, un point peu souvent discuté: que deviennent-ils lorsque le héros prend le temps de disparaître un an ou deux dans une planète lointaine/une dimension parallèle/autre[^7].
 
-Un autre point intéressant est la moralité des personnages, qui a tendance à faire du yoyo entre l'idéalisme de Spider-Man, et la cruauté de certains anti-héros qu'on croirait sortis de [<i class="fab fa-wikipedia-w"></i> l'âge moderne](https://fr.wikipedia.org/wiki/%C3%82ge_moderne_des_comics). Je trouve que le traitement de la question n'est pas toujours très égal, et que dans ces situations il vaut mieux éviter de trop y réfléchir mais il permet de mettre en avant des questions intéressantes.
+Un autre point intéressant est la moralité des personnages, qui a tendance à faire du yoyo entre l'idéalisme de Spider-Man, et la cruauté de certains anti-héros qu'on croirait sortis de <wiki page="Âge moderne des comics">l'âge moderne</wiki>. Je trouve que le traitement de la question n'est pas toujours très égal, et que dans ces situations il vaut mieux éviter de trop y réfléchir mais il permet de mettre en avant des questions intéressantes.
 
 Apparemment, le succès d'Invincible tient surtout à son positionnement sur le marché du comic-book. Etant donné qu'il a commencé à l'époque où j'ai commencé à lire des comics, il a pu mener sa barque tranquillement, tandis que DC accumulait les "Crisis"[^8], tandis que Marvel s'embourbait dans de nouveaux statu quo qui ne duraient pas, des cross-overs pour "coller" au MCU,... Invincible reste très bon et agréable à lire et à suivre, ce qui est déjà plus que ce qu'ont pu proposer certains super-héros des deux grandes maisons.
 
 ***
 [^1]: Comme dans [Marvel Team-Up Vol.3 #14](https://marvel.fandom.com/wiki/Marvel_Team-Up_Vol_3_14), écrit par _Kirkman_ justement.
 [^2]: Comme dans [The Titannus War](https://marvel.fandom.com/wiki/The_Titannus_War), écrit par _Kirkman_ justement.
-[^3]: Comme dans [<i class="fab fa-wikipedia-w"></i> Marvel Zombies](https://fr.wikipedia.org/wiki/Marvel_Zombies), écrit par _Kirkman_ justement.
-[^4]: Comme dans [<i class="fab fa-wikipedia-w"></i> Ultimate X-Men](https://fr.wikipedia.org/wiki/Ultimate_X-Men), écrit par _Kirkman_ justement.
-[^5]: Comme dans [<i class="fab fa-wikipedia-w"></i> The Walking Dead](https://fr.wikipedia.org/wiki/The_Walking_Dead_(comics)), écrit par _Kirkman_ justement.
-[^6]: Comme dans [<i class="fab fa-wikipedia-w"></i> Fire Power](https://en.wikipedia.org/wiki/Fire_Power_(comic_book)), écrit par _Kirkman_ justement.
+[^3]: Comme dans <wiki>Marvel Zombies</wiki>, écrit par _Kirkman_ justement.
+[^4]: Comme dans <wiki>Ultimate X-Men</wiki>, écrit par _Kirkman_ justement.
+[^5]: Comme dans <wiki page="The Walking Dead (comics)">The Walking Dead</wiki>, écrit par _Kirkman_ justement.
+[^6]: Comme dans <wiki lang="en" pabe="Fire Power (comic book)">Fire Power</wiki>, écrit par _Kirkman_ justement.
 [^7]: Une situation qui ne survient qu'une demi-douzaine de fois.
 [^8]: Les gros events de DC Comics, les reboots, etc... ont tous un "crisis" dans le nom.

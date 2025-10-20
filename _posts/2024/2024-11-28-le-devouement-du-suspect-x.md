@@ -22,7 +22,7 @@ meta:
 
 # La preuve et la solution
 
-Et plus encore, j'apprécie le talent avec lequel un écrivain peut mettre en scène un nouveau type de meurtre. La Reine du genre, Agatha Christie, a su créer un meurtres sans coupable[^1], un meurtre où tout le monde est coupable[^2], et même un meurtre où le narrateur est le coupable[^3]. A partir de là, il ne reste plus beaucoup de place pour innover, et la plupart des séries à mystères, comme Détective Conan[^4] ou HPI[^5], suivent les traces de Sherlock Holmes et mettent en avant l'intelligence supérieure de leurs protagonistes pour redoubler d'inventivité dans la mise en place des crimes: les méthodes sont nouvelles[^6], mais le lecteur sait qu'il est toujours dans ce même setup où il sait qu'un meurtre a eu lieu (ou pas, ou plusieurs, ou pas celui que l'on ne croyait), et qu'il y a un (ou plusieurs) coupables.
+Et plus encore, j'apprécie le talent avec lequel un écrivain peut mettre en scène un nouveau type de meurtre. La Reine du genre, Agatha Christie, a su créer un <wiki page="Dix Petits Nègres">meurtres sans coupable</wiki>, un <wiki page="Le Crime de l'Orient-Express">meurtre où tout le monde est coupable</wiki>, et même un <wiki page="Le Meurtre de Roger Ackroyd">meurtre où le narrateur est le coupable</wiki>. A partir de là, il ne reste plus beaucoup de place pour innover, et la plupart des séries à mystères, comme <wiki>Détective Conan</wiki> ou <wiki page="HPI (série télévisée)">HPI</wiki>, suivent les traces de Sherlock Holmes et mettent en avant l'intelligence supérieure de leurs protagonistes pour redoubler d'inventivité dans la mise en place des crimes: les méthodes sont nouvelles[^1], mais le lecteur sait qu'il est toujours dans ce même setup où il sait qu'un meurtre a eu lieu (ou pas, ou plusieurs, ou pas celui que l'on ne croyait), et qu'il y a un (ou plusieurs) coupables.
 
 Ici, rien de tout cela. Et même si le lecteur assidu sera persuadé de toucher du doigt la solution de l'énigme durant les 300 pages du livre, elle ne fera que vous éluder jusqu'au dernier chapitre.
 
@@ -35,9 +35,4 @@ Quelque part, c'est presque dommage. Le "héros", Manabu Yukawa, n'intervient qu
 Amateurs de policiers, je vous recommande avec ferveur les 300 pages de ce livre!
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Dix Petits Nègres](https://fr.wikipedia.org/wiki/Dix_Petits_N%C3%A8gres)
-[^2]: [<i class="fab fa-wikipedia-w"></i> Le Crime de l'Orient-Express](https://fr.wikipedia.org/wiki/Le_Crime_de_l%27Orient-Express)
-[^3]: [<i class="fab fa-wikipedia-w"></i> Le Meurtre de Roger Ackroyd](https://fr.wikipedia.org/wiki/Le_Meurtre_de_Roger_Ackroyd)
-[^4]: [<i class="fab fa-wikipedia-w"></i> Détective Conan](https://fr.wikipedia.org/wiki/D%C3%A9tective_Conan)
-[^5]: [<i class="fab fa-wikipedia-w"></i> HPI](https://fr.wikipedia.org/wiki/HPI_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e))
-[^6]: Dans le volume 11 de Détective Conan, un meurtre est maquillé en suicide en plaçant la victime sur un radeau, qui sera surélevé par une voie d'eau dans la pièce, jusqu'à être pendu, puis l'eau sera évacuée. [Oui, c'est très tordu.](https://www.detectiveconanworld.com/wiki/The_Mist_Goblin_Legend_Murder_Case#Resolution)
+[^1]: Dans le volume 11 de Détective Conan, un meurtre est maquillé en suicide en plaçant la victime sur un radeau, qui sera surélevé par une voie d'eau dans la pièce, jusqu'à être pendu, puis l'eau sera évacuée. [Oui, c'est très tordu.](https://www.detectiveconanworld.com/wiki/The_Mist_Goblin_Legend_Murder_Case#Resolution)

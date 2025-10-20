@@ -21,7 +21,7 @@ Ca n'avait aucun rapport avec le reste du film, mais ça m'a bien fait rire.
 
 # Le rayon covid-black-lives
 
-Dans [<i class="fab fa-wikipedia-w"></i> Le Rayon Noir](https://fr.wikipedia.org/wiki/Le_Rayon_noir), un album de la série _Spirou et Fantasio_, la quiétude du petit village de Champignac est perturbée par un rayon dont le pouvoir qui rend les gens...noirs de peau. La petite communauté se retrouve alors confrontée à des questions d'identité qui sont monnaie courante dans la monde urbain, mais qu'elle n'avait jamais eu à affronter jusque-là, jusqu'à tomber sur le laitier, noir aussi: "Mais j'ai toujours été noir, moi!".
+Dans <wiki>Le Rayon Noir</wiki>, un album de la série _Spirou et Fantasio_, la quiétude du petit village de Champignac est perturbée par un rayon dont le pouvoir qui rend les gens...noirs de peau. La petite communauté se retrouve alors confrontée à des questions d'identité qui sont monnaie courante dans la monde urbain, mais qu'elle n'avait jamais eu à affronter jusque-là, jusqu'à tomber sur le laitier, noir aussi: "Mais j'ai toujours été noir, moi!".
 
 C'est pareil dans le petit conté _Eddington_ en 2020: même si la pandémie et la violence policière touchent les grandes villes, il n'y a pas vraiment de quoi s'en inquiéter ici, et le plus grand problème est l'implantation d'un data center de la société **solidgoldmagikarp**.
 

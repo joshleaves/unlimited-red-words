@@ -22,13 +22,13 @@ meta:
 
 > À Tokyo, le reporter américain Jake Adelstein, âgé de 24 ans, intègre le plus grand quotidien japonais. Alors qu'il collabore avec la police locale, il devient un interlocuteur des yakuzas, mais cette position ambivalente n'est pas sans danger.
 
-Je followe Jake Adelstein sur Instagram[^1] depuis déjà quelques années, mais je n'avais jamais réussi à me lancer dans son premier livre, Tokyo Vice. Même la première saison de la série TV, attendue depuis 2013 (avec à l'époque Daniel Radcliffe prévu en rôle principal) m'était complètement passée sous le nez.
+Je followe Jake Adelstein [<i class="fab fa-instagram"></i> sur Instagram](https://www.instagram.com/tokyovice/) depuis déjà quelques années, mais je n'avais jamais réussi à me lancer dans son premier livre, Tokyo Vice. Même la première saison de la série TV, attendue depuis 2013 (avec à l'époque _Daniel Radcliffe_ prévu en rôle principal) m'était complètement passée sous le nez.
 
-Après avoir écouté le podcast **The Evaporated**[^2], et au vu de la quantité de pubs pour la saison 2 de Tokyo Vice sur Canal+, je me suis enfin décidé à me lancer dans Tokyo Vice en suivant en parallèle la série télé, et [le livre](/posts/tokyo-vice-book).
+Après avoir écouté le podcast [<i class="fab fa-apple"></i> The Evaporated: Gone with the Gods](https://podcasts.apple.com/us/podcast/evaporated-gone-with-the-gods/id1721239147),, et au vu de la quantité de pubs pour la saison 2 de Tokyo Vice sur Canal+, je me suis enfin décidé à me lancer dans Tokyo Vice en suivant en parallèle la série télé, et [le livre](/posts/tokyo-vice-book).
 
 # "Dans le coeur de Tokyo, j'ai des sursauts"
 
-Ce qui saute au premier coup d'oeil, c'est la qualité. On voit de suite que HBO est aux manettes: la série ne lésine pas sur les décors, et le casting est rempli d'acteurs au jeu de qualité, sans qu'ils ne soient des sur-stars[^3]. Après cinq ans loin de mon pays de coeur, revoir ses ruelles et ses bars fumeux m'a de suite mis au coeur de l'ambiance d'un Tokyo qui existait alors que je n'avais même pas commencé à étudier le japonais[^4].
+Ce qui saute au premier coup d'oeil, c'est la qualité. On voit de suite que HBO est aux manettes: la série ne lésine pas sur les décors, et le casting est rempli d'acteurs au jeu de qualité, sans qu'ils ne soient des sur-stars[^1]. Après cinq ans loin de mon pays de coeur, revoir ses ruelles et ses bars fumeux m'a de suite mis au coeur de l'ambiance d'un Tokyo qui existait alors que je n'avais même pas commencé à étudier le japonais[^2].
 
 Contrairement au livre, les intrigues se centrent désormais sur un triumvirat de personnages. A Jake se joignent Samantha, une hôtesse de club, et Akiro, un jeune yakuza. De fait, la série n'est plus forcément "une histoire de Jake Adelstein" et apparaît plus comme "une chronique des bas-fonds criminels de Tokyo". Les trois destinées se croisent mais sans que ces interactions n'aient l'air forcées. Jake est Akiro notamment, que l'on pourrait imaginer devenir contacts, ne se croisent finalement que peu.
 
@@ -47,7 +47,5 @@ Au final, HBO a annoncé que la série était annulée après deux saisons. Bien
 Si vous désirez voir un Tokyo que l'on a peu l'occasion de voir, la série Tokyo Vice est une très bonne alternative au livre.
 
 * * *
-[^1]: [<i class="fab fa-instagram"></i> @tokyovice](https://www.instagram.com/tokyovice/)
-[^2]: [<i class="fab fa-apple"></i> The Evaporated: Gone with the Gods](https://podcasts.apple.com/us/podcast/evaporated-gone-with-the-gods/id1721239147)
-[^3]: Ken Watanabe et Rinko Kikuchi font presque figure d'OVNIs, mais leur popularité dans des films Hollywoodiens a dû jouer dans leur casting.
-[^4]: L'histoire originale se déroulait en 1993, elle a été avancée à 1999 pour la série. Pour ma part, je ne débuterais le Japonais qu'en...2002.
+[^1]: Ken Watanabe et Rinko Kikuchi font presque figure d'OVNIs, mais leur popularité dans des films Hollywoodiens a dû jouer dans leur casting.
+[^2]: L'histoire originale se déroulait en 1993, elle a été avancée à 1999 pour la série. Pour ma part, je ne débuterais le Japonais qu'en...2002.

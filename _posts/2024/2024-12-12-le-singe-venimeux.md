@@ -28,15 +28,15 @@ On retrouve Samejima, "le requin", et sa petite amie Sho, qui font leur petit bo
 
 Les nouveaux personnages secondaires de cette enquête sont...existants. Je ne comprends toujours pas ce besoin de faire coexister deux fils narratifs au sein d'un même livre: je suis ici pour une enquête policière, je n'ai pas envie de suivre l'histoire d'une fille qui n'accompagne le tueur que de temps en temps, et plus encore, sert de demoiselle en détresse.
 
-Pour l'intrigue, on aura l'impression d'être encore une fois dans un épisode de la série *Like a Dragon*[^2], avec encore une fois une quantité ASTRONOMIQUE de morts pour un livre se déroulant au Japon[^3], nous offrant des explosions et fusillades en pleine ville, mais aussi un final où vingt malfrats sont mitraillés à l'explosif dans le jardin de Shinjuku[^4], le genre d'effusions de violence que seul City Hunter[^5] n'a jamais osé[^6]...
+Pour l'intrigue, on aura l'impression d'être encore une fois dans un épisode de la série *Like a Dragon*[^2], avec encore une fois une quantité ASTRONOMIQUE de morts pour un livre se déroulant au Japon[^3], nous offrant des explosions et fusillades en pleine ville, mais aussi un final où vingt malfrats sont mitraillés à l'explosif dans le <wiki page="Shinjuku gyoen">jardin de Shinjuku</wiki>, le genre d'effusions de violence que seul <wiki>City Hunter</wiki> a pu <wiki page="Nicky Larson Private Eyes">oser se permettre</wiki>...
 
 # La faute en est au traducteur
 
 Cette fois-ci, les ébats entre Samejima et Sho sont calmés, et le mi-temps de l'inspecteur comme parolier est enfin terminé, m'évitant un énième embarras. Malheureusement, le sujet de la musique a été l'occasion, dès le cinquième chapitre, d'être sorti du livre pour de me retrouver face à la réponse qui concluait [ma lecture du précédent tome](/posts/le-requin-de-shinjuku/)...
 
-Tout partait d'un détail très simple: Sho demandait à un patron de bar à passer *Tarkus*, et la narration de mentionner que le patron était sûrement fan du groupe de rock "SEKAI NO OWARI"[^7] lui aussi. Le roman datant de 1991, et la formation du groupe de 2007, l'incongruité de la chose m'a vite sorti de ma lecture, si bien que j'ai passé l'heure suivante à chercher un ebook Japonais du livre pour trouver la phrase originale, et comprendre ce qu'il en était.
+Tout partait d'un détail très simple: Sho demandait à un patron de bar à passer *Tarkus*, et la narration de mentionner que le patron était sûrement fan du groupe de rock <wiki>SEKAI NO OWARI</wiki> lui aussi. Le roman datant de 1991, et la formation du groupe de 2007, l'incongruité de la chose m'a vite sorti de ma lecture, si bien que j'ai passé l'heure suivante à chercher un ebook Japonais du livre pour trouver la phrase originale, et comprendre ce qu'il en était.
 
-La réponse à l'énigme était simple: l'auteur n'était pas un voyageur temporel, mais faisait référence à un album nommé *Tarkus*[^8] datant de 1971. La référence au groupe *SEKAI NO OWARI* n'était donc pas une erreur de traduction ou de référence culturelle mais carrément une pure invention du traducteur.
+La réponse à l'énigme était simple: l'auteur n'était pas un voyageur temporel, mais faisait référence à un album nommé <wiki>Tarkus</wiki> datant de 1971. La référence au groupe *SEKAI NO OWARI* n'était donc pas une erreur de traduction ou de référence culturelle mais carrément une pure invention du traducteur.
 
 # Fini Shinjuku
 
@@ -45,11 +45,6 @@ J'ai lu plus de 20 livres cette année, et après sept polars d'affilée, sans a
 La suite au prochain épisode.
 
 * * *
-[^1]: Mon premier souvenir immédiat est une histoire dans la BD "La mort blanche" de la série [<i class="fab fa-wikipedia-w"></i> Docteur Justice](https://fr.wikipedia.org/wiki/Docteur_Justice) qui paraissait dans Pif Gadget.
-[^2]: Plus précisément, j'ai pensé à [<i class="fab fa-wikipedia-w"></i> Yakuza 2](https://fr.wikipedia.org/wiki/Yakuza_2) pour l'ambiance, mais le scénario n'a rien à voir.
+[^1]: Mon premier souvenir immédiat est une histoire dans la BD "La mort blanche" de la série <wiki>Docteur Justice</wiki> qui paraissait dans Pif Gadget.
+[^2]: Plus précisément, j'ai pensé à <wiki>Yakuza 2</wiki> pour l'ambiance, mais le scénario n'a rien à voir.
 [^3]: Le précédent livre comptait SIX morts et je trouvais déjà ça énorme.
-[^4]: [<i class="fab fa-wikipedia-w"></i> Shinjuku gyoen](https://fr.wikipedia.org/wiki/Shinjuku_gyoen)
-[^5]: [<i class="fab fa-wikipedia-w"></i> City Hunter](https://fr.wikipedia.org/wiki/City_Hunter)
-[^6]: [<i class="fab fa-wikipedia-w"></i> Nicky Larson Private Eyes](https://fr.wikipedia.org/wiki/Nicky_Larson_Private_Eyes)
-[^7]: [<i class="fab fa-wikipedia-w"></i> SEKAI NO OWARI](https://fr.wikipedia.org/wiki/Sekai_no_Owari)
-[^8]: [<i class="fab fa-wikipedia-w"></i> Tarkus](https://fr.wikipedia.org/wiki/Tarkus)

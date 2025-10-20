@@ -20,13 +20,13 @@ meta:
 
 > Le Dr Taguchi, qui n’a aucun goût pour le carriérisme mais cultive celui « des choses éphémères », apprécie sa paisible routine. Cette quiétude vole en éclats lorsque le directeur de l’hôpital lui demande de mener une discrète enquête sur la Team Batista. L’équipe a jusque-là aligné les succès, mais trois décès inexpliqués et successifs en pleine opération ternissent sa réputation. Taguchi est perplexe. Pourquoi le directeur l’a-t-il choisi pour une mission qui le dépasse complètement ?
 
-J'ai découvert **La Team Batista** par un tortueux chemin: plus ou moins à la même époque paraissait un manga mettant aussi en avant la procédure batista[^1], sous le nom de **Iryū -Team Medical Dragon-**[^2], et les deux eurent droit à des adaptations en séries TV de plusieurs saisons. Si le manga et la série TV **Iryū** étaient clairs quand au focus apporté à l'équipe principale, je m'attendais donc à la même chose pour la Team Batista, vu que toutes les suites télévisuelles gardaient ce titre, en ajoutant en sous-titre le livre qu'elles adaptaient.
+J'ai découvert **La Team Batista** par un tortueux chemin: plus ou moins à la même époque paraissait un manga mettant aussi en avant la <wiki lang="en" page="Batista procedure">procédure batista</wiki>, sous le nom de <wiki page="Team Medical Dragon">Iryū -Team Medical Dragon-</wiki>, et les deux eurent droit à des adaptations en séries TV de plusieurs saisons. Si le manga et la série TV **Iryū** étaient clairs quand au focus apporté à l'équipe principale, je m'attendais donc à la même chose pour la Team Batista, vu que toutes les suites télévisuelles gardaient ce titre, en ajoutant en sous-titre le livre qu'elles adaptaient.
 
 Il n'en était rien. L'histoire n'allait pas relever d'une quelconque prouesse médicale, mais à nouveau...de meurtres.
 
 # Meurtres à l'hôpital
 
-Aux débuts des années 2000, la médecine au Japon subissait de grands dysfonctionnements et semblait plus tenir de politique que de santé publique et bien-être des patients[^3]. Je ne sais pas s'il s'agit là d'une spécificité du pays, ou si les hôpitaux français ont le droit aux mêmes problèmes de carriérisme, toujours est-il que le sujet et l'environnement sont propices à un mystère si curieux que jusqu'à la moitié du livre, le protagoniste et le lecteur ne sont pas encore conscients de ce qu'il en est réellement: accidents, ou meurtres? La nonchalance et la curiosité du Dr. Taguchi n'en restent pas moins prenants: à peine le livre en main au début de ma séance de sport, que je n'ai pas réussi à le lâcher.
+Aux débuts des années 2000, la médecine au Japon subissait de grands dysfonctionnements et semblait plus tenir de politique que de santé publique et bien-être des patients[^1]. Je ne sais pas s'il s'agit là d'une spécificité du pays, ou si les hôpitaux français ont le droit aux mêmes problèmes de carriérisme, toujours est-il que le sujet et l'environnement sont propices à un mystère si curieux que jusqu'à la moitié du livre, le protagoniste et le lecteur ne sont pas encore conscients de ce qu'il en est réellement: accidents, ou meurtres? La nonchalance et la curiosité du Dr. Taguchi n'en restent pas moins prenants: à peine le livre en main au début de ma séance de sport, que je n'ai pas réussi à le lâcher.
 
 Avec son manque d'ambitions et sa simplicité, Taguchi est très agréable à suivre, sans non plus apparaître trop invraisemblable en tant qu'enquêteur. Sa capacité à admettre son incompétence face au problème et faire appel aux instances supérieures est aussi une caractéristique qui fait plaisir à lire.
 
@@ -43,6 +43,4 @@ Lorsque le coupable tombe enfin, Shiratori s'éclipse, la Team Batista est disso
 Seule ombre au tableau: au Japon, et contrairement à la série TV, la série de livres se nomme "Taguchi et Shiratori"...
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Batista Procedure](https://en.wikipedia.org/wiki/Batista_procedure)
-[^2]: [<i class="fab fa-wikipedia-w"></i> Team Medical Dragon](https://fr.wikipedia.org/wiki/Team_Medical_Dragon)
-[^3]: Le manga [<i class="fab fa-wikipedia-w"></i> Say Hello to Black Jack](https://fr.wikipedia.org/wiki/Say_Hello_to_Black_Jack) a contribué à des réformes très positives à ce sujet.
+[^1]: Le manga <wiki>Say Hello to Black Jack</wiki> a contribué à des réformes très positives à ce sujet.

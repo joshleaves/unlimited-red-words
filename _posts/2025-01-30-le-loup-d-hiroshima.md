@@ -19,7 +19,7 @@ meta:
 ---
 
 > Si elle apprécie les œuvres de Maurice Leblanc ou d'Agatha Christie, sa préférence va néanmoins à Conan Doyle : « Dans Sherlock Holmes, plus que la résolution de l'énigme, c'est la relation entre Holmes et le docteur Watson qui m'interpelle »   
-> ―  Page Wikipédia de [<i class="fab fa-wikipedia-w"></i> Yūko Yuzuki](https://fr.wikipedia.org/wiki/Y%C5%ABko_Yuzuki)
+> ―  Page Wikipédia de <wiki>Yūko Yuzuki</wiki>
 
 Cela ne m'étonne pas le moins du monde.
 
@@ -44,5 +44,5 @@ Lorsque l'épilogue fait écho au prologue, on sourit de voir que l'autrice a su
 Le succès de ce libre mènera vite à deux suites, en 2017 et 2020, dont seule la première fût publiée en Français par [Atelier Akatombo](/tags/atelier-akatombo/).
 
 * * *
-[^1]: Le manga [<i class="fab fa-wikipedia-w" /> NINE PEAKS](https://fr.wikipedia.org/wiki/Nine_Peaks_(manga)), édité en France par **Ki-oon**, commence à l'époque contemporaine, et dès le premier chapitre, bazarde le protagoniste trente ans dans le passé, où se déroule le principal de son intrigue.
+[^1]: Le manga <wiki page="Nine Peaks (manga)">NINE PEAKS</wiki>, édité en France par **Ki-oon**, commence à l'époque contemporaine, et dès le premier chapitre, bazarde le protagoniste trente ans dans le passé, où se déroule le principal de son intrigue.
 [^2]: Une *Mama-san* est le nom familier donné à la responsable d'un établissement, généralement peu respectable.

@@ -45,4 +45,4 @@ Il n'y a ici que des humains et leur matière grise, et suivre Teiko qui fait fo
 Le sujet sous-jacent du livre s'avèrera être social. L'auteur n'apporte aucun jugement et ne fait que présenter l'existence d'une situation dont tout le monde n'a pas forcément idée avant de s'engager dans la lecture. Une lecture plaisante à chaque instant, et rythmée par de nombreux rebondissements.
 
 * * *
-[^1]: L'action de [<i class="fab fa-wikipedia-w"></i> Godzilla Minus One](https://fr.wikipedia.org/wiki/Godzilla_Minus_One) se déroule en 1947. Le titre s'exprime par l'idée que dans la période d'après-guerre au Japon, le pays se retrouve à son point le plus bas: zéro.
+[^1]: L'action de <wiki>Godzilla Minus One</wiki> se déroule en 1947. Le titre s'exprime par l'idée que dans la période d'après-guerre au Japon, le pays se retrouve à son point le plus bas: zéro.

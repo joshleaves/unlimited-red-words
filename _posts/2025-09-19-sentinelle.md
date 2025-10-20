@@ -15,15 +15,15 @@ meta:
   watch: "https://www.primevideo.com/detail/0G0S92A6WSWGRA5C2WXAMR7LSU/"
 ---
 
-Après [le film précédent](/posts/mcwalter/), et tant que j'étais sur Amazon Prime, j'ai voulu regarder un autre "film d'humoriste", celui de [<i class="fab fa-wikipedia-w"></i> Jonathan Cohen](https://fr.wikipedia.org/wiki/Jonathan_Cohen). Et vraiment, c'est compliqué.
+Après [le film précédent](/posts/mcwalter/), et tant que j'étais sur Amazon Prime, j'ai voulu regarder un autre "film d'humoriste", celui de <wiki>Jonathan Cohen</wiki>. Et vraiment, c'est compliqué.
 
 # La vie de tout un rôle
 
-L'acteur s'est fait connaître avec le personnage de [<i class="fab fa-wikipedia-w"></i> Serge le Mytho](https://fr.wikipedia.org/wiki/Serge_le_Mytho), un second rôle de la série [<i class="fab fa-wikipedia-w"></i> Bloqués](https://fr.wikipedia.org/wiki/Bloqu%C3%A9s), qui a vite eu droit à sa propre série. Le personnage était déjà ennuyeux et dérangeant dans ces épisodes, mais une fois dans sa propre série, c'était pire.
+L'acteur s'est fait connaître avec le personnage de <wiki>Serge le Mytho</wiki>, un second rôle de la série <wiki>Bloqués</wiki>, qui a vite eu droit à sa propre série. Le personnage était déjà ennuyeux et dérangeant dans ces épisodes, mais une fois dans sa propre série, c'était pire.
 
 J'ai eu beaucoup de mal avec ce personnage, et j'ai eu encore plus de mal à voir **Jonathan Cohen** le réutiliser constamment, comme s'il ne savait faire que ça. Fort heureusement, sur certains projets, il est assez canalisé, ou l'environnement est assez absurde pour que son personnage ne dérange pas.
 
-Donc, dans [<i class="fab fa-wikipedia-w"></i> Family Business](https://fr.wikipedia.org/wiki/Family_Business_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)), il joue son rôle avec une certaine retenue qui en fait juste un "tchatcheur" qui utilise ses bobards pour s'arranger, mais reste globalement honnête, tandis que dans [<i class="fab fa-wikipedia-w"></i> La Flamme](https://fr.wikipedia.org/wiki/La_Flamme_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)), l'univers entier n'a aucun sens, et le personnage est plus "débile" que "menteur", et sa mauvaise foi n'est qu'un prétexte à plus de gags.
+Donc, dans <wiki page="Family Business (série télévisée)">Family Business</wiki>, il joue son rôle avec une certaine retenue qui en fait juste un "tchatcheur" qui utilise ses bobards pour s'arranger, mais reste globalement honnête, tandis que dans <wiki page="La Flamme (série télévisée)">La Flamme</wiki>, l'univers entier n'a aucun sens, et le personnage est plus "débile" que "menteur", et sa mauvaise foi n'est qu'un prétexte à plus de gags.
 
 # Aucun humoriste n'est une île
 

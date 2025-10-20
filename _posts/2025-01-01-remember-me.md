@@ -42,7 +42,7 @@ Effectivement, l'idée qui m'a le plus marqué à propos du jeu est sa linéarit
 Mais ce chemin sera un souvenir que vous aurez plaisir à découvrir.
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Akira](https://fr.wikipedia.org/wiki/Akira_(manga)) de [<i class="fab fa-wikipedia-w"></i> Katsuhiro Otomo](https://fr.wikipedia.org/wiki/Katsuhiro_%C5%8Ctomo) est un monument de SF Japonaise paru entre 1982 et 1990, adapté en un film animé en 1988 dont le style d'animation a été novateur et influent pour le genre.
-[^2]: [<i class="fab fa-wikipedia-w"></i> Métal Hurlant](https://fr.wikipedia.org/wiki/M%C3%A9tal_hurlant) était un magazine français de BD de SF publié entre 1975 et 1987, créé sous l'impulsion du dessinateur [<i class="fab fa-wikipedia-w"></i> Jean-Pierre Dionnet](https://fr.wikipedia.org/wiki/Jean-Pierre_Dionnet).
-[^3]: [<i class="fab fa-wikipedia-w"></i> Capcom](https://fr.wikipedia.org/wiki/Capcom) est une société de développement et d'édition de jeux vidéo Japonaise, notamment connue pour les séries *Monster Hunter*, *Resident Evil*, *Street Fighter*, et *Megaman*.
-[^4]: [<i class="fab fa-wikipedia-w"></i> Alain Damasio](https://fr.wikipedia.org/wiki/Alain_Damasio) est surtout connu pour son ouvrage *La Horde du Contrevent*.
+[^1]: <span><wiki page="Akira (manga)">Akira</wiki></span> de <wiki>Katsuhiro Ōtomo</wiki> est un monument de SF Japonaise paru entre 1982 et 1990, adapté en un film animé en 1988 dont le style d'animation a été novateur et influent pour le genre.
+[^2]: <span><wiki>Métal Hurlant</wiki></span> était un magazine français de BD de SF publié entre 1975 et 1987, créé sous l'impulsion du dessinateur <wiki>Jean-Pierre Dionnet</wiki>.
+[^3]: <span><wiki>Capcom</wiki></span> est une société de développement et d'édition de jeux vidéo Japonaise, notamment connue pour les séries *Monster Hunter*, *Resident Evil*, *Street Fighter*, et *Megaman*.
+[^4]: <wiki>Alain Damasio</wiki> est surtout connu pour son ouvrage *La Horde du Contrevent*.

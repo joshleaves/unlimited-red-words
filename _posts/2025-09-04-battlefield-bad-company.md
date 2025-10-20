@@ -16,13 +16,13 @@ meta:
   wikipedia: "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company"
 ---
 
-Toujours dans mon [exploration des pans du genre du FPS que je n'avais pas encore explorés](/posts/tom-clancy-rainbow-six-vegas/), j'ai vite fait l'impasse sur [<i class="fab fa-wikipedia-w"></i> Rainbow Six: Vegas 2](https://fr.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six:_Vegas_2), la faute à son absence de sous-titres, qui m'a empêché d'apprécier le jeu de la manière qui me convient[^1], et j'ai donc pris la suite: la franchise **Battlefield**.
+Toujours dans mon [exploration des pans du genre du FPS que je n'avais pas encore explorés](/posts/tom-clancy-rainbow-six-vegas/), j'ai vite fait l'impasse sur <wiki>Tom Clancy's Rainbow Six: Vegas 2</wiki>, la faute à son absence de sous-titres, qui m'a empêché d'apprécier le jeu de la manière qui me convient[^1], et j'ai donc pris la suite: la franchise **Battlefield**.
 
 # La compagnie des losers
 
 Quand on traite de l'armée (et surtout l'américaine) en fiction, le médium va souvent influencer le traitement du genre. Par exemple, au cinéma, on aura le patriotique/héroïque, le sérieux/dramatique, et le drôle/parodique. En jeux vidéo, pour des besoins de gameplay, et afin de laisser au joueur le contrôle, on reste sur le premier traitement: on est des héros. Le second est plus rare à trouver[^2], mais alors pour le troisième, dès l'instant où l'on a un FPS et de l'humour, on vire l'armée.
 
-Dans **Bad Company**, on retrouve enfin les bonnes vieilles bidasses que l'on croirait sorties de [<i class="fab fa-wikipedia-w"></i> La Septième Compagnie](https://fr.wikipedia.org/wiki/La_Septième_Compagnie_(série_de_films)). On incarne donc _Preston_, fraîchement parachuté dans une escouade menée par _Redford_ et où officient déjà _Sweetwater_, et _Haggard_, au cours d'une guerre entre les USA et la Russie. Si _Preston_ reste relativement silencieux, 
+Dans **Bad Company**, on retrouve enfin les bonnes vieilles bidasses que l'on croirait sorties de <wiki page="La Septième Compagnie (série de films)">La Septième Compagnie</wiki>. On incarne donc _Preston_, fraîchement parachuté dans une escouade menée par _Redford_ et où officient déjà _Sweetwater_, et _Haggard_, au cours d'une guerre entre les USA et la Russie. Si _Preston_ reste relativement silencieux, 
 et si _Redford_ fait de son mieux pour maintenir la cohésion, le gros du morceau est pris par les dialogues entre _Sweetwater_, le romantique totalement amoureux de leur opératrice radio, et _Haggard_, le pyromane. Tout est prétexte à des conversations ridicules qui font constamment mouche, notamment celle où _Haggard_ mentionne sa cousine moche, que _Sweetwater_ lui demande si c'est celle qu'il a pécho, ce qu'il confirme... Tous ces échanges sont suffisamment espacés et clairs pour que l'on puisse les apprécier sans sous-titres.
 
 # Les quatre rois du désert
@@ -37,4 +37,4 @@ En solo, on est encore loin d'une expérience très prenante. Le jeu est sympath
 
 ***
 [^1]: J'ai besoin des sous-titres pour pouvoir écouter une série, un podcast, ou une vidéo YouTube, pendant que je joue, c'est ainsi, et même en écrivant ces lignes, je me sers des sous-titres pour regarder/écouter une série.
-[^2]: Dans les formidables [<i class="fab fa-wikipedia-w"></i> Spec Ops: The Line](https://fr.wikipedia.org/wiki/Spec_Ops:_The_Line) et [<i class="fab fa-wikipedia-w"></i> Call of Duty: Black Ops](https://fr.wikipedia.org/wiki/Call_of_Duty:_Black_Ops) par exemple.
+[^2]: Dans les formidables <wiki>Spec Ops: The Line</wiki> et <wiki>Call of Duty: Black Ops</wiki> par exemple.

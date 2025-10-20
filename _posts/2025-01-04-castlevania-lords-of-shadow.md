@@ -38,9 +38,9 @@ Ce moment-là, même s'il m'en a rappelé un autre de God of War III[^6], a su m
 Se délestant de son aspect Metroidvania pour ce premier épisode, la série bénéficiera par la suite d'un bref spinoff sur 3DS (et sortira aussi sur PS3 plus tard), qui retrouvera cette fois cette propriété, et posera le lore manquant pour Lords of Shadow 2.
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Castlevania: Symphony of the Night](https://fr.wikipedia.org/wiki/Castlevania:_Symphony_of_the_Night) a engagé la série dans un nouveau genre: le [<i class="fab fa-wikipedia-w"></i> Metroidvania](https://fr.wikipedia.org/wiki/Metroidvania)
-[^2]: Comme l'a expliqué [<i class="fab fa-youtube"></i> le Joueur du Grenier](https://www.youtube.com/watch?v=Cpke7ZnJJvA) en évoquant les premiers épisodes en 3D sur Nintendo 64
-[^3]: [<i class="fab fa-wikipedia-w"></i> Metroid Prime](https://fr.wikipedia.org/wiki/Metroid_Prime)
-[^4]: [<i class="fab fa-wikipedia-w"></i> DmC: Devil May Cry](https://fr.wikipedia.org/wiki/DmC:_Devil_May_Cry)
-[^5]: [<i class="fab fa-wikipedia-w"></i> God of War III](https://fr.wikipedia.org/wiki/God_of_War_III)
-[^6]: Le labyrinthe de Dédale où se trouve Pandore dans [<i class="fab fa-youtube"></i> God of War 3](https://www.youtube.com/watch?v=DKGneVAR_8Y)
+[^1]: <span><wiki>Castlevania: Symphony of the Night</wiki></span> a engagé la série dans un nouveau genre: le <wiki>Metroidvania</wiki>.
+[^2]: Comme l'a expliqué <yt video="Cpke7ZnJJvA">le Joueur du Grenier</yt> en évoquant les premiers épisodes en 3D sur Nintendo 64
+[^3]: Avec <wiki>Metroid Prime</wiki>.
+[^4]: Avec <wiki>DmC: Devil May Cry</wiki>.
+[^5]: Avec <wiki>God of War III</wiki>.
+[^6]: Le labyrinthe de Dédale où se trouve Pandore dans <yt video="DKGneVAR_8Y">God of War 3</yt>.

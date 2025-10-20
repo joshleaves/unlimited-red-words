@@ -21,7 +21,7 @@ meta:
   episodes: 12
 ---
 
-Si je vous parle d'un anime, sur une humanité qui vit dans le désespoir face à une menace non-humaine, retranchée dans des camps, mais un héros va s'éveiller à ses pouvoirs et devenir un "entre-deux", animé par **Wit Studio**, réalisé par [<i class="fab fa-wikipedia-w"></i> Tetsurō Araki](https://fr.wikipedia.org/wiki/Tetsur%C5%8D_Araki), le tout orchestré par la folle musique d'[<i class="fab fa-wikipedia-w"></i> Hiroyuki Sawano](https://fr.wikipedia.org/wiki/Hiroyuki_Sawano), vous pensez à...?
+Si je vous parle d'un anime, sur une humanité qui vit dans le désespoir face à une menace non-humaine, retranchée dans des camps, mais un héros va s'éveiller à ses pouvoirs et devenir un "entre-deux", animé par **Wit Studio**, réalisé par <wiki>Tetsurō Araki</wiki>, le tout orchestré par la folle musique d'<wiki>Hiroyuki Sawano</wiki>, vous pensez à...?
 
 Non, je ne compte pas parler de **Attack on Titan**.
 
@@ -44,5 +44,5 @@ Clairement, la série n'est pas un pur chef-d'oeuvre aux superlatifs sans fins. 
 * * *
 [^1]: Dans le genre "culture Japonaise à fond", on est servis...
 [^2]: Sans en atteindre la profondeur, on est loin de remettre en question l'ordre établi.
-[^3]: Fêtée chaque année en ce jour (de publication), soit le sept Juillet, [<i class="fab fa-wikipedia-w"></i> Tanabata](https://fr.wikipedia.org/wiki/Tanabata) est une fête Japonaise qui célèbre la rencontre dans le ciel de deux étoiles, représentant un couple d'amoureux, qui ne sont autorisées à se rencontrer qu'une fois par an. C'est aussi la date d'anniversaire (depuis 2020) de mon arrêt de fumer!
+[^3]: Fêtée chaque année en ce jour (de publication), soit le sept Juillet, <wiki>Tanabata</wiki> est une fête Japonaise qui célèbre la rencontre dans le ciel de deux étoiles, représentant un couple d'amoureux, qui ne sont autorisées à se rencontrer qu'une fois par an. C'est aussi la date d'anniversaire (depuis 2020) de mon arrêt de fumer!
 [^4]: Oui j'en ai déjà parlé dans l'article sur [Xenoblade Chronicles X](/posts/xenoblade-chronicles-x/), il se recycle, MAIS, ça fonctionne!

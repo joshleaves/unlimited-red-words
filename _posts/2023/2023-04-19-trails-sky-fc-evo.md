@@ -25,9 +25,9 @@ Enfin, en 2023, j'ai décidé de me lancer dans ce jeu, et ses deux suites direc
 
 # L'héritage
 
-Si **Trails in The Sky** a été si bien reçu, c'est aussi qu'il a été longtemps attendu. Si en 2023, on parle de la "série des **Trails**" qui compte déjà dix jeux, en 2004, on parle toujours de la série **The Legend of Heroes**[^1], une sorte de série concurrente à celle des **Final Fantasy**, produite par *Nihon Falcom* sur les micro-ordinateurs japonais, tels le PC-88.
+Si **Trails in The Sky** a été si bien reçu, c'est aussi qu'il a été longtemps attendu. Si en 2023, on parle de la "série des **Trails**" qui compte déjà dix jeux, en 2004, on parle toujours de la série <wiki lang="en">The Legend of Heroes</wiki>, une sorte de série concurrente à celle des **Final Fantasy**, produite par *Nihon Falcom* sur les micro-ordinateurs japonais, tels le PC-88.
 
-A l'époque, *Nihon Falcom* est déjà connu pour divers jeux de rôles ou d'action, comme **Ys** ou **Xanadu**, et après trois RPGs dans la série **The Legend of Heroes** étroitement liés et se déroulant dans le même univers[^2], le nouveau jeu est attendu au tournant. A cette époque, le milieu du jeu vidéo est encore en pleine transformation et la 3D n'est pas encore totalement maîtrisée. A la full-2D des anciens opus, nous nous trouvons cette fois avec des sprites en 2D, visible sous 8 directions, et les décors seront en 3D texturée. Toutefois, les mouvements restent en 2D. La 3D permet à présent des effets de caméra "complexes", et même si les sprites 2D sont parfois étendues pour emplir tout l'écran, l'illusion reste là.
+A l'époque, *Nihon Falcom* est déjà connu pour divers jeux de rôles ou d'action, comme **Ys** ou **Xanadu**, et après trois RPGs dans la série **The Legend of Heroes** étroitement liés et se déroulant dans le même univers[^1], le nouveau jeu est attendu au tournant. A cette époque, le milieu du jeu vidéo est encore en pleine transformation et la 3D n'est pas encore totalement maîtrisée. A la full-2D des anciens opus, nous nous trouvons cette fois avec des sprites en 2D, visible sous 8 directions, et les décors seront en 3D texturée. Toutefois, les mouvements restent en 2D. La 3D permet à présent des effets de caméra "complexes", et même si les sprites 2D sont parfois étendues pour emplir tout l'écran, l'illusion reste là.
 
 # L'évolution
 
@@ -58,5 +58,4 @@ Etant donné l'existence d'un jeu nommé **Trails in the Sky SC** (pour "Second 
 Point bonus: le joueur qui a du mal à quitter cet univers et ses personnages pourra utiliser sa sauvegarde pour commencer une partie de [**Trails in the Sky SC**](/posts/trails-sky-sc-evo) avec certains bonus.
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> The Legend of Heroes](https://en.wikipedia.org/wiki/The_Legend_of_Heroes)
-[^2]: Ces trois jeux seront plus tard connus sous le nom de "trilogie Gagharv".
+[^1]: Ces trois jeux seront plus tard connus sous le nom de "trilogie Gagharv".

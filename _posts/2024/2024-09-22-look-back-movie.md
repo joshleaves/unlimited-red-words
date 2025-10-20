@@ -14,7 +14,7 @@ meta:
   imdb: "https://www.imdb.com/title/tt31711040/"
 ---
 
-Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de l'incendie criminel des locaux de Kyoto Animation deux ans auparavant[^2], et les lecteurs furent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.
+Le 19 Juillet 2021, profitant de la pause que lui accordait la fin de la première partie de son manga à succès **Chainsaw Man**, l'auteur *Tatsuki Fujimoto* publiait le one-shot **Look Back**, et celui-ci avait vite été traduit par l'éditeur Jump[^1] dans plusieurs langues, le rendant accessible en ligne au monde entier. La date de publication coïncidait avec celle de <wiki page="Incendie criminel de Kyoto Animation">l'incendie criminel des locaux de Kyoto Animation deux ans auparavant</wiki>, et les lecteurs furent surpris de voir que ce qui aurait pu n'être qu'un sombre hasard du calendrier se révélait être un point central de l'histoire.
 
 # Le manga
 
@@ -52,9 +52,8 @@ Aussi, je relirai le manga, et vous encourage à faire de même.
 
 * * *
 [^1]: Un éditeur [déjà mentionné ici](/posts/jump-lage-dor-du-manga/)
-[^2]: [<i class="fab fa-wikipedia-w"></i> Incendie criminel de Kyoto Animation](https://fr.wikipedia.org/wiki/Incendie_criminel_de_Kyoto_Animation)
 [^3]: Le "yonkoma" (littéralement "quatre cases") est un style de manga humoristique, similaire dans le principe à celui des comic-strips américains en 3 ou 4 cases, comme par exemple **Snoopy** ou **Garfield**.
 [^4]: Dans le texte original, une "hikikomori".
-[^5]: Une école qui ressemble étrangement à l'[<i class="fab fa-wikipedia-w"></i> Université d'art et de design du Tōhoku](https://fr.wikipedia.org/wiki/Universit%C3%A9_d%27art_et_de_design_du_T%C5%8Dhoku), dont *Tatsuki Fujimoto* est un alumni!
+[^5]: Une école qui ressemble étrangement à l'<wiki>université d'art et de design du Tōhoku</wiki>, dont *Tatsuki Fujimoto* est un alumni!
 [^6]: Les prénoms Fuji-no (藤-野) et Kyo-moto (京-本) sont écrits avec les mêmes caractères que le nom de famille de l'auteur, Fuji-moto (藤-本).
 [^7]: L'animé FLCL a eu droit à deux scènes de "manga animé" [du plus bel effet](https://www.youtube.com/watch?v=CLHMLjOGPGM).

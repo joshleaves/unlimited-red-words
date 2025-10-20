@@ -45,4 +45,4 @@ Pire encore, en plus de Reiko et du meurtrier, un troisième point de vue vient 
 A la fin du livre, l'équipe de Reiko est dissoute. Peut-être est-ce pour ça que l'éditeur ne publie plus rien depuis 2021? Pour ma part, comme la police métropolitaine, je mets la lieutenante Reiko Himekawa au placard!
 
 * * *
-[^1]: [<i class="fab fa-wikipedia-w"></i> Rent-A-Girlfriend](https://fr.wikipedia.org/wiki/Rent-A-Girlfriend), un manga commencé en 2017 et comptant à ce jour 38 volumes, est une "romance" dont l'auteur n'a pas l'air de vouloir se défaire car les personnages principaux ne sont toujours pas en couple.
+[^1]: Le manga <wiki>Rent-A-Girlfriend</wiki>, commencé en 2017 et comptant à ce jour 38 volumes, est une "romance" dont l'auteur n'a pas l'air de vouloir se défaire car les personnages principaux ne sont toujours pas en couple.

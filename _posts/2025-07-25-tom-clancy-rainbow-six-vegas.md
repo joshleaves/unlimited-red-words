@@ -18,7 +18,7 @@ meta:
 
 La vie tient à pas grand-chose des fois. Je connaissais la saga **Battlefield** par les vidéos de _DiGiDiX_[^1], mais je n'avais vraiment cherché à y jouer: j'avais déjà joué à la série des **Call of Duty: Modern Warfare**[^2], j'avais apprécié l'aspect cinématographique, mais l'omniprésence des modes multi-joueurs compétitifs ne m'intéressait pas le moins du monde, et au bout d'un moment ça semblait être toujours la même merde, mais avec un nouveau moteur graphique.
 
-Le [<i class="fab fa-youtube"></i> documentaire de NoClip](https://www.youtube.com/watch?v=_kfST9l8nIE) sur la campagne solo du jeu, couplée à pas mal de captures d'écrans sur Twitter de diverses scènes du jeu m'a réconcilié avec l'idée de faire cette expérience cinémato-ludique.
+Le <yt video="_kfST9l8nIE">documentaire de NoClip</yt> sur la campagne solo du jeu, couplée à pas mal de captures d'écrans sur Twitter de diverses scènes du jeu m'a réconcilié avec l'idée de faire cette expérience cinémato-ludique.
 
 Tout ça, donc, pour me décider à terminer à un jeu de la saga **Tom Clancy's Rainbow Six** que j'avais commencé et oublié il y a presque dix ans.
 
@@ -45,9 +45,9 @@ A ne pas savoir s'il veut être un grand spectacle, ou un jeu tactique réaliste
 C'est ennuyeux, très ennuyeux. J'espérais que le jeu proposerait plus, et lorsque je voyais avec enthousiasme les divers _artworks_ du jeu, présentant les personnages descendant en rappel la façade d'un hôtel, prêts à intervenir par une baie vitrée, j'avais envie d'action et de grand spectacle. Peut-être dans la suite?
 
 ***
-[^1]: Je vous laisse découvrir ses [<i class="fab fa-youtube"></i> énormes blagues](https://www.youtube.com/watch?v=mLoazdl1zhQ) par vous-mêmes.
-[^2]: [<i class="fab fa-youtube"></i> Énôoooorme blague!](https://www.youtube.com/watch?v=Q3mMOXKNjH4).
-[^3]: Au pif, des films que j'ai vus passer sans jamais comprendre qu'ils étaient "liés" entre eux: [<i class="fab fa-wikipedia-w"></i> À la poursuite d'Octobre rouge](https://fr.wikipedia.org/wiki/%C3%80_la_poursuite_d%27Octobre_rouge_(film)), [<i class="fab fa-wikipedia-w"></i> La Somme de toutes les peurs](https://fr.wikipedia.org/wiki/La_Somme_de_toutes_les_peurs_(film)), [<i class="fab fa-wikipedia-w"></i> Sans aucun remords](https://fr.wikipedia.org/wiki/Sans_aucun_remords_(film)).
-[^4]: Si vous voulez en savoir plus sur l'histoire de cette franchise, et son lien avec Call of Duty, le youtubeur TheGreatReview [<i class="fab fa-youtube"></i> a fait une vidéo à ce sujet](https://www.youtube.com/watch?v=QF6BocR_7UA).
-[^5]: Comme l'introduction de [<i class="fab fa-wikipedia-w"></i> Call of Duty 4: Modern Warfare](https://fr.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare), où [<i class="fab fa-youtube"></i> le joueur incarne le président d'un pays du moyen-orient capturé par des insurgents et traîné à travers sa ville en proie à la rebellion](https://www.youtube.com/watch?v=6zVDvxj0lDE).
-[^6]: En 2014, dans **Call of Duty: Advanced Warfare**, le joueur est invité à appuyer sur une touche pour...[<i class="fab fa-youtube"></i> saluer lors d'une cérémonie funéraire](https://www.youtube.com/watch?v=TtMzTGfs-fc).
+[^1]: Je vous laisse découvrir ses <yt video="mLoazdl1zhQ"> énormes blagues</yt> par vous-mêmes.
+[^2]: Un jeu qui est une <yt video="Q3mMOXKNjH4">énôoooorme blague</yt>!
+[^3]: Au pif, des films que j'ai vus passer sans jamais comprendre qu'ils étaient "liés" entre eux: <wiki page="À la poursuite d'Octobre rouge (film)">À la poursuite d'Octobre rouge</wiki>, <wiki page="La Somme de toutes les peurs (film)">La Somme de toutes les peurs</wiki>, <wiki page="Sans aucun remords (film)">Sans aucun remords</wiki>.
+[^4]: Si vous voulez en savoir plus sur l'histoire de cette franchise, et son lien avec Call of Duty, le youtubeur TheGreatReview <yt video="QF6BocR_7UA">a fait une vidéo à ce sujet</yt>.
+[^5]: Comme l'introduction de <wiki>Call of Duty 4: Modern Warfare</wiki>, où <yt video="6zVDvxj0lDE">le joueur incarne le président d'un pays du moyen-orient capturé par des insurgents et traîné à travers sa ville en proie à la rebellion</yt>.
+[^6]: En 2014, dans **Call of Duty: Advanced Warfare**, le joueur est invité à appuyer sur une touche pour...<yt video="TtMzTGfs-fc">saluer lors d'une cérémonie funéraire</yt>.

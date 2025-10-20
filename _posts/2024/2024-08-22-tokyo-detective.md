@@ -52,4 +52,4 @@ Aucun fil rouge: à peine le cheminement de la vie de l'auteur, et une foule d'h
 [^4]: ["*J'ai vendu mon âme en bitcoins*", aux éditions Marchialy](https://www.editions-marchialy.fr/livre/j-ai-vendu-mon-ame-en-bitcoins/).
 [^5]: Notamment sur [<i class="fab fa-instagram"></i> tokyovice](https://www.instagram.com/tokyovice/), celui de Jake Adelstein
 [^6]: Alors qu'il est bien plus détaillé dans le podcast [<i class="fab fa-apple"></i> The Evaporated: Gone with the Gods](https://podcasts.apple.com/us/podcast/evaporated-gone-with-the-gods/id1721239147).
-[^7]: Ou en bon Français: [<i class="fab fa-wikipedia-w"></i> *vérification diligente*](https://fr.wikipedia.org/wiki/V%C3%A9rification_diligente).
+[^7]: Ou en bon Français: <wiki>vérification diligente</wiki>.

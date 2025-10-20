@@ -55,6 +55,6 @@ Ainsi, **Azure** a su conclure le scénario de la duologie Crossbell, tout en la
 [^1]: *Olivier* et *Mueller* sont le focus d'une quête optionnelle hilarante où, à la manière des précédents jeux, *Oliver* a (encore) pris la poudre d'escampette pour se balader dans Crossbell sous son identité de ménestrel, tandis que *Mueller* se fait passer pour son imprésario et demande au SSS de retrouver *Oliver* pour lui.
 [^2]: Dans **Zero**, *Estelle* et *Joshua* sont jouables uniquement pour le dernier donjon du jeu.
 [^3]: Un trophée caché récompensera les joueurs qui accompliront les trois quêtes permettant à *Lloyd* de deviner l'identité du cerveau de l'affaire avant que celui-ci ne se révèle au joueur.
-[^4]: Le thème de combat du jeu se nomme [<i class="fab fa-youtube"></i> Get Over The Barrier!](https://www.youtube.com/watch?v=mtq-uX-XzaQ).
-[^5]: Comme le laissait déjà voir [<i class="fab fa-youtube"></i> le trailer de la version PSP du jeu](https://www.youtube.com/watch?v=WGXe0SIDeZY).
+[^4]: Le thème de combat du jeu se nomme <yt video="mtq-uX-XzaQ">Get Over The Barrier!</yt>.
+[^5]: Comme le laissait déjà voir <yt video="WGXe0SIDeZY">le trailer de la version PSP du jeu</yt>.
 [^6]: Les quatre épisodes de **Trails of Cold Steel**, l'épisode **Trails of Reverie**, et trois épisodes de **Trails Through Daybreak**.
