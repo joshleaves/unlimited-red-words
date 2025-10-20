@@ -5,7 +5,7 @@
       "name": "Run Jekyll Server",
       "type": "node",
       "request": "launch",
-      "runtimeExecutable": "bundle exec jekyll serve --livereload",
+      "runtimeExecutable": "bundle exec jekyll serve",
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen",
       "preLaunchTask": "StartJekyll",
