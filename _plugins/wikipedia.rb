@@ -30,10 +30,10 @@ Jekyll::Hooks.register [:documents, :pages], :post_render do |doc|
     next match if (page.nil? || page.empty?)
 
     href = begin
-        slug = URI.encode_www_form_component(page.sub(/\A./, &:upcase).tr(' ', '_'))
-        sect = section && !section.empty? ? "##{URI.encode_www_form_component(section.tr(' ', '_'))}" : ''
-        "https://#{lang}.#{site}.org/wiki/#{slug}#{sect}"
-      end
+      slug = URI.encode_www_form_component(page.sub(/\A./, &:upcase).tr(' ', '_'))
+      sect = section && !section.empty? ? "##{URI.encode_www_form_component(section.tr(' ', '_'))}" : ''
+      "https://#{lang}.#{site}.org/wiki/#{slug}#{sect}"
+    end
 
     label = text.empty? ? (page || query) : text
     icon  = (node['icon'] == 'false') ? '' : %(<i class="fab fa-wikipedia-w"></i> )
