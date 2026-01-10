@@ -19,7 +19,7 @@ meta:
 ---
 
 > Si elle apprécie les œuvres de Maurice Leblanc ou d'Agatha Christie, sa préférence va néanmoins à Conan Doyle : « Dans Sherlock Holmes, plus que la résolution de l'énigme, c'est la relation entre Holmes et le docteur Watson qui m'interpelle »   
-> ―  Page Wikipédia de <wiki>Yūko Yuzuki</wiki>
+> ― Page Wikipédia de <wiki>Yūko Yuzuki</wiki>
 
 Cela ne m'étonne pas le moins du monde.
 
