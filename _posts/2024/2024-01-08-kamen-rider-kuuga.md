@@ -45,7 +45,7 @@ Jusqu'à la fin, le héros ne se départira pas de son optimisme, même face à 
 >   
 >Je sais que tu es triste depuis la mort de ton père, mais c'est lors de ces moments difficiles que tu dois être un homme qui se battra pour protéger le sourire de ta mère et ta soeur. Donne toujours le meilleur de toi-même pour protéger le sourire des autres.   
 >   
->Tu ne trouves pas ça formidable? Moi...je trouve ça formidable.
+>Tu ne trouves pas ça formidable? Moi...je trouve ça formidable.   
 > ― Kamen Rider Kuuga, <yt video="5oNKUdEw_Dg">épisode 12: Teacher</yt>
 
 # Un héros pour le futur

@@ -12,7 +12,7 @@ rating: 4
 release_date: 1997-08-13
 meta:
   imdb: "https://www.imdb.com/title/tt0121955/"
-  wikipedia: ""
+  wikipedia: "https://fr.wikipedia.org/wiki/South_Park"
   start_date: 1997-08-13
   end_date: 2000-12-20
   network: "Comedy Central"
