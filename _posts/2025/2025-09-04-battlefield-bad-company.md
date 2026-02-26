@@ -11,8 +11,8 @@ country: US
 rating: 2
 release_date: 2008-06-23
 meta:
-  platform: "Sony Playstation 3"
   code: "BLES00261"
+  platform: "Sony PlayStation 3"
   wikipedia: "https://en.wikipedia.org/wiki/Battlefield:_Bad_Company"
 ---
 

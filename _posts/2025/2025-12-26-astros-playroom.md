@@ -11,8 +11,8 @@ country: JP
 rating: 4
 release_date: 2020-11-12
 meta:
+  platform: "Sony PlayStation 5"
   code: "PPSA01325"
-  platform: "Sony Playstation 5"
 ---
 
 À force de <strike>vendre mes pieds en ligne</strike> dur labeur, on m'a offert une console **Playstation 5** flambant neuve cette année pour Noël. Même s'il est é-vi-dent que le premier disque inséré fut celui de **Death Stranding 2** par le grand [Hideo Kojima](/posts/metal-gear-solid-oeuvre-culte/), le temps que ma console installe le jeu[^1], puis les mises à jour, j'ai découvert qu'un jeu était déjà disponible sur ma console...

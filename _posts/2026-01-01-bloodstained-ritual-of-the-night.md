@@ -11,8 +11,8 @@ country: JP
 rating: 2
 release_date: 2019-06-18
 meta:
+  platform: "Sony PlayStation 4"
   code: "CUSA07963"
-  platform: "Sony Playstation 4"
   steam: "https://store.steampowered.com/app/692850/Bloodstained_Ritual_of_the_Night/"
 ---
 

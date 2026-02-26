@@ -11,8 +11,8 @@ country: JP
 rating: 3
 release_date: 2016-01-21
 meta:
-  code: "BLJM61313"
   platform: "Sony PlayStation 3"
+  code: "BLJM61313"
   steam: "https://store.steampowered.com/app/834530/Yakuza_Kiwami/"
 ---
 

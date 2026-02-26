@@ -11,8 +11,8 @@ country: JP
 rating: 2
 release_date: 2025-07-18
 meta:
-  code: "010062F01E0E8000"
   platform: "Nintendo Switch"
+  code: "010062F01E0E8000"
   steam: "https://store.steampowered.com/app/1859430/Shadow_Labyrinth/"
 ---
 

@@ -11,8 +11,8 @@ country: US
 rating: 3
 release_date: 2025-12-24
 meta:
-  code: "0100A16020B76000"
   platform: "Nintendo Switch"
+  code: "0100A16020B76000"
   steam: "https://store.steampowered.com/app/1568400/Sheepy_A_Short_Adventure/"
 ---
 

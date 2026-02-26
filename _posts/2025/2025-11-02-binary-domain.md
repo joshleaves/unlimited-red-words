@@ -11,8 +11,8 @@ country: JP
 rating: 3
 release_date: 2012-02-16
 meta:
-  code: "BLES01211"
   platform: "Sony PlayStation 3"
+  code: "BLES01211"
   steam: "https://store.steampowered.com/app/203750/Binary_Domain/"
 ---
 

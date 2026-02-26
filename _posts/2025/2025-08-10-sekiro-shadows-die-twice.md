@@ -11,8 +11,7 @@ country: JP
 rating: 3
 release_date: 2019-03-22
 meta:
-  code: ""
-  platform: "Sony Playstation 4"
+  platform: "Microsoft Windows"
   steam: "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
 ---
 

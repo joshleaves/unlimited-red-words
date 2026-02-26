@@ -11,8 +11,8 @@ country: JP
 rating: 3
 release_date: 2012-08-31
 meta:
+  platform: "Sony PlayStation 3"
   code: "NPEB01288"
-  platform: "Sony Playstation 3"
   steam: "https://store.steampowered.com/app/2530980/Tales_of_Graces_f_Remastered/"
 ---
 

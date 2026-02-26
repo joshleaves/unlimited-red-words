@@ -11,8 +11,8 @@ country: JP
 rating: 4
 release_date: 2014-02-22
 meta:
-  code: "BLJM61149"
   platform: "Sony PlayStation 3"
+  code: "BLJM61149"
   steam: "https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/"
 ---
 

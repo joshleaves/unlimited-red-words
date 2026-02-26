@@ -11,8 +11,8 @@ country: JP
 rating: 4
 release_date: 2014-09-25
 meta:
-  code: "BLES02244"
   platform: Sony Playstation 3
+  code: "BLES02244"
   steam: "https://store.steampowered.com/app/748490/The_Legend_of_Heroes_Trails_of_Cold_Steel_II/?l=french"
 ---
 
