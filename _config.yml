@@ -139,7 +139,7 @@ assets:
     env: # [development | production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
+  enabled: false # no PWA or service worker for this blog
   cache:
     enabled: false # disable the service worker cache to avoid stale blog content
     # Paths defined here will be excluded from the PWA cache.
