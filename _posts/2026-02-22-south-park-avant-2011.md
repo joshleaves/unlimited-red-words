@@ -3,7 +3,7 @@ layout: post
 title:  "📺 South Park (Avant 2011)"
 date: 2026-02-22 15:45:55 +01:00
 category: 📺 Série TV
-tags: []
+tags: ["📺 South Park"]
 media_subpath: /assets/images
 image:
   path: 2026-02-22-south-park-avant-2011.jpg
