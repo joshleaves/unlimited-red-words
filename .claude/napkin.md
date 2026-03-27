@@ -19,6 +19,7 @@
 
 ## Patterns That Don't Work
 - Trusting local source includes without checking the final rendered document can miss duplicated assets introduced by layout overrides.
+- Assuming local wrappers still match the upstream Chirpy theme API is risky; verify the actual served bundle when UI hooks stop responding.
 
 ## Domain Notes
 - This repo is a Jekyll blog based on `jekyll-theme-chirpy`.

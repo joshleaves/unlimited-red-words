@@ -51,7 +51,7 @@ export function imgPopup() {
       if (
         event.source === window &&
         event.data &&
-        event.data.direction === ModeToggle.ID
+        event.data.id === Theme.ID
       ) {
         updateImages(current, reverse);
       }
