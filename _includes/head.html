@@ -27,6 +27,9 @@
       {%- capture new_url -%}{{ img_url }}{%- endcapture -%}
 
       {% assign seo_tags = seo_tags | replace: old_url, new_url %}
+
+      {%- capture old_url_by_page -%}{{ page.url | append: src | absolute_url }}{%- endcapture -%}
+      {% assign seo_tags = seo_tags | replace: old_url_by_page, new_url %}
     {% endunless %}
 
   {% elsif site.social_preview_image %}

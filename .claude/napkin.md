@@ -23,3 +23,4 @@
 
 ## Domain Notes
 - This repo is a Jekyll blog based on `jekyll-theme-chirpy`.
+- `jekyll-seo-tag` 2.9.0 resolves `image.path` without leading `/` relative to `page.url` (e.g. `/posts/.../file.png`), which can break social image URLs if not rewritten.
