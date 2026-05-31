@@ -12,6 +12,10 @@ rating: 3
 release_date: 1992-10-23
 meta:
   platform: "Sega Master System"
+  retroachievements:
+    game_id: 10015
+    count: 28
+    total: 40
 ---
 
 Depuis que [j'ai contribué à un fork de l'émulateur OpenEmu](https://github.com/nickybmon/OpenEmu-Silicon/releases/tag/v1.2.0), j'ai pris l'habitude, entre deux projets, de lancer certains des multiples jeux dont j'ai noté que je dois les essayer un jour. Et c'est tombé sur cet étrange jeu qui me faisait beaucoup penser à une autre franchise...
