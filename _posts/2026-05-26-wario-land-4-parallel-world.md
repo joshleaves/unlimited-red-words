@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 Wario Land 4: Parallel World"
-date: 2026-05-31 19:30:30 +02:00
+date: 2026-05-26 17:02:30 +02:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Wario Land", "🎮 Romhack"]
 media_subpath: /assets/images
