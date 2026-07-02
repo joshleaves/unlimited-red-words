@@ -106,5 +106,27 @@
       "",
       "***"
     ]
+  },
+  "New thoughts": {
+    "scope": "markdown",
+    "prefix": "create_brain",
+    "description": "New thoughts article",
+    "body": [
+      "---",
+      "layout: post",
+      "title:  \"🧠 ${1:name}\"",
+      "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
+      "category: 🧠 Dans ma tête",
+      "tags: []",
+      "media_subpath: /assets/images",
+      "image:",
+      "  path: ${TM_FILENAME/(.*)\\..+$/$1/}.jpg",
+      "country: ${2|FR,US,JP|}",
+      "rating: $3",
+      "release_date: 1970-01-01",
+      "---",
+      "",
+      "***"
+    ]
   }
 }
