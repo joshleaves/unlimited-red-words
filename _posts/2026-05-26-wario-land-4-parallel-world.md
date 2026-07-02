@@ -14,7 +14,7 @@ meta:
   platform: "Gameboy Advance"
   retroachievements:
     game_id: 17910
-    count: 29
+    count: 32
     total: 32
 ---
 
