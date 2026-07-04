@@ -50,7 +50,7 @@ Je n'ai même pas souvenir d'avoir acheté d'autres jeux entre-temps. Même si l
 
 ## Kingdom Hearts: Birth by Sleep
 
-Ma soeur et moi sommes très friands de la série <wiki>Kingdom Hearts</wiki>, donc quand une édition collector de <wiki>Kingdom Hearts: Birth by Sleep</wiki>, dernier jeu de la série, a été annoncée, ce fut son choix comme cadeau vu qu'il sortait pile-poil pour mon anniversaire, et servait à peu près de félicitations pour la <wiki page="Epitech">reprise de mes études</wiki>.
+Ma soeur et moi sommes très friands de la série <wiki>Kingdom Hearts</wiki>, donc quand une édition collector de <wiki>Kingdom Hearts: Birth by Sleep</wiki>, dernier jeu de la série, a été annoncée, ce fut son choix comme cadeau vu qu'il sortait pile-poil pour mon anniversaire, et servait à peu près de félicitations pour la <wiki page="EPITECH">reprise de mes études</wiki> (et probablement d'excuse pour m'emprunter ma console à ce moment-là afin qu'elle puisse terminer le jeu avant même que je ne puisse le commencer).
 
 Découpée en trois scénarios, et avec de nouveaux protagonistes, cette préquelle introduisait peut-être plus de questions que de réponses, une tendance dont <wiki page="Tetsuya Nomura">Nomura</wiki> n'arrivera pas à se détacher, même quinze ans plus tard...
 

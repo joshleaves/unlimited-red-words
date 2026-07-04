@@ -3,7 +3,7 @@ layout: post
 title:  "📺 Nice to Not Meet You"
 date: 2026-01-11 11:04:19 +01:00
 category: 📺 Série TV
-tags: []
+tags: ["🇰🇷 K-Drama"]
 media_subpath: /assets/images
 image:
   path: 2026-01-10-nice-to-not-meet-you.jpg
