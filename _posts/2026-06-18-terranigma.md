@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🎮 Terranigma"
-date: 2026-07-04 20:59:59 +02:00
+date: 2026-06-18 06:12:59 +02:00
 category: 🎮 Jeux vidéo
 tags: []
 media_subpath: /assets/images
