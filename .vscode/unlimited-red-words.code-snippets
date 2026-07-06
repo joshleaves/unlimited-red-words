@@ -102,6 +102,10 @@
       "  platform: \"\"",
       "  code: \"\"",
       "  steam: \"\"",
+      "  retroachievements:",
+      "    game_id: ",
+      "    count: ",
+      "    total: ",
       "---",
       "",
       "***"
