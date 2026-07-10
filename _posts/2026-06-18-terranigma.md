@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Terranigma"
 date: 2026-06-18 06:12:59 +02:00
 category: 🎮 Jeux vidéo
-tags: []
+tags: ["🎮 Super Nintendo"]
 media_subpath: /assets/images
 image:
   path: 2026-06-18-terranigma.jpg

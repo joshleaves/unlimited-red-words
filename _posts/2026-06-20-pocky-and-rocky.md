@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Pocky & Rocky"
 date: 2026-06-20 14:21:00 +02:00
 category: 🎮 Jeux vidéo
-tags: []
+tags: ["🎮 Super Nintendo"]
 media_subpath: /assets/images
 image:
   path: 2026-06-20-pocky-and-rocky.jpg
