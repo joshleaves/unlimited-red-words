@@ -20,7 +20,7 @@ Cela dit, avec ce film qui adapte <wiki page="The Sky Crawlers">un roman</wiki>,
 
 # La guerre c'est la paix
 
-Dans le monde de _The Sky Crawlers_, on ne fait plus la guerre. Enfin, "on". Ce n'est plus "vous et moi", mais des _Kildren_, des des humanoïdes créés pour garder une apparence jeune, ne jamais vieillir, et surtout, être utilisés par les derniers pouvoirs militaires pour s'affronter, comme un divertissement pour la population qui vit "en paix".
+Dans le monde de _The Sky Crawlers_, on ne fait plus la guerre. Enfin, "on". Ce n'est plus "vous et moi", mais des _Kildren_, des humanoïdes créés pour garder une apparence jeune, ne jamais vieillir, et surtout, être utilisés par les derniers pouvoirs militaires pour s'affronter, comme un divertissement pour la population qui vit "en paix".
 
 C'est une idée pas trop nouvelle pour la science-fiction, beaucoup d'oeuvres ayant abordé l'idée d'une société gardée sous contrôle par des guerres sans but ni fin. En mars 2026, et alors que les USAs et Israel font un concours de qui sera le premier à dézinguer le prochain guide suprême de l'Iran, ce propos paraît encore plus prophétique.
 

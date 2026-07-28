@@ -53,5 +53,4 @@ Au final, même les caméos de _Jessica_ et _Luke_ n'ont pas aidé, et même les
 [^4]: Comme dans [The Devil in Cell Block D](https://marvel.fandom.com/wiki/Daredevil_Vol_2_82), d'<wiki>Ed Brubaker</wiki>.
 [^5]: Comme dans [Know Fear](https://marvel.fandom.com/wiki/Daredevil_Vol_6_1), de <wiki>Chip Zdarsky</wiki>.
 [^6]: Comme dans [Devil's Reign](https://marvel.fandom.com/wiki/Devil%27s_Reign_(2022_Event)), de <wiki>Chip Zdarsky</wiki>.
-[^7]: Comme dans [Underboss](https://marvel.fandom.com/wiki/Daredevil_Vol_2_31), de <wiki>
-Brian Michael Bendis</wiki>.
+[^7]: Comme dans [Underboss](https://marvel.fandom.com/wiki/Daredevil_Vol_2_31), de <wiki>Brian Michael Bendis</wiki>.

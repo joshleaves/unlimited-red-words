@@ -24,7 +24,7 @@ J'aimais bien <wiki>Michaël Youn</wiki> à une certaine époque, puis à force 
 
 # Retour vers le futur, France
 
-Le plot de la série emprunte beaucoup au <wiki page="Retour vers le futur">>mètre étalon du genre</wiki> et ce n'est pas tant surprenant: _Elsa_, agent de la <wiki page="Personnels de la police technique et scientifique en France">PTS</wiki> a grandi sans son père, policier mort en service, dont elle ne garde que le souvenir d'un protecteur de la justice tombé au combat. Par un stratagème magique, qui fonctionne tout aussi bien qu'une <wiki page="DeLorean DMC-12">DeLorean</wiki>, elle se retrouve trente ans dans le passé et va aider son père à séduire sa mè... ah non, elle va s'incruster dans son équipe pour le protéger.
+Le plot de la série emprunte beaucoup au <wiki page="Retour vers le futur">mètre étalon du genre</wiki> et ce n'est pas tant surprenant: _Elsa_, agent de la <wiki page="Personnels de la police technique et scientifique en France">PTS</wiki> a grandi sans son père, policier mort en service, dont elle ne garde que le souvenir d'un protecteur de la justice tombé au combat. Par un stratagème magique, qui fonctionne tout aussi bien qu'une <wiki page="DeLorean DMC-12">DeLorean</wiki>, elle se retrouve trente ans dans le passé et va aider son père à séduire sa mè... ah non, elle va s'incruster dans son équipe pour le protéger.
 
 La série assume pleinement son inspiration, réutilisant son gimmick de la photo du futur qui évolue selon le passé, et même des teintes musicales à base de _chimes_ qui rappelleront à tout le monde la bande originale d'<wiki>Alan Silvestri</wiki>, et fait le choix de ne pas s'embarrasser de raisons ou d'explications sur les voyages temporels, voulant plutôt se concentrer sur un récit de personnages.
 
