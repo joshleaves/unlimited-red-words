@@ -3,7 +3,7 @@ layout: post
 title:  "🎮 Final Fantasy V"
 date: 2026-07-07 06:36:19 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Game Boy Advance"]
+tags: ["🎮 Game Boy Advance", "🎮 Final Fantasy"]
 media_subpath: /assets/images
 image:
   path: 2026-07-07-final-fantasy-v.jpg
