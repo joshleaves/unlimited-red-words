@@ -20,17 +20,22 @@ Jekyll::Hooks.register [:documents, :pages], :post_render do |doc|
     # Defensive: if parsing failed, keep original
     next match unless node
 
-    text    = (node.inner_html || '').strip
-    video   = node['video']&.strip
-    channel = node['channel']&.strip
+    text     = (node.inner_html || '').strip
+    video    = node['video']&.strip
+    channel  = node['channel']&.strip
+    playlist = node['playlist']&.strip
 
     # If still nothing to link, keep original
-    next match if (video.nil? || video.empty?) && (channel.nil? || channel.empty?)
+    next match if (video.nil? || video.empty?) && (channel.nil? || channel.empty?) && (playlist.nil? || playlist.empty?)
 
     href = if (video.nil? || video.empty?)
       "https://www.youtube.com/@#{channel}"
     else
-      "https://youtu.be/#{video}"
+      if (channel.nil? || channel.empty?)
+        "https://youtu.be/#{video}"
+      else
+        "https://youtube.com/playlist?list=#{playlist}"
+      end
     end
 
 
