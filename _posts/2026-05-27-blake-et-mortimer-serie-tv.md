@@ -6,7 +6,7 @@ category: 📺 Série TV
 tags: []
 media_subpath: /assets/images
 image:
-  path: 2026-05-27-blake-et-mortimer-série-tv.jpg
+  path: 2026-05-27-blake-et-mortimer-serie-tv.jpg
 country: FR
 rating: 3
 release_date: 1997-04-19
