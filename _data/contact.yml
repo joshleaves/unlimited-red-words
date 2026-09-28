@@ -4,18 +4,18 @@
   icon: "fab fa-github"
   noblank: true
 
-# - type:  website
-#   icon: "fas fa-code"
-#   url: "https://tech.dreamleaves.org/"
-#   noblank: true
+- type:  website
+  icon: "fas fa-code"
+  url: "https://tech.dreamleaves.org/"
+  noblank: true
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
   noblank: true
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
