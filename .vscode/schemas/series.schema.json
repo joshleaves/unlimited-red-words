@@ -1,0 +1,103 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Series tracker (_data/series/*.yml)",
+  "description": "One file per series. Backlog entries live under entries:, sub-series under groups:. Articles link via meta.series in post front matter -- never duplicate an article as an entry.",
+  "type": "object",
+  "required": ["name", "entries"],
+  "additionalProperties": false,
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Canonical series name. Must match meta.series in posts exactly."
+    },
+    "icon": {
+      "type": "string",
+      "description": "Media emoji shown before the name. Omit if the series spans several media.",
+      "examples": ["🎮", "📚", "🎬", "📺"]
+    },
+    "tag": {
+      "type": "string",
+      "description": "Legacy field from the tag era. Unused by templates, do not add to new files.",
+      "deprecated": true
+    },
+    "description": {
+      "type": "string",
+      "description": "Blurb shown above the entries list on the series page. HTML allowed."
+    },
+    "entries": {
+      "type": "array",
+      "description": "Backlog items (no article yet). Entries duplicating an article are auto-excluded -- delete them. Also renders first as the ungrouped block when groups: exist.",
+      "items": { "$ref": "#/definitions/entry" }
+    },
+    "groups": {
+      "type": "array",
+      "description": "Sub-series, rendered in definition order after ungrouped items. Refs are full titles, matched emoji/case-insensitive. First match wins.",
+      "items": {
+        "type": "object",
+        "required": ["title", "entries"],
+        "additionalProperties": false,
+        "properties": {
+          "title": {
+            "type": "string",
+            "description": "Sub-series heading, e.g. Arc Liberl, La saga X, Spin-offs."
+          },
+          "entries": {
+            "type": "array",
+            "description": "Full item titles (posts or backlog entries).",
+            "items": { "type": "string" }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "entry": {
+      "type": "object",
+      "required": ["title"],
+      "additionalProperties": false,
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Item title. Emoji optional (kept as-is for entries, e.g. per-medium icons)."
+        },
+        "platform": {
+          "type": "string",
+          "description": "Console for the icon, or Film / TV / Livre. Optional -- omit for plain text (recommended for books). Unknown values fall back to a gamepad icon.",
+          "examples": [
+            "Sony PlayStation 4",
+            "Sony PlayStation 5",
+            "Nintendo Switch",
+            "Game Boy Advance",
+            "Super Nintendo",
+            "Film",
+            "TV",
+            "Livre"
+          ]
+        },
+        "release_date": {
+          "description": "Original release date, YYYY-MM-DD. Used for display and date sorting.",
+          "examples": ["2020-02-14"]
+        },
+        "finished_date": {
+          "description": "Date you finished it (YYYY-MM-DD), or true = finished on an unknown date (shows ?). Counts toward the done badge.",
+          "anyOf": [{ "type": "boolean" }, { "type": "string" }],
+          "examples": [true, "2020-04-17"]
+        },
+        "rating": {
+          "type": "integer",
+          "description": "Your 0-5 rating, shown in the ★ column.",
+          "minimum": 0,
+          "maximum": 5
+        },
+        "dropped": {
+          "type": "boolean",
+          "description": "true = abandoned/refused. Shown gray, excluded from the done badge math so it never blocks 100%."
+        },
+        "meta": {
+          "type": "object",
+          "description": "Legacy sub-hash (imdb, wikipedia...). NEVER read for entries -- omit."
+        }
+      }
+    }
+  }
+}

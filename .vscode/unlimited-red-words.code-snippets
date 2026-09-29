@@ -6,7 +6,7 @@
     "body": [
       "---",
       "layout: post",
-      "title:  \"📚 ${1:name}\"",
+      "title:  \"${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
       "category: 📚 Littérature",
       "tags: []",
@@ -34,7 +34,7 @@
     "body": [
       "---",
       "layout: post",
-      "title:  \"🎬 ${1:name}\"",
+      "title:  \"${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
       "category: 🎬 Cinéma",
       "tags: []",
@@ -58,7 +58,7 @@
     "body": [
       "---",
       "layout: post",
-      "title:  \"📺 ${1:name}\"",
+      "title:  \"${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
       "category: 📺 Série TV",
       "tags: []",
@@ -88,7 +88,7 @@
     "body": [
       "---",
       "layout: post",
-      "title:  \"🎮 ${1:name}\"",
+      "title:  \"${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
       "category: 🎮 Jeux vidéo",
       "tags: []",
@@ -111,6 +111,68 @@
       "***"
     ]
   },
+  "Series file": {
+    "scope": "yaml",
+    "prefix": "series_file",
+    "description": "New _data/series/*.yml tracker file",
+    "body": [
+      "name: \"${1:Name}\"",
+      "icon: ${2|🎮,📚,🎬,📺|}",
+      "entries:",
+      "groups:",
+      "  - title: \"${3:Sub-series}\"",
+      "    entries:",
+      "      - \"${4:Full item title}\""
+    ]
+  },
+  "Series backlog entry": {
+    "scope": "yaml",
+    "prefix": "series_entry",
+    "description": "Backlog entry (no article yet) for a series file",
+    "body": [
+      "- title: \"${1:Title}\"",
+      "  platform: ${2:Console}",
+      "  release_date: ${3:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}"
+    ]
+  },
+  "Series backlog entry, finished date unknown": {
+    "scope": "yaml",
+    "prefix": "series_entry_unknown",
+    "description": "Backlog entry finished on an unknown date (shows ?)",
+    "body": [
+      "- title: \"${1:Title}\"",
+      "  release_date: ${2:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}",
+      "  finished_date: true"
+    ]
+  },
+  "Series backlog entry, dropped": {
+    "scope": "yaml",
+    "prefix": "series_entry_dropped",
+    "description": "Backlog entry abandoned/refused (gray, out of badge math)",
+    "body": [
+      "- title: \"${1:Title}\"",
+      "  release_date: ${2:$CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE}",
+      "  dropped: true"
+    ]
+  },
+  "Series group": {
+    "scope": "yaml",
+    "prefix": "series_group",
+    "description": "Sub-series group (full titles, matched emoji-insensitive)",
+    "body": [
+      "- title: \"${1:Group name}\"",
+      "  entries:",
+      "    - \"${2:Full item title}\""
+    ]
+  },
+  "Post series link": {
+    "scope": "markdown",
+    "prefix": "series_meta",
+    "description": "Link a post to its series (meta.series), replaces the tag",
+    "body": [
+      "series: \"${1:Series name}\""
+    ]
+  },
   "New thoughts": {
     "scope": "markdown",
     "prefix": "create_brain",
@@ -118,7 +180,7 @@
     "body": [
       "---",
       "layout: post",
-      "title:  \"🧠 ${1:name}\"",
+      "title:  \"${1:name}\"",
       "date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_MINUTE $CURRENT_TIMEZONE_OFFSET",
       "category: 🧠 Dans ma tête",
       "tags: []",

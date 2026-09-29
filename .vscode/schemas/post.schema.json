@@ -1,0 +1,169 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Post front matter (_posts/*.md)",
+  "description": "Front matter for review posts. Titles carry no emoji (icon comes from category). Posts link to trackers via meta.series / meta.platform, never via tags for those.",
+  "type": "object",
+  "required": [
+    "layout",
+    "title",
+    "date",
+    "category",
+    "tags",
+    "media_subpath",
+    "image",
+    "country",
+    "rating",
+    "release_date"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "layout": {
+      "type": "string",
+      "enum": ["post"]
+    },
+    "title": {
+      "type": "string",
+      "description": "Review title, no media emoji (added from category at render)."
+    },
+    "date": {
+      "type": "string",
+      "description": "Publication date, e.g. 2024-07-25 18:30:00 +0100."
+    },
+    "category": {
+      "type": "string",
+      "description": "Single category. Its emoji is the post's icon everywhere.",
+      "enum": [
+        "🎮 Jeux vidéo",
+        "📚 Littérature",
+        "📺 Série TV",
+        "🎬 Cinéma",
+        "🧠 Dans ma tête"
+      ]
+    },
+    "tags": {
+      "type": "array",
+      "description": "Free tags only. Series, consoles and studios live in meta.* instead.",
+      "items": { "type": "string" }
+    },
+    "media_subpath": {
+      "type": "string",
+      "description": "Base folder for the post's images, e.g. /assets/images."
+    },
+    "image": {
+      "type": "object",
+      "required": ["path"],
+      "additionalProperties": false,
+      "properties": {
+        "path": { "type": "string" },
+        "alt": { "type": "string" },
+        "lqip": { "type": "string" },
+        "no_bg": { "type": "boolean" }
+      }
+    },
+    "country": {
+      "type": "string",
+      "description": "ISO country code of the work. Extend the enum as needed.",
+      "enum": ["JP", "US", "FR", "KR", "IS", "DE", "ZH", "SE"]
+    },
+    "rating": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 5
+    },
+    "release_date": {
+      "type": "string",
+      "description": "Original release date, YYYY-MM-DD."
+    },
+    "meta": {
+      "type": "object",
+      "description": "Tracker links and work metadata. series/platform feed the series and consoles pages.",
+      "additionalProperties": false,
+      "properties": {
+        "series": {
+          "type": "string",
+          "description": "Canonical series name, must match name: in _data/series/*.yml exactly.",
+          "examples": [
+            "Assassin's Creed",
+            "Asterix",
+            "Castlevania",
+            "Détective Conan",
+            "Final Fantasy",
+            "Jake Adelstein",
+            "John Wick",
+            "Kamen Rider",
+            "Lupin III",
+            "Marvel Cinematic Universe",
+            "Mobile Suit Gundam",
+            "Monsterverse",
+            "Reiko Himekawa",
+            "Scary Movie",
+            "Sonic the Hedgehog",
+            "South Park",
+            "Tales of",
+            "Teenage Mutant Ninja Turtles",
+            "Tom Clancy",
+            "Tomb Raider: Survivor",
+            "Trails",
+            "Wario Land",
+            "Xenoblade Chronicles",
+            "Yakuza / Like a Dragon",
+            "Ys",
+            "Zodiaque"
+          ]
+        },
+        "platform": {
+          "type": "string",
+          "description": "Exact console name. Must match existing spelling or it creates a new consoles page.",
+          "examples": [
+            "Game Boy Advance",
+            "GameBoy Color",
+            "Microsoft Windows",
+            "Nintendo GameCube",
+            "Nintendo Switch",
+            "Sega Master System",
+            "Sony PlayStation 3",
+            "Sony PlayStation 4",
+            "Sony PlayStation 5",
+            "Sony Playstation Vita",
+            "Sony PlayStation Vita",
+            "Super Nintendo",
+            "macOS",
+            "Flash"
+          ]
+        },
+        "imdb": { "type": "string" },
+        "wikipedia": { "type": "string" },
+        "anidb": { "type": "string" },
+        "mydramalist": { "type": "string" },
+        "steam": { "type": "string" },
+        "gog": { "type": "string" },
+        "watch": { "type": "string" },
+        "netflix": { "type": "string" },
+        "start_date": { "description": "Series airing start, YYYY-MM-DD." },
+        "end_date": { "description": "Series airing end, YYYY-MM-DD." },
+        "network": { "type": "string" },
+        "seasons": { "type": "integer" },
+        "episodes": { "type": "integer" },
+        "pages": { "type": "integer" },
+        "tomes": { "type": "integer" },
+        "chapters": { "type": "integer" },
+        "issues": { "type": "integer" },
+        "author": { "type": "string" },
+        "editor": { "type": "string" },
+        "url": { "type": ["string", "null"] },
+        "isbn": { "type": "string" },
+        "code": { "type": "string", "description": "Disc/product code, e.g. BLES00054." },
+        "retroachievements": {
+          "type": "object",
+          "required": ["game_id", "count", "total"],
+          "additionalProperties": false,
+          "properties": {
+            "game_id": { "type": "integer" },
+            "count": { "type": "integer" },
+            "total": { "type": "integer" }
+          }
+        }
+      }
+    }
+  }
+}
