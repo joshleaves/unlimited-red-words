@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Resident Evil 2"
+title:  "Resident Evil 2"
 date: 2026-03-22 07:31:21 +02:00
 category: 🎮 Jeux vidéo
 tags: []
@@ -61,4 +61,4 @@ Une vingtaine d'heure de jeu m'aura suffi à connaître presque par coeur chaque
 [^4]: Très littéralement: il faut retirer l'emblème Licorne d'un mur, le mettre sous la statue de l'entrée, pour avoir la Clé de Trèfle, qui ouvre la salle des archives, dans laquelle se trouve une manivelle, qui permet de faire descendre un escalier, pour accéder à une salle où placer une roue dentée en or (récupérée dans une autre énigme) pour obtenir l'un des quatre objets nécessaires pour quitter le commissariat.
 [^5]: Si l'on exclut les différences de chargement selon les plateformes, les [speedruns](https://www.speedrun.com/re2) sont tous aux alentours d'une heure et dix minutes par scénario.
 [^6]: Les quatre premiers jeux, du Zéro jusqu'au 3, sont tous en caméra figée.
-[^7]: Exception faite du NG+ de [certains RPGs](/tags/trails/).
+[^7]: Exception faite du NG+ de [certains RPGs](/series/trails-of/).

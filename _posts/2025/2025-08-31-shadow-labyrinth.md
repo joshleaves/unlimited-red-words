@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Shadow Labyrinth"
+title:  "Shadow Labyrinth"
 date: 2025-08-31 23:55:55 +02:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

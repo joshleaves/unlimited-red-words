@@ -1,0 +1,41 @@
+---
+layout: page
+# Custom category layout: rich sortable table for games, default list otherwise
+---
+
+{% include lang.html %}
+
+<div id="page-category">
+  <h1 class="ps-lg-2">
+    {% if page.platform %}
+      {% include platform-icon.html platform=page.platform %}
+    {% else %}
+      <i class="far fa-folder-open fa-fw text-muted"></i>
+    {% endif %}
+    {{ page.title }}
+    <span class="lead text-muted ps-2">{{ page.posts | size }}</span>
+  </h1>
+
+  {% if page.title == '🎮 Jeux vidéo' or page.platform %}
+    {% if page.platform %}
+      <p class="text-muted">
+        <a href="{{ '/categories/jeux-vidéo/' | relative_url }}"><i class="fa fa-arrow-left"></i> Tous les jeux</a>
+      </p>
+    {% endif %}
+    {% assign show_filter = false %}
+    {% if page.platform == nil %}
+      {% assign show_filter = true %}
+    {% endif %}
+    {% include games-table.html posts=page.posts filter=show_filter %}
+  {% else %}
+    <ul class="content ps-0">
+      {% for post in page.posts %}
+        <li class="d-flex justify-content-between px-md-3">
+          <a href="{{ post.url | relative_url }}">{% include post-title.html post=post %}</a>
+          <span class="dash flex-grow-1"></span>
+          {% include datetime.html date=post.date class='text-muted small text-nowrap' lang=lang %}
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+</div>

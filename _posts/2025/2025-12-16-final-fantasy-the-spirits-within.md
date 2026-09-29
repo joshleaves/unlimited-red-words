@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Final Fantasy: The Spirits Within"
+title:  "Final Fantasy: The Spirits Within"
 date: 2025-12-16 13:45:38 +01:00
 category: 🎬 Cinéma
-tags: ["🎮 Final Fantasy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-12-16-final-fantasy-the-spirits-within.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2001-07-11
 meta:
+  series: Final Fantasy
   imdb: "https://www.imdb.com/title/tt0173840/"
 ---
 

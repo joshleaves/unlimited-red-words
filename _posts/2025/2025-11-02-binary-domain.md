@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Binary Domain"
+title:  "Binary Domain"
 date: 2025-11-02 19:57:29 +01:00
 category: 🎮 Jeux vidéo
 tags: []
@@ -16,7 +16,7 @@ meta:
   steam: "https://store.steampowered.com/app/203750/Binary_Domain/"
 ---
 
-En 2011, un peu après **Yakuza 4** et son spin-off à flingues **Yakuza: Dead Souls**, le studio de _SEGA_ a gagné le droit de prendre le nom _Ryu Ga Gotoku Studio_, du nom japonais de sa franchise phare, et a donc sorti un nouveau jeu pour fêter l'occasion: sans aucun lien avec la série [Yakuza](/tags/yakuza-like-a-dragon/), et même pire, un jeu au style plutôt américain. Un produit tellement peu Japonais que le doublage VF inclut un personnage qui parle avec un fort accent marseillais...
+En 2011, un peu après **Yakuza 4** et son spin-off à flingues **Yakuza: Dead Souls**, le studio de _SEGA_ a gagné le droit de prendre le nom _Ryu Ga Gotoku Studio_, du nom japonais de sa franchise phare, et a donc sorti un nouveau jeu pour fêter l'occasion: sans aucun lien avec la série [Yakuza](/series/yakuza/), et même pire, un jeu au style plutôt américain. Un produit tellement peu Japonais que le doublage VF inclut un personnage qui parle avec un fort accent marseillais...
 
 # Fantôme dans la station essence
 

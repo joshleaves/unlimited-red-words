@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Karate Kid: Legends"
+title:  "Karate Kid: Legends"
 date: 2025-08-29 15:07:09 +02:00
 category: 🎬 Cinéma
 tags: []

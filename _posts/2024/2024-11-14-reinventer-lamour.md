@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Réinventer l'amour"
+title:  "Réinventer l'amour"
 date: 2024-11-14 16:00:00 +0100
 category: 📚 Littérature
 tags: []

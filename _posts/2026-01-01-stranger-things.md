@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Stranger Things"
+title:  "Stranger Things"
 date: 2026-01-01 04:53:47 +01:00
 category: 📺 Série TV
 tags: []

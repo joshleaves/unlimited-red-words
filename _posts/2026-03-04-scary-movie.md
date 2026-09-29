@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Scary Movie"
+title:  "Scary Movie"
 date: 2026-03-04 04:59:05 +01:00
 category: 🎬 Cinéma
-tags: ["🎬 Scary Movie"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-03-04-scary-movie.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 2000-07-01
 meta:
+  series: "Scary Movie"
   imdb: "https://www.imdb.com/title/tt0175142/"
 ---
 

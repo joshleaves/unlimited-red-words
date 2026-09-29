@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Les Assassins de la 5e B"
+title:  "Les Assassins de la 5e B"
 date: 2025-04-09 14:06:06 +02:00
 category: 📚 Littérature
 tags: []

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Xenoblade Chronicles X"
+title:  "Xenoblade Chronicles X"
 date: 2025-05-08 02:49:32 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Xenoblade Chronicles", "🎶 Hiroyuki Sawano"]
+tags: ["🎶 Hiroyuki Sawano"]
 media_subpath: /assets/images
 image:
   path: 2025/2025-05-08-xenoblade-chronicles-x.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2015-04-29
 meta:
+  series: "Xenoblade Chronicles"
   platform: Nintendo Switch
 ---
 

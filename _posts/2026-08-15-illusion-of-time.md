@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Illusion of Time"
+title:  "Illusion of Time"
 date: 2026-08-15 15:49:33 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Super Nintendo"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-08-15-illusion-of-time.jpg

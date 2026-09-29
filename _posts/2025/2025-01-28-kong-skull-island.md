@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Kong: Skull Island"
+title:  "Kong: Skull Island"
 date: 2025-01-28 02:30:00 +0100
 category: 🎬 Cinéma
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-28-kong-skull-island.jpeg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2017-03-10
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt3731562/"
 ---
 

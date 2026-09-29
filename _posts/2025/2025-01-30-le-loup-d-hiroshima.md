@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le Loup d’Hiroshima"
+title:  "Le Loup d’Hiroshima"
 date: 2025-01-30 18:00:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]
@@ -25,7 +25,7 @@ Cela ne m'étonne pas le moins du monde.
 
 # Retour à Hiroshima
 
-Il y a peu, l'auteur du manga **NINE PEAKS**[^1] expliquait pourquoi son manga se déroulait dans le passé: toute la violence des gangs adolescents, et même du monde yakuza, tout cela n'existe plus aujourd'hui, une analyse dont [Jake Adelstein](/tags/jake-adelstein/) se fait le témoin dans ses ouvrages. Ainsi, là encore, le livre n'ayant même pas dix ans, son récit en a déjà le triple, ce qui en soit, n'est pas pour me déplaire, tant l'ambiance particulière qui se dégage de ce monde est féconde d'histoires palpitantes.
+Il y a peu, l'auteur du manga **NINE PEAKS**[^1] expliquait pourquoi son manga se déroulait dans le passé: toute la violence des gangs adolescents, et même du monde yakuza, tout cela n'existe plus aujourd'hui, une analyse dont [Jake Adelstein](/series/jake-adelstein/) se fait le témoin dans ses ouvrages. Ainsi, là encore, le livre n'ayant même pas dix ans, son récit en a déjà le triple, ce qui en soit, n'est pas pour me déplaire, tant l'ambiance particulière qui se dégage de ce monde est féconde d'histoires palpitantes.
 
 Hiroshima, 1988, 40 années sont passées, mais le spectre de la bombe hante toujours les protagonistes, tandis qu'une énième guerre de gangs s'apprête à éclater. Dès le départ, je ne peux m'empêcher d'y voir un lien: les yakuzas ont eu leur heure de gloire en aidant à la reconstruction dans la période d'après-guerre, et Hiroshima a été la zone qui a le plus eu besoin de cette aide. Au commissariat, le commandant Ogami se retrouve affublé d'Hioka, un bleu qui n'a jamais eu maille à faire avec le crime organisé, et déjà, vous sentez probablement que vous connaissez cette histoire. Disons que vous n'avez qu'à moitié raison.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Comme Un Lundi"
+title:  "Comme Un Lundi"
 date: 2026-05-15 14:38:21 +02:00
 category: 🎬 Cinéma
 tags: []

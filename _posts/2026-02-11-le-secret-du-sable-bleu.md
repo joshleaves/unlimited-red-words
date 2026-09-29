@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Le Secret du Sable Bleu"
+title:  "Le Secret du Sable Bleu"
 date: 2026-02-11 15:55:24 +01:00
 category: 📺 Série TV
 tags: []

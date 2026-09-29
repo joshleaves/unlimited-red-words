@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Bloodstained: Ritual of the Night"
+title:  "Bloodstained: Ritual of the Night"
 date: 2026-01-01 00:13:34 +01:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

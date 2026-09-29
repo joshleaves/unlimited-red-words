@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Wario Land 4: Parallel World"
+title:  "Wario Land 4: Parallel World"
 date: 2026-05-26 17:02:30 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Game Boy Advance", "🎮 Wario Land", "🎮 Romhack"]
+tags: ["🎮 Romhack"]
 media_subpath: /assets/images
 image:
   path: 2026-05-26-wario-land-4-parallel-world.png
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2021-08-27
 meta:
+  series: "Wario Land"
   platform: "Game Boy Advance"
   retroachievements:
     game_id: 17910

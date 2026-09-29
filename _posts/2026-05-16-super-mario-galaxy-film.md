@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Super Mario Galaxy, le film"
+title:  "Super Mario Galaxy, le film"
 date: 2026-05-16 22:51:45 +02:00
 category: 🎬 Cinéma
 tags: []
@@ -21,7 +21,7 @@ L'annonce d'une suite n'a donc surpris personne, et le titre a suscité beaucoup
 
 # Pied sur le champignon
 
-À peu de choses près, on pouvait décomposer le film original en quatre gros _money shots_: l'entrainement de Mario qui reprenait les mécaniques des jeux vidéo, la scène d'action _badass_ de <wiki page="Princesse Peach">Peach</wiki>, le caméo de <wiki page="Donkey Kong (personnage)">Donkey Kong</wiki> qui venait <wiki page="Mario Kart">faire du kart</wiki>, et <wiki>Jack Black</wiki> qui en fait des caisses en Bowser. Autant [quand c'est Jim Carrey](/tags/sonic-the-hedgehog/) ça colle, autant là... ça ne m'a pas vraiment marqué plus que ça, tant je trouve que l'acteur a perdu de sa superbe.
+À peu de choses près, on pouvait décomposer le film original en quatre gros _money shots_: l'entrainement de Mario qui reprenait les mécaniques des jeux vidéo, la scène d'action _badass_ de <wiki page="Princesse Peach">Peach</wiki>, le caméo de <wiki page="Donkey Kong (personnage)">Donkey Kong</wiki> qui venait <wiki page="Mario Kart">faire du kart</wiki>, et <wiki>Jack Black</wiki> qui en fait des caisses en Bowser. Autant [quand c'est Jim Carrey](/series/sonic-the-hedgehog/) ça colle, autant là... ça ne m'a pas vraiment marqué plus que ça, tant je trouve que l'acteur a perdu de sa superbe.
 
 Pour cette suite, on retrouve à peu près les mêmes _money shots_, un peu améliorés: Mario et Luigi ont une série de quêtes de protection du royaume qui reprennent les mécaniques des jeux vidéo, _Peach_ a encore une scène pour briller avec une baston dans plusieurs gravités, on a un caméo de <wiki>Fox McCloud</wiki> qui vient <wiki page="Star Fox (série de jeux vidéo)">piloter son vaisseau spatial</wiki>, et on a toujours _Jack Black_ qui cabotine avec son fils _Bowser Jr._.
 

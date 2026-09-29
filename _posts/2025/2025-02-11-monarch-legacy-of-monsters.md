@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Monarch: Legacy of Monsters"
+title:  "Monarch: Legacy of Monsters"
 date: 2025-02-11 23:30:00 +0100
 category: 📺 Série TV
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-02-11-Monarch_Legacy_Monsters.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 2023-11-17
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt17220216/"
   wikipedia: "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
   start_date: 2023-11-17
@@ -44,7 +45,7 @@ Si l'on exclut la présence d'un personnage/subplot qui m'a vite ennuyé, et ne 
 
 # Héritage
 
-J'ai assez peu d'espoirs pour la suite du [MonsterVerse](/tags/monsterverse/), tant même le prochain film m'a l'air de ne s'intéresser qu'à de gros monstres CGIs qui se mettent des patates, sans prendre le temps de nous montrer des êtres humains vivre et exister. Cette série remplit ce contrat, et fait du bien à l'univers en revenant à ce qui est (pour moi) son meilleur aspect.
+J'ai assez peu d'espoirs pour la suite du [MonsterVerse](/series/monsterverse/), tant même le prochain film m'a l'air de ne s'intéresser qu'à de gros monstres CGIs qui se mettent des patates, sans prendre le temps de nous montrer des êtres humains vivre et exister. Cette série remplit ce contrat, et fait du bien à l'univers en revenant à ce qui est (pour moi) son meilleur aspect.
 
 La série a connu du succès et a vite été renouvelée pour une seconde saison. Une partie de moi aimerait que chaque saison fasse table rase et introduise nouveaux personnages et nouvelle intrigue, tant ceux-ci ont rempli leur rôle, et puis l'histoire à trous de Monarch ne nécessite pas forcément d'être remplie.
 

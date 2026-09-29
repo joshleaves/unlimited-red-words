@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Lupin III Part IV: L'Aventure Italienne"
+title:  "Lupin III Part IV: L'Aventure Italienne"
 date: 2026-08-07 12:13:40 +02:00
 category: 📺 Série TV
-tags: ["📺 Lupin III"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-08-07-lupin-iii-part-iv.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2015-08-30
 meta:
+  series: "Lupin III"
   imdb: "https://www.imdb.com/title/tt4129452/"
   anidb: "https://anidb.net/anime/10882"
   wikipedia: "https://fr.wikipedia.org/wiki/Lupin_III_Part_IV_:_L%27Aventure_Italienne"

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Tom Clancy's Jack Ryan: Ghost War"
+title:  "Tom Clancy's Jack Ryan: Ghost War"
 date: 2026-05-21 08:50:12 +02:00
 category: 🎬 Cinéma
-tags: ["📚 Tom Clancy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-05-21-tom-clancy-jack-ryan-ghost-war.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 1
 release_date: 2026-05-15
 meta:
+  series: "Tom Clancy"
   imdb: "https://www.imdb.com/title/tt34378301/"
   watch: "https://www.primevideo.com/-/fr/detail/0SECUE0M0XPUAT47K4JWQT6573"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Looking for Magical Doremi: À la recherche des apprenties sorcières"
+title:  "Looking for Magical Doremi: À la recherche des apprenties sorcières"
 date: 2024-12-01 18:00:00 +0100
 category: 🎬 Cinéma
 tags: []

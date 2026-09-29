@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le dévouement du suspect X"
+title:  "Le dévouement du suspect X"
 date: 2024-11-28 15:25:00 +0100
 category: 📚 Littérature
 tags: []

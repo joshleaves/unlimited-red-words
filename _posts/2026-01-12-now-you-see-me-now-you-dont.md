@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Now You See Me: Now You Don't"
+title:  "Now You See Me: Now You Don't"
 date: 2026-01-12 17:16:46 +01:00
 category: 🎬 Cinéma
 tags: []

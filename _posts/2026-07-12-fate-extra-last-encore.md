@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Fate/EXTRA Last Encore"
+title:  "Fate/EXTRA Last Encore"
 date: 2026-07-12 03:45:51 +02:00
 category: 📺 Série TV
 tags: []

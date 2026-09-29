@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Freakier Friday"
+title:  "Freakier Friday"
 date: 2025-08-09 19:30:06 +02:00
 category: 🎬 Cinéma
 tags: []

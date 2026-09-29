@@ -1,0 +1,10 @@
+name: "Wario Land"
+icon: 🎮
+entries:
+  - title: "Wario Land: Super Mario Land 3"
+    platform: Game Boy
+    release_date: 1994-01-21
+  - title: "Wario Land 4"
+    platform: Game Boy Advance
+    release_date: 2001-08-21
+    finished_date: true

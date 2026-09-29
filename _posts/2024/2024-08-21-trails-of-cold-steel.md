@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 The Legend of Heroes: Trails of Cold Steel"
+title:  "The Legend of Heroes: Trails of Cold Steel"
 date: 2024-08-21 17:42:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-08-21-trails-of-cold-steel.jpg
@@ -11,7 +11,8 @@ country: JP
 rating: 4
 release_date: 2013-09-26
 meta:
-  platform: Sony Playstation 3
+  series: "Trails"
+  platform: Sony PlayStation 3
   steam: https://store.steampowered.com/app/538680/The_Legend_of_Heroes_Trails_of_Cold_Steel/
 ---
 

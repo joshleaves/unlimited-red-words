@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Kamen Rider Kuuga"
+title:  "Kamen Rider Kuuga"
 date: 2024-01-08 23:17:17 +02:00
 category: 📺 Série TV
-tags: ["📺 Kamen Rider"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-01-08-kamen-rider-kuuga.jpg
@@ -11,8 +11,9 @@ country: JP
 rating: 4
 release_date: 2000-01-30
 meta:
+  series: "Kamen Rider"
   imdb: "https://www.imdb.com/title/tt0188340/"
-  mdl: "https://mydramalist.com/3409-kamen-rider-kuuga"
+  mydramalist: "https://mydramalist.com/3409-kamen-rider-kuuga"
   wikipedia: "https://kamenrider.fandom.com/wiki/Kamen_Rider_Kuuga"
   start_date: 2000-01-30
   end_date: 2001-01-21

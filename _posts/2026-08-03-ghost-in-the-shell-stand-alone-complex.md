@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Ghost in the Shell: Stand Alone Complex"
+title:  "Ghost in the Shell: Stand Alone Complex"
 date: 2026-08-03 06:18:09 +02:00
 category: 📺 Série TV
 tags: []

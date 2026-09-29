@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Final Fantasy X"
+title:  "Final Fantasy X"
 date: 2026-03-19 00:08:39 +01:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Final Fantasy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-03-19-final-fantasy-x.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2001-07-19
 meta:
+  series: Final Fantasy
   platform: "Sony PlayStation 3"
   code: "BLJM61093"
   steam: "https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/"

@@ -8,7 +8,23 @@
     <nav id="breadcrumb" aria-label="Breadcrumb">
       {% assign paths = page.url | split: '/' %}
 
-      {% if paths.size == 0 or page.layout == 'home' %}
+      {% if page.platform %}
+        <span>
+          <a href="{{ '/' | relative_url }}">
+            {{- site.data.locales[include.lang].tabs.home | capitalize -}}
+          </a>
+        </span>
+        <span>
+          <a href="{{ '/categories/' | relative_url }}">
+            {{- site.data.locales[include.lang].tabs.categories | capitalize -}}
+          </a>
+        </span>
+        <span>
+          <a href="{{ page.category_url | relative_url }}">{{ page.category_title }}</a>
+        </span>
+        <span>{{ page.platform }}</span>
+
+      {% elsif paths.size == 0 or page.layout == 'home' %}
         <!-- index page -->
         <span>{{ site.data.locales[include.lang].tabs.home | capitalize }}</span>
 
@@ -38,7 +54,28 @@
                   {% endfor %}
                 </span>
               {% endif %}
-              <span>{{ page.title }}</span>
+              {% if page.meta.platform %}
+                <span>
+                  {% include platform-icon.html platform=page.meta.platform %}
+                  <a href="{{ page.meta.platform | slugify | prepend: '/categories/jeux-vidéo/' | append: '/' | relative_url }}">{{ page.meta.platform }}</a>
+                </span>
+              {% endif %}
+              {% if page.meta.series %}
+                {% assign series_key = '' %}
+                {% assign series_icon = '' %}
+                {% for s in site.data.series %}
+                  {% if s[1].name == page.meta.series %}
+                    {% assign series_key = s[0] %}
+                    {% assign series_icon = s[1].icon %}
+                  {% endif %}
+                {% endfor %}
+                {% if series_key != '' %}
+                  <span>
+                    {{ series_icon }} <a href="{{ series_key | prepend: '/series/' | append: '/' | relative_url }}">{{ page.meta.series }}</a>
+                  </span>
+                {% endif %}
+              {% endif %}
+              <span>{% include post-title.html post=page %}</span>
             {% endif %}
 
           {% elsif page.category %}

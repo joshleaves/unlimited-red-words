@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 La Petite Fille Que J'ai Tuée"
+title:  "La Petite Fille Que J'ai Tuée"
 date: 2025-03-25 17:53:53 +01:00
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

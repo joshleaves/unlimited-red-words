@@ -1,0 +1,14 @@
+name: "Tom Clancy"
+icon: 📚
+description: >
+  Né en 1947, <strong>Tom Clancy</strong> est un écrain américain surout connu pour ses romans d'espionnage et thiller politiques. En plus des adaptations en films de plusieurs de ses livres, il est le co-fondateur du studio de jeux vidéo <a href="https://fr.wikipedia.org/wiki/Red_Storm_Entertainment"><i class="fab fa-wikipedia-w"></i> Red Storm Entertainment</a>, connu pour les franchises <a href="https://fr.wikipedia.org/wiki/Tom_Clancy%27s_Rainbow_Six_(jeu_vid%C3%A9o)"><i class="fab fa-wikipedia-w"></i> Tom Clancy's Rainbow Six</a> et <a href="https://fr.wikipedia.org/wiki/Tom_Clancy%27s_Splinter_Cell_(jeu_vid%C3%A9o)"><i class="fab fa-wikipedia-w"></i> Tom Clancy's Splinter Cell</a>.
+entries:
+groups:
+  - title: "Tom Clancy's Rainbow Six"
+    entries:
+      - "Tom Clancy's Rainbow Six: Vegas"
+  - title: "Tom Clancy's Jack Ryan"
+    entries:
+      - "Tom Clancy's Jack Ryan (S1)"
+      - "Tom Clancy's Jack Ryan (S2-S4)"
+      - "Tom Clancy's Jack Ryan: Ghost War"

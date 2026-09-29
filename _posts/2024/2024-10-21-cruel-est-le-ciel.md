@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 Cruel est le ciel"
+title:  "Cruel est le ciel"
 date: 2024-10-21 16:30:00 +0100
 category: 📚 Littérature
-tags: ["📚 Atelier Akatombo", "📚 Reiko Himekawa"]
+tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
   path: 2024/2024-10-21-Cruel-est-le-ciel_Tetsuya-Honda.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2007-03-20
 meta:
+  series: "Reiko Himekawa"
   pages: 352
   author: "Tetsuya Honda / 誉田哲也"
   editor: "Atelier Akatombo"

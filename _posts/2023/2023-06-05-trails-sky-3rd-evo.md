@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Trails in the Sky the 3rd Evolution"
+title:  "Trails in the Sky the 3rd Evolution"
 date: 2023-06-05 08:59:49 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2023/2023-06-05-trails-sky-3rd-evo.png
@@ -11,7 +11,8 @@ country: JP
 rating: 4
 release_date: 2007-06-28
 meta:
-  platform: Sony Playstation Vita
+  series: "Trails"
+  platform: Sony PlayStation Vita
   steam: https://store.steampowered.com/app/436670/The_Legend_of_Heroes_Trails_in_the_Sky_the_3rd/
 ---
 

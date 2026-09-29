@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Reimagine :The Game:"
+title:  "Reimagine :The Game:"
 date: 2026-04-05 18:27:40 +02:00
 category: 🎮 Jeux vidéo
 tags: []

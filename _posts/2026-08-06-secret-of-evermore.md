@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Secret of Evermore"
+title:  "Secret of Evermore"
 date: 2026-08-06 17:26:00 +02:00
 category: 🎮 Jeux vidéo
 tags: []
@@ -46,7 +46,7 @@ Et malgré tout ce pitch très étrange, le jeu tombe encore dans les travers ha
 
 Comme dit plus tôt, le jeu a bénéficié d'une sortie en France, et même d'une traduction française. De très bonne facture, elle est faite par <wiki>Véronique Chantel</wiki>, qui transforme _Podunk_, le bled pourri du héros, en <wiki>Pontoise</wiki>, et adapte avec soin toutes les références cinématographiques (inventées) de notre héros à l'univers français. Il nous parlera donc de <wiki page="Gérard Depardieu">Sépardieu</wiki> dans <wiki page="Cyrano de Bergerac (film, 1990)">Cryano de Barjac</wiki>, ou de la bête immonde de <wiki page="La Cité des enfants perdus">La Cité des Chamallows Perdus</wiki>, et l'on citera <wiki page="Les Fourberies de Scapin">Les Fourberies de Pantin</wiki> par <wiki page="Guy de Maupassant">Guy de Mauallant</wiki>, et même <wiki page="L'Étrange Cas du docteur Jekyll et de mister Hyde">Professeur Chacal et Monsieur Mild</wiki>, et <wiki page="Mechagodzilla">Toastzilla</wiki>,...
 
-Toutes ces petites références, savamment adaptées, rendent le jeu encore plus savoureux et très drôle. C'est parfois étrange de voir avec quelle nonchalance notre héros avance dans cette aventure, mais ce n'est pas non plus déplacé: on est pas dans [un Final Fantasy](/tags/final-fantasy/), et la quête consiste ici à rentrer chez soi (et régler 2-3 problèmes locaux en chemin), pas à sauver le monde. Ca explique aussi certains aspects de l'aventure: elle est courte, et à part un boss optionnel EXCEPTIONNELLEMENT bien caché, il n'y a que peu de détours, pas de quêtes secondaires, et l'on avancera vite vers la fin. Mais toujours dans une grosse ambiance totalement familière et chaleureuse.
+Toutes ces petites références, savamment adaptées, rendent le jeu encore plus savoureux et très drôle. C'est parfois étrange de voir avec quelle nonchalance notre héros avance dans cette aventure, mais ce n'est pas non plus déplacé: on est pas dans [un Final Fantasy](/series/final-fantasy/), et la quête consiste ici à rentrer chez soi (et régler 2-3 problèmes locaux en chemin), pas à sauver le monde. Ca explique aussi certains aspects de l'aventure: elle est courte, et à part un boss optionnel EXCEPTIONNELLEMENT bien caché, il n'y a que peu de détours, pas de quêtes secondaires, et l'on avancera vite vers la fin. Mais toujours dans une grosse ambiance totalement familière et chaleureuse.
  
 
 ***

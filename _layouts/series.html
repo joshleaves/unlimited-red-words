@@ -1,0 +1,129 @@
+---
+layout: page
+# Series index: tag-style list rows with fixed progress badge + icon filters
+---
+
+{% include lang.html %}
+
+{% assign games = 0 %}
+{% assign books = 0 %}
+{% assign films = 0 %}
+{% assign tv = 0 %}
+{% for series in site.data.series %}
+  {% assign icon = series[1].icon %}
+  {% if icon == '🎮' %}
+    {% assign games = games | plus: 1 %}
+  {% elsif icon == '📚' %}
+    {% assign books = books | plus: 1 %}
+  {% elsif icon == '🎬' %}
+    {% assign films = films | plus: 1 %}
+  {% elsif icon == '📺' %}
+    {% assign tv = tv | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+<div id="page-series">
+  <div class="series-filter mb-3">
+    <button class="series-filter-badge" data-filter="game" aria-pressed="true">🎮 Jeux ({{ games }})</button>
+    <button class="series-filter-badge" data-filter="book" aria-pressed="true">📚 Livres ({{ books }})</button>
+    <button class="series-filter-badge" data-filter="film" aria-pressed="true">🎬 Films ({{ films }})</button>
+    <button class="series-filter-badge" data-filter="tv" aria-pressed="true">📺 TV ({{ tv }})</button>
+  </div>
+  <ul class="content ps-0">
+    {% for series in site.data.series %}
+      {% assign f = series[1] %}
+      {% include series-merge.html f=f %}
+      {% assign done = series_posts | size %}
+      {% for e in entry_list %}
+        {% if e.finished_date %}{% assign done = done | plus: 1 %}{% endif %}
+      {% endfor %}
+      {% assign posts_count = series_posts | size %}
+      {% assign dropped_count = 0 %}
+      {% for e in entry_list %}
+        {% if e.dropped %}{% assign dropped_count = dropped_count | plus: 1 %}{% endif %}
+      {% endfor %}
+      {% assign total = entry_list | size | plus: posts_count %}
+      {% assign resolved = done | plus: dropped_count %}
+      {% if total > 0 %}
+        {% assign pct = done | times: 100 | divided_by: total %}
+        {% assign drop_pct = dropped_count | times: 100 | divided_by: total %}
+        {% assign drop_left = done | times: 100 | divided_by: total %}
+      {% else %}
+        {% assign pct = 0 %}
+        {% assign drop_pct = 0 %}
+        {% assign drop_left = 0 %}
+      {% endif %}
+      {% if total > 0 and resolved == total and done > 0 %}
+        {% assign bar = 'bg-success' %}
+        {% assign badge = 'series-done' %}
+      {% elsif pct >= 50 %}
+        {% assign bar = 'bg-warning' %}
+        {% assign badge = 'series-half' %}
+      {% elsif done == 0 %}
+        {% assign bar = 'bg-danger' %}
+        {% assign badge = 'series-todo series-empty' %}
+      {% else %}
+        {% assign bar = 'bg-danger' %}
+        {% assign badge = 'series-todo' %}
+      {% endif %}
+      {% assign cat = '' %}
+      {% if f.icon == '🎮' %}
+        {% assign cat = 'game' %}
+      {% elsif f.icon == '📚' %}
+        {% assign cat = 'book' %}
+      {% elsif f.icon == '🎬' %}
+        {% assign cat = 'film' %}
+      {% elsif f.icon == '📺' %}
+        {% assign cat = 'tv' %}
+      {% endif %}
+      <li class="d-flex justify-content-between px-md-3 align-items-center" {% if cat != '' %}data-series-cat="{{ cat }}"{% endif %}>
+        <a href="{{ series[0] | prepend: '/series/' | append: '/' | relative_url }}" class="text-truncate">{% if f.icon %}{{ f.icon }} {% endif %}{{ f.name }}</a>
+        <span class="dash flex-grow-1"></span>
+        <span class="series-badge {{ badge }} text-nowrap" title="{{ done }} terminés{% if dropped_count > 0 %}, {{ dropped_count }} abandonné{% if dropped_count > 1 %}s{% endif %}{% endif %} ({{ total }} au total)">
+          <span class="series-badge-fill {{ bar }}" style="width: {{ pct }}%"></span>
+          {% if drop_pct > 0 %}
+          {% if resolved == total %}
+          <span class="series-badge-fill series-badge-dropped" style="left: {{ drop_left }}%; width: {{ 100 | minus: pct }}%"></span>
+          {% else %}
+          <span class="series-badge-fill series-badge-dropped" style="left: {{ drop_left }}%; width: {{ drop_pct }}%"></span>
+          {% endif %}
+          {% endif %}
+          <span class="series-badge-text">{{ resolved }}/{{ total }}</span>
+        </span>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<script>
+(function () {
+  const btns = Array.from(document.querySelectorAll('#page-series .series-filter-badge'));
+  const apply = (states) => {
+    btns.forEach((b) => {
+      const on = !!states[b.dataset.filter];
+      b.setAttribute('aria-pressed', on);
+      document.querySelectorAll(`#page-series li[data-series-cat="${b.dataset.filter}"]`).forEach((li) => {
+        li.classList.toggle('series-hidden', !on);
+      });
+    });
+  };
+  btns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      const allOn = btns.every((b) => b.getAttribute('aria-pressed') === 'true');
+      const states = {};
+      if (allOn) {
+        // Solo: the clicked category becomes the only one shown.
+        btns.forEach((b) => { states[b.dataset.filter] = (b === btn); });
+      } else {
+        // Toggle, with reset to all-on if nothing would remain.
+        btns.forEach((b) => { states[b.dataset.filter] = (b.getAttribute('aria-pressed') === 'true'); });
+        states[btn.dataset.filter] = !states[btn.dataset.filter];
+        if (!Object.values(states).some(Boolean)) {
+          btns.forEach((b) => { states[b.dataset.filter] = true; });
+        }
+      }
+      apply(states);
+    });
+  });
+})();
+</script>

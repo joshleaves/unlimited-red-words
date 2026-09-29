@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Tom Clancy's Jack Ryan (S1)"
+title:  "Tom Clancy's Jack Ryan (S1)"
 date: 2025-07-27 00:13:13 +02:00
 category: 📺 Série TV
-tags: ["📚 Tom Clancy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-08-30-tom-clancy-jack-ryan.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2018-08-31
 meta:
+  series: "Tom Clancy"
   imdb: "https://www.imdb.com/title/tt5057054/"
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)"
   start_date: 2018-08-31
@@ -20,7 +21,7 @@ meta:
   episodes: 30
 ---
 
-Comme souvent, [je me lance dans un truc](/posts/tom-clancy-rainbow-six-vegas/), et je fais tout ce qui est lié. Donc: [Tom Clancy](/tags/tom-clancy/), et après les jeux, pourquoi pas une bonne série, avec de l'espionnage, l'action,... un bon techno-thriller télévisuel!
+Comme souvent, [je me lance dans un truc](/posts/tom-clancy-rainbow-six-vegas/), et je fais tout ce qui est lié. Donc: [Tom Clancy](/series/tom-clancy/), et après les jeux, pourquoi pas une bonne série, avec de l'espionnage, l'action,... un bon techno-thriller télévisuel!
 
 # Le Conte de deux Jacks
 

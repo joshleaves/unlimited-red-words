@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 Tokyo Vice (Le livre)"
+title:  "Tokyo Vice (Le livre)"
 date: 2024-05-03 16:00:00 +0100
 category: 📚 Littérature
-tags: ["📚 Jake Adelstein"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-05-03-tokyo-vice-book.png
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2010-10-05
 meta:
+  series: "Jake Adelstein"
   pages: 480
   author: Jake Adelstein
   editor: "Marchialy"

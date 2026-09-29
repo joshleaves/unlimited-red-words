@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Deadpool & Wolverine"
+title:  "Deadpool & Wolverine"
 date: 2025-08-10 01:34:27 +02:00
 category: 🎬 Cinéma
 tags: []

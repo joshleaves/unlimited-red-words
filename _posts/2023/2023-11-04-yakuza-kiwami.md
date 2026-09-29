@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Yakuza Kiwami"
+title:  "Yakuza Kiwami"
 date: 2023-11-04 22:37:49 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Yakuza / Like a Dragon"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2023/2023-11-04-yakuza-kiwami.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2016-01-21
 meta:
+  series: "Yakuza / Like a Dragon"
   platform: "Sony PlayStation 3"
   code: "BLJM61313"
   steam: "https://store.steampowered.com/app/834530/Yakuza_Kiwami/"

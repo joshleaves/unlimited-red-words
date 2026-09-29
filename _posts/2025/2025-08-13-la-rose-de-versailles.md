@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 La Rose de Versailles"
+title:  "La Rose de Versailles"
 date: 2025-08-13 19:40:40 +02:00
 category: 🎬 Cinéma
 tags: ["🎶 Hiroyuki Sawano"]

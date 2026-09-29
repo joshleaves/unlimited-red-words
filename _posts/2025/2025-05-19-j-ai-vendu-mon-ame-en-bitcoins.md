@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 J'ai Vendu Mon Âme en Bitcoins"
+title:  "J'ai Vendu Mon Âme en Bitcoins"
 date: 2025-05-19 16:26:43 +02:00
 category: 📚 Littérature
-tags: ["📚 Jake Adelstein"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-05-19-j-ai-vendu-mon-ame-en-bitcoins.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 2
 release_date: 2019-03-07
 meta:
+  series: "Jake Adelstein"
   pages: 230
   author: Jake Adelstein
   editor: "Marchialy"

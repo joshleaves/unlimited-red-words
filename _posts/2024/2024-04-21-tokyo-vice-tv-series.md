@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Tokyo Vice (La série TV)"
+title:  "Tokyo Vice (La série TV)"
 date: 2024-04-21 22:14:03 +0100
 category: 📺 Série TV
-tags: ["📚 Jake Adelstein"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-04-21-tokyo-vice-tv.webp
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2022-04-07
 meta:
+  series: "Jake Adelstein"
   imdb: "https://www.imdb.com/title/tt2887954/"
   wikipedia: "https://en.wikipedia.org/wiki/Tokyo_Vice_(TV_series)"
   start_date: 2022-04-07

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Scooby Apocalypse"
+title:  "Scooby Apocalypse"
 date: 2026-08-20 00:00:10 +02:00
 category: 📚 Littérature
 tags: []

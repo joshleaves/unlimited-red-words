@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Inspecteur Bayard"
+title:  "Inspecteur Bayard"
 date: 2026-03-25 13:39:31 +02:00
 category: 📚 Littérature
 tags: []

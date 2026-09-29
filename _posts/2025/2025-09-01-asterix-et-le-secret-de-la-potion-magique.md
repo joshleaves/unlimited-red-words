@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Asterix: Le Secret de la Potion Magique"
+title:  "Asterix: Le Secret de la Potion Magique"
 date: 2025-09-01 03:18:03 +02:00
 category: 🎬 Cinéma
-tags: ["📚 Asterix"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-09-01-asterix-le-secret-de-la-potion-magique.jpg
@@ -11,6 +11,7 @@ country: FR
 rating: 3
 release_date: 2018-12-05
 meta:
+  series: "Asterix"
   imdb: "https://www.imdb.com/title/tt8001346/"
 ---
 
@@ -34,4 +35,4 @@ Je ne connais pas assez le corpus d'Astier pour savoir s'il n'a pas pu exprimer 
 
 ***
 [^1]: Donc, au pif: la série des <wiki>Uncharted</wiki>, les <wiki page="Dead Space (série de jeux vidéo)">Dead Space</wiki>, la trilogie des <wiki page="Spider-Man (série de films)">Spider-Man par Sam Raimi</wiki>...
-[^2]: Et à laquelle je soupçonne une inspiration de [Gundam](/tags/mobile-suit-gundam/).
+[^2]: Et à laquelle je soupçonne une inspiration de [Gundam](/series/mobile-suit-gundam/).

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Funky Cops"
+title:  "Funky Cops"
 date: 2026-06-28 01:37:22 +02:00
 category: 📺 Série TV
 tags: []

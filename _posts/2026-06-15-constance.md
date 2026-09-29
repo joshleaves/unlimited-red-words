@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Constance"
+title:  "Constance"
 date: 2026-06-15 00:11:42 +02:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

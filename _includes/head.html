@@ -55,7 +55,8 @@
 
   <title>
     {%- unless page.layout == 'home' -%}
-      {{ page.title | append: ' | ' }}
+      {% capture _title %}{% include post-title.html post=page %}{% endcapture -%}
+      {{ _title | strip | append: ' | ' }}
     {%- endunless -%}
     {{ site.title }}
   </title>

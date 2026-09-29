@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le Point Zéro"
+title:  "Le Point Zéro"
 date: 2025-02-09 15:55:55 +01:00
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

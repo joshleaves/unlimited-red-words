@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "📚 Mobile Suit Gundam: Awakening, Escalation, Confrontation"
+title:  "Mobile Suit Gundam: Awakening, Escalation, Confrontation"
 date: 2024-09-12 15:00:00 +0100
 category: 📚 Littérature
-tags: ["Mobile Suit Gundam"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-09-12-mobile-suit-gundam-book.jpg
 country: JP
 rating: 3
 release_date: 1979-10-01
+meta:
+  series: "Mobile Suit Gundam"
 ---
 
 Déjà [évoquée ici](/posts/gundam-seed-freedom/), la saga Gundam a débuté en 1979 par une série animée, dirigée par le très acclamé réalisateur *Yoshiyuki Tomino*[^1]. En parallèle de la publication de la série, il adapte celle-ci en trois livres, afin de délivrer une histoire plus proche de son idée de départ.

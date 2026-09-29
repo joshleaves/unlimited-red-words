@@ -1,0 +1,14 @@
+name: "Mobile Suit Gundam"
+icon: 📺
+entries:
+groups:
+  - title: "Universal Century"
+    entries:
+      - "Mobile Suit Gundam: Awakening, Escalation, Confrontation"
+      - "Mobile Suit Gundam GQuuuuuuX"
+  - title: "Cosmic Era"
+    entries:
+      - "Mobile Suit Gundam SEED Freedom"
+  - title: "Jeux vidéos"
+    entries:
+      - "SD Gundam G Generation Genesis"

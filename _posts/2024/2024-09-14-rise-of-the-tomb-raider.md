@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Rise of the Tomb Raider"
+title:  "Rise of the Tomb Raider"
 date: 2024-09-14 21:00:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Tomb Raider: Survivor"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-09-14-rise-of-the-tomb-raider.png
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 2015-11-10
 meta:
+  series: "Tomb Raider: Survivor"
   platform: macOS
   steam: https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 ---

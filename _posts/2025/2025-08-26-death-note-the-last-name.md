@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Death Note: The Last Name"
+title:  "Death Note: The Last Name"
 date: 2025-08-26 23:27:47 +02:00
 category: 🎬 Cinéma
 tags: []

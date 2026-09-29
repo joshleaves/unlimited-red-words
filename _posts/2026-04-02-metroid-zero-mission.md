@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Metroid: Zero Mission"
+title:  "Metroid: Zero Mission"
 date: 2026-04-02 00:38:39 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Game Boy Advance", "🎮 Metroidvania", ]
+tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:
   path: 2026-04-02-metroid-zero-mission.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Expiations: Celles qui voulaient se souvenir"
+title:  "Expiations: Celles qui voulaient se souvenir"
 date: 2025-04-03 17:20:59 +02:00
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

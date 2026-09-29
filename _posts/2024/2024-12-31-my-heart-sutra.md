@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 My Heart Sutra: A World In 260 Characters"
+title:  "My Heart Sutra: A World In 260 Characters"
 date: 2024-12-31 18:00:00 +0100
 category: 📚 Littérature
 tags: []

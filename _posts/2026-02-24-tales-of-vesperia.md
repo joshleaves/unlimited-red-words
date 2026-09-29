@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Tales of Vesperia"
+title:  "Tales of Vesperia"
 date: 2026-02-24 02:34:13 +01:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Tales of"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-02-24-tales-of-vesperia.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2009-09-17
 meta:
+  series: "Tales of"
   platform: "Sony PlayStation 3"
   code: "BLJS10053"
   steam: "https://store.steampowered.com/app/738540/Tales_of_Vesperia_Definitive_Edition/"

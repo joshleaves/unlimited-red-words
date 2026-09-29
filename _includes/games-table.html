@@ -1,0 +1,61 @@
+{% comment %}
+  Sortable table of game posts (title with console icon, release date, done date, rating).
+  Usage: {% include games-table.html posts=page.posts filter=true %}
+{% endcomment %}
+{% assign posts = include.posts %}
+
+{% if include.filter %}
+  {% assign platform_names = '' | split: ',' %}
+  {% assign platform_slugs = '' | split: ',' %}
+  {% for post in posts %}
+    {% assign pname = post.meta.platform %}
+    {% if pname %}
+      {% assign pslug = pname | slugify %}
+      {% assign found = false %}
+      {% for existing in platform_slugs %}
+        {% if existing == pslug %}
+          {% assign found = true %}
+        {% endif %}
+      {% endfor %}
+      {% unless found %}
+        {% assign platform_names = platform_names | push: pname %}
+        {% assign platform_slugs = platform_slugs | push: pslug %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+  {% assign platform_names = platform_names | sort %}
+  <div class="platform-filter mb-3">
+    {% for pname in platform_names %}
+      <a class="platform-filter-badge" href="/categories/jeux-vidéo/{{ pname | slugify }}/">{% include platform-icon.html platform=pname %}<span>{{ pname }}</span></a>
+    {% endfor %}
+  </div>
+{% endif %}
+
+<div class="table-responsive">
+  <table class="table table-striped table-hover sortable">
+    <thead>
+      <tr>
+        <th data-sort="text">Nom</th>
+        <th data-sort="date" class="text-nowrap">Sortie</th>
+        <th data-sort="date" class="text-nowrap">Terminé</th>
+        <th data-sort="number" class="text-nowrap">★</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for post in posts %}
+      <tr>
+        <td data-sort-value="{{ post.title | remove: '🎮' | strip | escape }}"><a href="{{ post.url | relative_url }}">{% include platform-icon.html platform=post.meta.platform %}<span class="post-title">{{ post.title | remove: '🎮' | strip }}</span></a></td>
+        <td data-sort-value="{{ post.release_date | date: '%Y-%m-%d' }}" class="text-nowrap">{{ post.release_date | date: '%d/%m/%Y' }}</td>
+        {% if post.finished_date == true %}
+        <td data-sort-value="" class="text-nowrap" title="Date inconnue">?</td>
+        {% elsif post.finished_date %}
+        <td data-sort-value="{{ post.finished_date | date: '%Y-%m-%d' }}" class="text-nowrap">{{ post.finished_date | date: '%d/%m/%Y' }}</td>
+        {% else %}
+        <td data-sort-value="{{ post.date | date: '%Y-%m-%d' }}" class="text-nowrap">{{ post.date | date: '%d/%m/%Y' }}</td>
+        {% endif %}
+        <td data-sort-value="{{ post.rating }}">{{ post.rating }}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+</div>

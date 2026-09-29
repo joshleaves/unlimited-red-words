@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🧠 Adieu ma portable"
+title:  "Adieu ma portable"
 date: 2026-06-04 08:22:15 +02:00
 category: 🧠 Dans ma tête
 tags: []
@@ -62,7 +62,7 @@ Malheureusement, les cours, mêlés à mes velléités de complétion de jeux, m
 
 Je ne sais PAS comment j'ai réussi à finir <wiki page="Star Ocean: First Departure">ce jeu</wiki>. Ou plutôt: je sais comment j'ai réussi à ne jamais lancer <wiki page="Star Ocean: The Second Evolution">sa suite</wiki>: elle nécessite des tonnes de <wiki page="Glossaire_du_jeu_de_r%C3%B4le#M">min-maxing</wiki> dès la première minute, ce qui implique de jouer avec un guide à la main...
 
-Pour ce jeu donc...la série partageant son origine avec celle des [Tales of](/tags/tales-of/), on y retrouve les mêmes problèmes de combat trop brouillon pour moi, malgré un scénario de fantasy (aux éléments faussement estampillés SF) très plaisant.
+Pour ce jeu donc...la série partageant son origine avec celle des [Tales of](/series/tales-of/), on y retrouve les mêmes problèmes de combat trop brouillon pour moi, malgré un scénario de fantasy (aux éléments faussement estampillés SF) très plaisant.
 
 # 2013: Mod it like it's hot
 
@@ -110,7 +110,7 @@ En 2015, nouveau job, nouvelle copine, et nouvelle routine. Ainsi, chaque matin,
 
 ## Des classiques à la pelle!
 
-Je connais mes limites, et même si j'ai eu plus d'une fois l'occasion de télécharger les jeux de la série [Trails](/tags/trails/), le seul qui a attiré mon attention assez longtemps pour que j'ose y jouer fut le spinoff <wiki page="The Legend of Nayuta: Boundless Trails">Nayuta no Kiseki</wiki>, à l'époque exclusif au Japon. Clairement, je n'étais pas vraiment prêt pour des jeux nécessitant autant d'attention que les [Trails](/tags/trails/), et cette aventure de type action-RPG, là encore pensée pour la portable, était tout à fait faisable, avec beaucoup de plaisir.
+Je connais mes limites, et même si j'ai eu plus d'une fois l'occasion de télécharger les jeux de la série [Trails](/series/trails-of/), le seul qui a attiré mon attention assez longtemps pour que j'ose y jouer fut le spinoff <wiki page="The Legend of Nayuta: Boundless Trails">Nayuta no Kiseki</wiki>, à l'époque exclusif au Japon. Clairement, je n'étais pas vraiment prêt pour des jeux nécessitant autant d'attention que les [Trails](/series/trails-of/), et cette aventure de type action-RPG, là encore pensée pour la portable, était tout à fait faisable, avec beaucoup de plaisir.
 
 En revanche, relisant mes notes, je m'interroge sur la présence de <wiki>Valkyrie Profile: Lenneth</wiki>. Je sais que j'ai fini le jeu, mais je m'étonne d'avoir pu le finir à cette époque de ma vie, tant le jeu nécessite des ajustements de tous les instants pour qui veut accéder à la meilleure fin du jeu[^9]... Le jeu est très bien, mais je doute que j'aurais pu avancer dans le jeu sans avoir constamment un guide à côté.
 

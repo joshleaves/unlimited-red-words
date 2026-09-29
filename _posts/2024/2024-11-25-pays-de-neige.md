@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Pays de neige"
+title:  "Pays de neige"
 date: 2024-11-25 15:25:00 +0100
 category: 📚 Littérature
 tags: []

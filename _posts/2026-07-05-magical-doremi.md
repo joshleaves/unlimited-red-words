@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Magical DoReMi"
+title:  "Magical DoReMi"
 date: 2026-07-05 03:55:55 +02:00
 category: 📺 Série TV
 tags: []

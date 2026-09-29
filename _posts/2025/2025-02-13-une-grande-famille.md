@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Une Grande Famille"
+title:  "Une Grande Famille"
 date: 2025-02-13 17:29:29 +01:00
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

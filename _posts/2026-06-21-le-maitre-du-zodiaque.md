@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Le Maître du Zodiaque"
+title:  "Le Maître du Zodiaque"
 date: 2026-06-21 12:34:52 +02:00
 category: 📺 Série TV
-tags: ["📺 Zodiaque"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-06-21-le-maitre-du-zodiaque.jpg
@@ -11,6 +11,7 @@ country: FR
 rating: 2
 release_date: 2006-07-10
 meta:
+  series: "Zodiaque"
   imdb: "https://www.imdb.com/fr/title/tt37566913/"
   wikipedia: "https://fr.wikipedia.org/wiki/Le_Ma%C3%AEtre_du_Zodiaque"
   start_date: 2006-07-10

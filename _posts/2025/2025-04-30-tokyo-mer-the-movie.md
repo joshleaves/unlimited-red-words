@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Tokyo MER: The Movie"
+title:  "Tokyo MER: The Movie"
 date: 2025-04-30 23:48:48 +02:00
 category: 🎬 Cinéma
 tags: []
@@ -12,7 +12,7 @@ rating: 4
 release_date: 2024-04-28
 meta:
   imdb: "https://www.imdb.com/title/tt27453633/"
-  mdl: "https://mydramalist.com/717841-tokyo-mer-the-movie"
+  mydramalist: "https://mydramalist.com/717841-tokyo-mer-the-movie"
 ---
 
 Au Japon, le parcours de vie d'une [série TV à succès](https://mydramalist.com/699035-tokyo-mer) est généralement d'avoir droit à [un épisode spécial (on dit "un TV SP")](https://mydramalist.com/744811-tokyo-mer-sp), puis à un film[^1]. C'est le chemin pris par **Tokyo MER**, une série qui a apparemment eu droit à son petit succès vu que d'après certains trucs glanés ici et là, la série était même diffusée par Disney+ avec sous-titres anglais quelque part dans le monde, comme quoi.

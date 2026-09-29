@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 South Park (Avant 2001)"
+title:  "South Park (Avant 2001)"
 date: 2026-02-15 04:12:12 +01:00
 category: 📺 Série TV
-tags: ["📺 South Park"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-02-15-south-park-avant-2001.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 1997-08-13
 meta:
+  series: "South Park"
   imdb: "https://www.imdb.com/title/tt0121955/"
   wikipedia: "https://fr.wikipedia.org/wiki/South_Park"
   start_date: 1997-08-13

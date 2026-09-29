@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Tokyo Express"
+title:  "Tokyo Express"
 date: 2025-02-20 17:55:55 +01:00
 category: 📚 Littérature
 tags: ["📚 L'Asie en Noir"]

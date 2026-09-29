@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "📺 Tom Clancy's Jack Ryan"
+title:  "Tom Clancy's Jack Ryan (S2-S4)"
 date: 2025-08-31 22:53:53 +02:00
 category: 📺 Série TV
-tags: ["📚 Tom Clancy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-08-30-tom-clancy-jack-ryan.jpg
 country: US
 rating: 2
-release_date: 2018-08-31
+release_date: 2019-10-31
 meta:
+  series: "Tom Clancy"
   imdb: "https://www.imdb.com/title/tt5057054/"
   wikipedia: "https://en.wikipedia.org/wiki/Jack_Ryan_(TV_series)"
   start_date: 2018-08-31

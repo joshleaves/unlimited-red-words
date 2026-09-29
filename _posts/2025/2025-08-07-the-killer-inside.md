@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 The Killer Inside"
+title:  "The Killer Inside"
 date: 2025-08-07 23:30:48 +02:00
 category: 📚 Littérature
 tags: ["📚 Mangas"]

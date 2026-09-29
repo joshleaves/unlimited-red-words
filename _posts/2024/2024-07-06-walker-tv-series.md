@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Walker"
+title:  "Walker"
 date: 2024-07-06 22:14:03 +0100
 category: 📺 Série TV
 tags: []

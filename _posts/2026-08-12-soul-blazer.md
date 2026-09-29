@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Soul Blazer"
+title:  "Soul Blazer"
 date: 2026-08-12 12:56:03 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Super Nintendo"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-08-12-soul-blazer.jpg

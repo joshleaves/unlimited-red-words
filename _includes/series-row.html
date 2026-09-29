@@ -1,0 +1,38 @@
+{% comment %}
+  Single series tracker row. Expects: item (post or backlog entry).
+{% endcomment %}
+<tr>
+  <td class="text-nowrap">
+    {% if item.dropped %}
+    <span class="status-icon status-dropped" title="Abandonné" aria-label="Abandonné"><i class="fa-solid fa-ban"></i></span>
+    {% elsif item.url or item.finished_date %}
+    <span class="status-icon status-done" title="Terminé" aria-label="Terminé"><i class="fa-solid fa-check"></i></span>
+    {% else %}
+    <span class="status-icon status-todo" title="À faire" aria-label="À faire"><i class="fa-solid fa-minus"></i></span>
+    {% endif %}
+  </td>
+  <td>
+    {% if item.url and item.meta.platform %}
+      <a href="{{ item.url | relative_url }}">{% include platform-icon.html platform=item.meta.platform %}<span class="post-title">{{ item.title }}</span></a>
+    {% elsif item.url %}
+      <a href="{{ item.url | relative_url }}"><span class="post-title">{% include post-title.html post=item %}</span></a>
+    {% elsif item.platform %}
+      {% include platform-icon.html platform=item.platform %}<span class="post-title">{{ item.title | remove: '🎮' | strip }}</span>
+    {% else %}
+      <span class="post-title">{{ item.title }}</span>
+    {% endif %}
+  </td>
+  <td class="text-nowrap">{{ item.release_date | date: '%d/%m/%Y' }}</td>
+  {% if item.dropped %}
+  <td class="text-nowrap"><span class="text-muted small">Abandonné</span></td>
+  {% elsif item.finished_date == true %}
+  <td class="text-nowrap" title="Date inconnue">?</td>
+  {% elsif item.finished_date %}
+  <td class="text-nowrap">{{ item.finished_date | date: '%d/%m/%Y' }}</td>
+  {% elsif item.url %}
+  <td class="text-nowrap">{{ item.date | date: '%d/%m/%Y' }}</td>
+  {% else %}
+  <td class="text-nowrap">—</td>
+  {% endif %}
+  <td>{% if item.rating %}{{ item.rating }}{% else %}—{% endif %}</td>
+</tr>

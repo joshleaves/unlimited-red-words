@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Astérix et Obélix: Le Combat des chefs"
+title:  "Astérix et Obélix: Le Combat des chefs"
 date: 2025-05-03 00:14:14 +02:00
 category: 📺 Série TV
-tags: ["📚 Asterix"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-05-02-asterix-et-obelix-le-combat-des-chefs.jpg
@@ -11,6 +11,7 @@ country: FR
 rating: 4
 release_date: 2025-04-30
 meta:
+  series: "Asterix"
   imdb: "https://www.imdb.com/title/tt14164922/"
   wikipedia: "https://fr.wikipedia.org/wiki/Ast%C3%A9rix_et_Ob%C3%A9lix_:_Le_Combat_des_chefs"
   watch: "https://www.netflix.com/fr/title/81316606"

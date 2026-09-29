@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Ys Memoire: The Oath in Felghana"
+title:  "Ys Memoire: The Oath in Felghana"
 date: 2025-06-22 23:22:22 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Ys"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-06-22-ys-memoire-the-oath-in-felghana.jpg
@@ -11,11 +11,12 @@ country: JP
 rating: 4
 release_date: 2025-01-07
 meta:
+  series: "Ys"
   platform: Nintendo Switch
   steam: https://store.steampowered.com/app/207320/Ys_The_Oath_in_Felghana/
 ---
 
-Avec la série de jeux [Trails...](/tags/trails/), la série Ys est l'autre produit phare de la compagnie Falcom. Toutefois, ses épisodes ont connu une histoire généralement compliquée.
+Avec la série de jeux [Trails...](/series/trails-of/), la série Ys est l'autre produit phare de la compagnie Falcom. Toutefois, ses épisodes ont connu une histoire généralement compliquée.
 
 Par exemple, l'épisode 4, sorti en 1993 en deux versions produites par deux compagnies différentes: **Ys IV: The Dawn of Ys** et **Ys IV: Mask of the Sun**, avant qu'en 2012, Falcom ne les réunisse en un remake unique: **Ys: Memories of Celceta**. Ou bien l'épisode 3, sorti en 1989 sous le nom **Ys III: Wanderers from Ys**, puis remasterisé en 2005 sur PS2, puis remake (en 2005 aussi) sur PC sous le nom **Ys: The Oath in Felghana**. Tout ce bordel, plus les changements constants de gameplay (Action-RPG en vue de dessus, en vue de côté, personnage solo, personnages en équipe,...), franchement, même pour moi qui apprécie la série dans sa globalité, je me suis retrouvé à sauter un tiers des épisodes, et à avoir du mal avec l'autre tiers.
 

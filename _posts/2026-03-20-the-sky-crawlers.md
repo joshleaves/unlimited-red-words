@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 The Sky Crawlers"
+title:  "The Sky Crawlers"
 date: 2026-03-20 02:15:36 +01:00
 category: 🎬 Cinéma
 tags: []

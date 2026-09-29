@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 The Legend of Heroes: Trails of Cold Steel II"
+title:  "The Legend of Heroes: Trails of Cold Steel II"
 date: 2025-09-13 19:31:25 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-09-13-trails-of-cold-steel-ii.jpg
@@ -11,7 +11,8 @@ country: JP
 rating: 4
 release_date: 2014-09-25
 meta:
-  platform: Sony Playstation 3
+  series: "Trails"
+  platform: Sony PlayStation 3
   code: "BLES02244"
   steam: "https://store.steampowered.com/app/748490/The_Legend_of_Heroes_Trails_of_Cold_Steel_II/?l=french"
 ---

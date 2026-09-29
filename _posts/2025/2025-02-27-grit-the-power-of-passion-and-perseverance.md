@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Grit - The Power of Passion and Perseverance"
+title:  "Grit - The Power of Passion and Perseverance"
 date: 2025-02-27 18:26:26 +01:00
 category: 📚 Littérature
 tags: []

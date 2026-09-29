@@ -1,0 +1,113 @@
+---
+layout: page
+# Single series tracker: merges _data/series entries with posts declaring the series
+---
+
+{% include lang.html %}
+
+{% assign f = site.data.series[page.series_key] %}
+{% include series-merge.html f=f %}
+
+<div id="page-series">
+  <h1 class="ps-lg-2">
+    {% if page.series_icon %}{{ page.series_icon }} {% endif %}{{ f.name }}
+    <span class="lead text-muted ps-2">{{ items | size }}</span>
+  </h1>
+  <p class="text-muted">
+    <a href="{{ '/series/' | relative_url }}"><i class="fa fa-arrow-left"></i> Toutes les séries</a>
+  </p>
+
+  {% if f.description %}
+  <div class="series-description mb-4">
+    {{ f.description | markdownify }}
+  </div>
+  {% endif %}
+
+  <div class="table-responsive">
+    <table class="table table-hover series-table">
+      <thead>
+        <tr>
+          <th class="text-nowrap"></th>
+          <th></th>
+          <th class="text-nowrap">Sortie</th>
+          <th class="text-nowrap">Terminé</th>
+          <th class="text-nowrap">★</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% comment %}
+          Grouped rendering: ungrouped items ("blank" group) first, then each
+          group in definition order. Group refs are full titles, matched with
+          the same normalization as series-merge. First match wins.
+        {% endcomment %}
+        {% assign seen_slugs = '' | split: ',' %}
+        {% assign blank_items = '' | split: ',' %}
+        {% for item in items %}
+          {% capture item_slug %}{% include series-slug.html title=item.title %}{% endcapture %}{% assign item_slug = item_slug | strip %}
+          {% assign claimed = false %}
+          {% for g in f.groups %}
+            {% for ref in g.entries %}
+              {% capture ref_slug %}{% include series-slug.html title=ref %}{% endcapture %}{% assign ref_slug = ref_slug | strip %}
+              {% if ref_slug == item_slug %}
+                {% assign claimed = true %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% unless claimed %}
+            {% assign blank_items = blank_items | push: item %}
+            {% assign seen_slugs = seen_slugs | push: item_slug %}
+          {% endunless %}
+        {% endfor %}
+        {% for item in blank_items %}
+          {% include series-row.html item=item %}
+        {% endfor %}
+        {% for g in f.groups %}
+          {% assign group_count = 0 %}
+          {% for item in items %}
+            {% capture item_slug %}{% include series-slug.html title=item.title %}{% endcapture %}{% assign item_slug = item_slug | strip %}
+            {% if seen_slugs contains item_slug %}
+              {% continue %}
+            {% endif %}
+            {% for ref in g.entries %}
+              {% capture ref_slug %}{% include series-slug.html title=ref %}{% endcapture %}{% assign ref_slug = ref_slug | strip %}
+              {% if ref_slug == item_slug %}
+                {% assign group_count = group_count | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% if group_count > 0 %}
+            <tr class="series-group-header">
+              <td colspan="5">{{ g.title }}</td>
+            </tr>
+            {% for item in items %}
+              {% capture item_slug %}{% include series-slug.html title=item.title %}{% endcapture %}{% assign item_slug = item_slug | strip %}
+              {% if seen_slugs contains item_slug %}
+                {% continue %}
+              {% endif %}
+              {% assign in_group = false %}
+              {% for ref in g.entries %}
+                {% capture ref_slug %}{% include series-slug.html title=ref %}{% endcapture %}{% assign ref_slug = ref_slug | strip %}
+                {% if ref_slug == item_slug %}
+                  {% assign in_group = true %}
+                {% endif %}
+              {% endfor %}
+              {% if in_group %}
+                {% include series-row.html item=item %}
+                {% assign seen_slugs = seen_slugs | push: item_slug %}
+              {% endif %}
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+        {% comment %}Unmatched refs fail safe: flagged here for debugging{% endcomment %}
+        {% for g in f.groups %}
+          {% for ref in g.entries %}
+            {% capture ref_slug %}{% include series-slug.html title=ref %}{% endcapture %}{% assign ref_slug = ref_slug | strip %}
+            {% unless seen_slugs contains ref_slug %}
+              <!-- series: group '{{ g.title }}' ref '{{ ref }}' matched nothing -->
+            {% endunless %}
+          {% endfor %}
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>

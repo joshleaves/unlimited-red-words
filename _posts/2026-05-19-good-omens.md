@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Good Omens"
+title:  "Good Omens"
 date: 2026-05-19 03:46:16 +02:00
 category: 📺 Série TV
 tags: []

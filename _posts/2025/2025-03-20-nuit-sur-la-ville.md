@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Nuit Sur La Ville"
+title:  "Nuit Sur La Ville"
 date: 2025-03-20 06:51:51 +01:00
 category: 📚 Littérature
 tags: []

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Daredevil: Born Again (S1-S2)"
+title:  "Daredevil: Born Again (S1-S2)"
 date: 2026-05-07 02:02:00 +0100
 category: 📺 Série TV
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-05-07-Daredevil-Born-Again.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 2
 release_date: 2025-03-04
 meta:
+  series: "Marvel Cinematic Universe"
   imdb: "https://www.imdb.com/title/tt18923754/"
   wikipedia: "https://en.wikipedia.org/wiki/Daredevil:_Born_Again"
   start_date: 2025-03-04

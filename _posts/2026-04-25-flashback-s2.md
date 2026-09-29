@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Flashback (S2)"
+title:  "Flashback (S2)"
 date: 2026-04-25 02:30:59 +02:00
 category: 📺 Série TV
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Les Miracles du Bazar Namiya"
+title:  "Les Miracles du Bazar Namiya"
 date: 2025-04-14 15:46:43 +02:00
 category: 📚 Littérature
 tags: []

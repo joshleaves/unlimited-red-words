@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Natacha (presque) hôtesse de l'air"
+title:  "Natacha (presque) hôtesse de l'air"
 date: 2025-11-30 01:40:01 +01:00
 category: 🎬 Cinéma
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Man's Search For Meaning"
+title:  "Man's Search For Meaning"
 date: 2025-02-05 10:12:12 +01:00
 category: 📚 Littérature
 tags: []

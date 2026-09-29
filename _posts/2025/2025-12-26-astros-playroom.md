@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Astro's Playroom"
+title:  "Astro's Playroom"
 date: 2025-12-26 01:26:42 +01:00
 category: 🎮 Jeux vidéo
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Be Useful: Seven Tools for Life"
+title:  "Be Useful: Seven Tools for Life"
 date: 2024-12-18 04:00:00 +0100
 category: 📚 Littérature
 tags: []

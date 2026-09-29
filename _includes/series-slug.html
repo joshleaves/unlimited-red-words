@@ -1,0 +1,6 @@
+{% comment %}
+  Central title normalization for all series matching (posts vs entries,
+  group refs vs items). If a new media emoji appears in post titles one day,
+  add its `remove:` filter HERE -- nowhere else.
+  Usage: {% capture s %}{% include series-slug.html title=item.title %}{% endcapture %}
+{% endcomment %}{{ include.title | remove: '🎮' | remove: '📺' | remove: '🎬' | remove: '📚' | remove: ' Evolution' | strip | slugify }}

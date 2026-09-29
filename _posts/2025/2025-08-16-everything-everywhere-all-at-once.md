@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Everything Everywhere All At Once"
+title:  "Everything Everywhere All At Once"
 date: 2025-08-16 01:15:35 +02:00
 category: 🎬 Cinéma
 tags: []

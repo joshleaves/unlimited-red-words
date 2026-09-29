@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Godzilla: King of the Monsters"
+title:  "Godzilla: King of the Monsters"
 date: 2025-01-29 21:30:00 +0100
 category: 🎬 Cinéma
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-29-godzilla-king-of-the-monsters.jpeg
@@ -11,6 +11,7 @@ country: US
 rating: 2
 release_date: 2019-05-31
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt3741700/"
 ---
 

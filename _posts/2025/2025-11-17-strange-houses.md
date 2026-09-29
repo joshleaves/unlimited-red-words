@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Strange Houses"
+title:  "Strange Houses"
 date: 2025-11-17 12:42:11 +01:00
 category: 📚 Littérature
 tags: []

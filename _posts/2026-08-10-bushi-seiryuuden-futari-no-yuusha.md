@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Bushi Seiryuuden: Futari no Yuusha"
+title:  "Bushi Seiryuuden: Futari no Yuusha"
 date: 2026-08-10 17:06:40 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Super Nintendo"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-08-10-bushi-seiryuuden-futari-no-yuusha.jpg

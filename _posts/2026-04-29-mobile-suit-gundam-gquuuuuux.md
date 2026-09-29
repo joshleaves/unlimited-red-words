@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Mobile Suit Gundam GQuuuuuuX"
+title:  "Mobile Suit Gundam GQuuuuuuX"
 date: 2026-04-29 18:56:25 +02:00
 category: 📺 Série TV
-tags: ["Mobile Suit Gundam"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-04-29-mobile-suit-gundam-gquuuuuux.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2025-04-08
 meta:
+  series: "Mobile Suit Gundam"
   imdb: "https://www.imdb.com/title/tt34880941/"
   wikipedia: "https://fr.wikipedia.org/wiki/Mobile_Suit_Gundam_GQuuuuuuX"
   start_date: 2025-04-08
@@ -21,7 +22,7 @@ meta:
   watch: "https://www.primevideo.com/detail/0KFD79CBVX90IWRIG5NLAGJ7R1/ref=atv_dp_share_cu_r"
 ---
 
-J'adore [la saga Gundam](/tags/mobile-suit-gundam/), j'adore le studio <wiki>khara</wiki>, mais au vu des designs des robots, et du plot initial, j'étais pas sûr de vouloir renter là-dedans. Et puis, vu mon flux Twitter, j'ai découvert que la série proposait peut-être un peu plus que ça.
+J'adore [la saga Gundam](/series/mobile-suit-gundam/), j'adore le studio <wiki>khara</wiki>, mais au vu des designs des robots, et du plot initial, j'étais pas sûr de vouloir renter là-dedans. Et puis, vu mon flux Twitter, j'ai découvert que la série proposait peut-être un peu plus que ça.
 
 # Gundam Uchronie
 

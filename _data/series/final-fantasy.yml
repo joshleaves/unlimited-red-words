@@ -1,0 +1,84 @@
+name: "Final Fantasy"
+icon: 🎮
+entries:
+  - title: "Final Fantasy VII"
+    platform: Sony PlayStation
+    release_date: 1997-01-31
+    finished_date: true
+  - title: "Before Crisis: Final Fantasy VII"
+    platform: Mobile
+    release_date: 2004-09-24
+  - title: "Dirge of Cerberus: Final Fantasy VII"
+    platform: Sony PlayStation 2
+    release_date: 2006-01-26
+  - title: "Crisis Core: Final Fantasy VII"
+    platform: Sony PlayStation Portable
+    release_date: 2007-09-13
+    finished_date: true
+  - title: "🎬 Final Fantasy VII: Advent Children"
+    release_date: 2005-09-14
+    finished_date: true
+  - title: "Final Fantasy VIII"
+    platform: Sony PlayStation
+    release_date: 1999-02-11
+  - title: "Final Fantasy IX"
+    platform: Sony PlayStation
+    release_date: 2000-07-07
+    finished_date: true
+  - title: "Final Fantasy XII"
+    platform: Sony PlayStation 2
+    release_date: 2006-03-16
+  - title: "Final Fantasy XIII"
+    platform: Sony PlayStation 3
+    release_date: 2009-12-17
+    finished_date: 2020-04-17
+  - title: "Final Fantasy XIII-2"
+    platform: Sony PlayStation 3
+    release_date: 2011-12-15
+    finished_date: 2020-04-30
+  - title: "Lightning Returns: Final Fantasy XIII"
+    platform: Sony PlayStation 3
+    release_date: 2013-11-21
+    finished_date: 2020-06-29
+  - title: "Final Fantasy XV"
+    platform: Sony PlayStation 4
+    release_date: 2016-11-29
+  - title: "Final Fantasy Type-0 HD"
+    platform: Sony PlayStation 4
+    release_date: 2015-03-17
+    finished_date: 2020-04-07
+  - title: "Final Fantasy VII Remake"
+    platform: Sony PlayStation 4
+    release_date: 2020-04-10
+  - title: "Final Fantasy XVI"
+    platform: Sony PlayStation 5
+    release_date: 2023-06-22
+  - title: "Final Fantasy VII Rebirth"
+    platform: Sony PlayStation 5
+    release_date: 2024-02-29
+
+
+groups:
+  - title: "Compilation of Final Fantasy VII"
+    entries:
+      - "Final Fantasy VII"
+      - "Before Crisis: Final Fantasy VII"
+      - "Dirge of Cerberus: Final Fantasy VII"
+      - "Crisis Core: Final Fantasy VII"
+      - "Final Fantasy VII: Advent Children"
+  - title: "Final Fantasy X"
+    entries:
+      - "Final Fantasy X"
+      - "Final Fantasy X-2"
+  - title: "Fabula Nova Crystalis"
+    entries:
+      - "Final Fantasy XIII"
+      - "Final Fantasy XIII-2"
+      - "Lightning Returns: Final Fantasy XIII"
+  - title: "Final Fantasy VII Remake"
+    entries:
+      - "Final Fantasy VII Remake"
+      - "Final Fantasy VII Rebirth"
+  - title: "Films"
+    entries:
+      - "Final Fantasy: The Spirits Within"

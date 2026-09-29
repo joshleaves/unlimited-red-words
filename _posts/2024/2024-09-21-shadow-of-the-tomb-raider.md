@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Shadow of the Tomb Raider"
+title:  "Shadow of the Tomb Raider"
 date: 2024-09-21 19:30:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Tomb Raider: Survivor"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-09-21-shadow-of-the-tomb-raider.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 2
 release_date: 2018-09-14
 meta:
+  series: "Tomb Raider: Survivor"
   platform: macOS
   steam: https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 ---

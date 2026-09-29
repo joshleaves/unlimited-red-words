@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Castlevania: Lords of Shadow: Mirror of Fate"
+title:  "Castlevania: Lords of Shadow: Mirror of Fate"
 date: 2025-01-06 05:40:56 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Castlevania", "🎮 Metroidvania"]
+tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-06-castlevania-lords-of-shadow-mirror-of-fate.jpg
@@ -11,7 +11,8 @@ country: US
 rating: 2
 release_date: 2013-03-05
 meta:
-  platform: Sony Playstation 3
+  series: "Castlevania"
+  platform: Sony PlayStation 3
   steam: https://store.steampowered.com/app/282530/Castlevania_Lords_of_Shadow__Mirror_of_Fate_HD/
 ---
 

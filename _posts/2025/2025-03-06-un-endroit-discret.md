@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Un Endroit Discret"
+title:  "Un Endroit Discret"
 date: 2025-03-06 16:44:23 +01:00
 category: 📚 Littérature
 tags: []

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Ryuu Ga Gotoku: Ishin!"
+title:  "Ryuu Ga Gotoku: Ishin!"
 date: 2025-10-18 13:53:16 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Yakuza / Like a Dragon"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-10-18-ryu-ga-gotoku-ishin.png
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2014-02-22
 meta:
+  series: "Yakuza / Like a Dragon"
   platform: "Sony PlayStation 3"
   code: "BLJM61149"
   steam: "https://store.steampowered.com/app/1805480/Like_a_Dragon_Ishin/"
@@ -76,5 +77,5 @@ Si une petite erreur de design a totalement détruit la balance du gameplay de c
 [^1]: J'essaye d'éviter de dire "le film **X** de _Clamp_", mais en réalité, tous les fans de cette série urbano-mystico-apocalyptique ont jeté l'éponge et acceptent les regards étranges des néophytes. Et nous acceptons aussi que nous n'en aurons jamais la fin, après vingt-cinq ans d'attente.
 [^2]: L'OAV (ou OVA), pour "Original Animation Video", est un produit typique de l'animation japonaise des années 90, au modèle de distribution similaire au "direct-to-VHS/DVD", au format similaire à celui d'une série télé, et à la qualité de production se situant entre la série et le film.
 [^3]: Ce qui donne des trucs surprenants dans la traduction, car certains mots anciens, pour lesquels un joueur japonais pourrait nécessiter une explication, ont été traduits par des mots courants, rendant donc le glossaire totalement caduque.
-[^4]: La place des femmes dans la série [Yakuza](/tags/yakuza-like-a-dragon/) est un énorme sujet.
+[^4]: La place des femmes dans la série [Yakuza](/series/yakuza/) est un énorme sujet.
 [^5]: Ce qui relève encore de la blague historique, étant donné que le véritable _Okita Soji_ était historiquement connu comme un jeune et beau garçon (au point d'avoir déjà des fans à l'époque), ce qui est aux antipodes de _Majima_...

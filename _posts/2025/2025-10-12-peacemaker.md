@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Peacemaker"
+title:  "Peacemaker"
 date: 2025-10-12 02:14:04 +02:00
 category: 📺 Série TV
 tags: []

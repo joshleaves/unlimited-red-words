@@ -1,6 +1,6 @@
 ---
 icon: fas fa-star
-order: 3
+order: 4
 layout: ratings
 title: Notation
 ---

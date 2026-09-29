@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Godzilla x Kong: The New Empire"
+title:  "Godzilla x Kong: The New Empire"
 date: 2025-02-13 03:00:00 +0100
 category: 🎬 Cinéma
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-02-13-godzilla-x-kong-the-new-empire.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2024-03-29
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt14539740/"
 ---
 

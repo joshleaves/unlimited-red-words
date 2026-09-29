@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Tokyo MER: Nankai Mission"
+title:  "Tokyo MER: Nankai Mission"
 date: 2026-03-06 15:16:48 +02:00
 category: 🎬 Cinéma
 tags: []
@@ -12,7 +12,7 @@ rating: 3
 release_date: 2025-08-01
 meta:
   imdb: "https://www.imdb.com/title/tt35683873/"
-  mdl: "https://mydramalist.com/777734-tokyo-mer"
+  mydramalist: "https://mydramalist.com/777734-tokyo-mer"
 ---
 
 J'avais déjà parlé ici de [Tokyo MER](/posts/tokyo-mer-the-movie/), cette franchise assez folle des "_Power Rangers_ de la médecine". Toujours pas de saison 2 à l'horizon, mais on a quand même droit à un film, et ma théorie sur "l'industrie des J-Dramas sert à blanchir du fric" commence à se vérifier, vu que la prod' et le héros sont déployés cette fois à...Okinawa.

@@ -1,0 +1,9 @@
+name: "Scary Movie"
+icon: 🎬
+entries:
+  - title: "🎬 Scary Movie 4"
+    release_date: 2006-04-14
+    finished_date: true
+  - title: "🎬 Scary Movie 5"
+    release_date: 2013-04-12
+    finished_date: true

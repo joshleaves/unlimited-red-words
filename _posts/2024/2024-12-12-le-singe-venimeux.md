@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le Singe venimeux"
+title:  "Le Singe venimeux"
 date: 2024-12-12 03:04:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

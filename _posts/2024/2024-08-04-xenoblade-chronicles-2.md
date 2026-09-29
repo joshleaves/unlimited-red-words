@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Xenoblade Chronicles 2"
+title:  "Xenoblade Chronicles 2"
 date: 2024-08-04 05:19:32 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Xenoblade Chronicles"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-08-04-xenoblade-chronicles-2.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2017-12-01
 meta:
+  series: "Xenoblade Chronicles"
   platform: Nintendo Switch
 ---
 

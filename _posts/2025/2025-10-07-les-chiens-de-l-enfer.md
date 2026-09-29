@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Les Chiens de l'Enfer"
+title:  "Les Chiens de l'Enfer"
 date: 2025-10-07 18:29:29 +02:00
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

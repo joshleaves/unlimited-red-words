@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Sonic the Hedgehog 3"
+title:  "Sonic the Hedgehog 3"
 date: 2025-02-08 00:30:00 +01:00
 category: 🎬 Cinéma
-tags: ["🎬 Sonic the Hedgehog"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-02-08-sonic-the-hedgehog-3.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 2024-12-10
 meta:
+  series: "Sonic the Hedgehog"
   imdb: "https://www.imdb.com/title/tt18259086/"
 ---
 

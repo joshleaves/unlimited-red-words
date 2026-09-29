@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Castlevania: Lords of Shadow 2"
+title:  "Castlevania: Lords of Shadow 2"
 date: 2025-01-24 03:01:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Castlevania", "🎮 Metroidvania"]
+tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-24-castlevania-lords-of-shadow-2.jpg
@@ -11,7 +11,8 @@ country: US
 rating: 4
 release_date: 2014-02-25
 meta:
-  platform: Sony Playstation 3
+  series: "Castlevania"
+  platform: Sony PlayStation 3
   steam: https://store.steampowered.com/app/239250/Castlevania_Lords_of_Shadow_2/
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 South Park (Avant 2021)"
+title:  "South Park (Avant 2021)"
 date: 2026-03-09 13:10:55 +01:00
 category: 📺 Série TV
-tags: ["📺 South Park"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-03-09-south-park-avant-2021.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2011-04-27
 meta:
+  series: "South Park"
   imdb: "https://www.imdb.com/title/tt0121955/"
   wikipedia: "https://fr.wikipedia.org/wiki/South_Park"
   start_date: 2011-04-27

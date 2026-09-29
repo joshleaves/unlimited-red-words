@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Battlefield: Bad Company"
+title:  "Battlefield: Bad Company"
 date: 2025-09-04 04:39:33 +02:00
 category: 🎮 Jeux vidéo
 tags: []

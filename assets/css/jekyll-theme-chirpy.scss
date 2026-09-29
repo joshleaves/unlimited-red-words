@@ -54,6 +54,256 @@
     var(--topbar-bg) 100%);
 }
 
+.platform-icon {
+  display: inline-block;
+  vertical-align: -0.22em;
+}
+
+span.platform-icon {
+  width: 1.15em;
+  height: 1.15em;
+  background-color: currentColor;
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+
+i.platform-icon {
+  font-size: 1.1em;
+}
+
+.pi-playstation { -webkit-mask-image: url('/assets/images/platforms/playstation.svg'); mask-image: url('/assets/images/platforms/playstation.svg'); }
+.pi-playstation2 { -webkit-mask-image: url('/assets/images/platforms/playstation2.svg'); mask-image: url('/assets/images/platforms/playstation2.svg'); }
+.pi-playstation3 { -webkit-mask-image: url('/assets/images/platforms/playstation3.svg'); mask-image: url('/assets/images/platforms/playstation3.svg'); }
+.pi-playstation4 { -webkit-mask-image: url('/assets/images/platforms/playstation4.svg'); mask-image: url('/assets/images/platforms/playstation4.svg'); }
+.pi-playstation5 { -webkit-mask-image: url('/assets/images/platforms/playstation5.svg'); mask-image: url('/assets/images/platforms/playstation5.svg'); }
+.pi-playstationportable { -webkit-mask-image: url('/assets/images/platforms/playstationportable.svg'); mask-image: url('/assets/images/platforms/playstationportable.svg'); }
+.pi-playstationvita { -webkit-mask-image: url('/assets/images/platforms/playstationvita.svg'); mask-image: url('/assets/images/platforms/playstationvita.svg'); }
+.pi-nintendoswitch { -webkit-mask-image: url('/assets/images/platforms/nintendoswitch.svg'); mask-image: url('/assets/images/platforms/nintendoswitch.svg'); }
+.pi-nintendo { -webkit-mask-image: url('/assets/images/platforms/nintendo.svg'); mask-image: url('/assets/images/platforms/nintendo.svg'); }
+.pi-xbox { -webkit-mask-image: url('/assets/images/platforms/xbox.svg'); mask-image: url('/assets/images/platforms/xbox.svg'); }
+.pi-sega { -webkit-mask-image: url('/assets/images/platforms/sega.svg'); mask-image: url('/assets/images/platforms/sega.svg'); }
+.pi-saturn { -webkit-mask-image: url('/assets/images/platforms/saturn.svg'); mask-image: url('/assets/images/platforms/saturn.svg'); }
+.pi-atari { -webkit-mask-image: url('/assets/images/platforms/atari.svg'); mask-image: url('/assets/images/platforms/atari.svg'); }
+.pi-commodore { -webkit-mask-image: url('/assets/images/platforms/commodore.svg'); mask-image: url('/assets/images/platforms/commodore.svg'); }
+.pi-windows { -webkit-mask-image: url('/assets/images/platforms/windows.svg'); mask-image: url('/assets/images/platforms/windows.svg'); }
+.pi-macos { -webkit-mask-image: url('/assets/images/platforms/macos.svg'); mask-image: url('/assets/images/platforms/macos.svg'); }
+.pi-linux { -webkit-mask-image: url('/assets/images/platforms/linux.svg'); mask-image: url('/assets/images/platforms/linux.svg'); }
+.pi-gamepad { -webkit-mask-image: url('/assets/images/platforms/gamepad.svg'); mask-image: url('/assets/images/platforms/gamepad.svg'); }
+
+.platform-filter-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  margin-right: 0.4rem;
+  margin-bottom: 0.35rem;
+  padding: 0.3em 0.65em;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--text-color);
+  border: 1px solid var(--bs-border-color, #dee2e6);
+  border-radius: 50rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.platform-filter-badge:hover {
+  color: var(--link-color);
+  border-color: var(--link-color);
+}
+
+table.sortable th[data-sort] {
+  cursor: pointer;
+  user-select: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html:not([data-mode]),
+  html[data-mode='dark'] {
+    .table {
+      --bs-table-color: var(--text-color);
+      --bs-table-bg: transparent;
+      --bs-table-striped-bg: rgba(255, 255, 255, 0.045);
+      --bs-table-hover-bg: rgba(255, 255, 255, 0.08);
+      --bs-table-active-bg: rgba(255, 255, 255, 0.08);
+      --bs-table-border-color: var(--main-border-color);
+    }
+
+    .card {
+      --bs-card-bg: var(--card-bg);
+      --bs-card-border-color: var(--main-border-color);
+    }
+
+    .progress {
+      --bs-progress-bg: rgba(255, 255, 255, 0.12);
+    }
+  }
+}
+
+.status-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.5em;
+  height: 1.5em;
+  border-radius: 50%;
+  font-size: 0.72em;
+  color: #fff;
+  vertical-align: middle;
+}
+
+.status-done {
+  background-color: var(--bs-success);
+}
+
+.status-todo {
+  background-color: var(--bs-danger);
+}
+
+.status-dropped {
+  background-color: var(--bs-secondary);
+}
+
+#page-series {
+  ul > li {
+    line-height: 1.5rem;
+    padding: 0.6rem 0;
+
+    /* dot */
+    &::before {
+      background: #999999;
+      width: 5px;
+      height: 5px;
+      border-radius: 50%;
+      display: block;
+      content: '';
+      position: relative;
+      top: 0.6rem;
+      margin-right: 0.5rem;
+      flex-shrink: 0;
+
+      @media (max-width: 575.98px) {
+        margin: 0 0.5rem;
+      }
+    }
+
+    /* series title */
+    > a {
+      border-bottom: none;
+      font-size: 1.1rem;
+      min-width: 0;
+
+      @media (max-width: 575.98px) {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+    }
+
+    a:hover {
+      border-bottom: 1px solid;
+      margin-bottom: -1px; /* Avoid jumping */
+    }
+  }
+}
+
+.series-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.series-filter-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35em;
+  padding: 0.3em 0.65em;
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: var(--text-color);
+  background: transparent;
+  border: 1px solid var(--bs-border-color, #dee2e6);
+  border-radius: 50rem;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.series-filter-badge:hover {
+  color: var(--link-color);
+  border-color: var(--link-color);
+}
+
+.series-filter-badge[aria-pressed='false'] {
+  opacity: 0.45;
+}
+
+#page-series li.series-hidden {
+  display: none !important;
+}
+
+.series-badge {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 110px;
+  height: 1.5rem;
+  border: 1px solid var(--main-border-color);
+  border-radius: 0.375rem;
+  overflow: hidden;
+  background: var(--bs-secondary-bg);
+  margin-left: 0.5rem;
+}
+
+.series-badge-fill {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+}
+
+.series-badge-dropped {
+  background-color: var(--bs-secondary);
+}
+
+.series-badge-text {
+  position: relative;
+  z-index: 1;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 50rem;
+  padding: 0 0.55em;
+  white-space: nowrap;
+}
+
+/* No fill yet: text sits on the track, so use red instead of white */
+.series-badge.series-empty .series-badge-text {
+  color: var(--bs-danger);
+  background-color: transparent;
+}
+
+@media (max-width: 575.98px) {
+  .series-badge {
+    width: 90px;
+  }
+}
+
+.series-group-header td {
+  font-weight: 600;
+  font-size: 0.8rem;
+  color: var(--text-muted-color, #6c757d);
+  border-bottom-width: 1px;
+  padding-top: 0.35rem;
+  padding-bottom: 0.15rem;
+}
+
 #toc-wrapper::before {
   display: none;
 }

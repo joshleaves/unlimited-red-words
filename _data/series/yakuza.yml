@@ -1,0 +1,48 @@
+name: "Yakuza / Like a Dragon"
+icon: 🎮
+description: "La série de jeux <strong>Yakuza</strong>, aussi connue sous le nom <strong>Like a Dragon</strong> ou <strong>Ryuu ga Gotoku</strong>, par <i>SEGA</i>."
+entries:
+  - title: "Yakuza Kiwami 2"
+    platform: Sony PlayStation 4
+    release_date: 2017-12-07
+  - title: "Yakuza 3"
+    platform: Sony PlayStation 3
+    release_date: 2009-02-26
+  - title: "Yakuza 4"
+    platform: Sony PlayStation 3
+    release_date: 2010-03-17
+  - title: "Yakuza 5"
+    platform: Sony PlayStation 3
+    release_date: 2012-12-06
+  - title: "Yakuza 6: The Song of Life"
+    platform: Sony PlayStation 4
+    release_date: 2016-12-08
+  - title: "Yakuza: Like a Dragon"
+    platform: Sony PlayStation 4
+    release_date: 2020-01-16
+  - title: "Lost Judgment"
+    platform: Sony PlayStation 4
+    release_date: 2021-09-24
+  - title: "Ryuu Ga Gotoku Kenzan!"
+    platform: Sony PlayStation 3
+    release_date: 2008-03-06
+  - title: "Yakuza: Dead Souls"
+    platform: Sony PlayStation 3
+    release_date: 2011-06-09
+  - title: "Like a Dragon: Infinite Wealth"
+    platform: Sony PlayStation 5
+    release_date: 2024-01-26
+  - title: "Like a Dragon: Pirate Yakuza in Hawaii"
+    platform: Sony PlayStation 5
+    release_date: 2025-02-21
+groups:
+  - title: "Judgment"
+    entries:
+      - "Judgment"
+      - "Lost Judgment"
+  - title: "Spin-offs"
+    entries:
+      - "Ryuu Ga Gotoku: Ishin!"
+      - "Ryuu Ga Gotoku Kenzan!"
+      - "Yakuza: Dead Souls"
+      - "Like a Dragon: Pirate Yakuza in Hawaii"

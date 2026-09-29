@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Nice to Not Meet You"
+title:  "Nice to Not Meet You"
 date: 2026-01-11 11:04:19 +01:00
 category: 📺 Série TV
 tags: ["🇰🇷 K-Drama"]
@@ -12,7 +12,7 @@ rating: 3
 release_date: 2025-11-30
 meta:
   imdb: "https://www.imdb.com/title/tt37506062/"
-  mdl: "https://mydramalist.com/763061-mean-love"
+  mydramalist: "https://mydramalist.com/763061-mean-love"
   wikipedia: "https://fr.wikipedia.org/wiki/Au_plaisir_de_ne_pas_faire_ta_connaissance"
   watch: "https://www.primevideo.com/detail/Nice-to-Not-Meet-You/0R98PHUWWDD6X7QOASGW1NZCT2"
   start_date: 2025-11-03

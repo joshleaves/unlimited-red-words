@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "🎬 Détective Conan: La Mémoire Retrouvée"
+title:  "Détective Conan: La Mémoire Retrouvée"
 date: 2025-11-16 15:33:18 +01:00
 category: 🎬 Cinéma
-tags: ["🎬 Détective Conan"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-11-16-detective-conan-movie-28.jpg
 country: JP
 rating: 3
-release_date: 2015-04-18
+release_date: 2025-04-18
 meta:
+  series: "Détective Conan"
   imdb: "https://www.imdb.com/fr/title/tt35444710/"
 ---
 

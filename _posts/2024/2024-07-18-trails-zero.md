@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 The Legend of Heroes: Trails from Zero"
+title:  "The Legend of Heroes: Trails from Zero"
 date: 2024-07-18 21:00:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-07-18-trails-zero.jpg
@@ -11,7 +11,8 @@ country: JP
 rating: 4
 release_date: 2010-09-30
 meta:
-  platform: Sony Playstation Vita
+  series: "Trails"
+  platform: Sony PlayStation Vita
   steam: https://store.steampowered.com/app/1668510/The_Legend_of_Heroes_Trails_from_Zero/
 ---
 

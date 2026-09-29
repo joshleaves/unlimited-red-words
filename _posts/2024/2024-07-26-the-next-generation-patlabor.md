@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 The Next Generation: Patlabor"
+title:  "The Next Generation: Patlabor"
 date: 2024-07-26 04:00:00 +0100
 category: 📺 Série TV
 tags: []
@@ -12,7 +12,7 @@ rating: 4
 release_date: 2014-03-08
 meta:
   imdb: "https://www.imdb.com/title/tt2789534/"
-  mdl: "https://mydramalist.com/20092-the-next-generation-patlabor"
+  mydramalist: "https://mydramalist.com/20092-the-next-generation-patlabor"
   wikipedia: "https://en.wikipedia.org/wiki/The_Next_Generation:_Patlabor"
   start_date: 2014-03-08
   end_date: 2015-01-10

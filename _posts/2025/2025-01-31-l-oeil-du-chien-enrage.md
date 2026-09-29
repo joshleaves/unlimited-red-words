@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 L’oeil du chien enragé"
+title:  "L’oeil du chien enragé"
 date: 2025-01-31 07:22:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

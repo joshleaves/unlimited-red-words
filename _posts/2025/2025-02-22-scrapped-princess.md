@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Scrapped Princess"
+title:  "Scrapped Princess"
 date: 2025-02-21 02:32:18 +01:00
 category: 📺 Série TV
 tags: []

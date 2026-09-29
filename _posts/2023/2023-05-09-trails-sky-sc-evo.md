@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Trails in the Sky SC Evolution"
+title:  "Trails in the Sky SC Evolution"
 date: 2023-04-19 03:22:31 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2023/2023-05-09-trails-sky-sc-evo.png
@@ -11,7 +11,8 @@ country: JP
 rating: 5
 release_date: 2006-03-09
 meta:
-  platform: Sony Playstation Vita
+  series: "Trails"
+  platform: Sony PlayStation Vita
   steam: https://store.steampowered.com/app/251290/The_Legend_of_Heroes_Trails_in_the_Sky_SC/
 ---
 

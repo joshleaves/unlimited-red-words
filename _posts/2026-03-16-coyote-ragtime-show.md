@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Coyote Ragtime Show"
+title:  "Coyote Ragtime Show"
 date: 2026-03-16 02:03:44 +01:00
 category: 📺 Série TV
 tags: []

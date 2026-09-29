@@ -1,0 +1,50 @@
+name: "Assassin's Creed"
+icon: 🎮
+entries:
+  - title: "Assassin's Creed"
+    platform: Sony PlayStation 3
+    release_date: 2007-11-13
+    finished_date: 2021-08-01
+  - title: "Assassin's Creed II"
+    platform: Sony PlayStation 3
+    release_date: 2009-11-17
+    finished_date: 2021-08-27
+  - title: "Assassin's Creed Brotherhood"
+    platform: Sony PlayStation 3
+    release_date: 2010-11-16
+    finished_date: 2021-09-04
+  - title: "Assassin's Creed Revelations"
+    platform: Sony PlayStation 3
+    release_date: 2011-11-15
+    finished_date: 2021-09-10
+  - title: "Assassin's Creed III"
+    platform: Sony PlayStation 3
+    release_date: 2012-10-30
+    finished_date: 2021-09-22
+  - title: "Assassin's Creed III: Liberation"
+    platform: Sony PlayStation 3
+    release_date: 2012-10-30
+    finished_date: 2021-09-24
+  - title: "Assassin's Creed IV: Black Flag"
+    platform: Sony PlayStation 3
+    release_date: 2013-10-29
+    finished_date: 2021-10-03
+  - title: "Assassin's Creed Rogue"
+    platform: Sony PlayStation 3
+    release_date: 2014-11-11
+    finished_date: 2021-10-09 
+  - title: "Assassin's Creed Unity"
+    platform: Sony PlayStation 4
+    release_date: 2014-11-11
+  - title: "Assassin's Creed Syndicate"
+    platform: Sony PlayStation 4
+    release_date: 2015-10-23
+  - title: "Assassin's Creed Origins"
+    platform: Sony PlayStation 4
+    release_date: 2017-10-27
+  - title: "Assassin's Creed Odyssey"
+    platform: Sony PlayStation 4
+    release_date: 2018-10-05
+  - title: "Assassin's Creed Valhalla"
+    platform: Sony PlayStation 5
+    release_date: 2020-11-10

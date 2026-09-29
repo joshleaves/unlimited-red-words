@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Coeurs Noirs"
+title:  "Coeurs Noirs"
 date: 2025-06-21 03:49:49 +02:00
 category: 📺 Série TV
 tags: []

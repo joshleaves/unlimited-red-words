@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 Tokyo Detective"
+title:  "Tokyo Detective"
 date: 2024-08-02 16:00:00 +0100
 category: 📚 Littérature
-tags: ["📚 Jake Adelstein"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-08-02-tokyo-detective.png
@@ -11,6 +11,7 @@ country: JP
 rating: 2
 release_date: 2023-03-29
 meta:
+  series: "Jake Adelstein"
   pages: 512
   author: "Jake Adelstein"
   editor: "Marchialy"

@@ -1,0 +1,49 @@
+{% comment %}
+  Platform icon: local SVG (CSS mask, inherits currentColor) when available,
+  Font Awesome fallback otherwise.
+  Usage: {% include platform-icon.html platform=post.meta.platform %}
+{% endcomment %}
+{% assign p = include.platform | downcase %}
+{% assign icon = '' %}
+{% if p contains 'playstation portable' or p contains 'psp' %}
+  {% assign icon = 'pi-playstationportable' %}
+{% elsif p contains 'playstation vita' or p contains 'vita' %}
+  {% assign icon = 'pi-playstationvita' %}
+{% elsif p contains 'playstation 5' or p contains 'ps5' %}
+  {% assign icon = 'pi-playstation5' %}
+{% elsif p contains 'playstation 4' or p contains 'ps4' %}
+  {% assign icon = 'pi-playstation4' %}
+{% elsif p contains 'playstation 3' or p contains 'ps3' %}
+  {% assign icon = 'pi-playstation3' %}
+{% elsif p contains 'playstation 2' or p contains 'ps2' %}
+  {% assign icon = 'pi-playstation2' %}
+{% elsif p contains 'playstation' %}
+  {% assign icon = 'pi-playstation' %}
+{% elsif p contains 'xbox' %}
+  {% assign icon = 'pi-xbox' %}
+{% elsif p contains 'switch' %}
+  {% assign icon = 'pi-nintendoswitch' %}
+{% elsif p contains 'gamecube' or p contains 'game cube' or p contains 'super nintendo' or p contains 'snes' or p contains 'game boy' or p contains 'gameboy' or p contains 'gba' %}
+  {% assign icon = 'pi-nintendo' %}
+{% elsif p contains 'sega' %}
+  {% assign icon = 'pi-sega' %}
+{% elsif p contains 'saturn' %}
+  {% assign icon = 'pi-saturn' %}
+{% elsif p contains 'atari' %}
+  {% assign icon = 'pi-atari' %}
+{% elsif p contains 'commodore' %}
+  {% assign icon = 'pi-commodore' %}
+{% endif %}
+{% if icon != '' %}
+<span class="platform-icon {{ icon }}" role="img" aria-label="{{ include.platform }}" title="{{ include.platform }}"></span>
+{% elsif p contains 'macos' or p contains 'os x' or p contains 'mac' %}
+<span class="platform-icon pi-macos" role="img" aria-label="{{ include.platform }}" title="{{ include.platform }}"></span>
+{% elsif p contains 'windows' %}
+<span class="platform-icon pi-windows" role="img" aria-label="{{ include.platform }}" title="{{ include.platform }}"></span>
+{% elsif p contains 'linux' %}
+<span class="platform-icon pi-linux" role="img" aria-label="{{ include.platform }}" title="{{ include.platform }}"></span>
+{% elsif p contains 'flash' %}
+<i class="fa fa-bolt platform-icon" title="{{ include.platform }}" aria-label="{{ include.platform }}"></i>
+{% else %}
+<i class="fa fa-gamepad platform-icon" title="{{ include.platform }}" aria-label="{{ include.platform }}"></i>
+{% endif %}

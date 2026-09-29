@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le Vase de Sable"
+title:  "Le Vase de Sable"
 date: 2025-02-27 05:51:51 +01:00
 category: 📚 Littérature
 tags: ["📚 L'Asie en Noir"]

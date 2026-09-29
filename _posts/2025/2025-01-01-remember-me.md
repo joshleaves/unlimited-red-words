@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Remember Me"
+title:  "Remember Me"
 date: 2025-01-01 01:30:00 +0100
 category: 🎮 Jeux vidéo
 tags: []
@@ -11,7 +11,7 @@ country: FR
 rating: 3
 release_date: 2013-06-04
 meta:
-  platform: Sony Playstation 3
+  platform: Sony PlayStation 3
   steam: https://store.steampowered.com/app/228300/Remember_Me/
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Final Fantasy X-2"
+title:  "Final Fantasy X-2"
 date: 2026-07-25 19:50:39 +01:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Final Fantasy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-07-25-final-fantasy-x-2.jpg
@@ -11,12 +11,13 @@ country: JP
 rating: 4
 release_date: 2003-03-13
 meta:
+  series: Final Fantasy
   platform: "Sony PlayStation 3"
   code: "BLES01880"
   steam: "https://store.steampowered.com/app/359870/FINAL_FANTASY_XX2_HD_Remaster/"
 ---
 
-Le [dixième épisode](/posts/final-fantasy-x/) de la saga [Final Fantasy](/tags/final-fantasy/) a surpris par sa présentation, et a marqué par son histoire, mais aussi par...sa suite: jusque-là, aucun opus de la saga n'avait eu droit à une suite. Et comme le jeu auquel elle fait suite, celle-ci a fait parler, tant les partis pris changent de ce à quoi les joueurs avaient été habitués...
+Le [dixième épisode](/posts/final-fantasy-x/) de la saga [Final Fantasy](/series/final-fantasy/) a surpris par sa présentation, et a marqué par son histoire, mais aussi par...sa suite: jusque-là, aucun opus de la saga n'avait eu droit à une suite. Et comme le jeu auquel elle fait suite, celle-ci a fait parler, tant les partis pris changent de ce à quoi les joueurs avaient été habitués...
 
 Fût un temps, on l'a même appelé "le FF de la <wiki>J-Pop</wiki>", ce qui était vu à l'époque comme un qualificatif dégradant par certains, alors que je trouve le qualificatif très positif...et aussi très faux.
 

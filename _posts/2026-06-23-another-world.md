@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Another World"
+title:  "Another World"
 date: 2026-06-23 19:36:13 +02:00
 category: 🎮 Jeux vidéo
 tags: []

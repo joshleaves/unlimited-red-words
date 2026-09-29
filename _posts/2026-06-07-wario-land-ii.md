@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Wario Land II"
+title:  "Wario Land II"
 date: 2026-06-07 23:26:52 +02:00
 category: 🎮 Jeux vidéo
 tags: []

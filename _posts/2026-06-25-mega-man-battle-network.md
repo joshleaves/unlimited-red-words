@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Mega Man Battle Network"
+title:  "Mega Man Battle Network"
 date: 2026-06-25 18:14:20 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Game Boy Advance"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-06-25-mega-man-battle-network.jpg
@@ -20,7 +20,7 @@ meta:
     total: 49
 ---
 
-La [Game Boy Advance](/tags/game-boy-advance/) est une sorte de console de coeur pour moi. N'ayant pas eu de console avant [une génération ultérieure](/posts/adieu-ma-portable/), seule l'<wiki page="Émulateur de système de jeux vidéo">émulation</wiki> me permettait de jouer à des jeux sur consoles. En général, vu la performance, je ne pouvais jouer correctement qu'à des consoles dépassées, et mon dévolu s'était porté sur la [Super Nintendo](/tags/super-nintendo/). Mais surtout, en 2001, alors que la portable de Nintendo venait à peine de sortir, un émulateur était déjà disponible pour la console[^1]!
+La [Game Boy Advance](/categories/jeux-vidéo/game-boy-advance/) est une sorte de console de coeur pour moi. N'ayant pas eu de console avant [une génération ultérieure](/posts/adieu-ma-portable/), seule l'<wiki page="Émulateur de système de jeux vidéo">émulation</wiki> me permettait de jouer à des jeux sur consoles. En général, vu la performance, je ne pouvais jouer correctement qu'à des consoles dépassées, et mon dévolu s'était porté sur la [Super Nintendo](/categories/jeux-vidéo/super-nintendo/). Mais surtout, en 2001, alors que la portable de Nintendo venait à peine de sortir, un émulateur était déjà disponible pour la console[^1]!
 
 Malheureusement, sur un Pentium II, même avec la meilleure volonté du monde, il était impossible de faire tourner ces jeux à une vitesse correcte. Mais l'un d'eux avait attiré mon attention: jeu de lancement au Japon, et [troisième jeu de la console à être dumpé en ROM](https://www.advanscene.com/html/dbstart.php), il faudrait attendre huit mois de plus pour que sorte une version jouable en anglais, et que je puisse y jouer à seulement quelques images par seconde avant de laisser tomber.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Invincible"
+title:  "Invincible"
 date: 2025-08-22 05:55:46 +02:00
 category: 📚 Littérature
 tags: ["📚 Comic Books"]

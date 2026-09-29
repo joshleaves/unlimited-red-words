@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Sentinelle"
+title:  "Sentinelle"
 date: 2025-09-19 01:48:44 +02:00
 category: 🎬 Cinéma
 tags: []

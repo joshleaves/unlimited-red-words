@@ -1,0 +1,40 @@
+name: "Trails"
+icon: 🎮
+description: "La série de jeux <strong>Trails</strong> par <i>Falcom</i>."
+entries:
+  - title: "The Legend of Heroes: Trails of Cold Steel III"
+    platform: Sony PlayStation 4
+    release_date: 2017-09-28
+  - title: "The Legend of Heroes: Trails of Cold Steel IV"
+    platform: Sony PlayStation 4
+    release_date: 2018-09-24
+  - title: "The Legend of Heroes: Trails into Reverie"
+    platform: Sony PlayStation 4
+    release_date: 2020-08-26
+  - title: "The Legend of Heroes: Trails through Daybreak"
+    platform: Nintendo Switch
+    release_date: 2021-09-30
+  - title: "The Legend of Heroes: Trails through Daybreak II"
+    platform: Nintendo Switch
+    release_date: 2022-09-29
+groups:
+  - title: "Arc Liberl"
+    entries:
+      - "Trails in the Sky FC Evolution"
+      - "Trails in the Sky SC Evolution"
+      - "Trails in the Sky the 3rd Evolution"
+  - title: "Arc Crossbell"
+    entries:
+      - "The Legend of Heroes: Trails from Zero"
+      - "The Legend of Heroes: Trails to Azure"
+  - title: "Arc Erebonia"
+    entries:
+      - "The Legend of Heroes: Trails of Cold Steel"
+      - "The Legend of Heroes: Trails of Cold Steel II"
+      - "The Legend of Heroes: Trails of Cold Steel III"
+      - "The Legend of Heroes: Trails of Cold Steel IV"
+      - "The Legend of Heroes: Trails into Reverie"
+  - title: "Arc Calvard"
+    entries:
+      - "The Legend of Heroes: Trails through Daybreak"
+      - "The Legend of Heroes: Trails through Daybreak II"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Sekiro: Shadows Die Twice"
+title:  "Sekiro: Shadows Die Twice"
 date: 2025-08-10 18:23:49 +02:00
 category: 🎮 Jeux vidéo
 tags: []

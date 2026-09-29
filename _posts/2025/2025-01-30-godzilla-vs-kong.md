@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Godzilla vs. Kong"
+title:  "Godzilla vs. Kong"
 date: 2025-01-30 03:30:00 +0100
 category: 🎬 Cinéma
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-30-godzilla-vs-kong.jpeg
@@ -11,10 +11,11 @@ country: US
 rating: 3
 release_date: 2021-03-24
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt5034838/"
 ---
 
-Le plus grand problème de la franchise du [Monsterverse](/tags/monsterverse/) semble être son incapacité à proposer des personnages qui s'établissent aussi bien que les monstres, ou les super-héros du MCU. Et ce film en est la preuve...
+Le plus grand problème de la franchise du [Monsterverse](/series/monsterverse/) semble être son incapacité à proposer des personnages qui s'établissent aussi bien que les monstres, ou les super-héros du MCU. Et ce film en est la preuve...
 
 # Le Godzilla des enfants
 

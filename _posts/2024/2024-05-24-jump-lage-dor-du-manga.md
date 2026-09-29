@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Jump – L'âge d'or du manga"
+title:  "Jump – L'âge d'or du manga"
 date: 2024-05-10 16:00:00 +0100
 category: 📚 Littérature
 tags: []

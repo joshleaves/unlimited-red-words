@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📺 Monarch: Legacy of Monsters (S2)"
+title:  "Monarch: Legacy of Monsters (S2)"
 date: 2026-05-01 23:47:00 +0100
 category: 📺 Série TV
-tags: ["🎬 Monsterverse"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-05-01-Monarch_S2.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 4
 release_date: 2026-02-27
 meta:
+  series: "Monsterverse"
   imdb: "https://www.imdb.com/title/tt17220216/"
   wikipedia: "https://en.wikipedia.org/wiki/Monarch:_Legacy_of_Monsters"
   start_date: 2026-02-27
@@ -36,7 +37,7 @@ Car **Monarch** est avant tout une histoire familiale, comme la série aime à l
 
 La série garde ce gimmick, toujours très utile pour mettre en scène <wiki>Wyatt Russell</wiki>, le fils de l'acteur, dans le rôle de son lui-jeune, et l'utilise aussi bien pour donner des indications sur le passé des personnages et des péripéties, que pour...donner une nouvelle dimension à l'intrigue, au sens propre!
 
-Intégrer les distorsions temporelles au lore du [Monsterverse](/tags/monsterverse/) est assez casse-cou. L'idée avait déjà été évoquée mais...pas de cette manière, et j'avoue qu'entre le cliffhanger qui introduit ce concept[^2], l'épisode qui le décrit, et l'épisode qui le conclut, j'ai exprimé BEAUCOUP d'interrogations, jusqu'à ce que la série accepte de retomber sur ses pattes et de transformer des problèmes temporels complexes en une boucle de causalité classique.
+Intégrer les distorsions temporelles au lore du [Monsterverse](/series/monsterverse/) est assez casse-cou. L'idée avait déjà été évoquée mais...pas de cette manière, et j'avoue qu'entre le cliffhanger qui introduit ce concept[^2], l'épisode qui le décrit, et l'épisode qui le conclut, j'ai exprimé BEAUCOUP d'interrogations, jusqu'à ce que la série accepte de retomber sur ses pattes et de transformer des problèmes temporels complexes en une boucle de causalité classique.
 
 C'était très plaisant. Malheureusement, à ce stade-là, tout le concept du _Axis Mundi_, cette espèce de "zone tampon" entre la surface et la terre creuse propre à la série, commence à prendre TROP d'importance, et invite à trop de possibilités, que, comme dit plus tôt, le reste du verse ne peut pas suivre...
 

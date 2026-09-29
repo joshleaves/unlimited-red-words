@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Ballerina"
+title:  "Ballerina"
 date: 2025-12-31 23:59:24 +01:00
 category: 🎬 Cinéma
-tags: ["🎬 John Wick"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-12-31-ballerina.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2025-06-06
 meta:
+  series: "John Wick"
   imdb: "https://www.imdb.com/title/tt7181546/"
 ---
 

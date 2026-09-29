@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Nostalgie"
+title:  "Nostalgie"
 date: 2025-02-01 07:22:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

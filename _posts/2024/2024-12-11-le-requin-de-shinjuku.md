@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Le Requin de Shinjuku"
+title:  "Le Requin de Shinjuku"
 date: 2024-12-11 02:34:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

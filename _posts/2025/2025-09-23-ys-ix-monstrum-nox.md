@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Ys IX: Monstrum Nox"
+title:  "Ys IX: Monstrum Nox"
 date: 2025-09-23 19:54:54 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Ys"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-09-23-ys-ix-monstrum-nox.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2019-09-26
 meta:
+  series: "Ys"
   platform: "Nintendo Switch"
   steam: "https://store.steampowered.com/app/1351630/Ys_IX_Monstrum_Nox/"
 ---

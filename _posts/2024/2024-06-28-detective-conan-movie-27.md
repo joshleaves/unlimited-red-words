@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Détective Conan: L'étoile à 1 Million de Dollars"
+title:  "Détective Conan: L'étoile à 1 Million de Dollars"
 date: 2024-06-28 18:00:00 +0100
 category: 🎬 Cinéma
-tags: ["🎬 Détective Conan"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-06-28-detective-conan-m27.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2024-04-12
 meta:
+  series: "Détective Conan"
   imdb: "https://www.imdb.com/title/tt31474158/"
 ---
 

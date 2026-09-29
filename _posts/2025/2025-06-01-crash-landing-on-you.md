@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Crash Landing On You"
+title:  "Crash Landing On You"
 date: 2025-06-01 07:11:39 +02:00
 category: 📺 Série TV
 tags: ["🇰🇷 K-Drama"]
@@ -13,7 +13,7 @@ release_date: 2019-12-14
 meta:
   imdb: "https://www.imdb.com/title/tt10850932/"
   watch: "https://www.netflix.com/title/81159258"
-  mdl: "https://mydramalist.com/35729-emergency-lands-of-love"
+  mydramalist: "https://mydramalist.com/35729-emergency-lands-of-love"
   wikipedia: "https://fr.wikipedia.org/wiki/Crash_Landing_on_You"
   netflix: "https://www.netflix.com/title/81159258"
   start_date: 2019-12-14
@@ -51,7 +51,7 @@ A l'instar de cette scène, ou de celle mentionnée plus haut sur les machines �
 
 # Dualités de l'Edelweiss
 
-Malheureusement, la série n'est pas exempte de défauts. Parfois, face à la nullité (assez objective) de certains dramas et la quantité de 10/10 qu'ils récoltent en ligne car "Mon acteur/actrice favori(e) joue dedans", je deviens cynique et à la manière de [Jake Adelstein](/tags/jake-adelstein/), je me dis que cette industrie ne marche que parce qu'elle produit de la merde, qu'elle arrive à vendre grâce à la présence de certains noms à l'affiche, et que tout cela n'est que du blanchiment d'argent. Ce n'est PAS le cas de **Crash Landing on You**, mais la manière dont deux personnages totalement SECONDAIRES à l'intrigue sont mis en avant dans leur propre intrigue, qui n'a plus aucun rapport avec la principale, me fait me poser la question: est-ce que ce scénario secondaire a été développé uniquement pour donner un rôle à ces deux acteurs, et assurer le succès de la série?
+Malheureusement, la série n'est pas exempte de défauts. Parfois, face à la nullité (assez objective) de certains dramas et la quantité de 10/10 qu'ils récoltent en ligne car "Mon acteur/actrice favori(e) joue dedans", je deviens cynique et à la manière de [Jake Adelstein](/series/jake-adelstein/), je me dis que cette industrie ne marche que parce qu'elle produit de la merde, qu'elle arrive à vendre grâce à la présence de certains noms à l'affiche, et que tout cela n'est que du blanchiment d'argent. Ce n'est PAS le cas de **Crash Landing on You**, mais la manière dont deux personnages totalement SECONDAIRES à l'intrigue sont mis en avant dans leur propre intrigue, qui n'a plus aucun rapport avec la principale, me fait me poser la question: est-ce que ce scénario secondaire a été développé uniquement pour donner un rôle à ces deux acteurs, et assurer le succès de la série?
 
 C'est franchement chiant, car tout le reste était soit très bien, soit okay. Autant je peux accepter très aisément tout l'aspect nunuche de l'intrigue principale, autant dans cette intrigue secondaire, qui en plus ne va nul part, j'ai vraiment eu l'impression que la série avait besoin de durer pile seize épisodes et a meublé comme elle pouvait pour se rallonger inutilement avec deux heures qu'on aurait largement pu découper de cette série...
 

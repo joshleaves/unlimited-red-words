@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Eddington"
+title:  "Eddington"
 date: 2025-08-03 21:00:41 +02:00
 category: 🎬 Cinéma
 tags: []

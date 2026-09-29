@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Marry My Husband"
+title:  "Marry My Husband"
 date: 2026-06-14 06:47:29 +02:00
 category: 📺 Série TV
 tags: ["🇰🇷 K-Drama"]
@@ -13,7 +13,7 @@ release_date: 2024-01-01
 meta:
   imdb: "https://www.imdb.com/title/tt26628595/"
   watch: "https://www.primevideo.com/detail/0U9LVA2T8NCPW1W1B51AGU7KCR"
-  mdl: "https://mydramalist.com/747733-marry-my-husband"
+  mydramalist: "https://mydramalist.com/747733-marry-my-husband"
   wikipedia: "https://fr.wikipedia.org/wiki/%C3%89pouse_mon_mari"
   start_date: 2024-01-01
   end_date: 2024-02-20

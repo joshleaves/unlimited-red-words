@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Blake et Mortimer (Série TV)"
+title:  "Blake et Mortimer (Série TV)"
 date: 2026-05-27 21:18:21 +02:00
 category: 📺 Série TV
 tags: []

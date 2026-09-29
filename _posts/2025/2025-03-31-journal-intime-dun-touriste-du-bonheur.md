@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Journal intime d'un touriste du bonheur"
+title:  "Journal intime d'un touriste du bonheur"
 date: 2025-03-31 21:10:10 +02:00
 category: 📚 Littérature
 tags: []

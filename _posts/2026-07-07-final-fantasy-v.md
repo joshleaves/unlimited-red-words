@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Final Fantasy V"
+title:  "Final Fantasy V"
 date: 2026-07-07 06:36:19 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Game Boy Advance", "🎮 Final Fantasy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2026-07-07-final-fantasy-v.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 1992-12-06
 meta:
+  series: Final Fantasy
   platform: "Game Boy Advance"
   wikipedia: "https://fr.wikipedia.org/wiki/Final_Fantasy_V"
   steam: "https://store.steampowered.com/app/1173810/FINAL_FANTASY_V/"

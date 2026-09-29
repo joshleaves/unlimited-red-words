@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Asterix: Le Domaine des Dieux"
+title:  "Asterix: Le Domaine des Dieux"
 date: 2025-09-01 00:51:22 +02:00
 category: 🎬 Cinéma
-tags: ["📚 Asterix"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-09-01-asterix-le-domaine-des-dieux.jpg
@@ -11,6 +11,7 @@ country: FR
 rating: 4
 release_date: 2014-11-26
 meta:
+  series: "Asterix"
   imdb: "https://www.imdb.com/title/tt3759416/"
 ---
 

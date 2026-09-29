@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Tales of Graces f"
+title:  "Tales of Graces f"
 date: 2025-10-05 19:51:51 +02:00
 category: 🎮 Jeux vidéo
-tags: ["🎮 Tales of"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-10-05-tales-of-graces-f.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2012-08-31
 meta:
+  series: "Tales of"
   platform: "Sony PlayStation 3"
   code: "NPEB01288"
   steam: "https://store.steampowered.com/app/2530980/Tales_of_Graces_f_Remastered/"
@@ -26,7 +27,7 @@ J'y ai de suite joué, et j'ai beaucoup apprécié l'histoire, mais je me suis a
 
 Il faut dire que les **Tales** sont des jeux vraiment uniques dans leur présentation. Le premier déjà, surprenait par son système de combat: ceux-ci s'effectuaient en temps réel, sur un plan linéaire en deux dimensions où l'on pouvait contrôler le personnage principal, ou donner des ordres aux trois autres membres de l'équipe, afin de s'approcher ou s'éloigner des ennemis, les attaquer,... Si ma seule stratégie relevait de "j'attaque le premier ennemi visible, puis le second, et ainsi de suite", le système avait en réalité une profondeur qui m'échappait et il n'a pas cessé d'être approfondi: le jeu n'était ni un "RPG tour par tour", ni un "action-RPG"[^6], mais un RPG dont le système de combat relevait effectivement du genre du _fighting game_, les joueurs les plus expérimentés pouvant enchaîner les divers coups dans des combos, que le jeu affichera fièrement pour féliciter le joueur qui prend le soin de le maîtriser. Malheureusement, je n'ai jamais été bon en jeux de combat...
 
-Le second système assez particulier des **Tales of**, ce sont les _skits_, traduits en français par "saynètes". Ces petites scènes courtes se trouvent hors de la narration classique du jeu, sont optionnelles, et parfois difficiles à trouver, obligeant le joueur exhaustif à fouiller partout s'il veut les trouver, et être gratifié de quelques minutes où seul un portrait animé et de la voix permettront d'en savoir un peu plus sur le groupe de personnages. Étrangement, ce procédé me paraît très "cheap" dans son approche, et je me dis que même des sprites 2D de l'époque de la Super Nintendo, ou celles des premiers [Trails](/tags/trails/) ont plus de vie. Mais apparemment, ça fonctionne sur le reste de la population et la série se porte assez bien.
+Le second système assez particulier des **Tales of**, ce sont les _skits_, traduits en français par "saynètes". Ces petites scènes courtes se trouvent hors de la narration classique du jeu, sont optionnelles, et parfois difficiles à trouver, obligeant le joueur exhaustif à fouiller partout s'il veut les trouver, et être gratifié de quelques minutes où seul un portrait animé et de la voix permettront d'en savoir un peu plus sur le groupe de personnages. Étrangement, ce procédé me paraît très "cheap" dans son approche, et je me dis que même des sprites 2D de l'époque de la Super Nintendo, ou celles des premiers [Trails](/series/trails-of/) ont plus de vie. Mais apparemment, ça fonctionne sur le reste de la population et la série se porte assez bien.
 
 Enfin, le troisième point fort des **Tales of** réside dans le design des personnages: ceux de **Phantasia** étaient assurés par <wiki>Kōsuke Fujishima</wiki>, et clairement _Mint_ a un peu de <wiki page="Ah! My Goddess">Belldandy</wiki> dans son design. Pour cet épisode, c'est l'autre designer historique de la série, <wiki>Mutsumi Inomata</wiki> qui s'en charge, [connue dans le monde de l'animation](https://anidb.net/creator/2743) pour son trait fin et poétique (je vous recommande notamment [Yohko Leda](https://anidb.net/anime/3339), [Windaria](https://anidb.net/anime/1220) et [Le continent du vent](https://anidb.net/anime/1234)), elle peint ici une équipe de héros très plaisante à suivre.
 

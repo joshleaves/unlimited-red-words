@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Spider-Noir"
+title:  "Spider-Noir"
 date: 2026-05-31 01:02:26 +02:00
 category: 📺 Série TV
 tags: []

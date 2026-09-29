@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 The Day The Earth Blew Up: A Looney Tunes Movie"
+title:  "The Day The Earth Blew Up: A Looney Tunes Movie"
 date: 2025-06-29 22:43:43 +02:00
 category: 🎬 Cinéma
 tags: []

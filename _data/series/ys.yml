@@ -1,0 +1,38 @@
+name: "Ys"
+icon: 🎮
+description: "La série de jeux <strong>Ys</strong> par <i>Falcom</i>."
+entries:
+  - title: "Ys I: Ancient Ys Vanished"
+    platform: PC-8801
+    release_date: 1987-11-21
+  - title: "Ys II: The Final Chapter"
+    platform: PC-8801
+    release_date: 1988-06-24
+  - title: "Ys III: Wanderers from Ys"
+    platform: PC-8801
+    release_date: 1989-07-21
+  - title: "Ys IV: Mask of the Sun"
+    platform: Super Nintendo
+    release_date: 1993-11-19
+  - title: "Ys V: Lost Kefin"
+    platform: Super Nintendo
+    release_date: 1995-12-29
+  - title: "Ys VI: The Ark of Napishtim"
+    platform: Sony PlayStation 2
+    release_date: 2003-09-26
+    finished_date: true
+  - title: "Ys Seven"
+    platform: Sony PlayStation Portable
+    release_date: 2009-09-16
+    finished_date: true
+  - title: "Ys: Memories of Celceta"
+    platform: Sony PlayStation Vita
+    release_date: 2012-09-27
+    finished_date: true
+  - title: "Ys VIII: Lacrimosa of Dana"
+    platform: Sony PlayStation Vita
+    release_date: 2016-07-21
+    finished_date: true
+  - title: "Ys X: Nordics"
+    platform: Nintendo Switch
+    release_date: 2023-09-28

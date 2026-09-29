@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Minishoot' Adventures"
+title:  "Minishoot' Adventures"
 date: 2026-03-21 16:14:35 +01:00
 category: 🎮 Jeux vidéo
 tags: []

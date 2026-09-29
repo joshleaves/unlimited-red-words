@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Thunderbolts*"
+title:  "Thunderbolts*"
 date: 2025-05-19 18:46:46 +02:00
 category: 🎬 Cinéma
-tags: ["🎬 Marvel Cinematic Universe"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-05-19-thunderbolts.jpg
@@ -11,6 +11,7 @@ country: US
 rating: 3
 release_date: 2025-05-02
 meta:
+  series: "Marvel Cinematic Universe"
   imdb: "https://www.imdb.com/title/tt20969586/"
 ---
 

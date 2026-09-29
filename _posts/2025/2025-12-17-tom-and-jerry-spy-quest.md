@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Tom & Jerry: Spy Quest"
+title:  "Tom & Jerry: Spy Quest"
 date: 2025-12-17 05:42:28 +01:00
 category: 🎬 Cinéma
 tags: []

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Eric Chahi: Welcome to Another World"
+title:  "Eric Chahi: Welcome to Another World"
 date: 2024-06-20 16:00:00 +0100
 category: 📚 Littérature
 tags: []

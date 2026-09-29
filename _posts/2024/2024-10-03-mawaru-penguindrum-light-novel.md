@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Mawaru Penguindrum (Light Novel)"
+title:  "Mawaru Penguindrum (Light Novel)"
 date: 2024-10-03 16:00:00 +0100
 category: 📚 Littérature
 tags: []

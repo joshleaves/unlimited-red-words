@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Sheepy: A Short Adventure"
+title:  "Sheepy: A Short Adventure"
 date: 2026-01-15 23:24:56 +01:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

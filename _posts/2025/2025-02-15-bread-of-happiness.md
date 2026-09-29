@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Bread of Happiness"
+title:  "Bread of Happiness"
 date: 2025-02-15 18:25:25 +01:00
 category: 🎬 Cinéma
 tags: ["🎬 JFF Theater"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Synduality: Noir"
+title:  "Synduality: Noir"
 date: 2026-03-21 15:29:05 +01:00
 category: 📺 Série TV
 tags: []

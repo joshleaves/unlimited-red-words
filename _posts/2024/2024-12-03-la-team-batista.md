@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 La team Batista"
+title:  "La team Batista"
 date: 2024-12-03 19:04:00 +0100
 category: 📚 Littérature
 tags: ["📚 Atelier Akatombo"]

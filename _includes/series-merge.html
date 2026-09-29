@@ -1,0 +1,22 @@
+{% comment %}
+  Merges series data entries with posts declaring meta.series == f.name.
+  Sets: series_posts, entry_list, items (sorted by release_date).
+  Expects: f (series data hash from _data/series).
+{% endcomment %}
+{% assign series_posts = site.posts | where_exp: 'p', 'p.meta.series == f.name' %}
+{% assign entry_list = '' | split: ',' %}
+{% for e in f.entries %}
+  {% assign e_slug = e.title | slugify %}
+  {% assign found = false %}
+  {% for p in series_posts %}
+    {% capture p_slug %}{% include series-slug.html title=p.title %}{% endcapture %}{% assign p_slug = p_slug | strip %}
+    {% if p_slug == e_slug %}
+      {% assign found = true %}
+    {% endif %}
+  {% endfor %}
+  {% unless found %}
+    {% assign entry_list = entry_list | push: e %}
+  {% endunless %}
+{% endfor %}
+{% assign items = series_posts | concat: entry_list %}
+{% assign items = items | sort: 'release_date' %}

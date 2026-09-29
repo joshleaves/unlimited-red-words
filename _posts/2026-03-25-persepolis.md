@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Persepolis"
+title:  "Persepolis"
 date: 2026-03-25 12:44:50 +02:00
 category: 📚 Littérature
 tags: []

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎬 Mobile Suit Gundam SEED Freedom"
+title:  "Mobile Suit Gundam SEED Freedom"
 date: 2024-04-27 16:00:00 +0100
 category: 🎬 Cinéma
-tags: ["Mobile Suit Gundam"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-04-27-gundam-seed-freedom.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 2024-01-26
 meta:
+  series: "Mobile Suit Gundam"
   imdb: "https://www.imdb.com/title/tt14759062/"
 ---
 

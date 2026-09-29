@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 Rouge est la nuit"
+title:  "Rouge est la nuit"
 date: 2024-07-25 18:30:00 +0100
 category: 📚 Littérature
-tags: ["📚 Atelier Akatombo", "📚 Reiko Himekawa"]
+tags: ["📚 Atelier Akatombo"]
 media_subpath: /assets/images
 image:
   path: 2024/2024-07-25-Rouge-est-la-nuit_Tetsuya-Honda.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2006-02-25
 meta:
+  series: "Reiko Himekawa"
   pages: 350
   author: "Tetsuya Honda / 誉田哲也"
   editor: "Atelier Akatombo"

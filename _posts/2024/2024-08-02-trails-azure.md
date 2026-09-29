@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 The Legend of Heroes: Trails to Azure"
+title:  "The Legend of Heroes: Trails to Azure"
 date: 2024-08-02 21:00:00 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Trails"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2024/2024-08-02-trails-azure.jpg
@@ -11,7 +11,8 @@ country: JP
 rating: 5
 release_date: 2011-09-29
 meta:
-  platform: Sony Playstation Vita
+  series: "Trails"
+  platform: Sony PlayStation Vita
   steam: https://store.steampowered.com/app/1668520/The_Legend_of_Heroes_Trails_to_Azure/
 ---
 

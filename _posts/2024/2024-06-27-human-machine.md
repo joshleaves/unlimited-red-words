@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📚 Human Machine"
+title:  "Human Machine"
 date: 2024-06-27 16:00:00 +0100
 category: 📚 Littérature
 tags: []

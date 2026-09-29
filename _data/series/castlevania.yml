@@ -1,0 +1,76 @@
+name: "Castlevania"
+icon: 🎮
+entries:
+  - title: "Castlevania"
+    platform: Nintendo Entertainment System
+    release_date: 1986-09-26
+  - title: "Castlevania II: Simon's Quest"
+    platform: Nintendo Entertainment System
+    release_date: 1987-08-28
+  - title: "Castlevania III: Dracula's Curse"
+    platform: Nintendo Entertainment System
+    release_date: 1989-12-22
+  - title: "Super Castlevania IV"
+    platform: Super Nintendo
+    release_date: 1991-10-31
+    finished_date: true
+  - title: "Castlevania: Rondo of Blood"
+    platform: PC Engine
+    release_date: 1993-10-29
+  - title: "Castlevania: Symphony of the Night"
+    platform: Sony PlayStation
+    release_date: 1997-03-20
+    finished_date: true
+  - title: "Castlevania: Circle of the Moon"
+    platform: Game Boy Advance
+    release_date: 2001-06-11
+    finished_date: true
+  - title: "Castlevania: Harmony of Dissonance"
+    platform: Game Boy Advance
+    release_date: 2002-09-13
+    finished_date: true
+  - title: "Castlevania: Aria of Sorrow"
+    platform: Game Boy Advance
+    release_date: 2003-05-06
+    finished_date: true
+  - title: "Castlevania: Dawn of Sorrow"
+    platform: Nintendo DS
+    release_date: 2005-10-04
+    finished_date: true
+  - title: "Castlevania: Portrait of Ruin"
+    platform: Nintendo DS
+    release_date: 2006-12-05
+    finished_date: true
+  - title: "Castlevania: Order of Ecclesia"
+    platform: Nintendo DS
+    release_date: 2008-10-28
+    finished_date: true
+groups:
+  - title: "ClassicVania"
+    entries:
+      - "Castlevania"
+      - "Castlevania II: Simon's Quest"
+      - "Castlevania III: Dracula's Curse"
+      - "Super Castlevania IV"
+      - "Castlevania: Rondo of Blood"
+  - title: "GOAT"
+    entries:
+      - "Castlevania: Symphony of the Night"
+  - title: "GBA-Vanias"
+    entries:
+      - "Castlevania: Circle of the Moon"
+      - "Castlevania: Harmony of Dissonance"
+      - "Castlevania: Aria of Sorrow"
+  - title: "DS-Vanias"
+    entries:
+      - "Castlevania: Dawn of Sorrow"
+      - "Castlevania: Portrait of Ruin"
+      - "Castlevania: Order of Ecclesia"
+  - title: "Lords of Shadow"
+    entries:
+      - "Castlevania: Lords of Shadow"
+      - "Castlevania: Lords of Shadow: Mirror of Fate"
+      - "Castlevania: Lords of Shadow 2"
+  - title: "Livres"
+    entries:
+      - "Aux Origines de Castlevania Symphony of the Night"

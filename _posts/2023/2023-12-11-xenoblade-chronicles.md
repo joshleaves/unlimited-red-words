@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Xenoblade Chronicles"
+title:  "Xenoblade Chronicles"
 date: 2023-12-11 02:06:32 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Xenoblade Chronicles"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2023/2023-12-11-xenoblade-chronicles.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2010-06-10
 meta:
+  series: "Xenoblade Chronicles"
   platform: Nintendo Switch
 ---
 

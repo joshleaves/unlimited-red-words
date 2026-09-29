@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "📚 Le Dernier des Yakuzas"
+title:  "Le Dernier des Yakuzas"
 date: 2025-05-12 17:32:00 +0100
 category: 📚 Littérature
-tags: ["📚 Jake Adelstein"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-05-12-le-dernier-des-yakuzas.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 3
 release_date: 2017-10-05
 meta:
+  series: "Jake Adelstein"
   pages: 370
   author: Jake Adelstein
   editor: "Marchialy"

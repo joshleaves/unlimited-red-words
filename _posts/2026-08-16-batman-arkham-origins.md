@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Batman: Arkham Origins"
+title:  "Batman: Arkham Origins"
 date: 2026-08-16 00:03:33 +02:00
 category: 🎮 Jeux vidéo
 tags: []

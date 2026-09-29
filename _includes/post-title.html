@@ -1,0 +1,6 @@
+{%- comment -%}
+  Post title with its media icon derived from the category (single source
+  of truth -- post titles carry no emoji). Expects: post (or page).
+  Non-post pages (no category) render the bare title.
+{%- endcomment -%}
+{% assign _cat = include.post.categories | first | default: include.post.category %}{% if _cat == '🎮 Jeux vidéo' %}🎮 {% elsif _cat == '📺 Série TV' %}📺 {% elsif _cat == '🎬 Cinéma' %}🎬 {% elsif _cat == '📚 Littérature' %}📚 {% elsif _cat == '🧠 Dans ma tête' %}🧠 {% endif %}{{ include.post.title }}

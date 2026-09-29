@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Castlevania: Lords of Shadow"
+title:  "Castlevania: Lords of Shadow"
 date: 2025-01-04 06:11:09 +0100
 category: 🎮 Jeux vidéo
-tags: ["🎮 Castlevania", "🎮 Metroidvania"]
+tags: ["🎮 Metroidvania"]
 media_subpath: /assets/images
 image:
   path: 2025/2025-01-04-castlevania-lords-of-shadow.jpg
@@ -11,7 +11,8 @@ country: US
 rating: 3
 release_date: 2010-10-05
 meta:
-  platform: Sony Playstation 3
+  series: "Castlevania"
+  platform: Sony PlayStation 3
   steam: https://store.steampowered.com/app/234080/Castlevania_Lords_of_Shadow__Ultimate_Edition/
 ---
 

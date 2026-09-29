@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 Tom Clancy's Rainbow Six: Vegas"
+title:  "Tom Clancy's Rainbow Six: Vegas"
 date: 2025-07-25 20:00:00 +02:00
 category: 🎮 Jeux vidéo
-tags: ["📚 Tom Clancy"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-07-25-tom-clancy-rainbow-six-vegas.jpg
@@ -11,8 +11,9 @@ country: US
 rating: 2
 release_date: 2006-11-22
 meta:
+  series: "Tom Clancy"
   code: BLES00054
-  platform: Sony Playstation 3
+  platform: Sony PlayStation 3
   steam: "https://store.steampowered.com/app/13540/Tom_Clancys_Rainbow_Six_Vegas/"
 ---
 

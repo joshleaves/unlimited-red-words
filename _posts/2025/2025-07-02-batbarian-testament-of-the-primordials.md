@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 Batbarian: Testament Of The Primordials"
+title:  "Batbarian: Testament Of The Primordials"
 date: 2025-07-02 06:58:22 +02:00
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

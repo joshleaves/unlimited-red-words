@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "📺 Atelier (Underwear)"
+title:  "Atelier (Underwear)"
 date: 2025-11-26 01:59:35 +01:00
 category: 📺 Série TV
 tags: ["📺 JDrama"]

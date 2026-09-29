@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎬 Megalopolis"
+title:  "Megalopolis"
 date: 2024-10-07 17:20:00 +0100
 category: 🎬 Cinéma
 tags: []

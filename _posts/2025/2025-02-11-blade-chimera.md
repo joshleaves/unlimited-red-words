@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "🎮 BLADE CHIMERA"
+title:  "BLADE CHIMERA"
 date: 2025-02-11 22:11:09 +0100
 category: 🎮 Jeux vidéo
 tags: ["🎮 Metroidvania"]

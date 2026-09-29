@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "🎮 SD Gundam G Generation Genesis"
+title:  "SD Gundam G Generation Genesis"
 date: 2025-09-27 00:31:31 +02:00
 category: 🎮 Jeux vidéo
-tags: ["Mobile Suit Gundam"]
+tags: []
 media_subpath: /assets/images
 image:
   path: 2025/2025-09-24-sd-gundam-g-generation-genesis.jpg
@@ -11,6 +11,7 @@ country: JP
 rating: 2
 release_date: 2016-11-22
 meta:
+  series: "Mobile Suit Gundam"
   platform: "Nintendo Switch"
 ---
 
@@ -20,7 +21,7 @@ Et puis il y a ceux auxquels je joue des centaines d'heures, mais sans savoir o�
 
 # Toutes les Gundams de ta vie
 
-J'aime les jeux vidéo, j'aime [la saga Gundam](/tags/mobile-suit-gundam/), j'aime les gros robots qui se mettent des patates,... et des créateurs japonais ont trouvé comment se faire du blé sur cet assemblage de passions! À l'origine, on appelait ça <wiki>Super Robot Taisen</wiki>: un jeu où plusieurs séries de robots se retrouvaient le temps d'un jeu pour un cross-over, où leurs divers scénarios coexistaient de diverses manières[^1]. Ces jeux de stratégie permettaient donc d'envoyer plusieurs robots de diverses séries, selon ses préférences, affronter tous les empires maléfiques qui existent, mais aussi collaborer entre eux pour des interactions et partages totalement jouissifs pour les fans[^2]. Au bout d'un moment, et vu le succès, les Gundam ont eu droit à leur propre série de jeux en SD[^3] qui reprenaient initialement diverses "ères" de la saga, avant de s'arrêter sur le nom <wiki lang="en">SD Gundam G Generation</wiki>, le "G" signifiant que ces jeux traiteraient de plusieurs "ères" de la saga.
+J'aime les jeux vidéo, j'aime [la saga Gundam](/series/mobile-suit-gundam/), j'aime les gros robots qui se mettent des patates,... et des créateurs japonais ont trouvé comment se faire du blé sur cet assemblage de passions! À l'origine, on appelait ça <wiki>Super Robot Taisen</wiki>: un jeu où plusieurs séries de robots se retrouvaient le temps d'un jeu pour un cross-over, où leurs divers scénarios coexistaient de diverses manières[^1]. Ces jeux de stratégie permettaient donc d'envoyer plusieurs robots de diverses séries, selon ses préférences, affronter tous les empires maléfiques qui existent, mais aussi collaborer entre eux pour des interactions et partages totalement jouissifs pour les fans[^2]. Au bout d'un moment, et vu le succès, les Gundam ont eu droit à leur propre série de jeux en SD[^3] qui reprenaient initialement diverses "ères" de la saga, avant de s'arrêter sur le nom <wiki lang="en">SD Gundam G Generation</wiki>, le "G" signifiant que ces jeux traiteraient de plusieurs "ères" de la saga.
 
 Ainsi donc, l'épisode **Genesis** débarque en 2016, la série de films **Gundam Unicorn** est terminée depuis deux ans, et la chronologie de l' **Universal Century** (plus connu sous le nom de "l'UC") est à peu près cloisonnée. C'est donc décidé: **Genesis** ne se concentrera que sur l'UC, incluant toutes les séries animées, mais aussi TOUS LES JEUX qui ont pu s'y dérouler.
 

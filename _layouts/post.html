@@ -14,7 +14,7 @@ tail_includes:
 
 <article class="px-1" data-toc="{{ enable_toc }}">
   <header>
-    <h1>{{ page.title }}</h1>
+    <h1>{% include post-title.html post=page %}</h1>
     {% if page.description %}
       <p class="post-desc fw-light mb-4">{{ page.description }}</p>
     {% endif %}
@@ -70,14 +70,14 @@ tail_includes:
           <div class="watch">
             <a href="{{ page.meta.watch }}" target="_blank">
               <i class="fas fa-play"></i>
-              Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> en ligne
+              Regarder <strong>{{ page.title }}</strong> en ligne
             </a>
           </div>
         {% elsif page.meta.netflix %}
           <div class="watch">
             <a href="{{ page.meta.netflix }}" target="_blank">
               <i class="fas fa-play"></i>
-              Regarder <strong>{{ page.title | remove_first: "🎬 " }}</strong> sur Netflix
+              Regarder <strong>{{ page.title }}</strong> sur Netflix
             </a>
           </div>
         {% else %}
@@ -151,7 +151,7 @@ tail_includes:
 
   {% if enable_toc and false %}
     <div id="toc-bar" class="d-flex align-items-center justify-content-between invisible">
-      <span class="label text-truncate">{{ page.title }}</span>
+      <span class="label text-truncate">{% include post-title.html post=page %}</span>
       <button type="button" class="toc-trigger btn me-1">
         <i class="fa-solid fa-list-ul fa-fw"></i>
       </button>
@@ -164,7 +164,7 @@ tail_includes:
 
     <dialog id="toc-popup" class="p-0">
       <div class="header d-flex flex-row align-items-center justify-content-between">
-        <div class="label text-truncate py-2 ms-4">{{- page.title -}}</div>
+        <div class="label text-truncate py-2 ms-4">{% include post-title.html post=page %}</div>
         <button id="toc-popup-close" type="button" class="btn mx-1 my-1 opacity-75">
           <i class="fas fa-close"></i>
         </button>
