@@ -11,7 +11,7 @@ country: US
 rating: 4
 release_date: 2015-11-10
 meta:
-  series: "Tomb Raider: Survivor"
+  series: "Tomb Raider"
   platform: macOS
   steam: https://store.steampowered.com/app/391220/Rise_of_the_Tomb_Raider/
 ---

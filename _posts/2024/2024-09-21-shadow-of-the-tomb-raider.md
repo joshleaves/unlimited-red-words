@@ -11,7 +11,7 @@ country: US
 rating: 2
 release_date: 2018-09-14
 meta:
-  series: "Tomb Raider: Survivor"
+  series: "Tomb Raider"
   platform: macOS
   steam: https://store.steampowered.com/app/750920/Shadow_of_the_Tomb_Raider_Definitive_Edition/
 ---

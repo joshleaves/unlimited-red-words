@@ -11,6 +11,7 @@ country: JP
 rating: 4
 release_date: 1998-01-21
 meta:
+  series: "Resident Evil"
   platform: "Nintendo GameCube"
   code: "GHAE08"
   steam: "https://store.steampowered.com/app/4249110/Resident_Evil_2_1998/"

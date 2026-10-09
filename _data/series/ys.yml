@@ -28,11 +28,17 @@ entries:
   - title: "Ys: Memories of Celceta"
     platform: Sony PlayStation Vita
     release_date: 2012-09-27
-    finished_date: true
+    finished_date: 2023-06-24
   - title: "Ys VIII: Lacrimosa of Dana"
     platform: Sony PlayStation Vita
     release_date: 2016-07-21
-    finished_date: true
+    finished_date: 2023-06-24
   - title: "Ys X: Nordics"
     platform: Nintendo Switch
     release_date: 2023-09-28
+
+groups:
+- title: "Remakes"
+  entries:
+    - "Ys: Memories of Celceta"
+    - "Ys Memoire: The Oath in Felghana"

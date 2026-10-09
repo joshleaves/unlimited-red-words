@@ -1,0 +1,19 @@
+name: "Batman"
+icon: 📚
+entries:
+  - title: "Batman: Arkham Asylum"
+    platform: "Sony PlayStation 3"
+    rating: 3
+    release_date: 2009-08-25
+    finished_date: 2022-12-30
+  - title: "Batman: Arkham City"
+    platform: "Sony PlayStation 3"
+    rating: 4
+    release_date: 2011-10-18
+    finished_date: 2023-07-09
+groups:
+- title: "Batman: Arkham"
+  entries:
+    - "Batman: Arkham Asylum"
+    - "Batman: Arkham City"
+    - "Batman: Arkham Origins"

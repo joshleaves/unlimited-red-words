@@ -1,0 +1,70 @@
+name: "Resident Evil"
+icon: 🎮
+entries:
+  - title: "Resident Evil"
+    platform: "Sony PlayStation"
+    release_date: 1996-03-22
+    finished_date: true
+  - title: "Resident Evil 0"
+    platform: Sony PlayStation 3
+    release_date: 2002-11-12
+    finished_date: 2022-02-25
+  - title: "Resident Evil REmake"
+    platform: Sony PlayStation 3
+    release_date: 2002-03-22
+    finished_date: 2022-02-28
+  - title: "Resident Evil 3: Nemesis"
+    platform: Microsoft Windows
+    release_date: 1999-09-22
+    finished_date: true
+  - title: "Resident Evil: Code Veronica"
+    platform: Sony PlayStation 3
+    release_date: 2000-02-03
+    finished_date: 2022-03-03
+  - title: "Resident Evil 4"
+    platform: Sony PlayStation 3
+    release_date: 2005-01-11
+    finished_date: 2022-03-17
+  - title: "Resident Evil 5"
+    platform: Sony PlayStation 3
+    release_date: 2009-03-05
+    finished_date: 2023-02-27
+  - title: "Resident Evil 6"
+    platform: Sony PlayStation 3
+    release_date: 2012-10-02
+  - title: "Resident Evil: The Umbrella Chronicles"
+    platform: Sony PlayStation 3
+    release_date: 2007-11-13
+    finished_date: 2023-02-26
+  - title: "Resident Evil: The Darkside Chronicles"
+    platform: Sony PlayStation 3
+    release_date: 2009-08-27
+    finished_date: 2023-02-27
+  - title: "Resident Evil: Revelations"
+    platform: Sony PlayStation 3
+    release_date: 2012-01-26
+  - title: "Resident Evil: Revelations 2"
+    platform: Sony PlayStation 3
+    release_date: 2015-02-24
+groups:
+  - title: "Classique"
+    entries:
+      - "Resident Evil"
+      - "Resident Evil 0"
+      - "Resident Evil 2"
+      - "Resident Evil 3: Nemesis"
+      - "Resident Evil: Code Veronica"
+      - "Resident Evil 4"
+      - "Resident Evil 5"
+      - "Resident Evil 6"
+  - title: "Remakes"
+    entries:
+      - "Resident Evil REmake"
+  - title: "Chronicles"
+    entries:
+      - "Resident Evil: The Umbrella Chronicles"
+      - "Resident Evil: The Darkside Chronicles"
+  - title: "Revelations"
+    entries:
+      - "Resident Evil: Revelations"
+      - "Resident Evil: Revelations 2"

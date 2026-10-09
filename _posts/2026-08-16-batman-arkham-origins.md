@@ -11,6 +11,7 @@ country: US
 rating: 2
 release_date: 2013-10-25
 meta:
+  series: "Batman"
   platform: "Sony PlayStation 3"
   code: ""
   steam: "https://store.steampowered.com/agecheck/app/209000/"

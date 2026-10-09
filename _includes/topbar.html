@@ -40,6 +40,8 @@
           {% elsif forloop.last %}
             {% if page.collection == 'tabs' %}
               <span>{{ site.data.locales[include.lang].tabs[item] | default: page.title }}</span>
+            {% elsif page.layout == 'series-single' %}
+              <span>{% if page.series_icon %}{{ page.series_icon }} {% endif %}{{ page.title }}</span>
             {% else %}
               {% if page.tags.size > 0 %}
                 <span>
@@ -78,6 +80,10 @@
               <span>{% include post-title.html post=page %}</span>
             {% endif %}
 
+          {% elsif page.layout == 'series-single' %}
+            <span>
+              <a href="{{ '/series/' | relative_url }}">Series</a>
+            </span>
           {% elsif page.category %}
             <span><a href="/categories/{{ page.category | slugify | relative_url }}">{{ page.category }}</a></span>
           {% elsif page.layout == 'rating' %}

@@ -1,0 +1,36 @@
+name: "Tomb Raider"
+icon: 🎮
+entries:
+- title: "Tomb Raider: Legend"
+  platform: Sony PlayStation 3
+  release_date: 2006-04-07
+  finished_date: 2020-12-31
+- title: "Tomb Raider: Anniversary"
+  platform: Sony PlayStation 3
+  release_date: 2007-06-01
+  finished_date: 2021-01-02
+- title: "Tomb Raider: Underworld"
+  platform: Sony PlayStation 3
+  release_date: 2008-11-18
+  finished_date: 2021-01-02
+- title: "Lara Croft Go"
+  platform: "Sony PlayStation Vita"
+  release_date: 2016-12-03
+  finished_date: 2020-11-22
+
+groups:
+- title: "Crystal Dynamics"
+  entries:
+    - "Tomb Raider: Legend"
+    - "Tomb Raider: Anniversary"
+    - "Tomb Raider: Underworld"
+- title: "Trilogie Survivor"
+  entries:
+    - "Tomb Raider (2013)"
+    - "Rise of the Tomb Raider"
+    - "Shadow of the Tomb Raider"
+- title: "Spinoffs"
+  entries:
+    - "Lara Croft and the Guardian of Light"
+    - "Lara Croft and the Temple of Osiris"
+    - "Lara Croft Go"

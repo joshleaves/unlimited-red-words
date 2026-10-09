@@ -13,9 +13,6 @@ layout: page
     {% if page.series_icon %}{{ page.series_icon }} {% endif %}{{ f.name }}
     <span class="lead text-muted ps-2">{{ items | size }}</span>
   </h1>
-  <p class="text-muted">
-    <a href="{{ '/series/' | relative_url }}"><i class="fa fa-arrow-left"></i> Toutes les séries</a>
-  </p>
 
   {% if f.description %}
   <div class="series-description mb-4">
