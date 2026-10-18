@@ -1,5 +1,12 @@
 # Unlimited Red Words — Agent Notes
 
+## Git policy (strict)
+
+- **NEVER commit or push on this repository.** Always leave changes unstaged/uncommitted
+  and let the user review and commit themselves. Do not run `git commit`, `git push`,
+  `git merge`, or any history-rewriting command. Reading git state (`git status`,
+  `git diff`, `git log`) is fine.
+
 ## CSS / Bootstrap build (important)
 
 This site uses the Jekyll Chirpy theme, which splits CSS by environment:
