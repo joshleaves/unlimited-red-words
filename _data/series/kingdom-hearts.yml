@@ -1,0 +1,47 @@
+name: "Kingdom Hearts"
+icon: 🎮
+entries:
+- title: "Kingdom Hearts Re:Chain of Memories"
+  platform: Sony PlayStation 3
+  release_date: 2004-11-11
+- title: "Kingdom Hearts II Final Mix"
+  platform: Sony PlayStation 3
+  release_date: 2005-12-22
+- title: "Kingdom Hearts Re:coded"
+  platform: Sony PlayStation 3
+  release_date: 2008-11-18
+- title: "Kingdom Hearts 358/2 Days"
+  platform: Sony PlayStation 3
+  release_date: 2009-05-30
+  finished_date: 2026-09-17
+- title: "Kingdom Hearts Birth by Sleep Final Mix"
+  platform: Sony PlayStation 3
+  release_date: 2010-01-09
+- title: "Kingdom Hearts Dream Drop Distance HD"
+  platform: Sony PlayStation 4
+  release_date: 2012-03-29
+- title: "Kingdom Hearts 0.2: Birth by Sleep -A fragmentary passage-"
+  platform: Sony PlayStation 4
+  release_date: 2017-01-12
+- title: "Kingdom Hearts III"
+  platform: Sony PlayStation 4
+  release_date: 2019-01-25
+
+groups:
+  - title: "Kingdom Hearts HD 1.5 Remix"
+    entries:
+      - "Kingdom Hearts: Final Mix"
+      - "Kingdom Hearts Re:Chain of Memories"
+      - "Kingdom Hearts 358/2 Days"
+  - title: "Kingdom Hearts HD 2.5 Remix"
+    entries:
+      - "Kingdom Hearts II Final Mix"
+      - "Kingdom Hearts Re:coded"
+      - "Kingdom Hearts Birth by Sleep Final Mix"
+  - title: "Kingdom Hearts HD 2.8 Final Chapter Prologue"
+    entries:
+      - "Kingdom Hearts Dream Drop Distance HD"
+      - "Kingdom Hearts 0.2: Birth by Sleep -A fragmentary passage-"
+  - title: "Kingdom Hearts III"
+    entries:
+      - "Kingdom Hearts III"
