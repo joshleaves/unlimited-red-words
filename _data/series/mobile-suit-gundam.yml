@@ -1,13 +1,25 @@
 name: "Mobile Suit Gundam"
 icon: 📺
 entries:
+- title: "🎬 Mobile Suit Gundam Hathaway"
+  release_date: 2021-06-11
+  finished_date: true
+
 groups:
   - title: "Universal Century"
     entries:
       - "Mobile Suit Gundam: Awakening, Escalation, Confrontation"
       - "Mobile Suit Gundam GQuuuuuuX"
+      - "Mobile Suit Gundam Unicorn - Bande Dessinee"
+  - title: "Universal Century: Hathaway's Flash"
+    entries:
+      - "Mobile Suit Gundam Hathaway"
+      - "Mobile Suit Gundam Hathaway The Sorcery of Nymph Circe"
   - title: "Cosmic Era"
     entries:
+      - "Mobile Suit Gundam SEED"
+      - "Mobile Suit Gundam SEED: Special Edition"
+      - "Mobile Suit Gundam SEED Destiny"
       - "Mobile Suit Gundam SEED Freedom"
   - title: "Jeux vidéos"
     entries:
