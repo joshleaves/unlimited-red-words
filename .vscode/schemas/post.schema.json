@@ -63,7 +63,7 @@
     "country": {
       "type": "string",
       "description": "ISO country code of the work. Extend the enum as needed.",
-      "enum": ["JP", "US", "FR", "KR", "IS", "DE", "ZH", "SE"]
+      "enum": ["JP", "US", "FR", "KR", "IS", "DE", "ZH", "SE", "UK"]
     },
     "rating": {
       "type": "integer",
