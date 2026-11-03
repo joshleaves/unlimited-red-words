@@ -21,7 +21,7 @@ Et pire encore, je ne suis pas opposé à l'idée de passer des heures à lire u
 
 # Jouons à être tout
 
-Pour beaucoup, le premier contact avec ce jeu se sera fait par leur studio de développement: <wiki>Vanillaware</wiki>, un studio dont la renommée s'exprime par la maîtrise de leur pixel arts, et leurs univers graphiques très travaillés. Ainsi, <wiki>Princess Crown</wiki>[^1], <wiki>GrimGrimoire</wiki>, <wiki>Odin Sphere</wiki>, <wiki>Muramasa: The Demon Blade</wiki>[^2], <wiki>Grand Knights History</wiki>[^3], et le récent <wiki>Unicorn Overlord</wiki> ont tous enchanté les joueurs qui ont pu poser les yeux dessus.
+Pour beaucoup, le premier contact avec ce jeu se sera fait par leur studio de développement: <wiki>Vanillaware</wiki>, un studio dont la renommée s'exprime par la maîtrise de leur _pixel art_, et leurs univers graphiques très travaillés. Ainsi, <wiki>Princess Crown</wiki>[^1], <wiki>GrimGrimoire</wiki>, <wiki>Odin Sphere</wiki>, <wiki>Muramasa: The Demon Blade</wiki>[^2], <wiki>Grand Knights History</wiki>[^3], et le récent <wiki>Unicorn Overlord</wiki> ont tous enchanté les joueurs qui ont pu poser les yeux dessus.
 
 Mais pas moi.
 
@@ -54,7 +54,7 @@ Ainsi, il faudra progresser dans l'histoire d'un personnage, afin de débloquer 
 
 # La Session des Brumes
 
-Même si, au vu du PAVÉ que constitue son scénario, j'associe le jeu à un _visual novel_, <wiki page="The Visual Novel Database">VNDB</wiki>[^8] a tranché que non. C'est un choix acceptable tant le jeu a une présentation assez unique. On peut déplacer (de manière toujours très contrôlée, il y a vraiment peu de libertés) notre personnage dans un décor en 2D avec profondeur (à la manière d'un bon vieux <wiki page="Beat them all">Beat'em up</wiki>, oui), parler aux PNJs, ce qui permettra de découvrir des mots-clés que l'on pourra réutiliser pour approfondir les conversation (à la manière des <wiki page="Jeu en pointer-cliquer">point & click</wiki> d'antan, oui).
+Même si, au vu du PAVÉ que constitue son scénario, j'associe le jeu à un _visual novel_, <wiki page="The Visual Novel Database">VNDB</wiki>[^8] a tranché que non. C'est un choix acceptable tant le jeu a une présentation assez unique. On peut déplacer (de manière toujours très contrôlée, il y a vraiment peu de libertés) notre personnage dans un décor en 2D avec profondeur (à la manière d'un bon vieux <wiki page="Beat them all">Beat'em up</wiki>, oui), parler aux PNJs, ce qui permettra de découvrir des mots-clés que l'on pourra réutiliser pour approfondir les conversations (à la manière des <wiki page="Jeu en pointer-cliquer">point & click</wiki> d'antan, oui).
 
 Ces séquences, regroupées sous le nom de <ruby>_REMEMBRANCE_<rt>Souvenirs</rt></ruby>, occuperont environ 70% du jeu et sont toutes un délice visuel à l'identité unique, et presque impossible à décrire. Il y a des soleils couchants, de belles couleurs crépusculaires, du pastel qui semble flotter, peu de lignes sombres qui casseraient la douceur des traits,... On a l'impression de voir des dessins qui prendraient vie sur les formes éthérées des nuages dans le ciel.
 
@@ -63,6 +63,8 @@ Ces séquences, regroupées sous le nom de <ruby>_REMEMBRANCE_<rt>Souvenirs</rt>
 Mais surtout, la narration du jeu réussit à présenter l'histoire des 13 protagonistes en donnant à chacune une trame et une identité propres: _Juro_ c'est le quotidien lycée, _Natsuno_ c'est...<wiki page="E.T., l'extra-terrestre">E.T.</wiki>, _Nenji_ c'est <wiki>Source Code</wiki>, _Keitaro_ c'est <wiki>Retour vers le futur</wiki>,...
 
 Il y aura parfois quelques moments frustrants où le joueur ne sera pas sûr de ce que le jeu attend de lui, ou bien où l'on se demandera si l'on poursuit le "bon" embranchement. En pratique, il n'en est rien, et le jeu est prévu pour "tout" dévoiler en une seule partie.
+
+Gros point fort à ce sujet d'ailleurs: les dialogues que le joueur a déjà lus peuvent être passés par simple pression d'un simple bouton, assurant le joueur qu'il n'aura qu'à lire des informations neuves. Et au-delà de l'aspect pratique de "Tu as déjà vu ce dialogue dans une autre boucle" ou "Tu as couvert tous les choix de dialogue avec ce PNJ", ce n'est même pas nécessaire, tant les dialogues ont été agréables à lire. Rien de superflu, et tout ce qui était dit semblait utile, me donnant envie de tout lire, sans jamais ressentir de "Oui, j'ai compris cette séquence, pas besoin de l'étirer sur mille lignes de dialogues".
 
 # Les Surveillantes
 
@@ -90,7 +92,7 @@ Rien de bien surprenant, vous avez vu assez de fiction pour savoir comment fonct
 
 # La Maison de Coupées
 
-C'est vraiment très mal expliqué, même si je COMPRENDS que le jeu veuille entretenir le mystère à ce sujet, mais pour moi, c'est une déception. Dès que j'ai compris ça, et que je me suis mis à ré-examiner mon approche du jeu sous ce nouvel angle, j'élaborais déjà des théories sur son canevas, sa nature, et comment sont secret pourrait expliquer la nature de ces "boucles".
+C'est vraiment très mal expliqué, même si je COMPRENDS que le jeu veuille entretenir le mystère à ce sujet, mais pour moi, c'est une déception. Dès que j'ai compris ça, et que je me suis mis à ré-examiner mon approche du jeu sous ce nouvel angle, j'élaborais déjà des théories sur son canevas, sa nature, et comment son secret pourrait expliquer la nature de ces "boucles".
 
 Mieux encore, lorsqu'une de ces branches se terminait sur une révélation, et que l'on retrouvait nos héros à la prochaine "boucle" vaquer à leurs occupations quotidiennes, j'imaginais déjà des raisons diégétiques qui pourraient expliquer pourquoi des révélations aussi fortes provoquaient si peu de réactions: j'avais une théorie![^9]
 
@@ -104,7 +106,7 @@ Lorsqu'elle arrive enfin, après 30 cartes de combat, beaucoup d'heures de narra
 
 Là encore, je désapprouve l'une des décisions scénaristiques de la fin. Impossible de la décrire sans spoiler tous les mystères du jeu (même si certains twists sont devinables dès leur introduction), mais pour moi, il s'agit d'une ligne de dialogue qui invalide totalement le message transmis par la fin du jeu. Six semaines plus tard, je n'arrive pas à statuer à ce sujet, plus encore que les quelques personnes à qui j'en ai parlé ne m'ont pas semblé relever la même "trahison" que celle que j'ai ressentie.
 
-Et en même temps, je dois reconnaître que pour prendre autant à coeur un élément aussi mineur, c'est que le jeu m'a impacté  au plus profond de mon être.
+Et en même temps, je dois reconnaître que pour prendre autant à coeur un élément aussi mineur, c'est que le jeu m'a impacté au plus profond de mon être.
 
 C'est donc avec un déchirement au coeur que j'écris la note du jeu: 4/5. J'aurais aimé lui donner le graal de [cinq étoiles](/ratings/5-best.html), mais je ne peux pas: je reste trop conscient de ces deux éléments scénaristiques qui le desservent[^10], et peu importe à quel point je conscientise leur subjectivité, je ne peux nier leur existence. Alors vraiment, avec de la chance, peut-être que ces deux "défauts" passeront inaperçus à vos yeux, et que vous pourrez apprécier pleinement ce jeu qui mérite toute votre appréciation.
 
@@ -118,4 +120,4 @@ C'est donc avec un déchirement au coeur que j'écris la note du jeu: 4/5. J'aur
 [^7]: L'un de mes mangas préférés, dont je poste régulièrement sur Twitter des comparaisons de traduction entre l'ancienne de chez <wiki>Tonkam</wiki>, la nouvelle de chez <wiki>Panini Manga</wiki>, et la version originale...mais toujours rien à ce sujet dans ce blog.
 [^8]: Le site de référence sur les _visual novels_.
 [^9]: Qui d'ailleurs colle avec la résolution du jeu!
-[^10]: Et pour être totalement transparent,il y a aussi une "scène post-générique" qui n'a vraiment pas fonctionné sur moi, mais elle ne va pas à l'encontre de l'intrigue donc "c'est ok".
+[^10]: Et pour être totalement transparent, il y a aussi une "scène post-générique" qui n'a vraiment pas fonctionné sur moi, mais elle ne va pas à l'encontre de l'intrigue donc "c'est ok".
