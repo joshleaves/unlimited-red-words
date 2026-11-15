@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Kingdom Hearts: Final Mix"
+title:  "Kingdom Hearts Final Mix"
 date: 2026-09-07 16:48:33 +02:00
 category: 🎮 Jeux vidéo
 tags: []
