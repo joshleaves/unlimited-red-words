@@ -1,19 +1,17 @@
 name: "Kingdom Hearts"
 icon: 🎮
 entries:
-- title: "Kingdom Hearts Re:Chain of Memories"
+- title: "Kingdom Hearts 358/2 Days"
   platform: Sony PlayStation 3
-  release_date: 2004-11-11
+  release_date: 2009-05-30
+  finished_date: 2026-09-17
+
 - title: "Kingdom Hearts II Final Mix"
   platform: Sony PlayStation 3
   release_date: 2005-12-22
 - title: "Kingdom Hearts Re:coded"
   platform: Sony PlayStation 3
   release_date: 2008-11-18
-- title: "Kingdom Hearts 358/2 Days"
-  platform: Sony PlayStation 3
-  release_date: 2009-05-30
-  finished_date: 2026-09-17
 - title: "Kingdom Hearts Birth by Sleep Final Mix"
   platform: Sony PlayStation 3
   release_date: 2010-01-09
