@@ -2,9 +2,12 @@ name: "Yakuza / Like a Dragon"
 icon: 🎮
 description: "La série de jeux <strong>Yakuza</strong>, aussi connue sous le nom <strong>Like a Dragon</strong> ou <strong>Ryuu ga Gotoku</strong>, par <i>SEGA</i>."
 entries:
-  - title: "Yakuza Kiwami 2"
-    platform: Sony PlayStation 4
-    release_date: 2017-12-07
+  - title: "Yakuza"
+    platform: Sony PlayStation 2
+    release_date: 2005-12-08
+  - title: "Yakuza 2"
+    platform: Sony PlayStation 2
+    release_date: 2006-12-07
   - title: "Yakuza 3"
     platform: Sony PlayStation 3
     release_date: 2009-02-26
@@ -20,29 +23,62 @@ entries:
   - title: "Yakuza: Like a Dragon"
     platform: Sony PlayStation 4
     release_date: 2020-01-16
+  - title: "Like a Dragon: Infinite Wealth"
+    platform: Sony PlayStation 5
+    release_date: 2024-01-26
+  # Kiwami
+  - title: "Yakuza Kiwami 2"
+    platform: Sony PlayStation 4
+    release_date: 2017-12-07
+  - title: "Yakuza Kiwami 3 & Dark Ties"
+    platform: Sony PlayStation 4
+    release_date: 2026-02-12
+  # Gaiden
+  - title: "Like a Dragon Gaiden: The Man Who Erased His Name"
+    platform: "Sony PlayStation 5"
+    release_date: 2023-09-11
+  - title: "Like a Dragon: Pirate Yakuza in Hawaii"
+    platform: Sony PlayStation 5
+    release_date: 2025-02-21
+  # Judgment
   - title: "Lost Judgment"
     platform: Sony PlayStation 4
     release_date: 2021-09-24
-  - title: "Ryuu Ga Gotoku Kenzan!"
+  # Kurohyou
+  - title: "Kurohyou: Ryu ga Gotoku Shinshou"
+    platform: Sony PlayStation Portable
+    release_date: 2010-09-22
+  - title: "Kurohyou 2: Ryuu ga Gotoku Ashura Hen"
+    platform: Sony PlayStation Portable
+    release_date: 2012-03-22
+  #  Spinoffs
+  - title: "Ryuu Ga Gotoku: Kenzan!"
     platform: Sony PlayStation 3
     release_date: 2008-03-06
   - title: "Yakuza: Dead Souls"
     platform: Sony PlayStation 3
     release_date: 2011-06-09
-  - title: "Like a Dragon: Infinite Wealth"
-    platform: Sony PlayStation 5
-    release_date: 2024-01-26
-  - title: "Like a Dragon: Pirate Yakuza in Hawaii"
-    platform: Sony PlayStation 5
-    release_date: 2025-02-21
 groups:
+  - title: "Kiwami"
+    entries:
+      - "Yakuza Kiwami"
+      - "Yakuza Kiwami 2"
+      - "Yakuza Kiwami 3 & Dark Ties"
+  - title: "Gaiden"
+    entries:
+      - "Yakuza: Dead Souls"
+      - "Like a Dragon Gaiden: The Man Who Erased His Name"
+      - "Like a Dragon: Pirate Yakuza in Hawaii"
   - title: "Judgment"
     entries:
       - "Judgment"
       - "Lost Judgment"
+  - title: "Kurohyou"
+    entries:
+      - "Kurohyou: Ryu ga Gotoku Shinshou"
+      - "Kurohyou 2: Ryuu ga Gotoku Ashura Hen"
   - title: "Spin-offs"
     entries:
+      - "Ryuu Ga Gotoku: Kenzan!"
       - "Ryuu Ga Gotoku: Ishin!"
-      - "Ryuu Ga Gotoku Kenzan!"
-      - "Yakuza: Dead Souls"
-      - "Like a Dragon: Pirate Yakuza in Hawaii"
+      - "Fist of the North Star: Lost Paradise"

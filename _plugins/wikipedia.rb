@@ -30,7 +30,10 @@ Jekyll::Hooks.register [:documents, :pages], :post_render do |doc|
     next match if (page.nil? || page.empty?)
 
     href = begin
-      slug = URI.encode_www_form_component(page.sub(/\A./, &:upcase).tr(' ', '_'))
+      slug = page.tr(' ', '_')
+      slug = slug.sub(/\A./, &:upcase) unless site == 'wiktionary'
+      slug = URI.encode_www_form_component(slug)
+
       sect = section && !section.empty? ? "##{URI.encode_www_form_component(section.tr(' ', '_'))}" : ''
       "https://#{lang}.#{site}.org/wiki/#{slug}#{sect}"
     end

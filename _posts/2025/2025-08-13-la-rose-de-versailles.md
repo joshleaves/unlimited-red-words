@@ -41,4 +41,4 @@ Je ne me souviens plus assez du manga original pour savoir si l'adaptation est t
 [^2]: Manga lesbien.
 [^3]: Le dessin animé original [comportait 40 épisodes](https://anidb.net/anime/181).
 [^4]: <span><yt video="_jeyypdHQ_0">"Le son pop-rock!"</yt></span>
-[^5]: La chanson du bal masqué <yt video="NUza_0TqeD8">Enchanting Masquerade</yt>est vraiment très bonne.
+[^5]: La chanson du bal masqué <yt video="NUza_0TqeD8">Enchanting Masquerade</yt> est vraiment très bonne.

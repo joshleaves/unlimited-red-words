@@ -12,7 +12,6 @@ rating: 4
 release_date: 2019-12-14
 meta:
   imdb: "https://www.imdb.com/title/tt10850932/"
-  watch: "https://www.netflix.com/title/81159258"
   mydramalist: "https://mydramalist.com/35729-emergency-lands-of-love"
   wikipedia: "https://fr.wikipedia.org/wiki/Crash_Landing_on_You"
   netflix: "https://www.netflix.com/title/81159258"

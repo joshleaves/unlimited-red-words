@@ -14,7 +14,6 @@ meta:
   imdb: "https://www.imdb.com/title/tt4790548/"
   mydramalist: https://mydramalist.com/15455-underwear
   wikipedia: "https://fr.wikipedia.org/wiki/Atelier_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)"
-  watch: "https://www.netflix.com/title/80067618"
   netflix: "https://www.netflix.com/title/80067618"
   start_date: 2015-09-02
   end_date: 2015-09-02

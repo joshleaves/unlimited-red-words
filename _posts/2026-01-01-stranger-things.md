@@ -13,7 +13,7 @@ release_date: 2016-07-15
 meta:
   imdb: "https://www.imdb.com/title/tt4574334/"
   wikipedia: "https://fr.wikipedia.org/wiki/Stranger_Things"
-  watch: "https://www.netflix.com/title/80057281"
+  netflix: "https://www.netflix.com/title/80057281"
   start_date: 2016-07-15
   end_date: 2026-01-01
   network: "Netflix"

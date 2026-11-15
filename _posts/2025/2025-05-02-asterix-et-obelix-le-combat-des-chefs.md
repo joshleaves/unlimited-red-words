@@ -14,7 +14,6 @@ meta:
   series: "Asterix"
   imdb: "https://www.imdb.com/title/tt14164922/"
   wikipedia: "https://fr.wikipedia.org/wiki/Ast%C3%A9rix_et_Ob%C3%A9lix_:_Le_Combat_des_chefs"
-  watch: "https://www.netflix.com/fr/title/81316606"
   netflix: "https://www.netflix.com/fr/title/81316606"
   start_date: 2025-04-30
   end_date: 2025-04-30
@@ -35,7 +34,7 @@ Heureusement, le film parvient aussi à broder des éléments nouveaux, des idé
 
 # Des stars plein les oreilles
 
-A peu près au quatrième épisode, une voix a fait écho dans mes oreilles: je savais que je la reconnaissais, sans réussi à me souvenir d'où. Après vérification Wikipedia, il s'agissait de celle de <wiki>Stéfi Celma</wiki>, que j'avais déjà vue jouer dans les films *Les Profs*, et surtout la série télé *Dix Pour Cent*. Cependant, Wikipedia m'a appris que bien d'autres acteurs avaient prêté leur voix sans que je ne m'en doute jamais au cours de mon visionnage: Geraldine Nakache, Thierry Lhermitte, David Marsais, ou même Jean-Pascal Zadi et Jamel Debbouze, pour ne citer que ceux dont la voix est habituellement assez "reconnaissable". Même Chabat, dans le rôle principal, est souvent méconnaissable.
+A peu près au quatrième épisode, une voix a fait écho dans mes oreilles: je savais que je la reconnaissais, sans réussir à me souvenir d'où. Après vérification Wikipedia, il s'agissait de celle de <wiki>Stéfi Celma</wiki>, que j'avais déjà vue jouer dans les films *Les Profs*, et surtout la série télé *Dix Pour Cent*. Cependant, Wikipedia m'a appris que bien d'autres acteurs avaient prêté leur voix sans que je ne m'en doute jamais au cours de mon visionnage: Geraldine Nakache, Thierry Lhermitte, David Marsais, ou même Jean-Pascal Zadi et Jamel Debbouze, pour ne citer que ceux dont la voix est habituellement assez "reconnaissable". Même Chabat, dans le rôle principal, est souvent méconnaissable.
 
 Si je ne peux m'empêcher de voir une certaine "fadeur" dans le jeu de voix, c'est ici un compliment. Dans <wiki page="Mars Express (film)">Mars Express</wiki>, le jeu de *Mathieu Amalric* était totalement hors des clous, et ne correspondait pas au personnage, et c'était insupportable car je reconnaissais constamment sa voix comme "Ah bah voila, encore le méchant de James Bond qui en fait des caisses"... Pour la franchise Astérix, dont les films live-action ont été POURRIS par des caméos sur-exploités[^1] et qui prenaient le dessus sur les besoins de l'humour, cela fait un bien fou: à la manière d'un Franck Dubosc dans *Le Monde de Némo*[^2], toutes les voix arrivent à effacer leur identité pour incarner leur personnage avant d'être des caméos mal branlés.
 
@@ -43,7 +42,7 @@ Si je ne peux m'empêcher de voir une certaine "fadeur" dans le jeu de voix, c'e
 
 Très très dur de ne retenir qu'un gag pour titrer ce paragraphe. La série est truffée d'humour, à commencer par les noms de personnages en -ix (gaulois) et -us (romains), dont certains fonctionnent même pour les deux suffixes ("Dixmilleclix" devenant donc "Dixmillevues") et menant à un jeu de mot très osé pour une série familiale. Comme dit plus tôt, la série se délecte encore d'un style pseudo-anachronique, avec un parc d'attractions et des annonceurs télé, des paparazzis qui fonctionnent à la mosaïque (une idée qui sera d'ailleurs exploité deux fois, de deux manières différentes),... Il est vraiment difficile retenir toutes les idées drôles qui fourmillent, tout comme il sera difficile de se retenir de rire face à l'avalanche de blagues qui viennent colorer chaque scène.
 
-Le résultat n'est pas parfait: il y a encore des choses qui me perturbent rapport au scénario (et à la sensation d'idées revues), ou pour certains personnages que je trouve trop peu, ou pas exploités comme je le voudrais[^3]. Cela dit, ça reste du Alain Chabat, donc la barre est placée haut pour la suite.
+Le résultat n'est pas parfait: il y a encore des choses qui me perturbent rapport au scénario (et à la sensation d'idées revues), ou pour certains personnages que je trouve trop peu exploités, ou pas comme je le voudrais[^3]. Cela dit, ça reste du Alain Chabat, donc la barre est placée haut pour la suite.
 
 * * *
 [^1]: Vraiment, l'apparition de Zlatan dans *L'empire du Milieu* est encore gravée dans ma mémoire comme le summum du mauvais gout, encore pire que le jeu déplorable de l'actrice principale...

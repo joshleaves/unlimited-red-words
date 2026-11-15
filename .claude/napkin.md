@@ -22,5 +22,6 @@
 - Assuming local wrappers still match the upstream Chirpy theme API is risky; verify the actual served bundle when UI hooks stop responding.
 
 ## Domain Notes
+- Pages build log (2026-11-01): `.ruby-version` pins 3.4.8 and Ruby compilation takes 3m23s. Pages build cache does not document Ruby/asdf or Bundler caching; prefer a preinstalled Ruby version if compatible (v3: 3.4.4; v2: 3.2.2 per current docs). Node 18.17.1/pnpm 8.7.1 in this log suggest the v2 image; confirm dashboard before changing.
 - This repo is a Jekyll blog based on `jekyll-theme-chirpy`.
 - `jekyll-seo-tag` 2.9.0 resolves `image.path` without leading `/` relative to `page.url` (e.g. `/posts/.../file.png`), which can break social image URLs if not rewritten.
