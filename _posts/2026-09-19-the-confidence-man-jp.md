@@ -11,7 +11,7 @@ country: JP
 rating: 3
 release_date: 2018-04-09
 meta:
-  series: "The Confidence Man"
+  series: "The Confidence Man JP"
   imdb: "https://www.imdb.com/title/tt8258938/"
   wikipedia: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%83%87%E3%83%B3%E3%82%B9%E3%83%9E%E3%83%B3JP"
   mydramalist: "https://mydramalist.com/26606-the-confidence-man-jp"
